@@ -1,0 +1,16309 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# wugniu_gninpou_old.phrase - 吳語（晚清寧波）增補詞庫
+#
+# Author:
+#
+# - Shin Zoqchiuq <shinzoqchiuq@outlook.com>
+#
+# 增補詞庫，包含：
+#   - 地名
+#   - 其他詞彙
+#   - 增補地名
+#   - 整理【八股文】時新增的詞彙
+#   - 帶字母的詞彙
+#   - 晚清傳教士文獻詞彙，來自
+#     Shin Zoqchiuq:
+#     罗马字宁波话文献整理转写 (CC0 1.0)
+#     https://github.com/shinzoqchiuq/books-in-wu-romanization
+
+---
+name: wugniu_gninpou_old.phrase
+version: "2026.09.08"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 地名
+
+寧波市	gnin pou zy
+寧波市	gnin poq zy
+寧波	gnin pou
+寧波	gnin poq
+寧波府	gnin pou fu
+寧波府	gnin poq fu
+甬山
+明州
+明州府
+鄮縣
+句章	keu tsaon
+句章縣	keu tsaon yoen
+慶元府
+慶元宣慰司
+慶元路
+慶元總管府
+老三區
+海曙區
+海曙區人	he zhyu chiu gnin
+海曙
+南門街道
+南站
+火車南站
+汽車南站
+寧波站	gnin pou dzaen
+寧波站	gnin poq dzaen
+寧波火車站	gnin pou hou tsho dzaen
+寧波火車站	gnin poq hou tsho dzaen
+三市
+三市立交橋	saen zy liq ciau jiau
+南塘
+南塘老街
+尹江岸
+南苑飯店
+澄浪	dzin laon
+馬園
+馬園路
+郎官巷
+柳汀街
+柳汀立交橋	lieu thin liq ciau jiau
+蒼松路
+東恩中學	ton en con ghoq
+效實中學	yau zhyuq con ghoq
+五中	ng con
+婦兒醫院	vu er i yoen
+寧波市婦女兒童醫院	gnin pou zy vu gniu er don i yoen
+寧波市婦女兒童醫院	gnin poq zy vu gniu er don i yoen
+南郊公園
+南郊水廠	nein ciau shyu tshian
+市委黨校
+全祖望墓	joen tsu vaon mou
+全祖望	joen tsu vaon
+祖關山路
+祖關山
+祖關河
+甬水橋	ion shyu jiau
+甬水橋路	ion shyu jiau lu
+董孝子
+董孝子廟
+江廈街道
+江廈
+江廈街
+江廈公園
+東門口
+天一廣場
+藥行街	yaq ghaon ka
+第二百貨商店	di gni paq hou shaon tien
+二百	gni paq
+天封塔
+大沙泥街	dou so gni ka
+小沙泥街
+開明街
+靈橋路
+靈橋門
+東渡路
+東渡門
+解放南路	ka faon nein lu
+民光電影院
+石碶街道
+石碶人	zaq chi gnin
+石碶
+輕紡城
+機場路
+櫟社
+櫟社機場
+寧波櫟社國際機場	gnin pou liq dzo koq tsi ci dzian
+寧波櫟社國際機場	gnin poq liq dzo koq tsi ci dzian
+西門街道
+西門口
+中山西路
+汪弄
+汪弄小區
+大卿橋	da chin jiau
+北斗河
+賣魚河	ma ng ghou
+賣魚路	ma ng lu
+十五中學	zhyuq ng con ghoq
+十五中
+李興貴中學	li shin kuei con ghoq
+李興貴	li shin kuei
+翠柏路
+甬江職高
+西塘河
+柳西河
+月湖街道
+月湖公園
+月湖十洲
+竹嶼
+月島
+菊花洲
+花嶼
+竹洲
+柳汀
+芳草洲
+煙嶼
+雪汀
+芙蓉洲
+湖心寺
+月湖橋
+賀祕監祠	ghou pi kaen dzy
+關帝廟
+水則碑	shyu tseq pei
+煙嶼樓
+佛教居士林
+居士林
+銀臺第
+高麗使館
+馬衙漕	mo ngaen zau
+馬衙街	mo ngaen ka
+偃月街
+廣濟街
+廣濟
+倉橋街
+縣學街	yoen ghoq ka
+鎮明
+鎮明路
+鎮明小區
+三支街
+長春路	dzian chyun lu
+長春門	dzian chyun men
+望湖橋	vaon wu jiau
+望湖市場	vaon wu zy dzian
+寧波二中	gnin pou gni con
+寧波二中	gnin poq gni con
+二中	gni con
+第一醫院
+一院
+青少年宮
+少年宮
+范宅
+靈應廟
+天勝
+天勝照相館
+鼓樓街道
+鼓樓
+解放北路	ka faon poq lu
+孝聞街
+望京路
+望京門
+中山廣場
+第二醫院	di gni i yoen
+九九天橋
+中山東路
+東鼓道
+包玉剛圖書館
+包玉剛	pau gnioq kaon
+和義路	ghou gni lu
+和義大道	ghou gni da dau
+和義門	ghou gni men
+永豐路
+永豐門
+蒼水街	tshaon shyu ka
+張蒼水	tsian tshaon shyu
+蒼水	tshaon shyu
+張蒼水故居	tsian tshaon shyu ku ciu
+吳宅
+錢業會館
+廣仁街	kuaon zhyun ka
+唐塔
+天寧寺
+天寧寺唐塔
+白衣寺
+寧波影都	gnin pou in tu
+寧波影都	gnin poq in tu
+永豐庫
+白雲街道
+白雲莊
+環城西路
+聯豐
+聯豐路
+寶善路
+藍天路
+寧興小區
+南雅新村
+段塘街道
+段塘人	doen daon gnin
+段塘
+寧波電視臺	gnin pou dien zy de
+寧波電視臺	gnin poq dien zy de
+電視中心
+麗園北路
+麗園南路
+鄞奉路
+新典路
+新典橋
+啓文
+啓文橋
+南苑街
+糧豐
+糧豐路
+糧豐村
+環城南路
+啓運路
+客運中心
+南塘河
+雲霞路
+恆春街
+氣象路
+藕池
+看經寺
+看經路
+丁家	tin ko
+望春街道	vaon chyun ka dau
+望春	vaon chyun
+望春橋	vaon chyun jiau
+澤民廟
+天一家園	thien iq cia yoen
+青林灣
+望童	vaon don
+望童北路	vaon don poq lu
+徐家漕	zi ko zau
+關愛小區
+寧波市中醫院
+高橋鎮
+高橋人	kau jiau gnin
+高橋
+通途西路
+梁祝
+梁祝公園
+梁祝文化公園
+八方集團	paq faon dziq doen
+大紅鷹學院	da ghon in yoq yoen
+寧波財經學院	gnin pou dze cin yoq yoen
+寧波財經學院	gnin poq dze cin yoq yoen
+橫街鎮
+橫街人	wan ka gnin
+橫街
+集士港鎮	zhyuq zy kaon cyun
+集士港人	zhyuq zy kaon gnin
+集士港	zhyuq zy kaon
+奧特萊斯
+廣德湖
+十三洞橋
+古林鎮
+古林人	ku lin gnin
+古林
+黃古林
+禮嘉橋
+禮嘉橋村
+洞橋鎮
+洞橋人	don jiau gnin
+洞橋
+鄞江鎮
+鄞江人	gnin kaon gnin
+鄞江
+鄞江中學	gnin kaon con ghoq
+章水鎮	tsaon shyu cyun
+章水人	tsaon shyu gnin
+章水	tsaon shyu
+龍觀鄉
+龍觀人	lon kun gnin
+龍觀
+江北區
+江北人	kaon poq gnin
+江北
+江北岸
+中馬街道
+中馬路
+老外灘
+人民路	zhyun min lu
+槐樹路
+桃渡路
+大慶南路	da chin nein lu
+寧波美術館	gnin pou mei zhyuq kun
+寧波美術館	gnin poq mei zhyuq kun
+來福士廣場
+西草馬路
+新馬路
+寧波耶穌聖心堂	gnin pou ya su sin sin daon
+寧波耶穌聖心堂	gnin poq ya su sin sin daon
+江北天主堂
+江北天主教堂
+江北岸天主堂
+白沙街道
+日湖	zhyuq wu
+日湖公園	zhyuq wu kon yoen
+清河路
+孔浦街道
+孔浦
+汽車北站
+寧波大學	gnin pou da ghoq
+寧波大學	gnin poq da ghoq
+寧波工程學院	gnin pou kon dzin yoq yoen
+寧波工程學院	gnin poq kon dzin yoq yoen
+寧波幫博物館	gnin pou paon poq veq kun
+寧波幫博物館	gnin poq paon poq veq kun
+三官堂
+路林
+文教街道	ven ciau ka dau
+寧波大劇院	gnin pou da jiq yoen
+寧波大劇院	gnin poq da jiq yoen
+大閘路	dou zaq lu
+姚江公園
+永豐
+永豐北路
+育才路
+惠貞
+惠貞書院
+寧波四中	gnin pou sy con
+寧波四中	gnin poq sy con
+四中
+環城北路
+高塘
+范江岸
+范江岸路
+新三江口
+北岸琴森
+甬江街道
+灣頭
+大閘北路	dou zaq poq lu
+倪家堰	gni ko ien
+壓賽堰
+莊橋街道
+莊橋人	tsaon jiau gnin
+莊橋
+莊橋機場
+莊橋站
+天水家園	thien shyu cia yoen
+莊橋中學	tsaon jiau con ghoq
+康莊南路
+江北大道	kaon poq da dau
+洪塘街道
+洪塘人	ghon daon gnin
+洪塘
+機場北路
+廣元路
+西洪村
+奧體中心
+慈城鎮
+慈城人	dzy dzin gnin
+慈城
+慈谿縣
+慈谿人	dzy chi gnin
+慈谿
+慈湖
+慈湖中學	dzy wu con ghoq
+北侖區
+北侖人	poq len gnin
+北侖
+濱海區
+泰山路
+泰山西路
+江南中路
+江南東路
+駱霞公路	loq ya kon lu
+駱霞公路	loq ia kon lu
+海警武裝學院	he cin vu tsaon ghoq yoen
+東海路
+黃山西路
+黃山路
+中河路
+中河南路
+長江路	dzian kaon lu
+北侖中學	poq len con ghoq
+大榭街道	da zia ka dau
+大榭人	da zia gnin
+大榭	da zia
+大榭島	da zia tau
+新碶街道
+新碶人	sin chi gnin
+新碶
+小港街道
+小港人	siau kaon gnin
+小港
+大碶街道	da chi ka dau
+大碶人	da chi gnin
+大碶	da chi
+大碶頭	dou chi deu
+霞浦街道	ya phu ka dau
+霞浦街道	ia phu ka dau
+霞浦人	ya phu gnin
+霞浦人	ia phu gnin
+霞浦	ya phu
+霞浦	ia phu
+霞浦張	gho phu tsian
+霞浦漲	gho phu tsian
+柴橋街道
+柴橋人	za jiau gnin
+柴橋
+戚家山街道	tshiq ko saen ka dau
+戚家山	tshiq ko saen
+春曉街道
+春曉人	chyun shiau gnin
+春曉
+春曉大道	chyun shiau da dau
+梅山街道
+梅山人	mei saen gnin
+梅山
+梅山島
+梅山紅橋
+梅山大橋	mei saen da jiau
+梅山大道	mei saen da dau
+鹽田大道	yen dien da dau
+寧波大學梅山校區	gnin pou da ghoq mei saen yau chiu
+寧波大學梅山校區	gnin poq da ghoq mei saen yau chiu
+梅山校區
+寧波梅山保稅港區	gnin pou mei saen pau sei kaon chiu
+寧波梅山保稅港區	gnin poq mei saen pau sei kaon chiu
+梅山保稅港區
+郭巨街道
+郭巨人	koq jiu gnin
+郭巨
+白峯街道
+白峯人	baq fon gnin
+白峯
+鎮海區
+鎮海人	cyun he gnin
+鎮海縣
+鎮海
+鎮海中學	cyun he con ghoq
+鎮寧
+鎮寧西路
+鎮寧東路
+雄鎮
+雄鎮路
+鎮海大道	cyun he da dau
+蛟川書院
+龍賽
+龍賽中學	lon se con ghoq
+鄭氏十七房
+慈海北路
+九龍大道	cieu lon da dau
+寧波植物園	gnin pou dziq veq yoen
+寧波植物園	gnin poq dziq veq yoen
+莊市
+莊市人	tsaon zy gnin
+康寧醫院
+清水浦	tshin shyu phu
+東方理工大學	ton faon li kon da ghoq
+寧波東方理工大學	gnin pou ton faon li kon da ghoq
+寧波東方理工大學	gnin pou ton faon li kon da ghoq
+中官路
+招寶山街道
+鎮海煉化
+虎蹲山	hu dzen saen
+蛟川街道
+蛟川人	ciau choen gnin
+蛟川
+駱駝街道
+駱駝人	loq dou gnin
+貴駟街道	kuei sy ka dau
+貴駟人	kuei sy gnin
+貴駟	kuei sy
+貴駟橋	ciu sy jiau
+澥浦鎮
+澥浦人	ha phu gnin
+澥浦
+蟹浦
+九龍湖鎮
+九龍湖人	cieu lon wu gnin
+九龍湖
+鄞州區
+鄞州人	gnin tsieu gnin
+鄞縣
+鄞縣人	gnin yoen gnin
+鄞州
+江東區
+江東人	kaon ton gnin
+江東
+下應街道
+下應人	gho in gnin
+下應
+鄞州中學	gnin tsieu con ghoq
+鍾公廟街道
+鍾公廟人	con kon miau gnin
+鍾公廟
+長豐村	dzian fon tshen
+長豐	dzian fon
+長豐工業園	dzian fon kon gniq yoen
+廣德湖路
+廣德湖北路
+寧南北路
+鄞縣大道	gnin yoen da dau
+萬達廣場
+華茂外國語學校	wo mau nga koq gniu ghoq yau
+四明西路
+四明中路
+天童北路
+堇山
+堇山西路
+鄞州高級中學	gnin tsieu kau ciq con ghoq
+梅墟街道
+梅墟人	mei shiu gnin
+梅墟
+中河街道
+飛虹新村
+永達路
+宋詔橋	son thei jiau
+飛虹立交橋	fi ghon liq ciau jiau
+鄞州汽車總站
+鄞州第二人民醫院	gnin tsieu di gni zhyun min i yoen
+堇山中路
+嵩江中路
+錢湖北路
+首南街道
+首南
+格蘭春天
+陳婆渡
+廣德湖南路
+寧南南路
+天童南路
+錢湖南路
+寧波博物館	gnin pou poq veq kun
+寧波博物館	gnin poq poq veq kun
+鄞州公園
+明州醫院
+鄞州大道	gnin tsieu da dau
+鄞州客運總站
+南部商務區	nein bu shaon vu chiu
+南部商務區	nein bu shaon vu chiu
+萬里學院	vaen li ghoq yoen
+寧波經貿學校	gnin pou cin meu ghoq yau
+寧波經貿學校	gnin poq cin meu ghoq yau
+寧波理工學院	gnin pou li kon yoq yoen
+寧波理工學院	gnin poq li kon yoq yoen
+寧波中學	gnin pou con ghoq
+寧波中學	gnin poq con ghoq
+寧波一中	gnin pou iq con
+寧波一中	gnin poq iq con
+一中
+諾丁漢大學	noq tin hein da ghoq
+諾丁漢大學	noq tin hein da ghoq
+諾丁漢	noq tin hein
+諾丁漢	noq tin hein
+羅蒙環球城
+潘火街道
+潘火人	phun hou gnin
+潘火
+百丈街道
+百丈
+百丈路
+百丈東路
+七塔寺
+箕漕街
+波特曼
+江東北路
+江東南路
+彩虹牌坊
+彩虹北路
+彩虹南路
+甬港北路
+甬港南路
+舟孟北路
+櫻花公園
+中塘河
+十九中學	zhyuq cieu con ghoq
+寧波藝術實驗學校	gnin pou gni zhyuq zhyuq gniaen ghoq yau
+寧波藝術實驗學校	gnin poq gni zhyuq zhyuq gniaen ghoq yau
+東勝街道
+大河路
+新江廈
+慶安會館
+浙海常關
+浙海常關舊址
+姚隘路
+甬江大道	ion kaon da dau
+驚駕路
+曙光路
+寧波書城	gnin pou shyu dzin
+寧波書城	gnin poq shyu dzin
+張斌
+張斌橋
+兩號橋市場
+一一三醫院
+九〇六醫院
+寧波東海醫院	gnin pou ton he i yoen
+寧波東海醫院	gnin poq ton he i yoen
+後塘河
+明樓街道
+明樓
+曙光北路
+曙光中學	zhyu kuaon con ghoq
+民安小區
+和豐紗廠
+和豐創意廣場
+朝暉路	tsiau huei lu
+徐戎新村	zi gnion sin tshen
+白鶴街道
+白鶴
+白鶴新村
+白鶻橋	baq kueq jiau
+新河路
+王隘路	waon ka lu
+前塘河
+李惠利醫院
+李惠利中學	li wei li con ghoq
+李惠利
+興寧路
+粉末冶金廠	fen meq yi cin tshian
+東柳街道
+東柳
+寧波三中	gnin pou saen con
+寧波三中	gnin poq saen con
+三中
+四明中學	sy min con ghoq
+第六醫院
+六院
+汽車東站
+東郊街道
+寧波七中	gnin pou tshiq con
+寧波七中	gnin poq tshiq con
+七中
+桃源街
+黃鸝新村
+兒童公園	er don kon yoen
+海洋世界	he yan shyu ka
+桑田路
+桑田南路
+寧波東站	gnin pou ton dzaen
+寧波東站	gnin poq ton dzaen
+福明街道
+福明
+福明路
+波波城	pou pou dzin
+滄海路
+花鳥市場	huo gniau zy dzian
+甬江公園
+江南路
+世紀大道	shyu ci da dau
+會展中心	wei tsien con sin
+通途路
+東部新城
+海晏北路	he ien poq lu
+海晏南路	he ien nein lu
+寧波文化廣場	gnin pou ven huo kuaon dzian
+寧波文化廣場	gnin poq ven huo kuaon dzian
+寧東路
+河清北路
+河清南路
+福慶北路
+福慶南路
+新城第一實驗學校	sin dzin di iq zhyuq gniaen ghoq yau
+盛莫路	dzan moq lu
+民安東路
+興寧東路
+新明街道
+院士路
+瞻岐鎮
+瞻岐人	tsien ji gnin
+瞻岐
+咸祥鎮
+咸祥人	yen dzian gnin
+咸祥
+咸祥河
+塘溪鎮
+塘溪人	daon chi gnin
+塘溪
+東錢湖鎮
+東錢湖
+雅戈爾動物園	ia kaq er don veq yoen
+雅戈爾動物園	ia kou er don veq yoen
+莫枝	moq tsy
+莫枝人	moq tsy gnin
+東吳鎮	ton ngu cyun
+東吳人	ton ngu gnin
+東吳	ton ngu
+天童
+天童寺
+五鄉鎮
+五鄉人	ng shian gnin
+五鄉
+五鄉東路
+五鄉中路
+五鄉西路
+五鄉中學	ng shian con ghoq
+育王	gnioq waon
+阿育王	aq gnioq waon
+寶幢
+邱隘鎮	chieu ka cyun
+邱隘人	chieu ka gnin
+邱隘	chieu ka
+雲龍鎮
+雲龍人	yun lon gnin
+雲龍
+橫溪鎮
+橫溪人	wan chi gnin
+橫溪
+姜山鎮
+姜山人	cian saen gnin
+姜山
+姜山中學	cian saen con ghoq
+奉化區
+奉化人	von huo gnin
+奉化市
+奉化縣
+奉化
+奉化中學	von huo con ghoq
+奉化實驗中學	von huo zhyuq gniaen con ghoq
+方橋街道
+方橋人	faon jiau gnin
+方橋
+錦屏街道
+錦屏人	cin bin gnin
+錦屏
+嶽林街道
+嶽林人	ngoq lin gnin
+嶽林
+江口街道
+江口人	kaon kheu gnin
+江口
+西塢街道
+西塢人	si u gnin
+西塢
+蕭王廟街道
+蕭王廟人	siau waon miau gnin
+蕭王廟
+滕頭村
+溪口
+溪口中學	chi kheu con ghoq
+蔣氏故里
+蔣氏故居
+蔣氏
+玉泰鹽鋪	gnioq tha yen phu
+妙高臺
+妙高峯
+天柱峯
+雪竇山
+雪竇寺
+千丈巖
+亭下湖
+巖頭村
+尚田鎮
+尚田人	zhaon dien gnin
+尚田
+蓴湖鎮
+蓴湖人	zhyun wu gnin
+蓴湖
+裘村鎮
+裘村人	jieu tshen gnin
+裘村
+大堰鎮	da ien cyun
+大堰人	da ien gnin
+大堰	da ien
+松嶴鎮
+松嶴人	son au gnin
+松嶴
+餘姚市
+餘姚人	yu yau gnin
+餘姚縣
+餘姚
+大隱鎮	da in cyun
+大隱人	da in gnin
+大隱	da in
+天下玉苑
+河姆渡鎮	ghou m du cyun
+河姆渡人	ghou m du gnin
+河姆渡鎮	ghou meu du cyun
+河姆渡人	ghou meu du gnin
+河姆渡	ghou m du
+河姆渡	ghou meu du
+三七市鎮
+三七市人	saen tshiq zy gnin
+田螺山
+田螺山人	dien lou saen gnin
+丈亭鎮
+丈亭人	dzian din gnin
+丈亭
+陸埠鎮
+陸埠人	loq bu gnin
+陸埠
+四明山鎮
+四明山人	sy min saen gnin
+四明山
+慈溪市
+慈溪人	dzy chi gnin
+慈溪縣
+慈溪
+龍山鎮
+龍山人	lon saen gnin
+掌起鎮
+掌起人	caon chi gnin
+掌起
+觀海衛鎮
+觀海衛人	kun he wei gnin
+觀海衛
+寧海縣
+寧海人	gnin he gnin
+寧海
+躍龍街道
+躍龍人	yaq lon gnin
+躍龍
+桃源街道
+桃源人	dau gnioen gnin
+桃源
+梅林街道
+梅林人	mei lin gnin
+梅林
+橋頭胡街道
+橋頭胡人	jiau deu wu gnin
+橋頭胡
+長街鎮	dzian ka cyun
+長街人	dzian ka gnin
+長街	dzian ka
+力洋鎮
+力洋人	liq yan gnin
+力洋
+一市鎮
+一市人	iq zy gnin
+一市
+岔路鎮
+岔路人	tsho lu gnin
+岔路
+前童鎮
+前童人	zien don gnin
+前童
+桑洲鎮
+桑洲人	saon tsieu gnin
+桑洲
+黃壇鎮
+黃壇人	waon daen gnin
+黃壇
+大佳何鎮
+大佳何人	da cia ghou gnin
+大佳何人	dou cia ghou gnin
+大佳何
+強蛟鎮
+強蛟人	jian ciau gnin
+強蛟
+西店鎮
+西店人	si tien gnin
+西店
+深甽鎮
+深甽人	sin cyun gnin
+深甽
+胡陳鄉
+胡陳人	wu dzin gnin
+胡陳
+茶院鄉
+茶院人	dzo yoen gnin
+茶院
+越溪鄉
+越溪人	yuq chi gnin
+越溪
+象山縣	dzian saen yoen
+象山縣	zian saen yoen
+象山	dzian saen
+象山	zian saen
+松蘭山
+亞帆中心
+象山亞帆中心
+丹城
+丹城人	taen dzin gnin
+丹東街道
+丹東
+丹西街道
+丹西
+爵溪街道
+爵溪人	tsiaq chi gnin
+爵溪
+石浦鎮
+石浦人	zaq phu gnin
+石浦
+西周鎮
+西周人	si tsieu gnin
+西周
+賢庠鎮
+賢庠人	yen dzian gnin
+賢庠
+牆頭鎮
+牆頭人	zian deu gnin
+牆頭
+塗茨鎮
+塗茨人	du dzy gnin
+塗茨
+大徐鎮	dou zi cyun
+大徐人	dou zi gnin
+大徐	dou zi
+泗洲頭鎮
+泗洲頭人	sy tsieu deu gnin
+泗洲頭
+定塘鎮
+定塘人	din daon gnin
+定塘
+新橋鎮
+新橋人	sin jiau gnin
+新橋
+鶴浦鎮
+鶴浦人	ngoq phu gnin
+鶴浦
+黃避嶴鄉
+黃避嶴人	waon bi au gnin
+黃避嶴
+茅洋鄉
+茅洋人	mau yan gnin
+茅洋
+東陳鄉
+東陳人	ton dzin gnin
+東陳
+高塘島鄉
+高塘島
+高塘人	kau daon gnin
+曉塘鄉
+曉塘人	shiau daon gnin
+曉塘
+舟山市
+舟山人	tsieu saen gnin
+舟山
+甬東
+翁山縣
+翁山
+昌國縣
+昌國州
+昌國
+定海區
+定海人	din he gnin
+定海縣
+定海
+昌國街道
+環南街道
+環南
+城東街道
+城東
+鹽倉街道
+鹽倉
+臨城街道
+臨城
+岑港街道	dzen kaon ka dau
+岑港人	dzen kaon gnin
+岑港	dzen kaon
+馬嶴街道
+馬嶴人	mo au gnin
+馬嶴
+雙橋街道
+雙橋人	shaon jiau gnin
+雙橋
+小沙街道
+小沙人	siau so gnin
+小沙
+千島街道
+千島人	tshien tau gnin
+千島
+金塘鎮
+金塘人	cin daon gnin
+金塘島
+金塘
+白泉鎮
+白泉人	baq joen gnin
+白泉
+干覽鎮
+干覽人	kien laen gnin
+干覽
+干𥗽鎮
+干𥗽人	kien laen gnin
+干𥗽
+普陀區
+普陀人	phu dou gnin
+普陀縣
+普陀
+沈家門街道	sin ko men ka dau
+沈家門人	sin ko men gnin
+沈家門	sin ko men
+東港街道
+東港人	ton kaon gnin
+東港
+朱家尖街道	cyu ko tsien ka dau
+朱家尖人	cyu ko tsien gnin
+朱家尖	cyu ko tsien
+普陀山機場
+展茅街道
+展茅人	tsien mau gnin
+展茅
+六橫鎮
+六橫人	loq wan gnin
+六橫島
+六橫
+蝦峙鎮
+蝦峙人	ho dzi gnin
+蝦峙島
+蝦峙
+桃花鎮
+桃花島
+桃花島人	dau huo tau gnin
+東極鎮
+東極人	ton jiq gnin
+東極島
+東極
+普陀山鎮
+普陀山人	phu dou saen gnin
+普陀山
+岱山縣
+岱山人	de saen gnin
+岱山
+岱山島
+高亭鎮
+高亭人	kau din gnin
+高亭
+東沙鎮
+東沙人	ton so gnin
+東沙
+岱東鎮
+岱東人	de ton gnin
+岱東
+岱西鎮
+岱西人	de si gnin
+岱西
+長塗鎮	dzian du cyun
+長塗人	dzian du gnin
+長塗	dzian du
+衢山鎮
+衢山人	jiu saen gnin
+衢山島
+衢山
+秀山鄉
+秀山人	sieu saen gnin
+秀山島
+秀山
+嵊泗縣
+嵊泗人	dzin sy gnin
+嵊泗
+菜園鎮
+菜園人	tshe yoen gnin
+菜園
+嵊山鎮
+嵊山人	dzin saen gnin
+嵊山
+洋山鎮
+洋山人	yan saen gnin
+洋山
+五龍鄉
+五龍人	ng lon gnin
+五龍
+黃龍鄉
+黃龍人	waon lon gnin
+黃龍
+枸杞鄉
+枸杞鄉人	keu chi shian gnin
+枸杞
+花鳥鄉	huo gniau shian
+花鳥鄉人	huo gniau shian gnin
+花鳥	huo gniau
+繞城高速
+杭甬高速
+甬台溫高速
+甬金高速
+甬舟高速
+甬莞高速
+穿山疏港高速
+杭甬
+杭甬高鐵
+杭甬高速鐵路
+杭甬客運專線
+杭甬客專
+甬台溫
+甬台溫鐵路
+通蘇嘉甬
+通蘇嘉甬高速鐵路
+通蘇嘉甬高鐵
+甬金
+甬金鐵路
+甬舟
+甬舟鐵路
+甬廣
+甬廣高速鐵路
+甬廣高鐵
+甬台溫高速鐵路
+甬台溫高鐵
+金塘大橋	cin daon da jiau
+象山港大橋	dzian saen kaon da jiau
+象山港大橋	zian saen kaon da jiau
+杭州灣跨海大橋	ghaon tsieu uaen khua he da jiau
+奉化江
+江廈橋
+靈橋
+老江橋
+琴橋
+興寧橋
+澄浪橋	dzin laon jiau
+長豐橋	dzian fon jiau
+芝蘭橋
+奉化江大橋	von huo kaon da jiau
+鄞縣大橋	gnin yoen da jiau
+南翔大橋	nein dzian da jiau
+姚江
+餘姚江
+新江橋
+解放橋	ka faon jiau
+永豐橋
+姚江大橋	yau kaon da jiau
+灣頭大橋	uaen deu da jiau
+華辰大橋	wo zhyun da jiau
+江北大橋	kaon poq da jiau
+青林灣大橋	tshin lin uaen da jiau
+西洪大橋	si ghon da jiau
+餘姚江大橋	yu yau kaon da jiau
+甬江
+甬江大橋	ion kaon da jiau
+外灘大橋	nga thaen da jiau
+慶豐橋
+中興大橋	con shin da jiau
+常洪隧道
+三官堂大橋	saen kun daon da jiau
+明洲大橋	min tsieu da jiau
+清水浦大橋	tshin shyu phu da jiau
+甬江隧道
+招寶山大橋	tsiau pau saen da jiau
+
+# 寧波軌道交通站點
+
+# 1
+石路頭站
+石路頭
+高橋西站
+高橋西
+高橋站
+梁祝站
+蘆港站
+蘆港
+徐家漕長樂站	zi ko zau dzian loq dzaen
+徐家漕長樂	zi ko zau dzian loq
+望春橋站	vaon chyun jiau dzaen
+澤民站
+澤民
+大卿橋站	da chin jiau dzaen
+西門口站
+鼓樓站
+東門口天一廣場站
+東門口天一廣場
+江廈橋東站
+江廈橋東
+舟孟北路站
+櫻花公園站
+福明路站
+世紀大道站	shyu ci da dau dzaen
+海晏北路站	he ien poq lu dzaen
+福慶北路站
+盛莫路站	dzan moq lu dzaen
+東環南路站
+東環南路
+邱隘東站	chieu ka ton dzaen
+邱隘東	chieu ka ton
+五鄉站
+寶幢站
+鄔隘站	u ka dzaen
+鄔隘	u ka
+大碶站	da chi dzaen
+大碶	da chi
+松花江路站
+中河路站
+長江路站	dzian kaon lu dzaen
+霞浦站	ya phu dzaen
+霞浦站	ia phu dzaen
+# 2
+櫟社國際機場站
+櫟社國際機場
+櫟社站
+鄞州大道站	gnin tsieu da dau dzaen
+石碶站
+輕紡城站
+藕池站
+客運中心站
+麗園南路站
+雲霞路站
+城隍廟站
+外灘大橋站	nga thaen da jiau dzaen
+正大路站	tsin da lu dzaen
+倪家堰站	gni ko ien dzaen
+壓賽堰站
+大通橋站	da thon jiau dzaen
+孔浦站
+路林站
+三官堂站
+寧波大學站	gnin pou da ghoq dzaen
+寧波大學站	gnin poq da ghoq dzaen
+清水浦站
+五里牌站
+楓園站
+聰園路站
+招寶山站
+紅聯站
+# 3
+金海路站
+大成東路站	da dzin ton lu dzaen
+南渡站
+南渡
+璡琳站
+璡琳
+方橋站
+朝陽站	dziau yan dzaen
+明輝路站
+獅山站
+獅山
+姜山站
+高塘橋站
+句章路站	keu tsaon lu dzaen
+句章路	keu tsaon lu
+南部商務區站
+鄞州區政府站
+四明中路站
+錦寓路站
+錢湖北路站
+仇畢站	dzieu piq dzaen
+仇畢	dzieu piq
+兒童公園站	er don kon yoen dzaen
+體育館站
+明樓站
+中興大橋南站
+中興大橋南
+寶成路站
+寶成路
+外漕村站
+外漕村
+永茂路站
+鎮海大道站	cyun he da dau dzaen
+駱駝橋站
+駱駝橋
+# 4
+慈城西站
+慈城西
+慈城站
+官山河站
+官山河
+長興路站	dzian shin lu dzaen
+金山路站
+奧體中心站
+洪塘中路站
+洪大路站	ghon da lu dzaen
+洪大路	ghon da lu
+麗江路站
+麗江路
+雙東路站
+翠柏里站
+柳西站
+柳西
+興寧橋西站
+興寧橋西
+興寧橋東站
+興寧橋東
+白鶴站
+矮柳站
+矮柳
+潘火路站
+潘火路
+嵩江東路站
+南高教園區站
+南高教園區
+金達南路站
+金達南路
+小洋江站
+小洋江
+東錢湖站
+國際會議中心站
+# 5
+布政站
+布政
+張家潭站	tsian ko dein dzaen
+同德路站
+雅渡站
+雅渡
+廟堰站
+廟堰
+鍾公廟站
+錢湖南路站
+下應路站
+大洋江站
+大洋江
+泗港站
+泗港
+曹隘站	dzau ka dzaen
+柳隘站	lieu ka dzaen
+柳隘	lieu ka
+民安東路站
+會展中心站
+院士路站
+盎孟港站
+盎孟港
+興莊路站
+興海南路站
+興海南路
+梅堰站
+梅堰
+# 6
+古林站
+雲林西路站
+雲林西路
+集士港站	zhyuq zy kaon dzaen
+匯士路站	wei zy lu dzaen
+匯士路	wei zy lu
+賣麪橋站
+宋家漕站	son ko zau dzaen
+新芝路站
+慶豐橋東站
+慶豐橋東
+明珠路站
+滄海北路站
+聚賢路站
+聚賢路
+梅墟站
+謝墅站
+謝墅
+小港西站
+小港西
+衙前站
+# 7
+雲龍站
+安石路站
+安石路
+回龍站
+尚德路站
+尚德路
+邱隘站	chieu ka dzaen
+北明程路站
+北明程路
+新天地站
+福民公園站
+曙光站
+寧波大劇院站	gnin pou da jiq yoen dzaen
+寧波大劇院站	gnin poq da jiq yoen dzaen
+灣頭站
+雲飛路康橋南站
+雲飛路康橋南
+寧慈東路站
+應嘉路站
+應嘉路
+駱興站
+駱興
+鎮海市民廣場站
+貴駟站	kuei sy dzaen
+明海北路站
+明海北路
+俞范站
+# 8
+下應南站
+下應南
+寒松路站
+寒松路
+學府路站	yoq fu lu dzaen
+鄞州公園南站
+鄞州公園南
+堇山西路站
+段塘站
+南苑站
+聯豐站
+市中醫院站
+市中醫院
+青林灣站
+榭嘉站
+榭嘉
+洪盛路站
+洪盛路
+洪塘站
+開元路站
+# 10
+慈溪火车站
+潮塘站
+新城大道站	sin dzin da dau dzaen
+逍林站
+逍林
+觀附站
+觀附
+觀海衛站
+掌起站
+龍山站
+九龍湖站
+# 12
+雲龍火車站
+橫溪站
+塘溪站
+鄞州咸祥站	gnin tsieu yen dzian dzaen
+鄞州咸祥	gnin tsieu yen dzian
+象山賢庠站	dzian saen yen dzian dzaen
+象山賢庠站	zian saen yen dzian dzaen
+象山賢庠	dzian saen yen dzian
+象山賢庠	zian saen yen dzian
+大徐站	dou zi dzaen
+丹城站
+濱海大道站	pin he da dau dzaen
+濱海大道	pin he da dau
+大目灣站	da moq uaen dzaen
+大目灣	da moq uaen
+
+# 商業
+
+倉橋麪結店
+興寧橋烤雞
+興寧橋燒雞
+缸鴨狗	kaon aq keu
+樓茂記	leu meu ci
+趙大有	dziau da yeu
+壽全齋
+東福園
+馮存仁堂	von dzen zhyun daon
+一言堂
+四明大藥房	sy min da yaq vaon
+狀元樓
+昇陽泰
+金鐘
+金鐘醬油
+玫瑰米醋
+三江
+三江超市
+恆一廣場
+老三進
+黃古林草蓆
+陸銀華
+陸氏傷科
+雅戈爾	ia kaq er
+雅戈爾	ia kou er
+奧克斯	au kheq sy
+銀億
+杉杉
+廣博
+方太
+羅蒙
+公牛	kon ngeu
+得力
+得力辦公
+得力文具
+舜宇
+雙鹿
+雙鹿電池	shaon loq dien dzi
+雙鹿電池	shaon loq dien dzy
+太平鳥	tha bin gniau
+博洋
+博洋家紡	poq yan cia faon
+
+# 其他詞彙
+
+冠狀病毒	kun jaon bin doq
+新型冠狀病毒	sin yin kun jaon bin doq
+新冠
+新型冠狀病毒肺炎	sin yin kun jaon bin doq fi yen
+新冠肺炎
+新冠疫苗
+新冠疫情
+加強針
+滅活病毒疫苗
+滅活疫苗
+腺病毒載體疫苗
+重組新型冠狀病毒融合蛋白疫苗
+重組新冠病毒融合蛋白疫苗
+重組蛋白疫苗
+同源加強免疫接種
+同源加強接種
+序貫加強免疫接種
+序貫加強接種
+序貫
+免疫逃逸
+疫苗保護率	yoq miau pau wu liq
+保護率	pau wu liq
+測溫
+測體溫
+健康碼
+綠碼
+黃碼
+紅碼
+行程卡	yin dzin kha
+行程碼	yin dzin mo
+風險區域
+高風險
+高風險地區
+高風險區域
+中風險
+中風險地區
+中風險區域
+低風險
+低風險地區
+低風險區域
+中高風險
+中高風險地區
+中高風險區域
+核酸檢測
+核酸證明
+核酸檢測報告
+全員核酸
+全員核酸檢測
+三天兩檢
+三日兩檢	saen gniq lian cien
+咽拭子
+鼻咽拭子	biq ien siq tsy
+鼻拭子	biq siq tsy
+口咽拭子
+口拭子
+肛拭子
+方艙醫院
+無症狀感染者	vu tsin jaon kien gnien ce
+無症狀感染者	vu tsin jaon kien gnien ce
+復工復產	foq kon foq tshaen
+復陽	foq yan
+視頻會議
+線上會議
+免疫屏障
+羣體免疫
+封城
+封校
+封控
+封控區
+封閉管理
+閉環管理
+閉環轉運
+負壓救護車	veu aq cieu wu tsho
+吹哨人	chyu siau gnin
+吹哨人	chyu sau gnin
+社交距離	dzo ciau jiu li
+遠程辦公
+集中隔離	dziq con kaq li
+集中管理	dziq con kun li
+居家隔離	ciu cia kaq li
+健康監測	jien khaon kaen tsheq
+居家健康監測	ciu cia jien khaon kaen tsheq
+居家健康觀察	ciu cia jien khaon kun tshaq
+日常健康監測	zhyuq jaon jien khaon kaen tsheq
+密切接觸
+密切接觸者
+密接
+次密接
+流行病學調查	lieu yin bin yoq diau dzo
+流調
+傳播路徑
+家庭傳播	cia din joen pou
+學校傳播	ghoq yau joen pou
+學堂傳播	ghoq daon joen pou
+傳播鏈條
+傳播鏈
+終末消毒
+無接觸
+無接觸配送
+大規模篩查	da kuei mou sy dzo
+零號病人	lin ghau bin gnin
+防疫	baon yoq
+疫情防控	yoq dzin baon khon
+本土病例
+本土確診病例	pen thu chioq tsin bin li
+境外輸入
+境外輸入病例
+境外輸入確診病例	cin nga shyu zhyuq chioq tsin bin li
+熔噴布
+健康申報	jien khaon shyun pau
+毒株
+德爾塔	teq er thaq
+奧密克戎
+常態化疫情防控
+常態化防控
+外防輸入
+內防反彈
+動態清零
+柯橋	khou jiau
+柯橋	kou jiau
+柯橋人	khou jiau gnin
+柯橋人	kou jiau gnin
+柯橋區	khou jiau chiu
+柯橋區	kou jiau chiu
+下本	gho pen
+它山	tha saen
+羊肚	yan tu
+貓和老鼠	maen ghou lau tsy
+貓搭老鼠	maen taq lau tsy
+米老鼠	mi lau tsy
+米奇老鼠	mi ji lau tsy
+胭脂蟲	ien tsi jon
+胭脂蟲紅	ien tsi jon ghon
+人圈	gnin jien
+畜圈	choq jien
+豕圈	sy jien
+闌圈	laen jien
+學霸
+正能量
+負能量
+迷因
+模因
+貼貼
+吐槽
+特朗普
+懂王
+拜登
+睡王
+新疆棉
+抖音
+快手
+拼多多
+小紅書
+滴滴
+打工人	tan kon gnin
+幹飯人	kien vaen gnin
+打工魂
+幹飯魂
+爺青結
+爺青回
+後浪
+財富密碼
+流量密碼
+萌新	men sin
+喫瓜
+喫瓜羣衆
+腹黑
+傲嬌
+天然呆
+渣男
+渣女
+鳳凰男
+鳳凰女
+財務自由	dze vu zy yeu
+財務自由	dze vu zy yeu
+小鎮青年
+做題家	tsou di cia
+小鎮做題家	siau cyun tsou di cia
+內捲
+躺平
+斷捨離
+裂開
+我裂開了
+暴風哭泣
+意難平
+凡爾賽文學	vaen er se ven yoq
+官宣
+拍一拍
+戳一戳
+佛系
+寶藏男孩
+寶藏女孩
+彩虹屁
+槓精
+姨母笑
+小姐姐
+小哥哥
+社死	dzo sy
+社會性死亡	dzo wei sin sy vaon
+種草
+拔草
+實錘
+戰術後仰
+文體兩開花
+兩開花
+舔狗
+九九六
+996	cieu cieu loq
+祖安
+單推
+億點點
+對線
+人艱不拆
+累覺不愛	lei cioq peq e
+十動然拒
+普大喜奔	phu da shi pen
+不明覺厲	peq min cioq li
+細思恐極
+男默女淚	nein meq gniu lei
+氣冷抖
+直播帶貨
+帶貨
+名媛羣
+消費主義
+消費升級
+消費降級	siau fi ciaon ciq
+割韭菜
+控評
+精羅
+精羅狂喜
+精羅震怒	tsin lou cyun nu
+拉黑	lha heq
+路轉粉
+黑轉粉
+黑轉路
+路轉黑
+粉轉黑
+粉轉路
+粉切黑
+黑粉
+塌房
+取關
+洗粉
+殭屍粉
+奧力給
+奧利給
+肥宅快樂水	vi dzaq khua loq shyu
+快樂水	khua loq shyu
+破防
+破防水
+喫檸檬
+霧霾	vu ma
+霧霾	vu ma
+飯圈
+唯粉
+磕cp	kheq si phi
+酸了
+新寶島
+謝邀
+二創
+應援
+破圈
+尬聊
+尬舞
+顏藝	ngaen gni
+顏藝	yen gni
+雞娃	ci ua
+理性消費
+野性消費
+碳排放
+碳交易	thaen ciau yiq
+碳達峯
+碳中和
+雙碳
+不忘初心
+喵星	mhiau sin
+喵星人	mhiau sin gnin
+汪星
+汪星人	uaon sin gnin
+鏟屎
+鏟屎官
+腦洞
+腦洞大開
+氣氛組
+鄉村振興
+國家反詐中心	koq cia faen tso con sin
+反詐中心
+殺豬盤
+元宇宙
+超元域
+腦機接口
+增強現實
+賽博格
+比特幣
+移動支付
+互聯網黑話
+賦能
+抓手
+擺爛
+冰墩墩
+雪容融
+羣收款
+杭州亞運會
+猴痘
+猴痘病毒
+考研
+考公
+考編
+熱射病
+停貸
+保交樓	pau kau leu
+精神內耗
+竄訪
+軍事演訓
+聯合演訓
+演訓
+顏值	ngaen dziq
+顏值	yen dziq
+海克斯科技
+應援
+地喹氯銨
+溴己新
+鹽酸溴己新
+氨溴索
+愈創甘油醚片
+乙酰半胱氨酸
+福爾可定
+右美沙芬
+氯苯那敏
+氯雷他定
+西替利嗪
+賽洛唑啉
+桂利嗪
+連花清瘟
+布洛芬緩釋膠囊
+布洛芬片
+緩釋膠囊
+必理通
+撲熱息痛
+抗原檢測
+空氣炸鍋
+表情包
+超額死亡	tshiau ngaq sy vaon
+冤種
+雙減
+教育培訓	ciau yoq bei shiun
+教培	ciau bei
+虛擬主播
+皮套人	bi thau gnin
+中之人	con tsy gnin
+整活
+狠活
+爛活
+尾號	vi ghau
+手機尾號	sieu ci vi ghau
+腦霧
+機器學習	ci chi ghoq ziq
+機器學習	ci chi ghoq zhyuq
+深度學習	sin du ghoq ziq
+深度學習	sin du ghoq zhyuq
+網約車
+共享單車
+共享腳踏車
+共享自行車
+共享電瓶車
+共享電動車
+共享電單車
+移動電源
+充電寶
+共享充電寶
+新能源
+新能源汽車
+電動汽車
+純電動汽車
+充電樁
+自動駕駛	zy don cia sy
+輔助駕駛
+網課
+網絡紅人	maon loq ghon gnin
+網紅
+彈幕
+雲玩家	yun ngun cia
+爆款
+消費券
+拼經濟
+熱搜
+上熱搜
+電商
+電商平臺
+雙十一
+雙十二
+社畜	dzo choq
+爆肝
+營銷號
+初婚年齡
+直播間	dziq pou kaen
+好人卡	hau gnin kha
+角色廚
+廚力
+諾如
+諾如病毒
+長新冠
+玫瑰金
+醒目留言
+盲盒
+開盲盒
+端盒
+開盒
+人肉搜索	gnin gnioq seu soq
+公域
+私域
+全域
+日活	gniq weq
+月活
+雙一流
+一流大學	iq lieu da ghoq
+一流學科	iq lieu yoq khou
+降維打擊
+逆天
+創城
+上巴	zaon po
+心巴	sin po
+原神
+昊京
+星穹鐵道
+西瓜條
+賣崽青蛙
+陽過
+陽康
+二陽	gni yan
+三陽
+騰訊會議
+大模型
+自然語言處理
+計算機視覺	ci soen ci zy cioq
+編外人員	pien nga zhyun yoen
+商飛
+陰角
+陽角
+雌小鬼
+強基計劃
+現充
+生草
+草生
+華夫餅
+零卡
+零卡糖
+三氯蔗糖
+蔗糖素
+安賽蜜
+羅漢果甜苷
+甘草甜素
+擴展塢
+結算畫面
+生化環材	sen huo waen dze
+潤人	zhyun gnin
+潤學
+俄友
+烏友
+電信詐騙
+電信網絡詐騙
+電詐
+筋膜
+筋膜槍
+筋膜刀
+生鮮燈
+鬼秤
+男娘
+用愛發電
+電動輪椅
+電動滑板
+平衡車
+智能平衡車
+電動平衡車
+摩爾線程	mou er sien dzin
+疊甲
+防槓
+爆雷
+情緒價值
+愛豆
+核污水
+核污染水
+大語言模型
+顯眼包
+村超
+小孩哥
+小孩姐
+蘿蔔刀
+雙向奔赴
+新質生產力
+敵蜜
+瑞幸
+瑞幸咖啡
+中式茶飲
+新中式茶飲
+蜜雪冰城
+書亦燒仙草
+茶百道
+古茗
+益禾堂
+滬上阿姨	wu zaon aq yi
+都可
+霸王茶姬
+奈雪
+奈雪的茶
+喜茶
+甘杯
+茶顏悅色	dzo ngaen yuq seq
+茶顏悅色	dzo yen yuq seq
+樂樂茶	loq loq dzo
+茉酸奶
+僅退款
+退貨退款
+蛋仔派對
+蛋仔
+手辦
+社恐
+社牛
+蝦滑
+前備箱
+祛魅
+發瘋文學	faq fon ven yoq
+降本增效	ciaon pen tsen yau
+盒馬
+盒馬鮮生
+山姆會員商店
+山姆超市
+宜家	gni cia
+名創優品
+海底撈
+老婆大人	lau bou da gnin
+永輝
+永輝超市
+开市客
+阪急
+龍湖天街
+鄞州天街
+海曙天街
+印象城
+萬象城
+杉井奧特萊斯
+銀泰城
+寶龍廣場
+寶可夢
+幻獸帕魯
+鍵盤俠
+僞娘
+頂流
+龍行龘龘	lon yin daq daq
+前程朤朤
+生活䲜䲜	sen weq gniq gniq
+尖銳爆鳴	tsien zei pau min
+延遲退休
+捲積
+捲積神經網絡
+一線城市
+二線城市
+兩線城市
+三線城市
+四線城市
+五線城市
+新一線城市
+十八線城市
+高德
+高德地圖
+百度地圖
+騰訊地圖
+頭身比
+行星發動機	yin sin faq don ci
+智商稅
+紅溫
+慕洋
+偷感
+能量碗
+低空經濟
+大疆	da cian
+蘿蔔快跑
+無人駕駛汽車	vu gnin cia sy chi tsho
+無人駕駛汽車	vu gnin cia sy chi tsho
+無人汽車	vu gnin chi tsho
+無人汽車	vu gnin chi tsho
+無人車	vu gnin tsho
+無人車	vu gnin tsho
+空調扇
+曼德拉效應	maen teq lha yau in
+賽博文盲
+性張力
+性縮力
+鬆弛感
+非物質文化遺產
+非遺
+非物質文化遺產傳承人	fi veq tsiq ven huo yi tshaen joen dzin gnin
+非遺傳承人	fi yi joen dzin gnin
+踩雷
+曬背	sa pei
+浙裏辦
+班味	paen mi
+班味	paen vi
+拼好飯
+不粘鍋
+倒反天罡
+摜蛋
+微糖
+半糖
+三分糖	saen fen daon
+五分糖	ng fen daon
+七分糖	tshiq fen daon
+標準糖
+化債
+雲閃付
+深度求索
+通義千問
+千問
+滬蘇浙
+和諧號
+和諧號列車
+和諧號動車組
+復興號
+復興號列車
+復興號動車組
+對等關稅
+預聘
+長聘	dzian phin
+預聘長聘	yu phin dzian phin
+預聘長聘制	yu phin dzian phin cyu
+非升即走
+兩頭婚
+蘇超
+加密貨幣
+穩定幣
+斜杠
+斜杠青年
+腦腐
+國潮
+國潮外賣
+京東外賣
+俄烏衝突
+巴以衝突
+順風車
+大胃袋
+雅魯藏布江下游水電工程
+雅魯藏布江下游水電站
+雅江集團	ia kaon dziq doen
+主理人	cyu li gnin
+夢核
+陽光玫瑰
+基孔肯雅熱
+具身智能
+縣城婆羅門
+延遲享樂
+邪修
+產品力
+負增長
+收縮型城市
+果凍橙
+象山紅美人	dzian saen ghon mei gnin
+象山紅美人	zian saen ghon mei gnin
+紅美人	ghon mei gnin
+起號
+預製
+預製菜
+活人感	weq gnin kien
+卡皮巴拉	kha bi pa lha
+小程序
+微信小程序
+支付寶小程序
+淘寶閃購
+蘇超
+拉布布	lha pu pu
+賽博對賬
+拉胯	lha khuo
+從夯到拉	dzon han tau lha
+夯爆了	han bau lei
+拉完了	lha wun lei
+斬殺線
+何意味	ghou i vi
+菜鳥驛站	tshe gniau yiq dzaen
+馱快遞
+送快遞
+點外賣
+點奶茶
+馱外賣
+送外賣
+出餐
+取餐
+送餐
+外賣騎手
+外賣騎士
+快遞小哥
+快遞員
+快遞櫃
+快遞站
+快遞點
+外賣櫃
+外賣架
+四通一達
+申通
+申通快遞
+圓通
+圓通快遞
+中通
+中通快遞
+韻達
+韻達快遞
+德邦
+德邦快遞
+郵政快遞
+京東快遞
+順豐
+順豐快遞
+百世匯通
+百世
+百世快遞
+極兔
+極兔快遞
+多多買菜
+小象超市
+淘票票
+貓眼電影
+喪彪
+薅羊毛
+羊毛黨
+贏學
+果切
+詞元
+詞向量
+拼豆
+智能駕駛
+智駕
+輔助駕駛
+提示詞
+提示詞工程師
+短劇
+美伊以衝突
+美伊以戰爭
+
+# 西北太平洋和南中國海熱帶氣旋命名表
+
+達維
+康妮
+娜基莉	na ci li
+科羅旺
+翠絲
+# 海葵
+# 銀杏
+# 風神
+# 杜鵑
+# 木蘭
+# 鴻雁
+桃芝
+# 海鷗
+舒力基
+米雷
+# 鴛鴦
+萬宜
+# 鳳凰
+# 彩雲
+# 馬鞍
+# 小犬
+天兔
+天琴
+# 小熊
+蠍虎
+布拉萬	pu lha vaen
+帕布
+洛鞍
+薔琵
+軒嵐諾
+# 三巴
+# 蝴蝶
+西望洋
+# 煙花
+# 梅花
+傑拉華
+聖帕
+# 鸚鵡
+查帕卡
+苗柏
+艾雲尼
+木恩
+森拉克	sen lha kheq
+尼伯特
+南瑪都
+馬力斯
+丹娜絲	taen na sy
+黑格比
+盧碧
+塔拉斯	thaq lha sy
+格美
+# 百合
+# 薔薇
+# 銀河
+奧鹿
+派比安
+韋帕
+米克拉	mi kheq lha
+妮妲
+# 玫瑰
+瑪莉亞
+范斯高
+海高斯
+奧麥斯
+洛克
+# 山神
+竹節草
+巴威
+康森
+桑卡
+安比
+羅莎
+美莎克
+燦都
+納沙
+# 悟空
+# 白鹿
+# 海神
+# 電母
+# 海棠
+# 雲雀
+# 楊柳
+# 紅霞
+# 蒲公英
+尼格
+# 珊珊
+# 玲玲
+白海豚
+# 獅子山
+# 榕樹
+# 摩羯
+# 劍魚
+# 鯨魚
+# 圓規
+# 山貓
+麗琵
+藍湖
+燦鴻
+南川
+帕卡
+貝碧嘉
+# 琵琶
+琵鷺
+# 瑪瑙
+# 珊瑚
+普拉桑	phu lha saon
+塔巴
+浪卡
+妮亞圖
+瑪娃
+蘇力
+米娜	mi na
+沙德爾	so teq er
+雷伊
+古超
+西馬侖
+樺加沙	wo cia so
+# 紫檀
+馬勒卡
+泰利
+# 飛燕
+# 浣熊
+簡拉維	cien lha vi
+# 鮎魚
+杜蘇芮
+山陀兒	saen dou er
+博羅依
+艾莎尼
+暹芭
+卡努	kha nu
+百里嘉
+麥德姆
+艾濤
+艾利
+蘭恩
+潭美
+夏浪
+班朗
+桑達
+蘇拉	su lha
+翰文
+莫拉克	moq lha kheq
+清松
+庫都
+尤特
+查特安
+韋森特
+伊布都
+莫拉菲	moq lha fi
+威馬遜
+鹿莎
+巨爵
+# 畫眉
+# 茉莉
+# 鳴蟬
+# 彩虹
+# 鳳仙
+蘇迪羅
+雲娜	yun na
+凡亞比
+# 海馬
+蘇特
+莫蘭蒂	moq laen ti
+# 婷婷
+洛坦
+# 欣欣
+莎莉嘉
+# 龍王
+天鴿
+麥莎
+# 啓德
+# 彩蝶
+# 天秤
+碧利斯
+# 山竹
+# 珍珠
+溫比亞
+# 榴蓮
+法茜	faq si
+桑美
+海貝思
+象神
+北冕
+凱薩娜	khe saq na
+利奇馬
+巴蓬
+芭瑪
+# 玉兔
+# 天鵝
+# 天鷹
+# 蓮花
+寶霞
+菲特
+環高
+# 海燕
+# 黃蜂
+浮蓮
+道璣
+沙布爾
+阿穆丘
+古莎莉
+青馬
+坡鹿
+# 核桃
+# 蜻蜓
+布里
+# 海星
+# 天馬
+高基
+簡古維
+# 點心
+希比
+船尾
+蒂魯
+娜尼	na gni
+布拉帕	pu lha phaq
+花斑
+
+# 語言
+
+吳語	ngu gniu
+吳語學堂	ngu gniu ghoq daon
+吳語拼音	ngu gniu phin in
+吳語拼音輸入方案	ngu gniu phin in shyu zhyuq faon ein
+吳語拼音輸入法	ngu gniu phin in shyu zhyuq faq
+吳語協會	ngu gniu yaq wei
+甬江閒話	ion kaon ghaen wo
+甬江小片	ion kaon siau phien
+明州小片	min tsieu siau phien
+寧波話	gnin poq wo
+寧波話	gnin pou wo
+太湖片	tha wu phien
+北部吳語	poq bu ngu gniu
+毗陵	bi lin
+毗陵小片	bi lin siau phien
+蘇滬嘉	su wu cia
+蘇滬嘉小片	su wu cia siau phien
+上海閒話	zaon he ghaen wo
+苕溪小片	diau chi siau phien
+杭州小片	ghaon tsieu siau phien
+臨紹	lin ziau
+臨紹小片	lin ziau siau phien
+南部吳語	nein bu ngu gniu
+台州片	the tsieu phien
+上麗片	zaon li phien
+金衢片	cin jiu phien
+甌江片	eu kaon phien
+宣州片	shoen tsieu phien
+宣州吳語	shoen tsieu ngu gniu
+徽語	huei gniu
+徽嚴片	huei gnien phien
+官話	kun wo
+普通閒話	phu thon ghaen wo
+北京官話	poq cin kun wo
+東北官話	ton poq kun wo
+東北閒話	ton poq ghaen wo
+冀魯官話	ci lu kun wo
+中原官話	con gnioen kun wo
+西南官話	si nein kun wo
+四川閒話	sy choen ghaen wo
+膠遼官話	ciau liau kun wo
+江淮官話	kaon we kun wo
+蘭銀官話	laen gnin kun wo
+晉語	tsin gniu
+湘語	sian gniu
+贛語	kien gniu
+粵語	yuq gniu
+廣東閒話	kuaon ton ghaen wo
+客家閒話	khaq cia ghaen wo
+客家語	khaq cia gniu
+客家話	khaq cia wo
+桂北平話	kuei poq bin wo
+桂南平話	kuei nein bin wo
+閩語	min gniu
+閩北話	min poq wo
+閩北語	min poq gniu
+閩東語	min ton gniu
+閩東話	min ton wo
+閩中語	min con gniu
+莆仙語	bu sien gniu
+莆仙話	bu sien wo
+閩南語	min nein gniu
+閩南話	min nein wo
+潮汕閒話	dziau saen ghaen wo
+潮汕話	dziau saen wo
+日本閒話	zhyuq pen ghaen wo
+韓國閒話	ghein koq ghaen wo
+
+# 八股文拆分詞彙
+
+〇兩	lin lian
+一九九兩	iq cieu cieu lian
+一兩三	iq lian saen
+一個勿小心	iq goq veq siau sin
+一個勿小心	iq ghoq veq siau sin
+一個弗小心	iq goq veq siau sin	1
+一個弗小心	iq ghoq veq siau sin	1
+一個巴掌拍勿響	iq goq po caon phaq veq shian
+一個巴掌拍勿響	iq ghoq po caon phaq veq shian
+一個巴掌拍弗響	iq goq po caon phaq veq shian	1
+一個巴掌拍弗響	iq ghoq po caon phaq veq shian	1
+一個心眼	iq goq sin ngaen
+一個心眼	iq ghoq sin ngaen
+一隻跟斗十萬八千里	iq tsaq ken teu zhyuq vaen paq tshien li
+一隻鑊裏喫飯個	iq tsaq ghoq li chioq vaen goq
+一隻鑊裏喫飯個	iq tsaq ghoq li chioq vaen ghoq
+一隻頭兩隻大	iq tsaq deu lian tsaq dou
+一隻鼻孔出氣	iq tsaq biq khon chyuq chi
+一分洋鈿	iq fen yan dien
+一分洋鈿一分貨	iq fen yan dien iq fen hou
+一千零兩	iq tshien lin lian
+一口喫隻胖子	iq kheu chioq tsaq phaon tsy
+一日一個樣	iq gniq iq goq yan
+一日一個樣	iq gniq iq ghoq yan
+一字勿差	iq zy veq tsho
+一字弗差	iq zy veq tsho	1
+一心兩用	iq sin lian yon
+一棍子打煞	iq kuen tsy tan saq
+一生受用勿盡	iq sen zieu yon veq dzin
+一生受用弗盡	iq sen zieu yon veq dzin	1
+一覺睏到天亮	iq kau khuen tau thien lian
+一覺睏到天亮	iq kau khuen tau thiq gnian
+一覺睏到大天亮	iq kau khuen tau dou thien lian
+一頭撞煞	iq deu jaon saq
+一眼也	iq ngaen gha
+一眼也勿	iq ngaen gha veq
+一眼也弗	iq ngaen gha veq	1
+一眼也嘸沒	iq ngaen gha mhiq
+一眼也	iq ngaen ya
+一眼也勿	iq ngaen ya veq
+一眼也弗	iq ngaen ya veq	1
+一眼也嘸沒	iq ngaen ya mhiq
+七十兩	tshiq zhyuq lian
+七十兩行	tshiq zhyuq lian ghaon
+丈二和尚摸勿着頭腦	dzian gni ghou zhaon moq veq joq deu nau
+丈二和尚摸弗着頭腦	dzian gni ghou zhaon moq veq joq deu nau	1
+丈二和尚摸勿着頭腦	dzian gni ghou zhaon moq veq zhoq deu nau
+丈二和尚摸弗着頭腦	dzian gni ghou zhaon moq veq zhoq deu nau	1
+三個和尚嘸沒水喝	saen goq ghou zhaon mhiq shyu heq
+三個和尚嘸沒水喝	saen ghoq ghou zhaon mhiq shyu heq
+三個和尚嘸沒水喫	saen goq ghou zhaon mhiq shyu chioq
+三個和尚嘸沒水喫	saen ghoq ghou zhaon mhiq shyu chioq
+三分之兩	saen fen tsy lian
+三十兩	saen zhyuq lian
+三十兩萬	saen zhyuq lian vaen
+三句勿離本行	saen ciu veq li pen ghaon
+三句弗離本行	saen ciu veq li pen ghaon	1
+三句話勿離本行	saen ciu wo veq li pen ghaon
+三句話弗離本行	saen ciu wo veq li pen ghaon	1
+三房兩廳	saen vaon lian thin
+上落班時間	zaon loq paen zy cien
+上落班辰光	zaon loq paen zhyun kuaon
+上勿了	zaon veq liau
+上弗了	zaon veq liau	1
+上勿了檯面	zaon veq liau de mien
+上弗了檯面	zaon veq liau de mien	1
+上勿去	zaon veq chi
+上弗去	zaon veq chi	1
+上個禮拜	zaon goq li pa
+上個禮拜	zaon ghoq li pa
+上禮拜	zaon li pa
+上牀睏覺	zaon zaon khuen kau
+上班辰光	zaon paen zhyun kuaon
+上網辰光	zaon maon zhyun kuaon
+下勿了	gho veq liau
+下弗了	gho veq liau	1
+下勿了臺	gho veq liau de
+下弗了臺	gho veq liau de	1
+下勿去	gho veq chi
+下弗去	gho veq chi	1
+下個禮拜	gho goq li pa
+下個禮拜	gho ghoq li pa
+下禮拜	gho li pa
+下班辰光	gho paen zhyun kuaon
+落課時間	loq khou zy cien
+落課辰光	loq khou zhyun kuaon
+跪落	jiu loq
+勿上去	veq zaon chi
+弗上去	veq zaon chi	1
+勿下去	veq gho chi
+弗下去	veq gho chi	1
+勿落去	veq loq chi
+弗落去	veq loq chi	1
+勿乾淨	veq kien zin
+弗乾淨	veq kien zin	1
+勿乾脆	veq kien tshei
+弗乾脆	veq kien tshei	1
+勿乾裂	veq kien liq
+弗乾裂	veq kien liq	1
+勿亞於	veq ia yu
+弗亞於	veq ia yu	1
+勿交	veq ciau
+弗交	veq ciau	1
+勿交	veq kau
+弗交	veq kau	1
+勿人道	veq zhyun dau
+弗人道	veq zhyun dau	1
+勿介意	veq ka i
+弗介意	veq ka i	1
+勿低於	veq ti yu
+弗低於	veq ti yu	1
+勿信任	veq sin zhyun
+弗信任	veq sin zhyun	1
+勿做虧心事	veq tsou khuei sin zy
+弗做虧心事	veq tsou khuei sin zy	1
+勿停	veq din
+弗停	veq din	1
+勿傷和氣	veq shaon ghou chi
+弗傷和氣	veq shaon ghou chi	1
+勿准問	veq cyun men
+弗准問	veq cyun men	1
+勿出去	veq chyuq chi
+弗出去	veq chyuq chi	1
+勿分	veq fen
+弗分	veq fen	1
+勿分清紅皁白	veq fen tshin ghon zau baq
+弗分清紅皁白	veq fen tshin ghon zau baq	1
+勿利於	veq li yu
+弗利於	veq li yu	1
+勿到長城非好漢	veq tau dzian dzin fi hau hein
+勿到長城非好漢	veq tau dzian dzin fi hau hein
+弗到長城非好漢	veq tau dzian dzin fi hau hein	1
+弗到長城非好漢	veq tau dzian dzin fi hau hein	1
+勿動了	veq don lei
+弗動了	veq don lei	1
+勿區分大小寫	veq chiu fen dou siau sia
+弗區分大小寫	veq chiu fen dou siau sia	1
+勿升反降	veq sin faen ciaon
+弗升反降	veq sin faen ciaon	1
+勿去睬	veq chi tshe
+弗去睬	veq chi tshe	1
+勿可再生資源	veq khou tse sen tsy gnioen
+弗可再生資源	veq khou tse sen tsy gnioen	1
+弗可分	veq khou fen	1
+勿可分	veq khou fen
+弗可分割	veq khou fen keq	1
+勿可分割	veq khou fen keq
+弗可分離	veq khou fen li	1
+勿可分離	veq khou fen li
+勿喫虧	veq chioq khuei
+弗喫虧	veq chioq khuei	1
+弗問	veq men	1
+弗問前因後果	veq men zien in gheu kou	1
+弗問好歹	veq men hau te	1
+弗問是非曲直	veq men zy fi chioq dziq	1
+弗問青紅皁白	veq men tshin ghon zau baq	1
+勿問	veq men
+勿問前因後果	veq men zien in gheu kou
+勿問好歹	veq men hau te
+勿問是非曲直	veq men zy fi chioq dziq
+勿問青紅皁白	veq men tshin ghon zau baq
+弗單	veq taen	1
+勿單	veq taen
+勿單是	veq taen zy
+弗單是	veq taen zy	1
+勿在家	veq dze cia
+弗在家	veq dze cia	1
+勿堪	veq khaen
+勿堪一擊	veq khaen iq ciq
+弗堪	veq khaen	1
+弗堪一擊	veq khaen iq ciq	1
+勿壞	veq ua
+弗壞	veq ua	1
+弗外乎	veq nga wu	1
+勿外乎	veq nga wu
+勿多於	veq tou yu
+弗多於	veq tou yu	1
+勿大	veq dou
+弗大	veq dou	1
+勿大勿小	veq dou veq siau
+弗大弗小	veq dou veq siau	1
+勿大好	veq da hau
+弗大好	veq da hau	1
+嘸沒大好	mhiq da hau
+嘸沒咋好	mhiq dza hau
+勿大想	veq da sian
+弗大想	veq da sian	1
+勿大忖	veq da tshen
+弗大忖	veq da tshen	1
+勿咋忖	veq dza tshen
+弗咋忖	veq dza tshen	1
+不大明白	peq da min baq
+不大會	peq da wei
+不大能	peq da nen
+勿大明白	veq da min baq
+勿大會	veq da wei
+勿大能	veq da nen
+弗大明白	veq da min baq	1
+弗大會	veq da wei	1
+弗大能	veq da nen	1
+勿好了	veq hau lei
+弗好了	veq hau lei	1
+勿安分	veq ein ven
+弗安分	veq ein ven	1
+勿容易	veq yon yi
+弗容易	veq yon yi	1
+勿屬於	veq joq yu
+弗屬於	veq joq yu	1
+勿差	veq tsho
+弗差	veq tsho	1
+勿干你	veq kien ng
+弗干你	veq kien ng	1
+勿干爾	veq kien ng
+弗干爾	veq kien ng	1
+勿干俉	veq kien ng
+弗干俉	veq kien ng	1
+勿干儂	veq kien nou
+弗干儂	veq kien nou	1
+不幸中個大幸	peq yin con goq da yin
+不幸中個大幸	peq yin con ghoq da yin
+勿從	veq dzon
+弗從	veq dzon	1
+勿忘本	veq vaon pen
+弗忘	veq vaon	1
+弗忘本	veq vaon pen	1
+𣍐忘	vei vaon
+𣍐忘本	vei vaon pen
+勿快樂	veq khua loq
+勿怕死	veq pho si
+勿怕嘸沒柴燒	veq pho mhiq za siau
+勿怕鬼敲門	veq pho ciu khau men
+弗快樂	veq khua loq	1
+弗怕死	veq pho si	1
+弗怕嘸沒柴燒	veq pho mhiq za siau	1
+弗怕鬼敲門	veq pho ciu khau men	1
+勿惜犧牲	veq siq shi sen
+弗惜犧牲	veq siq shi sen	1
+勿愛你	veq e gni
+弗愛你	veq e gni	1
+勿愛你	veq e ng
+弗愛你	veq e ng	1
+勿愛爾	veq e ng
+弗愛爾	veq e ng	1
+勿愛俉	veq e ng
+弗愛俉	veq e ng	1
+勿愛儂	veq e nou
+弗愛儂	veq e nou	1
+勿應該	veq in ke
+弗應該	veq in ke	1
+勿懷	veq we
+勿懷好意	veq we hau i
+弗懷	veq we	1
+弗懷好意	veq we hau i	1
+勿懷	veq wa
+勿懷好意	veq wa hau i
+弗懷	veq wa	1
+弗懷好意	veq wa hau i	1
+勿成問題	veq dzin ven di
+勿成材	veq dzin dze
+弗成問題	veq dzin ven di	1
+弗成材	veq dzin dze	1
+勿戴	veq ta
+弗戴	veq ta	1
+勿戴	veq te
+弗戴	veq te	1
+勿早了	veq tsau lei
+弗早了	veq tsau lei	1
+勿明確	veq min chioq
+弗明確	veq min chioq	1
+勿是一個	veq zy iq goq
+勿是一個	veq zy iq ghoq
+弗是一個	veq zy iq goq	1
+弗是一個	veq zy iq ghoq	1
+勿是儂	veq zy nou
+弗是儂	veq zy nou	1
+勿是俉	veq zy ng
+弗是俉	veq zy ng	1
+勿是爾	veq zy ng
+弗是爾	veq zy ng	1
+勿是其他人	veq zy ji tha gnin
+勿是其它人	veq zy ji tha gnin
+弗是其他人	veq zy ji tha gnin	1
+弗是其它人	veq zy ji tha gnin	1
+勿是嘸沒	veq zy mhiq
+弗是嘸沒	veq zy mhiq	1
+勿是滋味	veq zy tsy vi
+弗是滋味	veq zy tsy vi	1
+勿更事	veq ken zy
+弗更事	veq ken zy	1
+勿曾	veq dzen
+勿曾在	veq dzen dze
+勿曾來	veq dzen le
+勿曾有	veq dzen yeu
+勿曾有過	veq dzen yeu kou
+弗曾	veq dzen	1
+弗曾在	veq dzen dze	1
+弗曾來	veq dzen le	1
+弗曾有	veq dzen yeu	1
+弗曾有過	veq dzen yeu kou	1
+勿會忘記	veq wei maon ci
+弗會忘記	veq wei maon ci	1
+𣍐忘記	vei maon ci
+勿樂	veq loq
+勿樂於	veq loq yu
+勿樂觀	veq loq kun
+弗樂	veq loq	1
+弗樂於	veq loq yu	1
+弗樂觀	veq loq kun	1
+勿止於此	veq tsy yu tshy
+弗止於此	veq tsy yu tshy	1
+勿正常狀況	veq tsin jaon jaon huaon
+弗正常狀況	veq tsin jaon jaon huaon	1
+勿正當競爭	veq tsin taon jin tsen
+弗正當競爭	veq tsin taon jin tsen	1
+勿正確	veq tsin chioq
+弗正確	veq tsin chioq	1
+勿死	veq si
+勿死勿活	veq si veq weq
+勿死心	veq sy sin
+弗死	veq si	1
+弗死弗活	veq si veq weq	1
+弗死心	veq sy sin	1
+勿爭氣	veq tsan chi
+弗爭氣	veq tsan chi	1
+勿生	veq san
+弗生	veq san	1
+勿當人	veq taon gnin
+弗當人	veq taon gnin	1
+勿登大雅之堂	veq ten da ia tsy daon
+弗登大雅之堂	veq ten da ia tsy daon	1
+勿發達國家	veq faq daq koq cia
+弗發達國家	veq faq daq koq cia	1
+勿省人事	veq sin zhyun zy
+弗省人事	veq sin zhyun zy	1
+勿真勿假	veq tsin veq ko
+弗真弗假	veq tsin veq ko	1
+勿着	veq dziaq
+勿着	veq joq
+勿着	veq zhoq
+弗着	veq dziaq	1
+弗着	veq joq	1
+弗着	veq zhoq	1
+勿急	veq ciq
+弗急	veq ciq	1
+勿着痕跡	veq joq ghen tsiq
+勿着邊際	veq joq pien tsi
+勿着陸飛行	veq joq loq fi yin
+勿着痕跡	veq zhoq ghen tsiq
+勿着邊際	veq zhoq pien tsi
+勿着陸飛行	veq zhoq loq fi yin
+弗着痕跡	veq joq ghen tsiq	1
+弗着邊際	veq joq pien tsi	1
+弗着陸飛行	veq joq loq fi yin	1
+弗着痕跡	veq zhoq ghen tsiq	1
+弗着邊際	veq zhoq pien tsi	1
+弗着陸飛行	veq zhoq loq fi yin	1
+勿睏覺	veq khuen kau
+弗睏覺	veq khuen kau	1
+勿瞭解	veq liau ka
+勿瞭解	veq liau cia
+弗瞭解	veq liau ka	1
+弗瞭解	veq liau cia	1
+勿曉得啥原因	veq shiau teq so gnioen in
+勿曉得啥原因	veq shiau teq soq gnioen in
+勿曉得啥原因	veq shiau teq sou gnioen in
+弗曉得啥原因	veq shiau teq so gnioen in	1
+弗曉得啥原因	veq shiau teq soq gnioen in	1
+弗曉得啥原因	veq shiau teq sou gnioen in	1
+勿知去向	veq cyu chiu shian
+弗知去向	veq cyu chiu shian	1
+勿科學	veq khou yoq
+弗科學	veq khou yoq	1
+勿等價交換	veq ten ko ciau wun
+弗等價交換	veq ten ko ciau wun	1
+勿等於	veq ten yu
+弗等於	veq ten yu	1
+勿管三七廿一	veq kun saen tshiq gniaen iq
+弗管三七廿一	veq kun saen tshiq gniaen iq	1
+勿簡單	veq cien taen
+弗簡單	veq cien taen	1
+勿習慣	veq ziq kuaen
+勿習慣	veq zhyuq kuaen
+弗習慣	veq ziq kuaen	1
+弗習慣	veq zhyuq kuaen	1
+勿肯去	veq khen chi
+弗肯去	veq khen chi	1
+忘記勿來	maon ci veq le
+定勿落來	din veq loq le
+忘記弗來	maon ci veq le	1
+定弗落來	din veq loq le	1
+勿自	veq zy
+勿自由	veq zy yeu
+勿自覺	veq zy cioq
+弗自	veq zy	1
+弗自由	veq zy yeu	1
+弗自覺	veq zy cioq	1
+勿至於	veq tsy yu
+勿致於	veq tsy yu
+弗至於	veq tsy yu	1
+弗致於	veq tsy yu	1
+勿良習慣	veq lian ziq kuaen
+勿良習慣	veq lian zhyuq kuaen
+弗良習慣	veq lian ziq kuaen	1
+弗良習慣	veq lian zhyuq kuaen	1
+勿虧	veq khuei
+勿行	veq yin
+勿行了	veq yin lei
+勿被	veq bei
+弗虧	veq khuei	1
+弗行	veq yin	1
+弗行了	veq yin lei	1
+弗被	veq bei	1
+覅去	fe chi
+𧟰去	fe chi
+莫去	mhau chi
+莫去	mau chi
+覅問	fe men
+𧟰問	fe men
+莫問	mhau men
+莫問	mau men
+莫忘記	mhau maon ci
+莫忘記	mau maon ci
+勿見天日	veq cien thien zhyuq
+勿見棺材勿掉淚	veq cien kun ze veq diau lei
+勿見棺材勿落淚	veq cien kun ze veq loq lei
+弗見天日	veq cien thien zhyuq	1
+弗見棺材弗掉淚	veq cien kun ze veq diau lei	1
+弗見棺材弗落淚	veq cien kun ze veq loq lei	1
+勿見經傳	veq cien cin joen
+勿覺	veq cioq
+勿覺察	veq cioq tshaq
+勿覺得	veq cioq teq
+弗見經傳	veq cien cin joen	1
+弗覺	veq cioq	1
+弗覺察	veq cioq tshaq	1
+弗覺得	veq cioq teq	1
+勿該	veq ke
+弗該	veq ke	1
+勿認	veq gnin
+勿認人	veq gnin gnin
+勿認賬	veq gnin tsian
+弗認	veq gnin	1
+弗認人	veq gnin gnin	1
+弗認賬	veq gnin tsian	1
+勿誤	veq ngu
+弗誤	veq ngu	1
+勿誤	veq ngu
+弗誤	veq ngu	1
+勿調和	veq diau ghou
+弗調和	veq diau ghou	1
+勿請自來	veq tshin zy le
+弗請自來	veq tshin zy le	1
+勿讓人	veq gnian gnin
+弗讓人	veq gnian gnin	1
+勿讓鬚眉	veq gnian shyu mei
+弗讓鬚眉	veq gnian shyu mei	1
+勿負責任	veq veu tsaq zhyun
+弗負責任	veq veu tsaq zhyun	1
+勿負責任	veq veu tsaq gnin
+弗負責任	veq veu tsaq gnin	1
+勿貴	veq ciu
+弗貴	veq ciu	1
+勿費吹灰之力	veq fi tshei huei tsy liq
+弗費吹灰之力	veq fi tshei huei tsy liq	1
+勿跟人	veq ken gnin
+弗跟人	veq ken gnin	1
+勿透明水彩畫	veq theu min shyu tshe wo
+弗透明水彩畫	veq theu min shyu tshe wo	1
+勿透水	veq theu shyu
+弗透水	veq theu shyu	1
+勿進去	veq tsin chi
+勿過去	veq kou chi
+弗進去	veq tsin chi	1
+弗過去	veq kou chi	1
+勿遲	veq dzy
+勿遲	veq dzi
+弗遲	veq dzy	1
+弗遲	veq dzi	1
+勿長	veq tsian
+勿長	veq dzian
+弗長	veq tsian	1
+弗長	veq dzian	1
+勿長一智	veq tsian iq cyu
+弗長一智	veq tsian iq cyu	1
+勿長勿短	veq tsian veq toen
+弗長弗短	veq tsian veq toen	1
+勿間斷	veq cien doen
+勿間斷電源	veq cien doen dien gnioen
+弗間斷	veq cien doen	1
+弗間斷電源	veq cien doen dien gnioen	1
+勿防	veq baon
+弗防	veq baon	1
+勿防	veq vaon
+弗防	veq vaon	1
+勿降	veq ghaon
+勿降	veq ciaon
+勿降反升	veq ciaon faen sin
+弗降	veq ghaon	1
+弗降	veq ciaon	1
+弗降反升	veq ciaon faen sin	1
+勿限於	veq ghaen yu
+弗限於	veq ghaen yu	1
+勿飽和	veq pau ghou
+勿飽和脂肪酸	veq pau ghou tsy faon soen
+弗飽和	veq pau ghou	1
+弗飽和脂肪酸	veq pau ghou tsy faon soen	1
+弗一定		1
+弗一樣		1
+弗一樣了	veq iq yan lei	1
+弗一樣個	veq iq yan goq	1
+弗一樣個	veq iq yan ghoq	1
+弗一致		1
+弗一般		1
+弗三弗二	veq saen veq gni	1
+弗上		1
+弗上來		1
+弗上心		1
+弗上班		1
+弗上網		1
+弗上路		1
+弗上道		1
+弗落		1
+弗落了	veq loq lei	1
+弗下來		1
+弗落來		1
+弗落雨		1
+弗中		1
+弗中弗西		1
+弗中意		1
+弗中手		1
+弗中用		1
+弗中留		1
+弗中聽		1
+弗也		1
+弗也是		1
+弗亂		1
+弗予		1
+弗予理會		1
+弗予置評		1
+弗予評論		1
+弗事		1
+弗事生產		1
+弗事邊幅		1
+弗二		1
+弗亮		1
+弗今弗古		1
+弗仕		1
+弗代表		1
+弗令		1
+弗令人鼓舞	veq lin gnin ku vu	1
+弗以		1
+弗以成敗論英雄		1
+弗以爲		1
+弗以爲奇		1
+弗以爲忤		1
+弗以爲意		1
+弗以爲然		1
+弗以爲苦		1
+弗以規矩		1
+弗休		1
+弗休息		1
+弗伶弗俐		1
+弗伶俐		1
+弗似		1
+弗但		1
+弗但弗		1
+弗但是		1
+弗但會		1
+弗低		1
+弗住		1
+弗住口		1
+弗住嘴		1
+弗住眼		1
+弗佔		1
+弗作		1
+弗作數		1
+弗作準		1
+弗作爲		1
+弗作爲犯		1
+弗作第二		1
+弗作第二人想		1
+弗作美		1
+弗作聲		1
+弗佞		1
+弗佳		1
+弗併		1
+弗使用		1
+弗來了	veq le lei	1
+弗來電		1
+弗侈		1
+弗供		1
+弗依弗饒		1
+弗依賴		1
+弗侮暗室		1
+弗侵犯協定		1
+弗侷限		1
+弗便		1
+弗便之處		1
+弗便宜		1
+弗便處		1
+弗便道		1
+弗俗		1
+弗保		1
+弗保證		1
+弗信		1
+弗信用		1
+弗信道		1
+弗信邪		1
+弗修		1
+弗修小節		1
+弗修帷薄		1
+弗修邊幅		1
+弗倒		1
+弗倒口		1
+弗候		1
+弗借		1
+弗倦		1
+弗倫		1
+弗倫弗類		1
+弗值		1
+弗值一哂		1
+弗值一提		1
+弗值一文		1
+弗值一看		1
+弗值一笑		1
+弗值一錢		1
+弗值一顧		1
+弗值得		1
+弗值當		1
+弗值錢		1
+弗值銅鈿		1
+弗值鈔票		1
+弗假		1
+弗假以詞色		1
+弗假外出		1
+弗假外求		1
+弗假辭色		1
+弗偏		1
+弗偏弗倚		1
+弗偏斜		1
+弗偏極		1
+弗做		1
+弗做聲		1
+弗停住		1
+弗停當		1
+弗偢弗倸		1
+弗健康		1
+弗備		1
+弗傳		1
+弗傳之祕		1
+弗傷		1
+弗傷天理		1
+弗傷心		1
+弗傷脾胃		1
+弗僅		1
+弗僅僅		1
+弗僅僅是		1
+弗僅如此		1
+弗僅是		1
+弗僅會		1
+弗僅有		1
+弗僅要		1
+弗像人樣	veq zian gnin yan	1
+弗像爾	veq zian ng	1
+弗像儂	veq zian nou	1
+弗像是		1
+弗像樣		1
+弗像話		1
+弗僧弗俗		1
+弗儉則匱		1
+弗償命		1
+弗允		1
+弗允許		1
+弗充分		1
+弗先		1
+弗先來		1
+弗先去		1
+弗光		1
+弗光彩		1
+弗克		1
+弗克自制		1
+弗免		1
+弗免一死		1
+弗入		1
+弗入時宜		1
+弗入獸穴		1
+弗入眼		1
+弗入耳		1
+弗入虎穴		1
+弗入調		1
+弗入隊		1
+弗全		1
+弗全是		1
+弗全會		1
+弗全面		1
+弗兩立		1
+弗公		1
+弗公弗義		1
+弗公平		1
+弗公正		1
+弗公開		1
+弗共		1
+弗共天地		1
+弗共法		1
+弗共鑣		1
+弗其然		1
+弗具		1
+弗具備		1
+弗具名		1
+弗具有		1
+弗典型		1
+弗兼容		1
+弗兼容性		1
+弗再		1
+弗再出版		1
+弗再想		1
+弗再愛		1
+弗再是		1
+弗再有		1
+弗再需要		1
+弗冒		1
+弗冠弗帶		1
+弗冷		1
+弗冷弗熱		1
+弗准		1
+弗准其	veq cyun ji	1
+弗准渠	veq cyun ji
+弗准爾		1
+弗准儂		1
+弗准我		1
+弗准嘸沒		1
+弗准翻印		1
+弗准許		1
+弗准啥人		1
+弗凍港		1
+弗凍港口		1
+弗出		1
+弗出來		1
+弗出口		1
+弗出惡聲		1
+弗出意外		1
+弗出意外個閒話		1
+弗出所料		1
+弗出材		1
+弗出現		1
+弗出聲		1
+弗出門		1
+弗分弗曉		1
+弗分主客		1
+弗分主從		1
+弗分伯仲		1
+弗分南北東西		1
+弗分好歹		1
+弗分曉		1
+弗分畛域		1
+弗分軒輊		1
+弗分離		1
+弗分青紅皂白		1
+弗分首從		1
+弗切		1
+弗切合實際		1
+弗切實際		1
+弗切題		1
+弗刊		1
+弗刊之典		1
+弗刊之書		1
+弗刊之論		1
+弗利		1
+弗利因素		1
+弗利市		1
+弗利影響		1
+弗利落		1
+弗刪		1
+弗到		1
+弗到位		1
+弗到家		1
+弗到得		1
+弗到烏江弗盡頭		1
+弗到烏江弗肯休		1
+弗到烏江心弗死		1
+弗到頭		1
+弗到黃河心弗死		1
+弗剋制		1
+弗前		1
+弗前弗後		1
+弗剩		1
+弗割弗截		1
+弗力		1
+弗加		1
+弗加修飾	veq cia sieu siq	1
+弗加價	veq ko ko	1
+弗加區別	veq cia chiu biq	1
+弗加小心	veq cia siau sin	1
+弗加拘束	veq cia ciu shoq	1
+弗加掩飾	veq cia ien siq	1
+弗加理睬	veq cia li tshe	1
+弗加考慮	veq cia khau li	1
+弗加自制	veq cia zy cyu	1
+弗加選擇	veq cia shoen dzeq	1
+弗努力		1
+弗動		1
+弗動心		1
+弗動搖		1
+弗動產		1
+弗動聲色		1
+弗動關節		1
+弗務正業		1
+弗勝		1
+弗勝其擾		1
+弗勝其煩		1
+弗勝其苦		1
+弗勝唏噓		1
+弗勝感喟		1
+弗勝感激		1
+弗勝枚舉		1
+弗勝負荷		1
+弗勝酒力		1
+弗勞		1
+弗勞無獲		1
+弗勞而獲		1
+弗勻		1
+弗包		1
+弗包含		1
+弗包括		1
+弗匹配		1
+弗升		1
+弗卑弗亢		1
+弗協		1
+弗協調		1
+弗卜可知		1
+弗占凶吉		1
+弗占卜		1
+弗占吉凶		1
+弗占算		1
+弗卡		1
+弗即弗離		1
+弗厚道		1
+弗厭		1
+弗厭其煩		1
+弗厭其詳		1
+弗厭求詳		1
+弗去了	veq chi lei	1
+弗參加		1
+弗參與		1
+弗及時		1
+弗及格		1
+弗及物動詞		1
+弗友好		1
+弗反		1
+弗反顧		1
+弗取		1
+弗受		1
+弗受傷		1
+弗受抬舉		1
+弗受歡迎		1
+弗受歡迎人物		1
+弗受理		1
+弗受理判決		1
+弗受用		1
+弗受管束		1
+弗受籠絡		1
+弗受約束		1
+弗受聽		1
+弗受苦中苦		1
+弗只		1
+弗只是		1
+弗叫		1
+弗可		1
+弗可以		1
+弗可企及		1
+弗可估量		1
+弗可侵犯		1
+弗可侵犯權		1
+弗可信		1
+弗可信其無		1
+弗可偏廢		1
+弗可勝原		1
+弗可勝數		1
+弗可勝書		1
+弗可勝紀		1
+弗可勝言		1
+弗可勝計		1
+弗可勝記		1
+弗可及		1
+弗可取		1
+弗可同年而語		1
+弗可名字		1
+弗可向邇		1
+弗可多得		1
+弗可導		1
+弗可小覷		1
+弗可少		1
+弗可得		1
+弗可忽視		1
+弗可怕		1
+弗可想像		1
+弗可想象		1
+弗可或缺		1
+弗可戰勝		1
+弗可抗力		1
+弗可抗拒		1
+弗可挽回		1
+弗可捉摸		1
+弗可撤銷信用證		1
+弗可救藥		1
+弗可數		1
+弗可數名詞		1
+弗可旁貸		1
+弗可替代		1
+弗可期		1
+弗可枚舉		1
+弗可測		1
+弗可測知		1
+弗可無一		1
+弗可爲		1
+弗可狀		1
+弗可理喻		1
+弗可理解		1
+弗可用		1
+弗可當		1
+弗可磨滅		1
+弗可端倪		1
+弗可缺少		1
+弗可置信		1
+弗可耐		1
+弗可能個		1
+弗可能個事體		1
+弗可與共樂		1
+弗可行	veq khou yin	1
+弗可見		1
+弗可解	veq khou ka	1
+弗可言		1
+弗可言勇		1
+弗可言喻		1
+弗可言宣		1
+弗可說		1
+弗可諱言		1
+弗可謂		1
+弗可踰越		1
+弗可辱		1
+弗可逆		1
+弗可逆反應		1
+弗可逆轉		1
+弗可通約		1
+弗可逾越		1
+弗可避		1
+弗可避免		1
+弗可限量		1
+弗可靠		1
+弗合		1
+弗合作		1
+弗合作運動		1
+弗合式		1
+弗合時宜		1
+弗合格		1
+弗合格個		1
+弗合標準		1
+弗合法		1
+弗合法個		1
+弗合理		1
+弗合節		1
+弗合羣		1
+弗合規定		1
+弗合適		1
+弗合邏輯		1
+弗合體統		1
+弗吉		1
+弗吉利		1
+弗同		1
+弗同之處		1
+弗同以往		1
+弗同凡響		1
+弗同印本		1
+弗同地區		1
+弗同尋常		1
+弗同層次		1
+弗同意		1
+弗同意見		1
+弗同於		1
+弗同時期		1
+弗同個		1
+弗同個人		1
+弗同個是		1
+弗同程度		1
+弗同處		1
+弗同調		1
+弗同階段		1
+弗同顏色		1
+弗同類型		1
+弗同點		1
+弗名一文		1
+弗名一錢		1
+弗名數		1
+弗名譽		1
+弗名譽事物		1
+弗吐		1
+弗吐弗快		1
+弗吐氣		1
+弗向		1
+弗君子		1
+弗吝		1
+弗吝指教		1
+弗吝指正		1
+弗吝珠玉		1
+弗吝金玉		1
+弗否認		1
+弗含		1
+弗含稅		1
+弗含糊		1
+弗吭一聲		1
+弗吭氣		1
+弗吭聲		1
+弗吵		1
+弗吵弗鬧		1
+弗告弗理		1
+弗告而別		1
+弗告而去		1
+弗告訴		1
+弗告訴儂		1
+弗告訴我		1
+弗周		1
+弗周到		1
+弗周延		1
+弗和		1
+弗和諧		1
+弗咎既往		1
+弗哭		1
+弗問就聽弗到假話		1
+弗問張王李趙		1
+弗問東西南北		1
+弗問皁白		1
+弗問青紅白皁		1
+弗問青紅皂白		1
+弗問青黃		1
+弗善		1
+弗善於		1
+弗喜		1
+弗喜歡		1
+弗喫		1
+弗喫了	veq chioq lei	1
+弗喫愁眉飯		1
+弗喫煙火食		1
+弗喫白弗喫		1
+弗喫苦中苦		1
+弗喫飯		1
+弗單只是		1
+弗單單		1
+弗器		1
+弗嚴		1
+弗嚴重		1
+弗回		1
+弗回來		1
+弗回去		1
+弗回屋落		1
+弗回屋裏		1
+弗回帖		1
+弗回答		1
+弗回頭		1
+弗因		1
+弗因一事		1
+弗因弗由		1
+弗因人熱		1
+弗因熱		1
+弗因親		1
+弗固		1
+弗固定		1
+弗圓通		1
+弗在		1
+嘸沒來的	mhiq le tiq
+弗在五行中	veq dze ng yin con	1
+弗在其位		1
+弗在場		1
+弗在場證明		1
+弗在少數		1
+弗在心上		1
+弗在意		1
+弗在意下		1
+弗在於		1
+弗在此列		1
+弗在此限		1
+弗在線		1
+弗在行		1
+弗在話下		1
+弗地道		1
+弗均		1
+弗均勻		1
+弗均衡		1
+弗堅		1
+弗堅定		1
+弗堪之物		1
+弗堪入目		1
+弗堪其擾		1
+弗堪回首		1
+弗堪忍受		1
+弗堪言狀		1
+弗堪設想		1
+弗堪負荷		1
+弗堪造就		1
+弗堪重負		1
+弗報		1
+弗塗		1
+弗塞弗流		1
+弗塵俗		1
+弗增加		1
+弗壹		1
+弗外		1
+弗外借		1
+弗外是		1
+弗外露		1
+弗多		1
+弗多弗少		1
+弗多了	veq tou lei	1
+弗多工夫		1
+弗多幾日		1
+弗多時		1
+弗多個		1
+弗多見		1
+弗多講		1
+弗夠		1
+弗夠味道	veq keu mi dau	1
+弗夠大	veq keu dou	1
+弗夠好		1
+弗夠料		1
+弗夠格		1
+弗夠用		1
+弗夠看		1
+弗夠眼光		1
+弗大可能	veq da khou nen	1
+弗大於	veq dou yu	1
+弗失		1
+弗失時機		1
+弗失爲		1
+弗失良機		1
+弗夷		1
+弗夷弗惠		1
+弗奇怪		1
+弗奈		1
+弗奈何		1
+弗奈煩		1
+弗奏		1
+弗奪農時		1
+弗好使		1
+弗好做		1
+弗好受		1
+弗好啓齒		1
+弗好喫		1
+弗好干涉		1
+弗好干預		1
+弗好弄		1
+弗好意思		1
+弗好用		1
+弗好看		1
+弗好笑		1
+弗好聽		1
+弗好過		1
+弗妙		1
+弗妥		1
+弗妥協		1
+弗妥當		1
+弗婚族		1
+弗嫁		1
+弗嫌鄙		1
+弗嫌母醜		1
+弗嬴		1
+弗孕		1
+弗孕弗育		1
+弗孕性		1
+弗孕症		1
+弗孕真菌		1
+弗字		1
+弗存		1
+弗存弗濟		1
+弗存在		1
+弗存大體		1
+弗孝		1
+弗孝子		1
+弗孝有三		1
+弗孝有三無後爲大		1
+弗孤單		1
+弗守		1
+弗守信用		1
+弗守婦道		1
+弗守小節		1
+弗守本分		1
+弗守細行		1
+弗安		1
+弗安份		1
+弗安全		1
+弗安全感		1
+弗安其室		1
+弗安席		1
+弗安於位		1
+弗安於室		1
+弗安本份		1
+弗安本分		1
+弗安生		1
+弗完		1
+弗完全		1
+弗完全中立		1
+弗完全小節		1
+弗完全是		1
+弗完全歸納推理		1
+弗完全給付		1
+弗完全葉		1
+弗完善		1
+弗完整		1
+弗完美		1
+弗定		1
+弗定交		1
+弗定冠詞		1
+弗定形		1
+弗定方程		1
+弗定時		1
+弗定期		1
+弗定根		1
+弗定詞		1
+弗定量		1
+弗宜		1
+弗客氣		1
+弗宣		1
+弗宣而戰		1
+弗害		1
+弗害事		1
+弗害怕		1
+弗容		1
+弗容忽視		1
+弗容情		1
+弗容物		1
+弗容置喙		1
+弗容置疑		1
+弗容置辯		1
+弗容許		1
+弗寂寞		1
+弗密		1
+弗寐		1
+弗寒而慄		1
+弗寒而栗		1
+弗察		1
+弗實		1
+弗實之詞		1
+弗實用		1
+弗審		1
+弗寫		1
+弗封		1
+弗射		1
+弗將		1
+弗專		1
+弗專業		1
+弗尋俗		1
+弗尋常		1
+弗對稱		1
+弗對胃口		1
+弗對賬		1
+弗小		1
+弗小了	veq siau lei	1
+弗小心		1
+弗小於		1
+弗少		1
+弗少於		1
+弗少是		1
+弗就		1
+弗就可以		1
+弗就是		1
+弗尷尬		1
+弗屈		1
+弗屈弗撓		1
+弗履行		1
+弗屬		1
+弗左弗右		1
+弗巧		1
+弗差弗錯		1
+弗差累黍		1
+弗差銅鈿		1
+弗差鈔票		1
+弗希望		1
+弗帶		1
+弗帶電		1
+弗帶音		1
+弗帶頭巾男子漢		1
+弗常		1
+弗常用		1
+弗常見		1
+弗幫襯		1
+弗干擾		1
+弗干涉		1
+弗干涉主義		1
+弗干預		1
+弗平		1
+弗平之氣		1
+弗平之鳴		1
+弗平凡		1
+弗平則鳴		1
+弗平均		1
+弗平常		1
+弗平等		1
+弗平等待遇		1
+弗平等條約		1
+弗平而鳴		1
+弗平衡		1
+弗幸		1
+弗幸中之		1
+弗幸之事		1
+弗幸之幸		1
+弗幸受害		1
+弗幸福		1
+弗廢		1
+弗建議		1
+弗強		1
+弗強弗弱		1
+弗形		1
+弗形於色		1
+弗影響		1
+弗往		1
+弗待		1
+弗待要		1
+弗待說		1
+弗徇私情		1
+弗後悔		1
+弗得其死		1
+弗得其法		1
+弗得其解		1
+弗得其門而入		1
+弗得善終		1
+弗得安穩		1
+弗得安身		1
+弗得已		1
+弗得已而爲之		1
+弗得志		1
+弗得意		1
+弗得有		1
+弗得有誤		1
+弗得有違		1
+弗得空		1
+弗得而知		1
+弗得虎子		1
+弗得要領		1
+弗得開交		1
+弗得閒		1
+弗徹底		1
+弗必		1
+弗必了	veq piq lei	1
+弗必再		1
+弗必要		1
+弗必要個		1
+弗必講		1
+弗忘溝壑		1
+弗忙		1
+弗快		1
+弗快弗慢		1
+弗快活		1
+弗忮弗求		1
+弗念		1
+弗念舊情		1
+弗念舊惡		1
+弗念荷戈		1
+弗忿		1
+弗忿氣		1
+弗怒自威		1
+弗怕		1
+弗怕一萬		1
+弗怕一萬就怕萬一		1
+弗怕弗怕		1
+弗怕官只怕管		1
+弗怕慢		1
+弗怕苦		1
+弗怕貨比貨		1
+弗怕難		1
+弗思		1
+弗思進取		1
+弗怠		1
+弗怡		1
+弗急弗徐		1
+弗急之務		1
+弗急於		1
+弗怨		1
+弗怨弗尤		1
+弗恤		1
+弗恥		1
+弗恥下問		1
+弗恨		1
+弗恭		1
+弗息		1
+弗恰好		1
+弗恰當		1
+弗悅		1
+弗悔		1
+弗患		1
+弗悶		1
+弗情		1
+弗情弗緒		1
+弗情弗願		1
+弗情之請		1
+弗情願		1
+弗惜		1
+弗惜一切		1
+弗惜一戰		1
+弗惜工本		1
+弗惜成本		1
+弗惟		1
+弗惠		1
+弗惡而嚴		1
+弗忖		1
+弗忖了	veq tshen lei	1
+弗忖爾	veq tshen ng	1
+弗忖儂		1
+弗忖做		1
+弗忖去		1
+弗忖喫		1
+弗忖回屋落		1
+弗忖忖		1
+弗忖睏		1
+弗忖要		1
+弗忖講		1
+弗忖走		1
+弗愁		1
+弗愁喫		1
+弗愁穿		1
+弗愉快		1
+弗愛其	veq e ji	1
+弗愛渠	veq e ji
+弗愛我		1
+弗感		1
+弗感冒		1
+弗感興趣		1
+弗愧屋漏		1
+弗慌		1
+弗慌弗忙		1
+弗慍弗火		1
+弗慎		1
+弗慕		1
+弗慢		1
+弗慣		1
+弗慧		1
+弗憂		1
+弗憚		1
+弗憚其煩		1
+弗憚強禦		1
+弗憚煩		1
+弗憤		1
+弗憤弗啓		1
+弗懂		1
+弗懂事		1
+弗懈		1
+弗懈努力		1
+弗懈怠		1
+弗應		1
+弗應當		1
+弗懌		1
+弗懼		1
+弗成		1
+弗成人		1
+弗成功		1
+弗成半器		1
+弗成器		1
+弗成字		1
+弗成才		1
+弗成敬意		1
+弗成文		1
+弗成文法		1
+弗成文規定		1
+弗成方圓		1
+弗成模樣		1
+弗成樣子		1
+弗成比例		1
+弗成氣候		1
+弗成熟		1
+弗成爲君		1
+弗成立		1
+弗成章		1
+弗成話		1
+弗成道理		1
+弗成體統		1
+弗戒		1
+弗戰		1
+弗戰弗和		1
+弗戰而勝		1
+弗戰而敗		1
+弗戰而潰		1
+弗戰而破		1
+弗戰而退		1
+弗戴頭巾男子漢		1
+弗才		1
+弗打		1
+弗打弗叫		1
+弗打弗成才		1
+弗打弗成相與		1
+弗打弗成相識		1
+弗打弗招		1
+弗打弗相識		1
+弗打折		1
+弗打擾		1
+弗打破鼓三千		1
+弗打算		1
+弗打緊		1
+弗打話		1
+弗打量		1
+弗打點		1
+弗托		1
+弗扣		1
+弗批准		1
+弗找		1
+弗承擔		1
+弗承認		1
+弗抗弗卑		1
+弗抱		1
+弗抵抗主義		1
+弗拉		1
+弗拔		1
+弗拖		1
+弗招		1
+弗馱		1
+弗指望		1
+弗按		1
+弗挑		1
+弗排除		1
+弗採		1
+弗探虎穴		1
+弗接		1
+弗接受		1
+弗推薦		1
+弗揀		1
+弗提供		1
+弗提防		1
+弗插電		1
+弗揚		1
+弗換		1
+弗擅		1
+弗擅長	veq zhoen dzian	1
+弗擇		1
+弗擇手段		1
+弗擋		1
+弗擔心		1
+弗支持		1
+弗收		1
+弗收費		1
+弗改		1
+弗放		1
+弗放心		1
+弗放棄		1
+弗放過		1
+弗放鬆		1
+弗效		1
+弗敏		1
+弗救		1
+弗敗		1
+弗敗之地		1
+弗教而殺		1
+弗敢		1
+弗敢出氣		1
+弗敢出聲		1
+弗敢動		1
+弗敢去		1
+弗敢告勞		1
+弗敢妄言		1
+弗敢從命		1
+弗敢欺		1
+弗敢相信		1
+弗敢苟同		1
+弗敢講		1
+弗敢高攀		1
+弗散		1
+弗敬		1
+弗整		1
+弗整合		1
+弗敵		1
+弗敷		1
+弗文		1
+弗文弗武		1
+弗文明		1
+弗料		1
+弗料卻		1
+弗斬來使		1
+弗新		1
+弗新弗舊		1
+弗新鮮		1
+弗方		1
+弗方便		1
+弗施脂粉		1
+弗旋腫		1
+弗旋踵		1
+弗早		1
+弗早弗晏		1
+弗早講		1
+弗明		1
+弗明弗白		1
+弗明事理		1
+弗明就裏		1
+弗明所以		1
+弗明智		1
+弗明朗		1
+弗明白		1
+弗明究理		1
+弗明道理		1
+弗明顯		1
+弗是弗		1
+弗是弗忖		1
+弗是之處		1
+弗是也		1
+弗是了	veq zy lei	1
+弗是事		1
+弗是人		1
+弗是其	veq zy ji	1
+弗是渠	veq zy ji
+弗是爾死	veq zy ng si	1
+弗是爾個	veq zy ng goq	1
+弗是爾個	veq zy ng ghoq	1
+弗是儂死	veq zy nou si	1
+弗是儂個		1
+弗是個		1
+弗是冤家弗聚會		1
+弗是冤家弗聚頭		1
+弗是別人		1
+弗是問題		1
+弗是因爲		1
+弗是夢		1
+弗是忒		1
+弗是交關		1
+弗是交關好		1
+弗是我		1
+弗是我個		1
+弗是撐船手		1
+弗是有		1
+弗是東西		1
+弗是爲了		1
+弗是算		1
+弗是處		1
+弗是要		1
+弗是話		1
+弗是講		1
+弗是路		1
+弗是辦法		1
+弗是格末		1
+弗是格貌		1
+弗是過		1
+弗是頭		1
+弗是頭勢		1
+弗是頭路		1
+弗是風犯		1
+弗晏		1
+弗景氣		1
+弗智		1
+弗會		1
+弗會了	veq wei lei	1
+弗會來		1
+弗會做		1
+弗會像		1
+弗會再		1
+弗會再有		1
+弗會出現		1
+弗會去		1
+弗會個		1
+弗會嗬		1
+弗會寫		1
+弗會是		1
+弗會有		1
+弗會比		1
+弗會用		1
+弗會撥		1
+弗會講		1
+弗會講閒話		1
+弗會變		1
+弗會走		1
+弗會錯		1
+弗服從		1
+弗服氣		1
+弗服水土		1
+弗服燒埋		1
+弗服罪		1
+弗服老		1
+弗服輸		1
+弗杖期夫		1
+弗枉		1
+弗枉此生		1
+弗枉百步		1
+弗果		1
+弗染		1
+弗染纖塵		1
+弗查		1
+弗棄		1
+弗棄糟糠		1
+弗極		1
+弗極弗反		1
+弗構成		1
+弗標準		1
+弗止		1
+弗止一次		1
+弗止是		1
+弗正		1
+弗正之風		1
+弗正常		1
+弗正是		1
+弗正當		1
+弗正當關係		1
+弗正知		1
+弗正經		1
+弗死弗生		1
+弗死也帶傷		1
+弗殺		1
+弗殺弗辱		1
+弗毒弗發		1
+弗比		1
+弗比尋常		1
+弗求		1
+弗求上進		1
+弗求人		1
+弗求利		1
+弗求名		1
+弗求名利		1
+弗求收獲		1
+弗求有功		1
+弗求聞達		1
+弗求自得		1
+弗治		1
+弗治之症		1
+弗治而愈		1
+弗治而死		1
+弗沾		1
+弗注意		1
+弗注重		1
+弗泯		1
+弗洗		1
+弗活		1
+弗流		1
+弗流世俗		1
+弗浮		1
+弗涉及		1
+弗淑		1
+弗淘神		1
+弗淨觀		1
+弗淫		1
+弗深		1
+弗淺		1
+弗清		1
+弗清弗楚		1
+弗清弗潔		1
+弗清弗白		1
+弗清晰		1
+弗清楚		1
+弗減		1
+弗減當年		1
+弗渝		1
+弗測		1
+弗測之淵		1
+弗測之禍		1
+弗測風雲		1
+弗湊巧		1
+弗準		1
+弗準備		1
+弗溫弗火		1
+弗溯既往		1
+弗溶		1
+弗滅		1
+弗滅定律		1
+弗滯		1
+弗滿		1
+弗滿意		1
+弗滿足		1
+弗滿足於		1
+弗漂亮		1
+弗漏		1
+弗漏湯		1
+弗漲		1
+弗漲反跌		1
+弗漸		1
+弗潔		1
+弗潤		1
+弗澀		1
+弗澀弗苦		1
+弗濟		1
+弗濟事		1
+弗灰木		1
+弗煩		1
+弗煩惱		1
+弗熟		1
+弗熟悉		1
+弗熱		1
+弗營		1
+弗燼木		1
+弗爭		1
+弗爭多		1
+弗爭得		1
+弗爲		1
+弗爲五斗米折腰		1
+弗爲人下		1
+弗爲人用		1
+弗爲利誘		1
+弗爲左右袒		1
+弗爲已甚		1
+弗爲所動		1
+弗爲牛後		1
+弗爲瓦全		1
+弗爲禍先		1
+弗爲福始		1
+弗爲米折腰		1
+弗爲過		1
+弗爲難		1
+弗爽		1
+弗爽弗錯		1
+弗爽利		1
+弗牢		1
+弗特		1
+弗犯王法		1
+弗獲		1
+弗珍惜		1
+弗現實		1
+弗理		1
+弗理弗睬		1
+弗睬其	veq tshe ji	1
+弗睬渠	veq tshe ji
+弗睬爾	veq tshe ng	1
+弗睬儂	veq tshe nou	1
+弗理想		1
+弗睬我		1
+弗理會		1
+弗理解		1
+弗甘		1
+弗甘寂寞		1
+弗甘心		1
+弗甘於		1
+弗甘示弱		1
+弗甘落後		1
+弗甘雌伏		1
+弗甘食貧		1
+弗甚		1
+弗甚合意		1
+弗甚瞭瞭		1
+弗甜		1
+弗生心		1
+弗生氣		1
+弗產生		1
+弗用		1
+弗用了	veq yon lei	1
+弗用去		1
+弗用問	veq yon men	1
+弗用客氣		1
+弗用心		1
+弗用忙		1
+弗用怕		1
+弗用急		1
+弗用愁		1
+弗用尋		1
+弗用擔心		1
+弗用看		1
+弗用管		1
+弗用註冊		1
+弗用講		1
+弗用謝		1
+好甮了	hau ven lei
+好甮去
+好甮問	hau ven men
+好甮客氣
+好甮心
+好甮忙
+好甮怕
+好甮急
+好甮愁
+好甮尋
+好甮擔心
+好甮看
+好甮管
+好甮註冊
+好甮講
+好甮謝
+弗由		1
+弗由人		1
+弗男弗女		1
+弗畏		1
+弗畏強敵		1
+弗畏強暴		1
+弗畏強權		1
+弗畏強禦		1
+弗畏彊禦		1
+弗畏艱險		1
+弗畏艱難		1
+弗留		1
+弗留一字		1
+弗留心		1
+弗留情		1
+弗留情面		1
+弗留神		1
+弗留餘地		1
+弗留體統		1
+弗異		1
+弗當		1
+弗當一回事		1
+弗當一回事體		1
+弗當弗對		1
+弗當弗正		1
+弗當事		1
+弗當官		1
+弗當家	veq taon ko	1
+弗疾弗徐		1
+弗痛		1
+弗痛弗癢		1
+弗痴弗聾		1
+弗發		1
+弗發心		1
+弗發生		1
+弗發達		1
+弗白		1
+弗白之冤		1
+弗盈		1
+弗盡		1
+弗盡人意		1
+弗盡如人意		1
+弗盡年		1
+弗盡心		1
+弗盡然		1
+弗直		1
+弗相同		1
+弗相妨礙		1
+弗相容		1
+弗相容原理		1
+弗相干		1
+弗相往來		1
+弗相投		1
+弗相爲謀		1
+弗相稱		1
+弗相識		1
+弗相適應		1
+弗相關		1
+弗省		1
+弗省事		1
+弗省得		1
+弗看		1
+弗看爾	veq khien ng	1
+弗看儂		1
+弗看僧面看佛面		1
+弗看好		1
+弗看金面看佛面		1
+弗看魚情看水情		1
+弗真		1
+弗真切		1
+弗真實		1
+弗眠		1
+弗眠弗休		1
+弗睏		1
+弗睬		1
+弗瞑		1
+弗瞑目		1
+弗瞞		1
+弗瞞爾講	veq mun ng kaon	1
+弗瞞儂講		1
+弗矜		1
+弗矜弗伐		1
+弗矜名節		1
+弗矜細行		1
+弗知世事		1
+弗知世務		1
+弗知事		1
+弗知人事		1
+弗知人間有羞恥事		1
+弗知何故		1
+弗知何許人		1
+弗知其二		1
+弗知其可		1
+弗知其所以然		1
+弗知凡幾		1
+弗知出於何種原因		1
+弗知分限		1
+弗知利害		1
+弗知務		1
+弗知名		1
+弗知大體		1
+弗知天高地下		1
+弗知天高地厚		1
+弗知好人		1
+弗知好人心		1
+弗知好歉		1
+弗知好歹		1
+弗知就裏		1
+弗知廉恥		1
+弗知從何說起		1
+弗知忌諱		1
+弗知恩義		1
+弗知情		1
+弗知所云		1
+弗知所以		1
+弗知所喻		1
+弗知所措		1
+弗知所終		1
+弗知所言		1
+弗知是	veq cyu zy	1
+弗知是	veq tsiq zy	1
+弗知是	feq tsiq zy	1
+弗知有人		1
+弗知東南西北		1
+弗知死		1
+弗知深淺		1
+弗知爲何		1
+弗知甘苦		1
+弗知疲倦		1
+弗知疼癢		1
+弗知皁白		1
+弗知究理		1
+弗知羞		1
+弗知羞恥		1
+弗知者弗做罪		1
+弗知者弗罪		1
+弗知者無罪		1
+弗知覺		1
+弗知起倒		1
+弗知趣		1
+弗知足		1
+弗知輕重		1
+弗知通變		1
+弗知進退		1
+弗曉得爾	veq shiau teq ng	1
+弗曉得儂		1
+弗知頭腦		1
+弗知顛倒		1
+弗知香臭		1
+弗知高低		1
+弗短		1
+弗破		1
+弗破弗立		1
+弗確實		1
+弗礙		1
+弗礙事		1
+弗禁		1
+弗禁打		1
+弗禮		1
+弗禮貌		1
+弗秀氣		1
+弗移		1
+弗移時		1
+弗移至理		1
+弗稀奇		1
+弗稀罕		1
+弗稂弗秀		1
+弗稂弗莠		1
+弗稱		1
+弗稱心		1
+弗稱職		1
+弗稼弗穡		1
+弗穀		1
+弗積極		1
+弗穩		1
+弗穩便		1
+弗穩定		1
+弗穩定平衡		1
+弗穩定性		1
+弗穩定氣流		1
+弗穩平衡		1
+弗穩性		1
+弗究		1
+弗穿		1
+弗穿衣裳		1
+弗立		1
+弗立崖岸		1
+弗立文字		1
+弗竭		1
+弗端		1
+弗端弗正		1
+弗競		1
+弗笑		1
+弗符		1
+弗符合		1
+弗第		1
+弗等		1
+弗答		1
+弗答應		1
+弗答理		1
+弗答腔		1
+弗算		1
+弗算啥		1
+弗算多		1
+弗算數		1
+弗算是		1
+弗算閒話		1
+弗管		1
+弗管一二		1
+弗管弗顧		1
+弗管了	veq kun lei	1
+弗管事		1
+弗管啥		1
+弗管其		1
+弗管渠	veq kun ji
+弗管爾	veq kun ng	1
+弗管儂		1
+弗管咋		1
+弗管咋末		1
+弗管咋貌		1
+弗管咋講		1
+弗管是		1
+弗管是啥人		1
+弗管死活		1
+弗管生癬生瘡		1
+弗管生癬生瘡我只生癩		1
+弗管用		1
+弗管皁白		1
+弗管講雞講鴨		1
+弗管講雞講鴨我只講鵝		1
+弗管部會		1
+弗管閒賬		1
+弗管青紅皁白		1
+弗精		1
+弗約		1
+弗純		1
+弗索		1
+弗累		1
+弗終		1
+弗終天年		1
+弗終朝		1
+弗結實		1
+弗結果		1
+弗結盟		1
+弗結盟國		1
+弗結盟運動		1
+弗絕		1
+弗絕口		1
+弗絕如線		1
+弗絕如縷		1
+弗絕若線		1
+弗撥		1
+弗給予		1
+弗撥爾	veq peq ng	1
+弗撥儂		1
+弗撥我		1
+弗撥鈔票		1
+弗撥銅鈿		1
+弗統一		1
+弗統口		1
+弗經		1
+弗經一事		1
+弗經一番風霜苦		1
+弗經之談		1
+弗經事		1
+弗經事少年		1
+弗經心		1
+弗經意		1
+弗經打		1
+弗經濟		1
+弗經用		1
+弗經過		1
+弗緊		1
+弗緊弗慢		1
+弗緊張		1
+弗練		1
+弗縫		1
+弗繁		1
+弗繆		1
+弗織布		1
+弗繫		1
+弗繫舟		1
+弗繼		1
+弗缺		1
+弗置		1
+弗置可否		1
+弗置齒頰		1
+弗罰		1
+弗羈		1
+弗美		1
+弗羞見		1
+弗羣		1
+弗義		1
+弗義之財		1
+弗習		1
+弗習水土		1
+弗習水性		1
+弗翦		1
+弗翼而飛		1
+弗老		1
+弗老實		1
+弗老草		1
+弗老藥		1
+弗老長生		1
+弗耐		1
+弗耐心煩		1
+弗耐煩		1
+弗聊		1
+弗聞		1
+弗聞弗問		1
+弗聯繫		1
+弗聰明		1
+弗聲弗響		1
+弗職		1
+弗聽		1
+弗聽使		1
+弗聽使喚		1
+弗聽命		1
+弗聽手		1
+弗聽話		1
+弗肯		1
+弗肯來		1
+弗肯到		1
+弗肯干休		1
+弗能夠		1
+弗脛而走		1
+弗脩		1
+弗脩邊幅		1
+弗脫		1
+弗腆		1
+弗膩		1
+弗臊		1
+弗臧		1
+弗自外		1
+弗自涯		1
+弗自由毋寧死		1
+弗自知		1
+弗臭		1
+弗至		1
+弗致		1
+弗臻		1
+弗與		1
+弗與弗取		1
+弗興		1
+弗舉		1
+弗舍晝夜		1
+弗舒服		1
+弗舒適		1
+弗舞之鶴		1
+弗落俗套		1
+弗落屋		1
+弗落痕跡		1
+弗落眼		1
+弗落空		1
+弗落窠臼		1
+弗葷弗素		1
+弗蔓弗支		1
+弗蔓弗枝		1
+弗薄		1
+弗藥而癒		1
+弗處		1
+弗虛		1
+弗虛發		1
+弗衛生		1
+弗表		1
+弗衫弗履		1
+弗衰		1
+弗衷		1
+弗裝		1
+弗要		1
+弗要了		1
+覅其	fe ji	1
+覅其了	fe ji lei	1
+覅渠	fe ji
+覅渠了	fe ji lei
+弗要以爲		1
+莫以爲
+弗要來		1
+弗要做		1
+覅來
+覅做
+弗要再		1
+莫再
+弗要去		1
+覅去
+莫去
+弗要命		1
+性命覅其
+弗要哭		1
+莫哭
+弗要問我		1
+莫問我
+弗要因爲		1
+莫因爲
+弗要忒		1
+莫忒
+弗要客氣		1
+莫客氣
+弗要怕		1
+莫怕
+莫嚇煞
+弗要急		1
+莫急
+弗要忖		1
+莫忖
+弗要我		1
+弗要搭		1
+莫搭
+弗要有		1
+弗要求		1
+弗要爲		1
+弗要用		1
+弗要看		1
+弗要管		1
+莫爲
+莫用
+莫看
+莫管
+覅用
+覅看
+覅管
+弗要緊		1
+弗要面孔		1
+弗要丫臉		1
+面孔覅其
+丫臉覅其
+弗要見怪		1
+弗要講		1
+弗要讓		1
+弗要走		1
+弗要格末		1
+弗要格貌		1
+莫見怪
+莫講
+莫讓
+莫走
+莫格末
+莫格貌
+好甮鈔票
+弗要錯過		1
+莫錯過
+弗見怪		1
+弗見森林		1
+弗見棺材弗下淚		1
+弗見棺材弗流淚		1
+弗見泰山		1
+弗見識面		1
+弗見蹤影		1
+弗見輕		1
+弗見輸贏		1
+弗見面		1
+弗規範		1
+弗視生產		1
+弗親筆硯		1
+弗觚		1
+弗言		1
+弗言弗語		1
+弗言之教		1
+弗言而化		1
+弗言而喻		1
+弗言語		1
+弗計		1
+弗計其數		1
+弗計利害		1
+弗計得失		1
+弗計成本		1
+弗計較		1
+弗討厭		1
+弗討采		1
+弗託		1
+弗記名投票		1
+弗記得		1
+弗記得了	veq ci teq lei	1
+弗記省		1
+弗設		1
+弗設防		1
+弗設防城市		1
+弗許		1
+弗許爾	veq shiu ng	1
+弗許儂		1
+弗許動		1
+弗許失敗		1
+弗許將軍見太平		1
+弗許百姓點燈		1
+弗訾		1
+弗試		1
+弗詳		1
+弗認爲	veq zhyun wei	1
+弗認真	veq zhyun tsin	1
+弗語		1
+弗誠實		1
+弗誣		1
+弗講		1
+弗講了	veq kaon lei	1
+弗講閒話		1
+弗調		1
+弗調勻		1
+弗調貼		1
+弗談		1
+弗請		1
+弗論啥		1
+弗論好壞		1
+弗論如何		1
+弗論咋貌		1
+弗論咋末		1
+弗論是		1
+弗論是啥人		1
+弗諳		1
+弗諳事務		1
+弗講情理		1
+弗講情面		1
+弗講理		1
+弗講究		1
+弗講道理		1
+弗謝		1
+弗識		1
+弗識一丁		1
+弗識之無		1
+弗識事		1
+弗識字		1
+弗識局面		1
+弗識抬舉		1
+弗識數		1
+弗識斤兩		1
+弗識時務		1
+弗識時變		1
+弗識氣		1
+弗識泰山		1
+弗識相		1
+弗識竅		1
+弗識羞恥		1
+弗識貨		1
+弗識起倒		1
+弗識進退		1
+弗識閒		1
+弗識風色		1
+弗識高低		1
+弗護細行		1
+弗讀		1
+弗讀書		1
+弗變		1
+弗變化		1
+弗讓		1
+弗負		1
+弗負所托		1
+弗負責		1
+弗貪		1
+弗買		1
+弗買喫食		1
+弗買賬		1
+弗費		1
+弗費事		1
+弗費力		1
+弗賠		1
+弗賣		1
+弗賴		1
+弗賺		1
+弗贊同		1
+弗贊成		1
+弗贏		1
+弗走		1
+弗走旁門		1
+弗赴		1
+弗起		1
+弗起之病		1
+弗起作用		1
+弗起來		1
+弗起眼		1
+弗起訴		1
+弗起訴處分		1
+弗超過		1
+弗足		1
+弗足之症		1
+弗足之處		1
+弗足介意		1
+弗足以		1
+弗足取		1
+弗足回旋		1
+弗足多		1
+弗足慮		1
+弗足掛齒		1
+弗足採信		1
+弗足數		1
+弗足爲奇		1
+弗足爲怪		1
+弗足爲慮		1
+弗足爲憑		1
+弗足爲據		1
+弗足爲訓		1
+弗足爲道		1
+弗足個		1
+弗足個地方		1
+弗足輕重		1
+弗足道		1
+弗足齒		1
+弗足齒及		1
+弗足齒數		1
+弗跌		1
+弗跌反漲		1
+弗跑		1
+弗跟		1
+弗跳		1
+弗踰矩		1
+弗輕		1
+弗輕弗重		1
+弗輕容易		1
+弗輕饒		1
+弗輟		1
+弗輯		1
+弗輸		1
+弗輸撥		1
+弗轉		1
+弗辜		1
+弗辜負		1
+弗辦		1
+弗辨是非		1
+弗辨菽麥		1
+弗辱		1
+弗辱使命		1
+弗近		1
+弗近情理		1
+弗追		1
+弗退		1
+弗退反進		1
+弗送		1
+弗送氣		1
+弗送氣音		1
+弗透		1
+弗透光		1
+弗透明		1
+弗透氣		1
+弗格貌		1
+弗格末		1
+弗通		1
+弗通過		1
+弗造		1
+弗連續		1
+弗進		1
+弗進弗退		1
+弗進來		1
+弗進則退		1
+弗進反退		1
+弗遂		1
+弗遂心		1
+弗遂心懷		1
+弗遂意		1
+弗遇		1
+弗過一枝		1
+弗過來		1
+弗過關		1
+弗道德		1
+弗遜		1
+弗遜於		1
+弗遠		1
+弗遠弗近		1
+弗遠了	veq yoen lei	1
+弗適		1
+弗適合		1
+弗適宜		1
+弗適感		1
+弗適應		1
+弗適用		1
+弗適當		1
+弗遲弗疾		1
+弗遵		1
+弗遷		1
+弗選		1
+弗避		1
+弗避嫌疑		1
+弗避彊禦		1
+弗避斧鉞		1
+弗避艱險		1
+弗配		1
+弗配合		1
+弗酸		1
+弗酸弗甜		1
+弗酸弗苦		1
+弗酸弗辣		1
+弗重		1
+弗重要		1
+弗重視		1
+弗量		1
+弗量力		1
+弗生眼睛		1
+弗長進		1
+弗開		1
+弗開交		1
+弗開心		1
+弗開放		1
+弗開眼		1
+弗開竅		1
+弗關		1
+弗關心		1
+弗限量		1
+弗陰弗陽		1
+弗隄防		1
+弗隨		1
+弗集中		1
+弗雌弗雄		1
+弗離		1
+弗離弗棄		1
+弗難		1
+弗零弗搭		1
+弗零弗落		1
+弗需		1
+弗需要		1
+弗露		1
+弗露圭角		1
+弗露神色		1
+弗露聲色		1
+弗露身手		1
+弗露鋒芒		1
+弗露風聲		1
+弗露馬腳		1
+弗靈		1
+弗靈光		1
+弗靈驗		1
+弗靠		1
+弗靠譜		1
+弗響		1
+弗順		1
+弗順利		1
+弗順流		1
+弗順心		1
+弗順手		1
+弗順眼		1
+弗順耳		1
+弗順臉		1
+弗須		1
+弗預則廢		1
+弗領		1
+弗領情		1
+弗題		1
+弗願		1
+弗願意		1
+弗類		1
+弗顧		1
+弗顧一切		1
+弗顧前後		1
+弗顧後果		1
+弗顧曲直		1
+弗顧死活		1
+弗顧生死		1
+弗顧而唾		1
+弗顧閒野		1
+弗顧青紅皁白		1
+弗顧體統		1
+弗顧高低		1
+弗顯山弗露水		1
+弗顯平地		1
+弗顯彥章		1
+弗顯示		1
+弗餓		1
+弗騎		1
+弗騙爾	veq phien ng	1
+弗騙儂		1
+弗騰騰		1
+弗驕弗躁		1
+弗驕弗餒		1
+弗驗		1
+弗驚		1
+弗體面		1
+弗高		1
+弗高弗低		1
+弗高弗矮		1
+弗高於		1
+弗高興		1
+弗疙瘩		1
+弗黏		1
+弗黑		1
+弗齊		1
+弗齊全		1
+弗勉強	veq mien chian	1
+弗能勉強	veq nen mien chian	1
+弗要勉強	veq iau mien chian	1
+勿勉強	veq mien chian	1
+勿能勉強	veq nen mien chian	1
+勿要勉強	veq iau mien chian	1
+忒勉強了	theq mien chian lei
+忒勉強了	thou mien chian lei
+交關勉強	ciau kuaen mien chian
+勿一定
+勿一樣
+勿一樣了	veq iq yan lei
+勿一樣個	veq iq yan goq
+勿一樣個	veq iq yan ghoq
+勿一致
+勿一般
+勿三勿二	veq saen veq gni
+勿上
+勿上來
+勿上心
+勿上班
+勿上網
+勿上路
+勿上道
+勿落
+勿落了	veq loq lei
+勿下來
+勿落來
+勿落雨
+勿中
+勿中勿西
+勿中意
+勿中手
+勿中用
+勿中留
+勿中聽
+勿也
+勿也是
+勿亂
+勿予
+勿予理會
+勿予置評
+勿予評論
+勿事
+勿事生產
+勿事邊幅
+勿二
+勿亮
+勿今勿古
+勿仕
+勿代表
+勿令
+勿令人鼓舞	veq lin gnin ku vu
+勿以
+勿以成敗論英雄
+勿以爲
+勿以爲奇
+勿以爲忤
+勿以爲意
+勿以爲然
+勿以爲苦
+勿以規矩
+勿休
+勿休息
+勿伶勿俐
+勿伶俐
+勿似
+勿但
+勿但勿
+勿但是
+勿但會
+勿低
+勿住
+勿住口
+勿住嘴
+勿住眼
+勿佔
+勿作
+勿作數
+勿作準
+勿作爲
+勿作爲犯
+勿作第二
+勿作第二人想
+勿作美
+勿作聲
+勿佞
+勿佳
+勿併
+勿使用
+勿來了	veq le lei
+勿來電
+勿侈
+勿供
+勿依勿饒
+勿依賴
+勿侮暗室
+勿侵犯協定
+勿侷限
+勿便
+勿便之處
+勿便宜
+勿便處
+勿便道
+勿俗
+勿保
+勿保證
+勿信
+勿信用
+勿信道
+勿信邪
+勿修
+勿修小節
+勿修帷薄
+勿修邊幅
+勿倒
+勿倒口
+勿候
+勿借
+勿倦
+勿倫
+勿倫勿類
+勿值
+勿值一哂
+勿值一提
+勿值一文
+勿值一看
+勿值一笑
+勿值一錢
+勿值一顧
+勿值得
+勿值當
+勿值錢
+勿值銅鈿
+勿值鈔票
+勿假
+勿假以詞色
+勿假外出
+勿假外求
+勿假辭色
+勿偏
+勿偏勿倚
+勿偏斜
+勿偏極
+勿做
+勿做聲
+勿停住
+勿停當
+勿偢勿倸
+勿健康
+勿備
+勿傳
+勿傳之祕
+勿傷
+勿傷天理
+勿傷心
+勿傷脾胃
+勿僅
+勿僅僅
+勿僅僅是
+勿僅如此
+勿僅是
+勿僅會
+勿僅有
+勿僅要
+勿像人樣	veq zian gnin yan
+勿像爾	veq zian ng
+勿像儂	veq zian nou
+勿像是
+勿像樣
+勿像話
+勿僧勿俗
+勿儉則匱
+勿償命
+勿允
+勿允許
+勿充分
+勿先
+勿先來
+勿先去
+勿光
+勿光彩
+勿克
+勿克自制
+勿免
+勿免一死
+勿入
+勿入時宜
+勿入獸穴
+勿入眼
+勿入耳
+勿入虎穴
+勿入調
+勿入隊
+勿全
+勿全是
+勿全會
+勿全面
+勿兩立
+勿公
+勿公勿義
+勿公平
+勿公正
+勿公開
+勿共
+勿共天地
+勿共法
+勿共鑣
+勿其然
+勿具
+勿具備
+勿具名
+勿具有
+勿典型
+勿兼容
+勿兼容性
+勿再
+勿再出版
+勿再想
+勿再愛
+勿再是
+勿再有
+勿再需要
+勿冒
+勿冠勿帶
+勿冷
+勿冷勿熱
+勿准
+勿准其	veq cyun ji
+勿准渠	veq cyun ji
+勿准爾
+勿准儂
+勿准我
+勿准嘸沒
+勿准翻印
+勿准許
+勿准啥人
+勿凍港
+勿凍港口
+勿出
+勿出來
+勿出口
+勿出惡聲
+勿出意外
+勿出意外個閒話
+勿出所料
+勿出材
+勿出現
+勿出聲
+勿出門
+勿分勿曉
+勿分主客
+勿分主從
+勿分伯仲
+勿分南北東西
+勿分好歹
+勿分曉
+勿分畛域
+勿分軒輊
+勿分離
+勿分青紅皂白
+勿分首從
+勿切
+勿切合實際
+勿切實際
+勿切題
+勿刊
+勿刊之典
+勿刊之書
+勿刊之論
+勿利
+勿利因素
+勿利市
+勿利影響
+勿利落
+勿刪
+勿到
+勿到位
+勿到家
+勿到得
+勿到烏江勿盡頭
+勿到烏江勿肯休
+勿到烏江心勿死
+勿到頭
+勿到黃河心勿死
+勿剋制
+勿前
+勿前勿後
+勿剩
+勿割勿截
+勿力
+勿加
+勿加修飾	veq cia sieu siq
+勿加價	veq ko ko
+勿加區別	veq cia chiu biq
+勿加小心	veq cia siau sin
+勿加拘束	veq cia ciu shoq
+勿加掩飾	veq cia ien siq
+勿加理睬	veq cia li tshe
+勿加考慮	veq cia khau li
+勿加自制	veq cia zy cyu
+勿加選擇	veq cia shoen dzeq
+勿努力
+勿動
+勿動心
+勿動搖
+勿動產
+勿動聲色
+勿動關節
+勿務正業
+勿勝
+勿勝其擾
+勿勝其煩
+勿勝其苦
+勿勝唏噓
+勿勝感喟
+勿勝感激
+勿勝枚舉
+勿勝負荷
+勿勝酒力
+勿勞
+勿勞無獲
+勿勞而獲
+勿勻
+勿包
+勿包含
+勿包括
+勿匹配
+勿升
+勿卑勿亢
+勿協
+勿協調
+勿卜可知
+勿占凶吉
+勿占卜
+勿占吉凶
+勿占算
+勿卡
+勿即勿離
+勿厚道
+勿厭
+勿厭其煩
+勿厭其詳
+勿厭求詳
+勿去了	veq chi lei
+勿參加
+勿參與
+勿及時
+勿及格
+勿及物動詞
+勿友好
+勿反
+勿反顧
+勿取
+勿受
+勿受傷
+勿受抬舉
+勿受歡迎
+勿受歡迎人物
+勿受理
+勿受理判決
+勿受用
+勿受管束
+勿受籠絡
+勿受約束
+勿受聽
+勿受苦中苦
+勿只
+勿只是
+勿叫
+勿可
+勿可以
+勿可企及
+勿可估量
+勿可侵犯
+勿可侵犯權
+勿可信
+勿可信其無
+勿可偏廢
+勿可勝原
+勿可勝數
+勿可勝書
+勿可勝紀
+勿可勝言
+勿可勝計
+勿可勝記
+勿可及
+勿可取
+勿可同年而語
+勿可名字
+勿可向邇
+勿可多得
+勿可導
+勿可小覷
+勿可少
+勿可得
+勿可忽視
+勿可怕
+勿可想像
+勿可想象
+勿可或缺
+勿可戰勝
+勿可抗力
+勿可抗拒
+勿可挽回
+勿可捉摸
+勿可撤銷信用證
+勿可救藥
+勿可數
+勿可數名詞
+勿可旁貸
+勿可替代
+勿可期
+勿可枚舉
+勿可測
+勿可測知
+勿可無一
+勿可爲
+勿可狀
+勿可理喻
+勿可理解
+勿可用
+勿可當
+勿可磨滅
+勿可端倪
+勿可缺少
+勿可置信
+勿可耐
+勿可能個
+勿可能個事體
+勿可與共樂
+勿可行	veq khou yin
+勿可見
+勿可解	veq khou ka
+勿可言
+勿可言勇
+勿可言喻
+勿可言宣
+勿可說
+勿可諱言
+勿可謂
+勿可踰越
+勿可辱
+勿可逆
+勿可逆反應
+勿可逆轉
+勿可通約
+勿可逾越
+勿可避
+勿可避免
+勿可限量
+勿可靠
+勿合
+勿合作
+勿合作運動
+勿合式
+勿合時宜
+勿合格
+勿合格個
+勿合標準
+勿合法
+勿合法個
+勿合理
+勿合節
+勿合羣
+勿合規定
+勿合適
+勿合邏輯
+勿合體統
+勿吉
+勿吉利
+勿同
+勿同之處
+勿同以往
+勿同凡響
+勿同印本
+勿同地區
+勿同尋常
+勿同層次
+勿同意
+勿同意見
+勿同於
+勿同時期
+勿同個
+勿同個人
+勿同個是
+勿同程度
+勿同處
+勿同調
+勿同階段
+勿同顏色
+勿同類型
+勿同點
+勿名一文
+勿名一錢
+勿名數
+勿名譽
+勿名譽事物
+勿吐
+勿吐勿快
+勿吐氣
+勿向
+勿君子
+勿吝
+勿吝指教
+勿吝指正
+勿吝珠玉
+勿吝金玉
+勿否認
+勿含
+勿含稅
+勿含糊
+勿吭一聲
+勿吭氣
+勿吭聲
+勿吵
+勿吵勿鬧
+勿告勿理
+勿告而別
+勿告而去
+勿告訴
+勿告訴儂
+勿告訴我
+勿周
+勿周到
+勿周延
+勿和
+勿和諧
+勿咎既往
+勿哭
+勿問就聽勿到假話
+勿問張王李趙
+勿問東西南北
+勿問皁白
+勿問青紅白皁
+勿問青紅皂白
+勿問青黃
+勿善
+勿善於
+勿喜
+勿喜歡
+勿喫
+勿喫了	veq chioq lei
+勿喫愁眉飯
+勿喫煙火食
+勿喫白勿喫
+勿喫苦中苦
+勿喫飯
+勿單只是
+勿單單
+勿器
+勿嚴
+勿嚴重
+勿回
+勿回來
+勿回去
+勿回屋落
+勿回屋裏
+勿回帖
+勿回答
+勿回頭
+勿因
+勿因一事
+勿因勿由
+勿因人熱
+勿因熱
+勿因親
+勿固
+勿固定
+勿圓通
+勿在
+勿在五行中	veq dze ng yin con
+勿在其位
+勿在場
+勿在場證明
+勿在少數
+勿在心上
+勿在意
+勿在意下
+勿在於
+勿在此列
+勿在此限
+勿在線
+勿在行
+勿在話下
+勿地道
+勿均
+勿均勻
+勿均衡
+勿堅
+勿堅定
+勿堪之物
+勿堪入目
+勿堪其擾
+勿堪回首
+勿堪忍受
+勿堪言狀
+勿堪設想
+勿堪負荷
+勿堪造就
+勿堪重負
+勿報
+勿塗
+勿塞勿流
+勿塵俗
+勿增加
+勿壹
+勿外
+勿外借
+勿外是
+勿外露
+勿多
+勿多勿少
+勿多了	veq tou lei
+勿多工夫
+勿多幾日
+勿多時
+勿多個
+勿多見
+勿多講
+勿夠
+勿夠味道	veq keu mi dau
+勿夠大	veq keu dou
+勿夠好
+勿夠料
+勿夠格
+勿夠用
+勿夠看
+勿夠眼光
+勿大可能	veq da khou nen
+勿大於	veq dou yu
+勿失
+勿失時機
+勿失爲
+勿失良機
+勿夷
+勿夷勿惠
+勿奇怪
+勿奈
+勿奈何
+勿奈煩
+勿奏
+勿奪農時
+勿好使
+勿好做
+勿好受
+勿好啓齒
+勿好喫
+勿好干涉
+勿好干預
+勿好弄
+勿好意思
+勿好用
+勿好看
+勿好笑
+勿好聽
+勿好過
+勿妙
+勿妥
+勿妥協
+勿妥當
+勿婚族
+勿嫁
+勿嫌鄙
+勿嫌母醜
+勿嬴
+勿孕
+勿孕勿育
+勿孕性
+勿孕症
+勿孕真菌
+勿字
+勿存
+勿存勿濟
+勿存在
+勿存大體
+勿孝
+勿孝子
+勿孝有三
+勿孝有三無後爲大
+勿孤單
+勿守
+勿守信用
+勿守婦道
+勿守小節
+勿守本分
+勿守細行
+勿安
+勿安份
+勿安全
+勿安全感
+勿安其室
+勿安席
+勿安於位
+勿安於室
+勿安本份
+勿安本分
+勿安生
+勿完
+勿完全
+勿完全中立
+勿完全小節
+勿完全是
+勿完全歸納推理
+勿完全給付
+勿完全葉
+勿完善
+勿完整
+勿完美
+勿定
+勿定交
+勿定冠詞
+勿定形
+勿定方程
+勿定時
+勿定期
+勿定根
+勿定詞
+勿定量
+勿宜
+勿客氣
+勿宣
+勿宣而戰
+勿害
+勿害事
+勿害怕
+勿容
+勿容忽視
+勿容情
+勿容物
+勿容置喙
+勿容置疑
+勿容置辯
+勿容許
+勿寂寞
+勿密
+勿寐
+勿寒而慄
+勿寒而栗
+勿察
+勿實
+勿實之詞
+勿實用
+勿審
+勿寫
+勿封
+勿射
+勿將
+勿專
+勿專業
+勿尋俗
+勿尋常
+勿對稱
+勿對胃口
+勿對賬
+勿小
+勿小了	veq siau lei
+勿小心
+勿小於
+勿少
+勿少於
+勿少是
+勿就
+勿就可以
+勿就是
+勿尷尬
+勿屈
+勿屈勿撓
+勿履行
+勿屬
+勿左勿右
+勿巧
+勿差勿錯
+勿差累黍
+勿差銅鈿
+勿差鈔票
+勿希望
+勿帶
+勿帶電
+勿帶音
+勿帶頭巾男子漢
+勿常
+勿常用
+勿常見
+勿幫襯
+勿干擾
+勿干涉
+勿干涉主義
+勿干預
+勿平
+勿平之氣
+勿平之鳴
+勿平凡
+勿平則鳴
+勿平均
+勿平常
+勿平等
+勿平等待遇
+勿平等條約
+勿平而鳴
+勿平衡
+勿幸
+勿幸中之
+勿幸之事
+勿幸之幸
+勿幸受害
+勿幸福
+勿廢
+勿建議
+勿強
+勿強勿弱
+勿形
+勿形於色
+勿影響
+勿往
+勿待
+勿待要
+勿待說
+勿徇私情
+勿後悔
+勿得其死
+勿得其法
+勿得其解
+勿得其門而入
+勿得善終
+勿得安穩
+勿得安身
+勿得已
+勿得已而爲之
+勿得志
+勿得意
+勿得有
+勿得有誤
+勿得有違
+勿得空
+勿得而知
+勿得虎子
+勿得要領
+勿得開交
+勿得閒
+勿徹底
+勿必
+勿必了	veq piq lei
+勿必再
+勿必要
+勿必要個
+勿必講
+勿忘溝壑
+勿忙
+勿快
+勿快勿慢
+勿快活
+勿忮勿求
+勿念
+勿念舊情
+勿念舊惡
+勿念荷戈
+勿忿
+勿忿氣
+勿怒自威
+勿怕
+勿怕一萬
+勿怕一萬就怕萬一
+勿怕勿怕
+勿怕官只怕管
+勿怕慢
+勿怕苦
+勿怕貨比貨
+勿怕難
+勿思
+勿思進取
+勿怠
+勿怡
+勿急勿徐
+勿急之務
+勿急於
+勿怨
+勿怨勿尤
+勿恤
+勿恥
+勿恥下問
+勿恨
+勿恭
+勿息
+勿恰好
+勿恰當
+勿悅
+勿悔
+勿患
+勿悶
+勿情
+勿情勿緒
+勿情勿願
+勿情之請
+勿情願
+勿惜
+勿惜一切
+勿惜一戰
+勿惜工本
+勿惜成本
+勿惟
+勿惠
+勿惡而嚴
+勿忖
+勿忖了	veq tshen lei
+勿忖爾	veq tshen ng
+勿忖儂
+勿忖做
+勿忖去
+勿忖喫
+勿忖回屋落
+勿忖忖
+勿忖睏
+勿忖要
+勿忖講
+勿忖走
+勿愁
+勿愁喫
+勿愁穿
+勿愉快
+勿愛其	veq e ji
+勿愛渠	veq e ji
+勿愛我
+勿感
+勿感冒
+勿感興趣
+勿愧屋漏
+勿慌
+勿慌勿忙
+勿慍勿火
+勿慎
+勿慕
+勿慢
+勿慣
+勿慧
+勿憂
+勿憚
+勿憚其煩
+勿憚強禦
+勿憚煩
+勿憤
+勿憤勿啓
+勿懂
+勿懂事
+勿懈
+勿懈努力
+勿懈怠
+勿應
+勿應當
+勿懌
+勿懼
+勿成
+勿成人
+勿成功
+勿成半器
+勿成器
+勿成字
+勿成才
+勿成敬意
+勿成文
+勿成文法
+勿成文規定
+勿成方圓
+勿成模樣
+勿成樣子
+勿成比例
+勿成氣候
+勿成熟
+勿成爲君
+勿成立
+勿成章
+勿成話
+勿成道理
+勿成體統
+勿戒
+勿戰
+勿戰勿和
+勿戰而勝
+勿戰而敗
+勿戰而潰
+勿戰而破
+勿戰而退
+勿戴頭巾男子漢
+勿才
+勿打
+勿打勿叫
+勿打勿成才
+勿打勿成相與
+勿打勿成相識
+勿打勿招
+勿打勿相識
+勿打折
+勿打擾
+勿打破鼓三千
+勿打算
+勿打緊
+勿打話
+勿打量
+勿打點
+勿托
+勿扣
+勿批准
+勿找
+勿承擔
+勿承認
+勿抗勿卑
+勿抱
+勿抵抗主義
+勿拉
+勿拔
+勿拖
+勿招
+勿馱
+勿指望
+勿按
+勿挑
+勿排除
+勿採
+勿探虎穴
+勿接
+勿接受
+勿推薦
+勿揀
+勿提供
+勿提防
+勿插電
+勿揚
+勿換
+勿擅
+勿擅長	veq zhoen dzian
+勿擇
+勿擇手段
+勿擋
+勿擔心
+勿支持
+勿收
+勿收費
+勿改
+勿放
+勿放心
+勿放棄
+勿放過
+勿放鬆
+勿效
+勿敏
+勿救
+勿敗
+勿敗之地
+勿教而殺
+勿敢
+勿敢出氣
+勿敢出聲
+勿敢動
+勿敢去
+勿敢告勞
+勿敢妄言
+勿敢從命
+勿敢欺
+勿敢相信
+勿敢苟同
+勿敢講
+勿敢高攀
+勿散
+勿敬
+勿整
+勿整合
+勿敵
+勿敷
+勿文
+勿文勿武
+勿文明
+勿料
+勿料卻
+勿斬來使
+勿新
+勿新勿舊
+勿新鮮
+勿方
+勿方便
+勿施脂粉
+勿旋腫
+勿旋踵
+勿早
+勿早勿晏
+勿早講
+勿明
+勿明勿白
+勿明事理
+勿明就裏
+勿明所以
+勿明智
+勿明朗
+勿明白
+勿明究理
+勿明道理
+勿明顯
+勿是勿
+勿是勿忖
+勿是之處
+勿是也
+勿是了	veq zy lei
+勿是事
+勿是人
+勿是其	veq zy ji
+勿是渠	veq zy ji
+勿是爾死	veq zy ng si
+勿是爾個	veq zy ng goq
+勿是爾個	veq zy ng ghoq
+勿是儂死	veq zy nou si
+勿是儂個
+勿是個
+勿是冤家勿聚會
+勿是冤家勿聚頭
+勿是別人
+勿是問題
+勿是因爲
+勿是夢
+勿是忒
+勿是交關
+勿是交關好
+勿是我
+勿是我個
+勿是撐船手
+勿是有
+勿是東西
+勿是爲了
+勿是算
+勿是處
+勿是要
+勿是話
+勿是講
+勿是路
+勿是辦法
+勿是格末
+勿是格貌
+勿是過
+勿是頭
+勿是頭勢
+勿是頭路
+勿是風犯
+勿晏
+勿景氣
+勿智
+勿會
+勿會了	veq wei lei
+勿會來
+勿會做
+勿會像
+勿會再
+勿會再有
+勿會出現
+勿會去
+勿會個
+勿會嗬
+勿會寫
+勿會是
+勿會有
+勿會比
+勿會用
+勿會撥
+勿會講
+勿會講閒話
+勿會變
+勿會走
+勿會錯
+勿服從
+勿服氣
+勿服水土
+勿服燒埋
+勿服罪
+勿服老
+勿服輸
+勿杖期夫
+勿枉
+勿枉此生
+勿枉百步
+勿果
+勿染
+勿染纖塵
+勿查
+勿棄
+勿棄糟糠
+勿極
+勿極勿反
+勿構成
+勿標準
+勿止
+勿止一次
+勿止是
+勿正
+勿正之風
+勿正常
+勿正是
+勿正當
+勿正當關係
+勿正知
+勿正經
+勿死勿生
+勿死也帶傷
+勿殺
+勿殺勿辱
+勿毒勿發
+勿比
+勿比尋常
+勿求
+勿求上進
+勿求人
+勿求利
+勿求名
+勿求名利
+勿求收獲
+勿求有功
+勿求聞達
+勿求自得
+勿治
+勿治之症
+勿治而愈
+勿治而死
+勿沾
+勿注意
+勿注重
+勿泯
+勿洗
+勿活
+勿流
+勿流世俗
+勿浮
+勿涉及
+勿淑
+勿淘神
+勿淨觀
+勿淫
+勿深
+勿淺
+勿清
+勿清勿楚
+勿清勿潔
+勿清勿白
+勿清晰
+勿清楚
+勿減
+勿減當年
+勿渝
+勿測
+勿測之淵
+勿測之禍
+勿測風雲
+勿湊巧
+勿準
+勿準備
+勿溫勿火
+勿溯既往
+勿溶
+勿滅
+勿滅定律
+勿滯
+勿滿
+勿滿意
+勿滿足
+勿滿足於
+勿漂亮
+勿漏
+勿漏湯
+勿漲
+勿漲反跌
+勿漸
+勿潔
+勿潤
+勿澀
+勿澀勿苦
+勿濟
+勿濟事
+勿灰木
+勿煩
+勿煩惱
+勿熟
+勿熟悉
+勿熱
+勿營
+勿燼木
+勿爭
+勿爭多
+勿爭得
+勿爲
+勿爲五斗米折腰
+勿爲人下
+勿爲人用
+勿爲利誘
+勿爲左右袒
+勿爲已甚
+勿爲所動
+勿爲牛後
+勿爲瓦全
+勿爲禍先
+勿爲福始
+勿爲米折腰
+勿爲過
+勿爲難
+勿爽
+勿爽勿錯
+勿爽利
+勿牢
+勿特
+勿犯王法
+勿獲
+勿珍惜
+勿現實
+勿理
+勿理勿睬
+勿睬其	veq tshe ji
+勿睬渠	veq tshe ji
+勿睬爾	veq tshe ng
+勿睬儂	veq tshe nou
+勿理想
+勿睬我
+勿理會
+勿理解
+勿甘
+勿甘寂寞
+勿甘心
+勿甘於
+勿甘示弱
+勿甘落後
+勿甘雌伏
+勿甘食貧
+勿甚
+勿甚合意
+勿甚瞭瞭
+勿甜
+勿生心
+勿生氣
+勿產生
+勿用
+勿用了	veq yon lei
+勿用去
+勿用問	veq yon men
+勿用客氣
+勿用心
+勿用忙
+勿用怕
+勿用急
+勿用愁
+勿用尋
+勿用擔心
+勿用看
+勿用管
+勿用註冊
+勿用講
+勿用謝
+勿由
+勿由人
+勿男勿女
+勿畏
+勿畏強敵
+勿畏強暴
+勿畏強權
+勿畏強禦
+勿畏彊禦
+勿畏艱險
+勿畏艱難
+勿留
+勿留一字
+勿留心
+勿留情
+勿留情面
+勿留神
+勿留餘地
+勿留體統
+勿異
+勿當
+勿當一回事
+勿當一回事體
+勿當勿對
+勿當勿正
+勿當事
+勿當官
+勿當家	veq taon ko
+勿疾勿徐
+勿痛
+勿痛勿癢
+勿痴勿聾
+勿發
+勿發心
+勿發生
+勿發達
+勿白
+勿白之冤
+勿盈
+勿盡
+勿盡人意
+勿盡如人意
+勿盡年
+勿盡心
+勿盡然
+勿直
+勿相同
+勿相妨礙
+勿相容
+勿相容原理
+勿相干
+勿相往來
+勿相投
+勿相爲謀
+勿相稱
+勿相識
+勿相適應
+勿相關
+勿省
+勿省事
+勿省得
+勿看
+勿看爾	veq khien ng
+勿看儂
+勿看僧面看佛面
+勿看好
+勿看金面看佛面
+勿看魚情看水情
+勿真
+勿真切
+勿真實
+勿眠
+勿眠勿休
+勿睏
+勿睬
+勿瞑
+勿瞑目
+勿瞞
+勿瞞爾講	veq mun ng kaon
+勿瞞儂講
+勿矜
+勿矜勿伐
+勿矜名節
+勿矜細行
+勿知世事
+勿知世務
+勿知事
+勿知人事
+勿知人間有羞恥事
+勿知何故
+勿知何許人
+勿知其二
+勿知其可
+勿知其所以然
+勿知凡幾
+勿知出於何種原因
+勿知分限
+勿知利害
+勿知務
+勿知名
+勿知大體
+勿知天高地下
+勿知天高地厚
+勿知好人
+勿知好人心
+勿知好歉
+勿知好歹
+勿知就裏
+勿知廉恥
+勿知從何說起
+勿知忌諱
+勿知恩義
+勿知情
+勿知所云
+勿知所以
+勿知所喻
+勿知所措
+勿知所終
+勿知所言
+勿知是	veq cyu zy
+勿知是	veq tsiq zy
+勿知是	feq tsiq zy
+勿知有人
+勿知東南西北
+勿知死
+勿知深淺
+勿知爲何
+勿知甘苦
+勿知疲倦
+勿知疼癢
+勿知皁白
+勿知究理
+勿知羞
+勿知羞恥
+勿知者勿做罪
+勿知者勿罪
+勿知者無罪
+勿知覺
+勿知起倒
+勿知趣
+勿知足
+勿知輕重
+勿知通變
+勿知進退
+勿曉得爾	veq shiau teq ng
+勿曉得儂
+勿知頭腦
+勿知顛倒
+勿知香臭
+勿知高低
+勿短
+勿破
+勿破勿立
+勿確實
+勿礙
+勿礙事
+勿禁
+勿禁打
+勿禮
+勿禮貌
+勿秀氣
+勿移
+勿移時
+勿移至理
+勿稀奇
+勿稀罕
+勿稂勿秀
+勿稂勿莠
+勿稱
+勿稱心
+勿稱職
+勿稼勿穡
+勿穀
+勿積極
+勿穩
+勿穩便
+勿穩定
+勿穩定平衡
+勿穩定性
+勿穩定氣流
+勿穩平衡
+勿穩性
+勿究
+勿穿
+勿穿衣裳
+勿立
+勿立崖岸
+勿立文字
+勿竭
+勿端
+勿端勿正
+勿競
+勿笑
+勿符
+勿符合
+勿第
+勿等
+勿答
+勿答應
+勿答理
+勿答腔
+勿算
+勿算啥
+勿算多
+勿算數
+勿算是
+勿算閒話
+勿管
+勿管一二
+勿管勿顧
+勿管了	veq kun lei
+勿管事
+勿管啥
+勿管其
+勿管渠	veq kun ji
+勿管爾	veq kun ng
+勿管儂
+勿管咋
+勿管咋末
+勿管咋貌
+勿管咋講
+勿管是
+勿管是啥人
+勿管死活
+勿管生癬生瘡
+勿管生癬生瘡我只生癩
+勿管用
+勿管皁白
+勿管講雞講鴨
+勿管講雞講鴨我只講鵝
+勿管部會
+勿管閒賬
+勿管青紅皁白
+勿精
+勿約
+勿純
+勿索
+勿累
+勿終
+勿終天年
+勿終朝
+勿結實
+勿結果
+勿結盟
+勿結盟國
+勿結盟運動
+勿絕
+勿絕口
+勿絕如線
+勿絕如縷
+勿絕若線
+勿撥
+勿給予
+勿撥爾	veq peq ng
+勿撥儂
+勿撥我
+勿撥鈔票
+勿撥銅鈿
+勿統一
+勿統口
+勿經
+勿經一事
+勿經一番風霜苦
+勿經之談
+勿經事
+勿經事少年
+勿經心
+勿經意
+勿經打
+勿經濟
+勿經用
+勿經過
+勿緊
+勿緊勿慢
+勿緊張
+勿練
+勿縫
+勿繁
+勿繆
+勿織布
+勿繫
+勿繫舟
+勿繼
+勿缺
+勿置
+勿置可否
+勿置齒頰
+勿罰
+勿羈
+勿美
+勿羞見
+勿羣
+勿義
+勿義之財
+勿習
+勿習水土
+勿習水性
+勿翦
+勿翼而飛
+勿老
+勿老實
+勿老草
+勿老藥
+勿老長生
+勿耐
+勿耐心煩
+勿耐煩
+勿聊
+勿聞
+勿聞勿問
+勿聯繫
+勿聰明
+勿聲勿響
+勿職
+勿聽
+勿聽使
+勿聽使喚
+勿聽命
+勿聽手
+勿聽話
+勿肯
+勿肯來
+勿肯到
+勿肯干休
+勿能夠
+勿脛而走
+勿脩
+勿脩邊幅
+勿脫
+勿腆
+勿膩
+勿臊
+勿臧
+勿自外
+勿自涯
+勿自由毋寧死
+勿自知
+勿臭
+勿至
+勿致
+勿臻
+勿與
+勿與勿取
+勿興
+勿舉
+勿舍晝夜
+勿舒服
+勿舒適
+勿舞之鶴
+勿落俗套
+勿落屋
+勿落痕跡
+勿落眼
+勿落空
+勿落窠臼
+勿葷勿素
+勿蔓勿支
+勿蔓勿枝
+勿薄
+勿藥而癒
+勿處
+勿虛
+勿虛發
+勿衛生
+勿表
+勿衫勿履
+勿衰
+勿衷
+勿裝
+勿要
+勿要了
+勿要以爲
+勿要來
+勿要做
+勿要再
+勿要去
+勿要命
+勿要哭
+勿要問我
+勿要因爲
+勿要忒
+勿要客氣
+勿要怕
+勿要急
+勿要忖
+勿要我
+勿要搭
+勿要有
+勿要求
+勿要爲
+勿要用
+勿要看
+勿要管
+勿要緊
+勿要面孔
+勿要丫臉
+勿要見怪
+勿要講
+勿要讓
+勿要走
+勿要格末
+勿要格貌
+勿要錯過
+勿見怪
+勿見森林
+勿見棺材勿下淚
+勿見棺材勿流淚
+勿見泰山
+勿見識面
+勿見蹤影
+勿見輕
+勿見輸贏
+勿見面
+勿規範
+勿視生產
+勿親筆硯
+勿觚
+勿言
+勿言勿語
+勿言之教
+勿言而化
+勿言而喻
+勿言語
+勿計
+勿計其數
+勿計利害
+勿計得失
+勿計成本
+勿計較
+勿討厭
+勿討采
+勿託
+勿記名投票
+勿記得
+勿記得了	veq ci teq lei
+勿記省
+勿設
+勿設防
+勿設防城市
+勿許
+勿許爾	veq shiu ng
+勿許儂
+勿許動
+勿許失敗
+勿許將軍見太平
+勿許百姓點燈
+勿訾
+勿試
+勿詳
+勿認爲	veq zhyun wei
+勿認真	veq zhyun tsin
+勿語
+勿誠實
+勿誣
+勿講
+勿講了	veq kaon lei
+勿講閒話
+勿調
+勿調勻
+勿調貼
+勿談
+勿請
+勿論啥
+勿論好壞
+勿論如何
+勿論咋貌
+勿論咋末
+勿論是
+勿論是啥人
+勿諳
+勿諳事務
+勿講情理
+勿講情面
+勿講理
+勿講究
+勿講道理
+勿謝
+勿識
+勿識一丁
+勿識之無
+勿識事
+勿識字
+勿識局面
+勿識抬舉
+勿識數
+勿識斤兩
+勿識時務
+勿識時變
+勿識氣
+勿識泰山
+勿識相
+勿識竅
+勿識羞恥
+勿識貨
+勿識起倒
+勿識進退
+勿識閒
+勿識風色
+勿識高低
+勿護細行
+勿讀
+勿讀書
+勿變
+勿變化
+勿讓
+勿負
+勿負所托
+勿負責
+勿貪
+勿買
+勿買喫食
+勿買賬
+勿費
+勿費事
+勿費力
+勿賠
+勿賣
+勿賴
+勿賺
+勿贊同
+勿贊成
+勿贏
+勿走
+勿走旁門
+勿赴
+勿起
+勿起之病
+勿起作用
+勿起來
+勿起眼
+勿起訴
+勿起訴處分
+勿超過
+勿足
+勿足之症
+勿足之處
+勿足介意
+勿足以
+勿足取
+勿足回旋
+勿足多
+勿足慮
+勿足掛齒
+勿足採信
+勿足數
+勿足爲奇
+勿足爲怪
+勿足爲慮
+勿足爲憑
+勿足爲據
+勿足爲訓
+勿足爲道
+勿足個
+勿足個地方
+勿足輕重
+勿足道
+勿足齒
+勿足齒及
+勿足齒數
+勿跌
+勿跌反漲
+勿跑
+勿跟
+勿跳
+勿踰矩
+勿輕
+勿輕勿重
+勿輕容易
+勿輕饒
+勿輟
+勿輯
+勿輸
+勿輸撥
+勿轉
+勿辜
+勿辜負
+勿辦
+勿辨是非
+勿辨菽麥
+勿辱
+勿辱使命
+勿近
+勿近情理
+勿追
+勿退
+勿退反進
+勿送
+勿送氣
+勿送氣音
+勿透
+勿透光
+勿透明
+勿透氣
+勿格貌
+勿格末
+勿通
+勿通過
+勿造
+勿連續
+勿進
+勿進勿退
+勿進來
+勿進則退
+勿進反退
+勿遂
+勿遂心
+勿遂心懷
+勿遂意
+勿遇
+勿過一枝
+勿過來
+勿過關
+勿道德
+勿遜
+勿遜於
+勿遠
+勿遠勿近
+勿遠了	veq yoen lei
+勿適
+勿適合
+勿適宜
+勿適感
+勿適應
+勿適用
+勿適當
+勿遲勿疾
+勿遵
+勿遷
+勿選
+勿避
+勿避嫌疑
+勿避彊禦
+勿避斧鉞
+勿避艱險
+勿配
+勿配合
+勿酸
+勿酸勿甜
+勿酸勿苦
+勿酸勿辣
+勿重
+勿重要
+勿重視
+勿量
+勿量力
+勿生眼睛
+勿長進
+勿開
+勿開交
+勿開心
+勿開放
+勿開眼
+勿開竅
+勿關
+勿關心
+勿限量
+勿陰勿陽
+勿隄防
+勿隨
+勿集中
+勿雌勿雄
+勿離
+勿離勿棄
+勿難
+勿零勿搭
+勿零勿落
+勿需
+勿需要
+勿露
+勿露圭角
+勿露神色
+勿露聲色
+勿露身手
+勿露鋒芒
+勿露風聲
+勿露馬腳
+勿靈
+勿靈光
+勿靈驗
+勿靠
+勿靠譜
+勿響
+勿順
+勿順利
+勿順流
+勿順心
+勿順手
+勿順眼
+勿順耳
+勿順臉
+勿須
+勿預則廢
+勿領
+勿領情
+勿題
+勿願
+勿願意
+勿類
+勿顧
+勿顧一切
+勿顧前後
+勿顧後果
+勿顧曲直
+勿顧死活
+勿顧生死
+勿顧而唾
+勿顧閒野
+勿顧青紅皁白
+勿顧體統
+勿顧高低
+勿顯山勿露水
+勿顯平地
+勿顯彥章
+勿顯示
+勿餓
+勿騎
+勿騙爾	veq phien ng
+勿騙儂
+勿騰騰
+勿驕勿躁
+勿驕勿餒
+勿驗
+勿驚
+勿體面
+勿高
+勿高勿低
+勿高勿矮
+勿高於
+勿高興
+勿疙瘩
+勿黏
+勿黑
+勿齊
+勿齊全
+世界上頂	shyu ka zaon tin
+世界頂大	shyu ka tin dou
+世界個語言	shyu ka goq gniu yen
+世界個語言	shyu ka ghoq gniu yen
+丟落去	tieu loq chi
+並勿在乎	bin veq dze wu
+並弗在乎	bin veq dze wu	1
+中國頂大	con koq tin dou
+之兩	tsy lian
+九萬兩千	cieu vaen lian tshien
+也嘸沒	gha mhiq
+也嘸沒	ya mhiq
+乾淨不乾淨	kien zin peq kien zin
+清爽勿清爽	tshin saon veq tshin saon
+清爽弗清爽	tshin saon veq tshin saon	1
+乾乾個	kien kien goq
+乾乾個	kien kien ghoq
+乾坐的	kien zou tiq
+乾阿妹	kien aq mei
+乾阿姐	kien aq tsia
+燥夫夫個	sau fu fu goq
+燥乎乎個	sau hu hu goq
+燥夫夫個	sau fu fu ghoq
+燥乎乎個	sau hu hu ghoq
+乾掉宕杯	kien diau daon pei
+乾掉蕩杯	kien diau daon pei
+乾掉該杯	kien diau kiq pei
+燥煞死	sau saq si
+燥煞了	sau saq lei
+燥毛巾	sau mau cin
+乾個	kien goq
+乾個	kien ghoq
+燥個	sau goq
+燥個	sau ghoq
+乾該一杯	kien kiq iq pei
+乾該杯	kien kiq pei
+垃圾亂揞	la si loen an
+垃圾亂揞	la si loen khan
+垃圾亂揞	laq seq loen an
+垃圾亂揞	laq seq loen khan
+垃圾亂倒	la si loen tau
+垃圾亂倒	laq seq loen tau
+了勿得	liau veq teq
+了勿成	liau veq dzin
+了勿起	liau veq chi
+了弗得	liau veq teq	1
+了弗成	liau veq dzin	1
+了弗起	liau veq chi	1
+兩〇	lian lin
+兩〇〇九	lian lin lin cieu
+兩〇〇八	lian lin lin paq
+兩〇一〇	lian lin iq lin
+兩〇一一	lian lin iq iq
+廿七區	gniaen tshiq chiu
+兩兩拍子	lian lian phaq tsy
+兩人同心其利斷金	lian gnin don sin ji li doen cin
+兩倍體	lian bei thi
+兩價	lian cia
+兩億塊	lian i khuei
+兩元方程式	lian gnioen faon dzin siq
+兩出祁山	lian chyuq ji saen
+兩分之一	lian fen tsy iq
+兩分裂	lian fen liq
+兩分音符	lian fen in vu
+兩分點	lian fen tien
+兩則	lian tseq
+兩副	lian fu
+兩劃	lian waq
+兩動	lian don
+兩區	lian chiu
+廿一世紀	gniaen iq shyu ci
+廿一萬	gniaen iq vaen
+廿一點	gniaen iq tien
+廿七萬	gniaen tshiq vaen
+廿七號	gniaen tshiq ghau
+廿三萬	gniaen saen vaen
+廿三點	gniaen saen tien
+廿二萬	gniaen gni vaen
+廿二號	gniaen gni ghau
+廿二點	gniaen gni tien
+廿八宿	gniaen paq sieu
+廿八萬	gniaen paq vaen
+廿八號	gniaen paq ghau
+廿六歲	gniaen loq shyu
+廿六萬	gniaen loq vaen
+廿六號	gniaen loq ghau
+廿四小時	gniaen sy siau zy
+廿四萬	gniaen sy vaen
+廿四號	gniaen sy ghau
+廿多	gniaen tou
+廿多萬	gniaen tou vaen
+廿日	gniaen gniq
+廿幾	gniaen ci
+廿幾年	gniaen ci gnien
+廿幾萬	gniaen ci vaen
+廿歲	gniaen sei
+廿萬	gniaen vaen
+廿點	gniaen tien
+兩千億	lian tshien i
+兩千石	lian tshien zaq
+兩千萬	lian tshien vaen
+兩合一	lian gheq iq
+兩和藥	lian ghou yaq
+兩回熟	lian wei zhoq
+兩塊洋鈿	lian khuei yan dien
+兩日後	lian gniq gheu
+兩子	lian tsy
+兩子一女	lian tsy iq gniu
+兩子兩女	lian tsy lian gniu
+兩季度	lian ci du
+兩尖瓣	lian tsien baen
+兩局上半	lian jioq zaon pun
+兩局下半	lian jioq gho pun
+兩年制	lian gnien cyu
+兩年生植物	lian gnien sen dziq veq
+兩年級	lian gnien ciq
+兩度春	lian du chyun
+兩度梅	lian du mei
+兩手房	lian sieu vaon
+兩手菸	lian sieu ien
+兩手貨	lian sieu hou
+兩手車	lian sieu tsho
+兩把刀	lian po tau
+兩把手	lian po sieu
+兩指	lian tsy
+兩斗	lian teu
+兩月兩	lian yuq lian
+兩月份	lian yuq ven
+兩期工程	lian ji kon dzin
+兩桿子	lian kien tsy
+兩桿子脾氣	lian kien tsy bi chi
+兩棟	lian ton
+兩樓	lian leu
+兩樓住戶	lian leu jyu wu
+兩次世界大戰	lian tshy shyu ka da tsien
+兩次世界大戰	lian tshy shyu ka da coen
+兩次函數	lian tshy ghein su
+兩次型	lian tshy yin
+兩次多項式	lian tshy tou ghaon siq
+兩次大戰	lian tshy da tsien
+兩次大戰	lian tshy da coen
+兩次感染	lian tshy kien gnien
+兩次方	lian tshy faon
+兩次方程	lian tshy faon dzin
+兩次方程式	lian tshy faon dzin siq
+兩次曲	lian tshy chioq
+兩次曲線	lian tshy chioq sien
+兩次曲面	lian tshy chioq mien
+兩次污染	lian tshy u gnien
+兩次破碎	lian tshy phou sei
+兩次能源	lian tshy nen gnioen
+兩次開發	lian tshy khe faq
+兩次電子	lian tshy dien tsy
+兩毛	lian mau
+兩環	lian waen
+兩等	lian ten
+兩等兵	lian ten pin
+兩等功	lian ten kon
+兩等獎	lian ten tsian
+兩等艙	lian ten tshaon
+兩等親	lian ten tshin
+兩等車	lian ten tsho
+兩籠	lian lon
+兩級域名	lian ciq yoq min
+兩級士官	lian ciq zy kun
+兩級市場	lian ciq zy dzian
+兩級緩存	lian ciq wun dzen
+兩級頭	lian ciq deu
+兩級風	lian ciq fon
+兩維	lian vi
+兩維碼	lian vi mo
+兩線	lian sien
+兩者不可兼得	lian ce peq khou cien teq
+兩者之一	lian ce tsy iq
+兩者之間	lian ce tsy cien
+兩者必居其一	lian ce piq ciu ji iq
+兩股	lian ku
+兩萬五千里長征	lian vaen ng tshien li dzian tsin
+兩萬多	lian vaen tou
+兩葉松	lian yiq son
+兩號人物	lian ghau zhyun veq
+兩號機	lian ghau ci
+兩號線	lian ghau sien
+兩號電池	lian ghau dien dzi
+兩號電池	lian ghau dien dzy
+兩街	lian ka
+二話勿講	gni wo veq kaon
+二話弗講	gni wo veq kaon	1
+兩讀	lian doq
+兩踢腳	lian thiq ciaq
+兩輪電影	lian len dien in
+兩輪馬車	lian len mo tsho
+兩進	lian tsin
+兩進位	lian tsin wei
+兩進位制	lian tsin wei cyu
+兩進制	lian tsin cyu
+兩進制碼	lian tsin cyu mo
+兩進制編碼	lian tsin cyu pien mo
+兩進宮	lian tsin kon
+兩遍苦	lian pien khu
+兩道販子	lian dau faen tsy
+兩部制	lian bu cyu
+兩部合唱	lian bu gheq chaon
+兩部曲	lian bu chioq
+兩里	lian li
+兩重唱	lian jon chaon
+兩重奏	lian jon tseu
+兩重根	lian jon ken
+兩零零	lian lin lin
+兩面角	lian mien koq
+兩頭肌	lian deu ci
+五分洋鈿	ng fen yan dien
+亞洲頂大	ia tsieu ten da
+交落	kau loq
+交落來	kau loq le
+交落去	kau loq chi
+交付撥	ciau fu peq
+交女朋友	ciau gniu ban yeu
+交男友	ciau nein yeu
+交男朋友	ciau nein ban yeu
+交易價鈿	ciau yiq ko dien
+交撥	ciau peq
+交還撥	ciau waen peq
+交鈔票	kau tshau phiau
+亮的	lian tiq
+人勿	gnin veq
+人勿像人	gnin veq zian gnin
+人弗	gnin veq	1
+人弗像人	gnin veq zian gnin	1
+人莫哭	gnin mau khoq
+人莫哭	gnin mhau khoq
+人喫人	gnin chioq gnin
+人搭事	gnin taq zy
+人家講	gnin ko kaon
+人家話	gnin ko wo
+人缺	gnin chiuq
+人心是肉做個	gnin sin zy gnioq tsou goq
+人心是肉做個	gnin sin zy gnioq tsou ghoq
+人手勿足	gnin sieu veq tsoq
+人手勿足	zhyun sieu veq tsoq
+人手弗足	gnin sieu veq tsoq	1
+人手弗足	zhyun sieu veq tsoq	1
+人數頂多	gnin su ten tou
+人比人氣煞人	gnin pi gnin chi saq gnin
+人生地勿熟	gnin san di veq zhoq
+人生地弗熟	gnin san di veq zhoq	1
+人生路勿熟	gnin san lu veq zhoq
+人生面勿熟	gnin san mien veq zhoq
+人生路弗熟	gnin san lu veq zhoq	1
+人生面弗熟	gnin san mien veq zhoq	1
+人個	gnin goq
+人個	gnin ghoq
+人曉得	gnin shiau teq
+人算勿如天算	gnin soen veq zhyu thien soen
+人算弗如天算	gnin soen veq zhyu thien soen	1
+人講	gnin kaon
+啥問題	soq ven di
+啥問題	so ven di
+啥問題	sou ven di
+啥牌子	soq ba tsy
+啥牌子	so ba tsy
+啥牌子	sou ba tsy
+啥顏色	soq ngaen seq
+啥顏色	so ngaen seq
+啥顏色	sou ngaen seq
+渠上去	ji zaon chi
+渠下去	ji gho chi
+渠落去	ji loq chi
+渠了	ji lei
+渠了	ji leq
+渠人	ji gnin
+渠出去	ji chyuq chi
+其上去	ji zaon chi
+其下去	ji gho chi
+其落去	ji loq chi
+其了	ji lei
+其了	ji leq
+其出去	ji chyuq chi
+渠搭	ji taq
+渠搭渠	ji taq ji
+渠拉屋落	jiq laq oq loq
+渠拉屋落	ji laq oq loq
+渠自家	ji zi ko
+渠認爲	ji zhyun wei
+渠過去	ji kou chiu
+渠過去	ji kou chi
+其搭	ji taq
+其搭其	ji taq ji
+其拉屋落	jiq laq oq loq
+其拉屋落	ji laq oq loq
+其自家	ji zi ko
+其認爲	ji zhyun wei
+其過去	ji kou chiu
+其過去	ji kou chi
+仗勒	dzian leq
+付勒	fu leq
+付的	fu tiq
+令俉	lin ng
+令爾	lin ng
+令儂	lin nou
+以俉	yi ng
+以爾	yi ng
+以儂	yi nou
+以小喫大	yi siau chioq dou
+仰仗勒	gnian dzian leq
+仰看勒	gnian khien leq
+仰賴勒	gnian la leq
+任何事體	zhyun ghou zy thi
+任俉	zhyun ng
+任爾	zhyun ng
+任儂	zhyun nou
+伏勒	boq leq
+伴勒	bun leq
+伴隨勒	bun zei leq
+伸落	sin loq
+伸落來	sin loq le
+伸落去	sin loq chi
+伸勒	sin leq
+伸手勿見五指	sin sieu veq cien ng tsy
+伸手弗見五指	sin sieu veq cien ng tsy	1
+但爾	daen ng
+但俉	daen ng
+但儂	daen nou
+但嘸沒	daen mhiq
+低落去	ti loq chi
+頭低落去	deu ti loq chi
+低勒	ti leq
+低勒頭	ti leq deu
+頭低勒仔	deu ti leq tsy
+住落去	jyu loq chi
+庉落去	den loq chi
+住勒	jyu leq
+庉勒	den leq
+佔勒	tsien leq
+佔勒	coen leq
+作賤自家	tsoq zien zi ko
+你勿	ng veq
+你弗	ng veq	1
+你嘸沒來的	ng mhiq le tiq
+你勿是	ng veq zy
+你弗是	ng veq zy	1
+倷倆	naq lian
+倷好	naq hau
+你搭	ng taq
+你來的	ng le tiq
+你忒	ng theq
+你忒	ng thou
+你好𠲎	ng hau va
+你好𠲎	ng hau vaq
+你好弗	ng hau veq	1
+你好勿	ng hau veq
+倷阿姆	naq a m
+倷阿姆	naq an m
+倷阿姆䏘	naq a m phiq
+倷阿姆䏘	naq an m phiq
+倷屋落	naq oq loq
+你蠻	ng mhaen
+你忖	ng tshen
+你忖要	ng tshen iau
+你搭我	ng taq ngo
+你搭我	ng to
+你尋	ng zin
+你是啥人	ng zy soq gnin
+你頂	ng tin
+你嘸沒	ng mhiq
+倷阿伯	naq aq paq
+倷阿爸	naq aq paq
+你該心	ng kiq sin
+你該愛	ng kiq e
+你該手	ng kiq sieu
+你心	ng sin
+你手	ng sieu
+你自家	ng zi ko
+你如話	ng zhyu wo
+你是話	ng zy wo
+你囥	ng khaon
+你覺着	ng koq joq
+你覺着	ng koq zhoq
+你講我	ng kaon ngo
+你講的	ng kaon tiq
+你講個	ng kaon goq
+你講個	ng kaon ghoq
+你講勒	ng kaon leq
+你講過	ng kaon kou
+你話	ng wo
+你話我	ng wo ngo
+你話的	ng wo tiq
+你話個	ng wo goq
+你話個	ng wo ghoq
+你話勒	ng wo leq
+你話過	ng wo kou
+爾一	ng iq
+爾勿	ng veq
+爾弗	ng veq	1
+爾嘸沒來的	ng mhiq le tiq
+爾勿是	ng veq zy
+爾弗是	ng veq zy	1
+爾也	ng gha
+爾乾一杯	ng kien iq pei
+爾以爲	ng yi wei
+爾作	ng tsoq
+爾做	ng tsou
+爾到	ng tau
+爾剋制	ng kheq cyu
+爾只	ng tsiq
+爾搭	ng taq
+爾哦	ng o
+爾問	ng men
+爾在	ng dze
+爾來的	ng le tiq
+爾忒	ng theq
+爾忒	ng thou
+爾好	ng hau
+爾好啊	ng hau gha
+爾好啊	ng hau a
+爾好𠲎	ng hau va
+爾好𠲎	ng hau vaq
+爾好弗	ng hau veq	1
+爾好勿	ng hau veq
+爾將	ng tsian
+爾對	ng tei
+爾就	ng dzieu
+爾就會	ng dzieu wei
+爾蠻	ng mhaen
+爾得	ng teq
+爾快樂	ng khua loq
+爾念	ng gniaen
+爾怕	ng pho
+爾想	ng sian
+爾想要	ng sian iau
+爾忖	ng tshen
+爾忖要	ng tshen iau
+爾愛	ng e
+爾愛我	ng e ngo
+爾懂	ng ton
+爾搭我	ng taq ngo
+爾搭我	ng to
+爾尋	ng zin
+爾搜	ng seu
+爾搞	ng gau
+爾敢	ng kien
+爾是	ng zy
+爾是我	ng zy ngo
+爾是爲了	ng zy wei leq
+爾是啥人	ng zy soq gnin
+爾頂	ng tin
+爾會	ng wei
+爾有	ng yeu
+爾死	ng si
+爾比	ng pi
+爾嘸沒	ng mhiq
+爾猜	ng tshe
+爾用	ng yon
+爾該	ng kiq
+爾該心	ng kiq sin
+爾該愛	ng kiq e
+爾該手	ng kiq sieu
+爾心	ng sin
+爾手	ng sieu
+爾看	ng khien
+爾真	ng tsin
+爾老	ng lau
+爾聽	ng thin
+爾能	ng nen
+爾自家	ng zi ko
+爾若	ng ziaq
+爾若	ng zhoq
+爾如話	ng zhyu wo
+爾是話	ng zy wo
+爾藏	ng dzaon
+爾囥	ng khaon
+爾行	ng yin
+爾要	ng iau
+爾覺得	ng cioq teq
+爾覺着	ng koq joq
+爾覺着	ng koq zhoq
+爾該	ng ke
+爾講	ng kaon
+爾講我	ng kaon ngo
+爾講的	ng kaon tiq
+爾講個	ng kaon goq
+爾講個	ng kaon ghoq
+爾講勒	ng kaon leq
+爾講過	ng kaon kou
+爾話	ng wo
+爾話我	ng wo ngo
+爾話的	ng wo tiq
+爾話個	ng wo goq
+爾話個	ng wo ghoq
+爾話勒	ng wo leq
+爾話過	ng wo kou
+爾走了	ng tseu leq
+爾轉	ng coen
+爾還	ng wa
+爾還會	ng wa wei
+爾還	ng gha
+爾還會	ng gha wei
+俉一	ng iq
+俉勿	ng veq
+俉弗	ng veq	1
+俉嘸沒來的	ng mhiq le tiq
+俉勿是	ng veq zy
+俉弗是	ng veq zy	1
+俉也	ng gha
+俉乾一杯	ng kien iq pei
+俉以爲	ng yi wei
+俉作	ng tsoq
+俉來	ng le
+俉做	ng tsou
+俉到	ng tau
+俉剋制	ng kheq cyu
+俉只	ng tsiq
+俉搭	ng taq
+俉哦	ng o
+俉問	ng men
+俉在	ng dze
+俉來的	ng le tiq
+俉忒	ng theq
+俉忒	ng thou
+俉好	ng hau
+俉好啊	ng hau gha
+俉好啊	ng hau a
+俉好𠲎	ng hau va
+俉好𠲎	ng hau vaq
+俉好弗	ng hau veq	1
+俉好勿	ng hau veq
+俉將	ng tsian
+俉對	ng tei
+俉就	ng dzieu
+俉就會	ng dzieu wei
+俉蠻	ng mhaen
+俉得	ng teq
+俉快樂	ng khua loq
+俉念	ng gniaen
+俉怕	ng pho
+俉想	ng sian
+俉想要	ng sian iau
+俉忖	ng tshen
+俉忖要	ng tshen iau
+俉愛	ng e
+俉愛我	ng e ngo
+俉懂	ng ton
+俉搭我	ng taq ngo
+俉搭我	ng to
+俉尋	ng zin
+俉搜	ng seu
+俉搞	ng gau
+俉敢	ng kien
+俉是	ng zy
+俉是我	ng zy ngo
+俉是爲了	ng zy wei leq
+俉是啥人	ng zy soq gnin
+俉頂	ng tin
+俉會	ng wei
+俉有	ng yeu
+俉死	ng si
+俉比	ng pi
+俉嘸沒	ng mhiq
+俉猜	ng tshe
+俉用	ng yon
+俉該	ng kiq
+俉該心	ng kiq sin
+俉該愛	ng kiq e
+俉該手	ng kiq sieu
+俉心	ng sin
+俉手	ng sieu
+俉看	ng khien
+俉真	ng tsin
+俉等	ng ten
+俉老	ng lau
+俉聽	ng thin
+俉能	ng nen
+俉自家	ng zi ko
+俉若	ng ziaq
+俉若	ng zhoq
+俉如話	ng zhyu wo
+俉是話	ng zy wo
+俉藏	ng dzaon
+俉囥	ng khaon
+俉行	ng yin
+俉要	ng iau
+俉覺得	ng cioq teq
+俉覺着	ng koq joq
+俉覺着	ng koq zhoq
+俉該	ng ke
+俉講	ng kaon
+俉講我	ng kaon ngo
+俉講的	ng kaon tiq
+俉講個	ng kaon goq
+俉講個	ng kaon ghoq
+俉講勒	ng kaon leq
+俉講過	ng kaon kou
+俉話	ng wo
+俉話我	ng wo ngo
+俉話的	ng wo tiq
+俉話個	ng wo goq
+俉話個	ng wo ghoq
+俉話勒	ng wo leq
+俉話過	ng wo kou
+俉走了	ng tseu leq
+俉轉	ng coen
+俉還	ng wa
+俉還會	ng wa wei
+俉還	ng gha
+俉還會	ng gha wei
+儂走儂的陽關道	nou tseu nou tiq yan kuaen dau
+儂一	nou iq
+儂勿	nou veq
+儂弗	nou veq	1
+儂嘸沒來的	nou mhiq le tiq
+儂勿是	nou veq zy
+儂弗是	nou veq zy	1
+儂也	nou gha
+儂乾一杯	nou kien iq pei
+儂以爲	nou yi wei
+儂作	nou tsoq
+儂來	nou le
+儂做	nou tsou
+儂到	nou tau
+儂剋制	nou kheq cyu
+儂只	nou tsiq
+儂搭	nou taq
+儂哦	nou o
+儂問	nou men
+儂在	nou dze
+儂來的	nou le tiq
+儂忒	nou theq
+儂忒	nou thou
+儂好啊	nou hau gha
+儂好啊	nou hau a
+儂好𠲎	nou hau va
+儂好𠲎	nou hau vaq
+儂好弗	nou hau veq	1
+儂好勿	nou hau veq
+儂將	nou tsian
+儂對	nou tei
+儂就	nou dzieu
+儂就會	nou dzieu wei
+儂蠻	nou mhaen
+儂得	nou teq
+儂快樂	nou khua loq
+儂念	nou gniaen
+儂怕	nou pho
+儂想	nou sian
+儂想要	nou sian iau
+儂忖	nou tshen
+儂忖要	nou tshen iau
+儂愛	nou e
+儂愛我	nou e ngo
+儂懂	nou ton
+儂搭我	nou taq ngo
+儂搭我	nou to
+儂尋	nou zin
+儂搜	nou seu
+儂搞	nou gau
+儂敢	nou kien
+儂是	nou zy
+儂是我	nou zy ngo
+儂是爲了	nou zy wei leq
+儂是啥人	nou zy soq gnin
+儂啥人	nou soq gnin
+儂頂	nou tin
+儂會	nou wei
+儂有	nou yeu
+儂死	nou si
+儂比	nou pi
+儂嘸沒	nou mhiq
+儂猜	nou tshe
+儂用	nou yon
+儂該	nou kiq
+儂該心	nou kiq sin
+儂該愛	nou kiq e
+儂該手	nou kiq sieu
+儂個心	nou goq sin
+儂個愛	nou goq e
+儂個手	nou goq sieu
+儂個心	nou ghoq sin
+儂個愛	nou ghoq e
+儂個手	nou ghoq sieu
+儂心	nou sin
+儂手	nou sieu
+儂看	nou khien
+儂真	nou tsin
+儂等	nou ten
+儂老	nou lau
+儂聽	nou thin
+儂能	nou nen
+儂自家	nou zi ko
+儂若	nou ziaq
+儂若	nou zhoq
+儂如話	nou zhyu wo
+儂是話	nou zy wo
+儂藏	nou dzaon
+儂囥	nou khaon
+儂行	nou yin
+儂要	nou iau
+儂覺得	nou cioq teq
+儂覺着	nou koq joq
+儂覺着	nou koq zhoq
+儂該	nou ke
+儂講	nou kaon
+儂講我	nou kaon ngo
+儂講的	nou kaon tiq
+儂講個	nou kaon goq
+儂講個	nou kaon ghoq
+儂講勒	nou kaon leq
+儂講過	nou kaon kou
+儂話	nou wo
+儂話我	nou wo ngo
+儂話的	nou wo tiq
+儂話個	nou wo goq
+儂話個	nou wo ghoq
+儂話勒	nou wo leq
+儂話過	nou wo kou
+儂走了	nou tseu leq
+儂轉	nou coen
+儂還	nou wa
+儂還會	nou wa wei
+儂還	nou gha
+儂還會	nou gha wei
+佩帶勒	bei ta leq
+佩勒	bei leq
+使爾	sy ng
+使俉	sy ng
+使儂	sy nou
+來吶	le neq
+來哪	le naq
+來回來去個	le wei le chi goq
+來回來去個	le wei le chi ghoq
+來勒容易	le leq yon yi
+來容易	le yon yi
+來捉	le tsoq
+來馱	le dou
+來看爾	le khien ng
+來看俉	le khien ng
+來看儂	le khien nou
+來自浙江	le zy tsiq kaon
+來自寧波	le zy gnin pou
+來自寧波	le zy gnin poq
+來自舟山	le zy tsieu saen
+依循勒	i zhyun leq
+依照勒	i tsiau leq
+依勒	i leq
+依靠勒	i khau leq
+侵犯了俉	tshin vaen leq ng
+侵犯了爾	tshin vaen leq ng
+侵犯了你	tshin vaen leq ng
+侵犯了儂	tshin vaen leq nou
+保存勒	pau dzen leq
+保持來	pau dzi le
+保持來	pau dzy le
+保持勒	pau dzi leq
+保持勒	pau dzy leq
+保留勒	pau lieu leq
+保護自家	pau wu zi ko
+俯落去	fu loq chi
+倒落去	tau loq chi
+倒也勿	tau gha veq
+倒也勿是	tau gha veq zy
+倒也𣍐	tau gha vei
+倒也弗	tau gha veq	1
+倒也弗是	tau gha veq zy	1
+倚靠勒	i khau leq
+隑勒	ge leq
+借勒	tsia leq
+假使來	cia sy le
+假使講	cia sy kaon
+假使話	cia sy wo
+假如講	cia zhyu kaon
+假如話	cia zhyu wo
+假定講	cia din kaon
+假定話	cia din wo
+假個	ko goq
+假個	ko ghoq
+假若來	cia ziaq le
+假若來	cia zhoq le
+假裝來	cia tsaon le
+偏勒	phien leq
+做一日和尚	tsou iq gniq ghou zhaon
+做一日和尚撞一日鐘	tsou iq gniq ghou zhaon jaon iq gniq con
+做落去	tsou loq chi
+做勿了	tsou veq liau
+做弗了	tsou veq liau	1
+做勿來	tsou veq le
+做弗來	tsou veq le	1
+做勒來	tsou leq le
+做勒更好	tsou leq ken hau
+做自家	tsou zi ko
+停落	din loq
+停落來	din loq le
+停落去	din loq chi
+停勿落	din veq loq
+停勿落來	din veq loq le
+停弗落	din veq loq	1
+停弗落來	din veq loq le	1
+停勿牢	din veq lau
+停弗牢	din veq lau	1
+停牢	din lau
+停勒	din leq
+停放勒	din faon leq
+停止落來	din tsy loq le
+停滯勿前	din dzy veq zien
+停滯弗前	din dzy veq zien	1
+停滯勿前	din dzi veq zien
+停滯弗前	din dzi veq zien	1
+停留勒	din lieu leq
+停留辰光	din lieu zhyun kuaon
+停靠勒	din khau leq
+停頓落來	din ten loq le
+偷落去	theu loq chi
+偷馱	theu dou
+偷勒	theu leq
+傳落	joen loq
+傳落來	joen loq le
+傳落去	joen loq chi
+傳勿到	joen veq tau
+傳弗到	joen veq tau	1
+傳授撥	joen zieu peq
+傳播撥	joen pou peq
+傳染撥	joen gnien peq
+傳個	joen goq
+傳個	joen ghoq
+傳勒	joen leq
+傳撥	joen peq
+戇人自有戇福	gaon gnin zy yeu gaon foq
+傾落去	chin loq chi
+像俉	zian ng
+像爾	zian ng
+像儂	zian nou
+僵持勿落	cian dzi veq loq
+僵持弗落	cian dzi veq loq	1
+僵持勿落	cian dzy veq loq
+僵持弗落	cian dzy veq loq	1
+兄弟姊妹	shion di tsi mei
+先落去	sien loq chi
+光兩極管	kuaon lian jiq kun
+頭光的	deu kuaon tiq
+光電兩極	kuaon dien lian jiq
+光電兩極管	kuaon dien lian jiq kun
+克服勿了	kheq voq veq liau
+克服弗了	kheq voq veq liau	1
+免勿了	mien veq liau
+免弗了	mien veq liau	1
+內容搭形式	nei yon taq yin siq
+內生個	nei sen goq
+內生個	nei sen ghoq
+全國頂大	joen koq tin dou
+全球頂大	joen jieu tin dou
+兩個小人	lian goq siau gnin
+兩個小人	lian ghoq siau gnin
+兩面勿是人	lian mien veq zy gnin
+兩面弗是人	lian mien veq zy gnin	1
+八字嘸沒一撇	paq zy mhiq iq phiq
+八字眉毛	paq zy mi mau
+八字還嘸沒一撇	paq zy wa mhiq iq phiq
+八號上半日	paq ghau zaon pun gniq
+八號下半日	paq ghau gho pun gniq
+八竿子打勿着	paq kien tsy tan veq joq
+八竿子打勿着	paq kien tsy tan veq zhoq
+八竿子打弗着	paq kien tsy tan veq joq	1
+八竿子打弗着	paq kien tsy tan veq zhoq	1
+公私勿分	kon sy veq fen
+公私弗分	kon sy veq fen	1
+再落去	tse loq chi
+再勿去	tse veq chi
+再弗去	tse veq chi	1
+再也勿	tse gha veq
+再也弗	tse gha veq	1
+再也𣍐	tse gha vei
+再也勿是	tse gha veq zy
+再也勿會	tse gha veq wei
+再也勿肯	tse gha veq khen
+再也勿能	tse gha veq nen
+再也弗是	tse gha veq zy	1
+再也弗會	tse gha veq wei	1
+再也弗肯	tse gha veq khen	1
+再也弗能	tse gha veq nen	1
+再也嘸沒	tse gha mhiq
+再也勿	tse ya veq
+再也弗	tse ya veq	1
+再也𣍐	tse ya vei
+再也勿是	tse ya veq zy
+再也勿會	tse ya veq wei
+再也勿肯	tse ya veq khen
+再也勿能	tse ya veq nen
+再也弗是	tse ya veq zy	1
+再也弗會	tse ya veq wei	1
+再也弗肯	tse ya veq khen	1
+再也弗能	tse ya veq nen	1
+再也嘸沒	tse ya mhiq
+再好也勿過	tse hau gha veq kou
+再好也弗過	tse hau gha veq kou	1
+再馱	tse dou
+再嘸沒	tse mhiq
+再講落去	tse kaon loq chi
+再話落去	tse wo loq chi
+冒勒	mau leq
+冒勒危險	mau leq nguei shien
+冒勒生命危險	mau leq sen min nguei shien
+冤煞死	ioen saq si
+冤煞了	ioen saq lei
+凝視勒	gnin zy leq
+凝集個	gnin dziq goq
+凝集個	gnin dziq ghoq
+凸的	deq tiq
+凸仔	deq tsy
+出勿了	chyuq veq liau
+出弗了	chyuq veq liau	1
+出仔	chyuq tsy
+出仔事體	chyuq tsy zy thi
+出海抲魚	chyuq he kho ng
+分勿出	fen veq chyuq
+分勿清	fen veq tshin
+分勿清爽	fen veq tshin saon
+分勿開	fen veq khe
+分弗出	fen veq chyuq	1
+分弗清	fen veq tshin	1
+分弗清爽	fen veq tshin saon	1
+分弗開	fen veq khe	1
+分喫	fen chioq
+分勒出	fen leq chyuq
+分勒到	fen leq tau
+分勒清	fen leq tshin
+分發撥	fen faq peq
+分鈔票	fen tshau phiau
+划勿來	waq veq le
+划弗來	waq veq le	1
+划勒	uo leq
+划勒走	uo leq tseu
+初戀個感覺	tshu lien goq kien cioq
+初戀個感覺	tshu lien ghoq kien cioq
+判落去	phun loq chi
+別人個	biq gnin goq
+別人個	biq gnin ghoq
+別人家	biq gnin ko
+莫呆了	mhau nge lei
+莫呆了	mau nge lei
+莫出去	mhau chyuq chi
+莫出去	mau chyuq chi
+莫嚇人	mau haq gnin
+莫忒	mau theq
+莫忒客氣	mau theq khaq chi
+莫忒	mau thou
+莫忒客氣	mau thou khaq chi
+莫嚇人	mhau haq gnin
+莫忒	mhau theq
+莫忒客氣	mhau theq khaq chi
+莫忒	mhau thou
+莫忒客氣	mhau thou khaq chi
+莫從	mau dzon
+莫忘	mau maon
+莫馱	mau dou
+莫從	mhau dzon
+莫忘	mhau maon
+莫馱	mhau dou
+甮話了	ven wo lei
+莫生氣	mau san chi
+莫生氣	mhau san chi
+莫省	mau san
+莫省	mhau san
+別勒	biq leq
+莫急	mhau ciq
+莫急	mau ciq
+莫撥	mau peq
+莫撥	mhau peq
+莫過去	mau kou chi
+莫過去	mhau kou chi
+刮落去	kuaq loq chi
+刮勒	kuaq leq
+到勿了	tau veq liau
+到弗了	tau veq liau	1
+到俉	tau ng
+到爾	tau ng
+到儂	tau nou
+到阿裏	tau aq li
+到阿裏去	tau aq li chi
+刷落去	shyuq loq chi
+刺落去	tshy loq chi
+刺煞死	tshy saq si
+刺煞了	tshy saq lei
+戳煞死	tshoq saq si
+戳煞了	tshoq saq lei
+刻勒	kheq leq
+刻的	kheq tiq
+削仔	siaq tsy
+前一段辰光	zien iq doen zhyun kuaon
+前所未有個	zien so vi yeu goq
+前所未有個	zien so vi yeu ghoq
+前段辰光	zien doen zhyun kuaon
+剪勒	tsien leq
+割落去	keq loq chi
+加落	ko loq
+加落來	ko loq le
+加落去	ko loq chi
+加鈔票	ko tshau phiau
+努力落去	nu liq loq chi
+勒煞	leq saq
+動勿了	don veq liau
+動弗了	don veq liau	1
+動勿來	don veq le
+動弗來	don veq le	1
+包落去	pau loq chi
+十一個月	zhyuq iq kou yuq
+十七個月	zhyuq tshiq kou yuq
+十三個月	zhyuq saen kou yuq
+十九個月	zhyuq cieu kou yuq
+十五個月	zhyuq ng kou yuq
+十八個月	zhyuq paq kou yuq
+十六個月	zhyuq loq kou yuq
+十四個月	zhyuq sy kou yuq
+十多兩人	zhyuq tou lian gnin
+十多兩分	zhyuq tou lian fen
+十多兩歲	zhyuq tou lian shyu
+十多兩個	zhyuq tou lian goq
+十多兩個	zhyuq tou lian ghoq
+十多兩月	zhyuq tou lian yuq
+十月十號	zhyuq yuq zhyuq ghau
+十歲辰光	zhyuq shyu zhyun kuaon
+晝覺	tsieu kau
+晝飯辰光	tsieu vaen zhyun kuaon
+卡煞	kha saq
+卡煞死	kha saq si
+卡煞了	kha saq lei
+印落去	in loq chi
+印勒	in leq
+卸落去	sia loq chi
+卻嘸沒	chiaq mhiq
+去勿了	chi veq liau
+去勿成	chi veq dzin
+去弗了	chi veq liau	1
+去弗成	chi veq dzin	1
+去𠲎	chi va
+去𠲎	chi vaq
+去弗	chi veq	1
+去勿	chi veq
+去滰	chi jian
+去個	chi goq
+去個	chi ghoq
+去睏	chi khuen
+去撥	chi peq
+去趤	chi dan
+又嘸沒	yeu mhiq
+又嘸沒	yi mhiq
+受勿了	zieu veq liau
+受弗了	zieu veq liau	1
+受勒	zieu leq
+只借勿還	tsiq tsia veq waen
+只借弗還	tsiq tsia veq waen	1
+只覺着	tsiq koq joq
+只覺着	tsiq koq zhoq
+叫落去	ciau loq chi
+叫勒	ciau leq
+好大好小	hau dou hau siau
+好小好大	hau siau hau dou
+嘸數嘸沒	mh su mhiq
+可隨勒	khou zei leq
+好隨勒	hau zei leq
+好乾製	hau kien cyu
+好分爲	hau fen wei
+好增加	hau tsen ko
+好拿	hau no
+好用於	hau yon yu
+好申請	hau shyun tshin
+好信任	hau sin zhyun
+好免於	hau mien yu
+好分	hau fen
+好加	hau ko
+好加好減	hau ko hau kaen
+好執行	hau tsiq yin
+好長好短	hau dzian hau toen
+叼勒	tiau leq
+喫一塹長一智	chioq iq tshien tsian iq cyu
+喫落去	chioq loq chi
+喫不了	chioq peq liau
+喫勿了	chioq veq liau
+喫勿了兜勒走	chioq veq liau teu leq tseu
+喫弗了	chioq veq liau	1
+喫弗了兜勒走	chioq veq liau teu leq tseu	1
+喫勿落	chioq veq loq
+喫勿落兜勒走	chioq veq loq teu leq tseu
+喫弗落	chioq veq loq	1
+喫弗落兜勒走	chioq veq loq teu leq tseu	1
+喫乾了	chioq kien liau
+喫乾醋	chioq kien tshu
+喫了	chioq leq
+喫了定心丸	chioq leq din sin wun
+喫了秤砣	chioq leq tshin dou
+喫了飯	chioq leq vaen
+喫人	chioq gnin
+喫人不吐骨頭	chioq gnin peq thu kueq deu
+喫人勿吐骨頭	chioq gnin veq thu kueq deu
+喫人弗吐骨頭	chioq gnin veq thu kueq deu	1
+喫人蟲	chioq gnin jon
+喫個	chioq goq
+喫個	chioq ghoq
+喫傷了	chioq shaon lei
+喫吧	chioq pa
+喫吶	chioq neq
+喫喝玩樂	chioq heq ngun loq
+喫壞	chioq ua
+喫多了	chioq tou lei
+喫大戶	chioq da wu
+喫大虧	chioq dou khuei
+喫大鍋飯	chioq da kou vaen
+喫奶個力氣	chioq na goq liq chi
+喫奶個氣力	chioq na goq chi liq
+喫奶個力氣	chioq na ghoq liq chi
+喫奶個氣力	chioq na ghoq chi liq
+喫幾碗乾飯	chioq ci un kien vaen
+喫得了	chioq teq liau
+喫敗仗	chioq ba tsian
+喫虧	chioq khuei
+喫虧	chioq chiu
+喫豆乾	chioq deu kien
+喫豆人	chioq deu gnin
+喫長齋	chioq dzian tsa
+喫飯時間	chioq vaen zy cien
+喫飽了	chioq pau leq
+喫飽了	chioq pau lei
+喫飽了飯撐的	chioq pau leq vaen tshan tiq
+喫飽撐勒	chioq pau tshan leq
+喫飽沒事幹	chioq pau mheq zy kien
+喫鴨蛋	chioq aq daen
+吊落去	tiau loq chi
+吊勒	tiau leq
+吊的	tiau tiq
+同事屋落	don zy oq loq
+同學屋落	don ghoq oq loq
+吐落去	thu loq chi
+吐的	thu tiq
+向俉	shian ng
+向爾	shian ng
+向儂	shian nou
+向火乞	shian hou chiq
+向勒	shian leq
+吞落去	then loq chi
+吞其落去	then ji loq chi
+吞渠落去	then ji loq chi
+吧托	pa thoq
+含的	ghein tiq
+吵勒	tshau leq
+吸落去	shiq loq chi
+吸勒	shiq leq
+吹落去	chyu loq chi
+吹勒	chyu leq
+吻俉	ven ng
+吻爾	ven ng
+吻儂	ven nou
+吼勒	heu leq
+呆的	nge tiq
+告訴自家	kau su zi ko
+咬煞	ngau saq
+咬勒	ngau leq
+咬勒不放	ngau leq peq faon
+咳勒	kheq leq
+哭勒	khoq leq
+唸勒	gniaen leq
+啃勒	khen leq
+問一記	men iq ci
+問儂	men nou
+問俉	men ng
+問爾	men ng
+問自家	men zi ko
+餵勒	iu leq
+餵的	iu tiq
+善惡勿分	zhoen oq veq fen
+善惡弗分	zhoen oq veq fen	1
+喊落去	haen loq chi
+喊勒	haen leq
+喘勒	choen leq
+歡喜你	hun shi gni
+歡喜儂	hun shi nou
+歡喜你	hun shi ng
+歡喜俉	hun shi ng
+歡喜爾	hun shi ng
+歡喜吵架	hun shi tshau cia
+歡喜造孽	hun shi zau gniq
+歡喜自家	hun shi zi ko
+喝落去	heq loq chi
+喝勒	heq leq
+噴落去	phen loq chi
+嚇煞	haq saq
+嚇煞死	haq saq si
+嚇煞了	haq saq lei
+嚇煞人	haq saq gnin
+嚥落去	ien loq chi
+四房兩廳	sy vaon lian thin
+回勿去	wei veq chi
+回弗去	wei veq chi	1
+回家喫自己	wei cia chioq zy ci
+回勒去	wei leq chi
+圍落去	wei loq chi
+圍坐的	wei zou tiq
+圍繞勒	wei gniau leq
+坐落去	zou loq chi
+垂落去	zei loq chi
+垂勒	zei leq
+垂的	zei tiq
+垂勒頭	zei leq deu
+頭垂的	deu zei tiq
+垮落來	khua loq le
+垮落去	khua loq chi
+埋落去	ma loq chi
+埋落去	me loq chi
+堅持落去	cien dzi loq chi
+堅持落去	cien dzy loq chi
+堅持勒	cien dzi leq
+堅持勒	cien dzy leq
+堆的	tei tiq
+堵的	tu tiq
+堵煞	tu saq
+堵勒	tu leq
+塌落去	thaq loq chi
+塗的	du tiq
+墊落去	dien loq chi
+墊勒	dien leq
+墊的	dien tiq
+墜落去	dzei loq chi
+壓落去	aq loq chi
+壓抑勒	aq iq leq
+壓煞	aq saq
+壓煞死	aq saq si
+壓煞了	aq saq lei
+壞掉了	wa diau lei
+壞事體	ua zy thi
+壞個	ua goq
+壞個	ua ghoq
+夠勿着	keu veq joq
+夠勿着	keu veq zhoq
+夠弗着	keu veq joq	1
+夠弗着	keu veq zhoq	1
+夠勒着	keu leq joq
+夠勒着	keu leq zhoq
+夢裏向個	mon li shian goq
+夢裏向個	mon li shian ghoq
+大半日	dou pun gniq
+大家一淘	do ko iq dau
+大小通喫	dou siau thon chioq
+大批個	dou phi goq
+大批個	dou phi ghoq
+大洞喫苦	dou don chioq khu
+大瓶頭	dou bin deu
+大票個	da phiau goq
+大票個	da phiau ghoq
+大票個	dou phiau goq
+大票個	dou phiau ghoq
+大筆頭	dou piq deu
+大蟲不喫伏肉	da jon peq chioq voq gnioq
+大蟲喫小蟲	dou jon chioq siau jon
+大袋個	dou de goq
+大袋個	dou de ghoq
+大魚喫小魚	dou ng chioq siau ng
+天下沒有白喫的午餐	thien gho meq yeu baq chioq tiq wu tshaen
+夾落去	kaq loq chi
+尾巴夾的	mi po kaq tiq
+尾巴夾仔	mi po kaq tsy
+尾巴夾的	ng po kaq tiq
+尾巴夾仔	ng po kaq tsy
+套落去	thau loq chi
+好勿了	hau veq liau
+好弗了	hau veq liau	1
+好勿容易	hau veq yon yi
+好弗容易	hau veq yon yi	1
+好了𠲎	hau leq va
+好了𠲎	hau leq vaq
+好了弗	hau leq veq	1
+好了勿	hau leq veq
+好事勿出門壞事傳千里	hau zy veq chyuq men wa zy joen tshien li
+好事勿出門惡事傳千里	hau zy veq chyuq men oq zy joen tshien li
+好事勿出門惡事行千里	hau zy veq chyuq men oq zy yin tshien li
+好事弗出門壞事傳千里	hau zy veq chyuq men wa zy joen tshien li	1
+好事弗出門惡事傳千里	hau zy veq chyuq men oq zy joen tshien li	1
+好事弗出門惡事行千里	hau zy veq chyuq men oq zy yin tshien li	1
+好借好還再借勿難	hau tsia hau waen tse tsia veq naen
+好借好還再借弗難	hau tsia hau waen tse tsia veq naen	1
+好壞勿分	hau ua veq fen
+好壞弗分	hau ua veq fen	1
+好心嘸沒好報	hau sin mhiq hau pau
+好景勿長	hau cin veq dzian
+好景弗長	hau cin veq dzian	1
+好死勿如惡活	hau si veq zhyu oq weq
+好死勿如歹活	hau si veq zhyu te weq
+好死勿如賴活	hau si veq zhyu la weq
+好死弗如惡活	hau si veq zhyu oq weq	1
+好死弗如歹活	hau si veq zhyu te weq	1
+好死弗如賴活	hau si veq zhyu la weq	1
+好漢勿喫眼前虧	hau hein veq chioq ngaen zien khuei
+好漢勿喫眼前虧	hau hein veq chioq ngaen zien khuei
+好漢弗喫眼前虧	hau hein veq chioq ngaen zien khuei	1
+好漢弗喫眼前虧	hau hein veq chioq ngaen zien khuei	1
+嫁撥你	ko peq ng
+嫁撥俉	ko peq ng
+嫁撥爾	ko peq ng
+嫁撥儂	ko peq nou
+存在勒	dzen dze leq
+存勒	dzen leq
+存的	dzen tiq
+學勒	ghoq leq
+學勒會	ghoq leq wei
+學弗會	ghoq veq wei	1
+學勿會	ghoq veq wei
+學堂同學	ghoq daon don ghoq
+學堂成績	ghoq daon dzin tsiq
+學堂教育	ghoq daon ciau yoq
+學堂裏	ghoq daon li
+學堂領導	ghoq daon lin dau
+學個	ghoq goq
+學個	ghoq ghoq
+學眼	ghoq ngaen
+守勒	sieu leq
+安靜落去	ein zin loq chi
+定落去	din loq chi
+定落來	din loq le
+害人勿淺	ghe gnin veq tshien
+害人弗淺	ghe gnin veq tshien	1
+害煞	ghe saq
+家政專科學堂	cia tsin coen khou ghoq daon
+屋裏個	oq li goq
+屋裏個	oq li ghoq
+屋裏向	oq li shian
+寄宿學堂	ci soq ghoq daon
+寫落去	sia loq chi
+寫勒	sia leq
+封落去	fon loq chi
+封掉了	fon diau lei
+封煞了	fon saq lei
+封好了	fon hau lei
+封煞	fon saq
+射落去	ziq loq chi
+射煞	ziq saq
+將煞	tsian saq
+對俉	tei ng
+對爾	tei ng
+對儂	tei nou
+對你講	tei ng kaon
+對俉講	tei ng kaon
+對爾講	tei ng kaon
+對儂講	tei nou kaon
+對辰光	tei zhyun kuaon
+對錯弗分	tei tshou veq fen	1
+對錯勿分	tei tshou veq fen
+小日腳	siau gniq ciaq
+小矮凳	siau a ten
+小洞不補大洞喫苦	siau don peq pu dou don chioq khu
+小魚喫大魚	siau ng chioq da ng
+就喫乾	dzieu chioq kien
+就寢辰光	dzieu tshin zhyun kuaon
+就馱	dzieu dou
+就馱出	dzieu dou chyuq
+就馱到	dzieu dou tau
+就晏了	dzieu aen lei
+就勒	dzieu leq
+就讓俉	dzieu gnian ng
+就讓爾	dzieu gnian ng
+就讓儂	dzieu gnian nou
+屬於自家	joq yu zi ko
+差勿多個	tsho veq tou goq
+差勿多個	tsho veq tou ghoq
+差弗多個	tsho veq tou goq	1
+差弗多個	tsho veq tou ghoq	1
+差勒多	tsho leq tou
+差勒	tsho leq
+巾幗勿讓鬚眉	cin koq veq gnian shyu mei
+巾幗弗讓鬚眉	cin koq veq gnian shyu mei	1
+希拉克	shi lha kheq
+帶落去	ta loq chi
+帶俉	ta ng
+帶爾	ta ng
+帶儂	ta nou
+帶勒	ta leq
+帶勒兒子	ta leq ng tsy
+帶勒囡	ta leq noen
+帶勒兒子囡	ta leq ng tsy noen
+帶勒小人	ta leq siau gnin
+帶撥你	ta peq ng
+帶撥俉	ta peq ng
+帶撥爾	ta peq ng
+帶撥你	ta pen
+帶撥俉	ta pen
+帶撥爾	ta pen
+帶撥儂	ta peq nou
+幫勿了	paon veq liau
+幫弗了	paon veq liau	1
+幫俉	paon ng
+幫爾	paon ng
+幫儂	paon nou
+幫勒	paon leq
+平常日腳	bin jaon gniq ciaq
+平躺的	bin thaon tiq
+平躺勒	bin thaon leq
+幹落去	kien loq chi
+幾乎弗	ci hu veq	1
+幾乎勿	ci hu veq
+幾乎弗可能	ci hu veq khou nen	1
+幾乎勿可能	ci hu veq khou nen
+幾乎嘸沒	ci hu mhiq
+幾點鐘了	ci tien con leq
+幾點鐘了	ci tien con lei
+廢掉了	fi diau lei
+延續落去	yen dzoq loq chi
+弄煞	lon saq
+弄煞死	lon saq si
+弄煞了	lon saq lei
+弓勒	kon leq
+弓勒仔	kon leq tsy
+弓的	kon tiq
+腰弓勒仔	iau kon leq tsy
+腰弓的	iau kon tiq
+引落去	yin loq chi
+彈落去	daen loq chi
+彎落去	uaen loq chi
+影響弗了	in shian veq liau	1
+影響勿了	in shian veq liau
+待勒	de leq
+忍落去	zhyun loq chi
+忘弗了	maon veq liau	1
+忘勿了	maon veq liau
+忘弗掉	maon veq diau	1
+忘勿掉	maon veq diau
+忘記了	maon ci lei
+忙勒	maon leq
+快落去	khua loq chi
+快嘸沒了	khua mhiq lei
+念落去	gniaen loq chi
+念俉	gniaen ng
+念爾	gniaen ng
+念儂	gniaen nou
+急勒	ciq leq
+怪俉	kua ng
+怪爾	kua ng
+怪儂	kua nou
+恨煞	ghen saq
+恨煞死	ghen saq si
+恨煞了	ghen saq lei
+悶煞	mhen saq
+悶煞死	mhen saq si
+悶煞了	mhen saq lei
+悶勒	mhen leq
+悶勒仔	mhen leq tsy
+悶的	mhen tiq
+頭悶勒	deu mhen leq
+頭悶勒仔	deu mhen leq tsy
+頭悶的	deu mhen tiq
+想落去	sian loq chi
+愛俉	e ng
+愛爾	e ng
+愛儂	e nou
+愛個人	e goq gnin
+愛個人	e ghoq gnin
+愛自家	e zi ko
+感覺弗到	kien cioq veq tau	1
+感覺勿到	kien cioq veq tau
+憋煞	piq saq
+憋煞死	piq saq si
+憋煞了	piq saq lei
+憋勒	piq leq
+憋勒仔	piq leq tsy
+憋的	piq tiq
+憑俉	bin ng
+憑爾	bin ng
+憑儂	bin nou
+憑你啥人	bin ng soq gnin
+憑俉啥人	bin ng soq gnin
+憑爾啥人	bin ng soq gnin
+憑儂啥人	bin nou soq gnin
+憑勒	bin leq
+成弗了	dzin veq liau	1
+成勿了	dzin veq liau
+我也弗	ngo gha veq	1
+我也勿	ngo gha veq
+我也嘸沒	ngo gha mhiq
+我也好	ngo gha hau
+阿拉自家	aq laq zi ko
+我告訴儂	ngo kau su nou
+阿拉屋落	aq laq oq loq
+阿拉屋裏人	aq laq oq li gnin
+我對俉	ngo tei ng
+我對爾	ngo tei ng
+我對儂	ngo tei nou
+我幫俉	ngo paon ng
+我幫爾	ngo paon ng
+我幫儂	ngo paon nou
+我忖儂	ngo tshen nou
+我忖去	ngo tshen chi
+我馱	ngo dou
+我是俉	ngo zy ng
+我是爾	ngo zy ng
+我是儂	ngo zy nou
+我嘸沒	ngo mhiq
+我看俉	ngo khien ng
+我看爾	ngo khien ng
+我看儂	ngo khien nou
+我看勒	ngo khien leq
+我看的	ngo khien tiq
+我曉得你	ngo shiau teq ng
+我曉得俉	ngo shiau teq ng
+我曉得爾	ngo shiau teq ng
+我曉得儂	ngo shiau teq nou
+我等俉	ngo ten ng
+我等爾	ngo ten ng
+我等儂	ngo ten nou
+我撥你	ngo peq ng
+我撥俉	ngo peq ng
+我撥爾	ngo peq ng
+我撥你	ngo pen
+我撥俉	ngo pen
+我撥爾	ngo pen
+我撥儂	ngo peq nou
+我自家	ngo zi ko
+我撥	ngo peq
+我覺着	ngo koq joq
+我覺着	ngo koq zhoq
+我送俉	ngo son ng
+我送爾	ngo son ng
+我送儂	ngo son nou
+我還弗	ngo wa veq	1
+我還勿	ngo wa veq
+我還來	ngo wa le
+我還來的	ngo wa le tiq
+我還來東	ngo wa le ton
+我還來勒	ngo wa le leq
+我還嘸沒	ngo wa mhiq
+戰勒	tsien leq
+戰勒	coen leq
+戴落去	ta loq chi
+戴落去	te loq chi
+戴勒	ta leq
+戴勒	te leq
+手包勒	sieu pau leq
+手包的	sieu pau tiq
+手抱勒	sieu bau leq
+手抱的	sieu bau tiq
+手馱的	sieu dou tiq
+手裏馱的	sieu li dou tiq
+手馱勒	sieu dou leq
+手牽勒仔	sieu chien leq tsy
+手牽的	sieu chien tiq
+扎落去	tsaq loq chi
+打隻問號	tan tsaq ven ghau
+打隻照面	tan tsaq tsiau mien
+打隻花	tan tsaq huo
+打隻電話	tan tsaq dien wo
+打煞	tan saq
+打煞死	tan saq si
+打煞了	tan saq lei
+打發辰光	tan faq zhyun kuaon
+打勒	tan leq
+打蛇弗死	tan dzo veq si	1
+打蛇勿死	tan dzo veq si
+揞掉了	an diau lei
+揞掉了	khan diau lei
+揞出去	an chyuq chi
+揞出去	khan chyuq chi
+揞去	an chi
+揞去	khan chi
+揞回去	an wei chi
+揞回去	khan wei chi
+扛落去	kaon loq chi
+扛落去	gaon loq chi
+扣落去	kheu loq chi
+扣俉	kheu ng
+扣爾	kheu ng
+扣儂	kheu nou
+扣勒	kheu leq
+扭勒	gnieu leq
+扭的	gnieu tiq
+扮勒	paen leq
+扯落去	cho loq chi
+𠡒勒	tei leq
+扯的	cho tiq
+𠡒的	tei tiq
+扶落去	vu loq chi
+批落去	phi loq chi
+扼煞	eq saq
+承受弗了	dzin zieu veq liau	1
+承受勿了	dzin zieu veq liau
+抄落去	tshau loq chi
+抄勒	tshau leq
+抄的	tshau tiq
+抓落去	tsa loq chi
+抓弗準	tsa veq cyun	1
+抓勿準	tsa veq cyun
+抓周	tsa tsieu
+投落去	deu loq chi
+抖落去	teu loq chi
+抗拒弗了	khaon jiu veq liau	1
+抗拒勿了	khaon jiu veq liau
+折落去	tsiq loq chi
+抱落去	bau loq chi
+抱勒	bau leq
+抱勒仔	bau leq tsy
+抱的	bau tiq
+抱勒你	bau leq ng
+抱勒俉	bau leq ng
+抱勒爾	bau leq ng
+抱勒儂	bau leq nou
+抵擋弗了	ti taon veq liau	1
+抵擋勿了	ti taon veq liau
+抵勒	ti leq
+抵的	ti tiq
+抹落去	meq loq chi
+押勒	aq leq
+押的	aq tiq
+抽辰光	tshieu zhyun kuaon
+抽了	tshieu leq
+抿勒	min leq
+抿勒仔	min leq tsy
+抿的	min tiq
+拄勒	cyu leq
+拄的	cyu tiq
+拆落去	tshaq loq chi
+拉落去	lha loq chi
+拉弗動	lha veq don	1
+拉勿動	lha veq don
+拉個	lha goq
+拉個	lha ghoq
+拉勒	lha leq
+拋落去	phau loq chi
+拌勒	bun leq
+拌的	bun tiq
+拍落去	phaq loq chi
+拍勒	phaq leq
+拎的	lhin tiq
+拎勒	lhin leq
+拐落去	kua loq chi
+拔落去	baq loq chi
+拖清爽	thou tshin saon
+拖延辰光	thou yen zhyun kuaon
+拖勒	thou leq
+拖的	thou tiq
+招呼人客	tsiau hu gnin khaq
+風篷耳朵	fon bon gni to
+風篷耳朵	fon bon ng to
+耳朵風篷	gni to fon bon
+耳朵風篷	ng to fon bon
+拱勒	kon leq
+拱勒仔	kon leq tsy
+拱仔	kon tsy
+拴勒	shoen leq
+拴的	shoen tiq
+拼落去	phin loq chi
+拼勒	phin leq
+指勒	tsy leq
+按落去	ein loq chi
+挑落去	thiau loq chi
+挑勒	thiau leq
+挖落去	uaq loq chi
+挖大一眼	uaq dou iq ngaen
+挖大眼	uaq dou ngaen
+挖鼻頭	uaq beq deu
+挨勒	a leq
+挺落去	thin loq chi
+挺勒	thin leq
+挺的	thin tiq
+挽回弗了	uaen wei veq liau	1
+挽回勿了	uaen wei veq liau
+挽救弗了	uaen cieu veq liau	1
+挽救勿了	uaen cieu veq liau
+挽勒	uaen leq
+挽的	uaen tiq
+挾勒	yaq leq
+捂的	u tiq
+捆勒	khuen leq
+捉落去	tsoq loq chi
+捏煞	gniaq saq
+捏勒	gniaq leq
+捏的	gniaq tiq
+捏仔	gniaq tsy
+捏勒鼻頭管	gniaq leq beq deu kun
+鼻頭管捏的	beq deu kun gniaq tiq
+捫牢	mhen lau
+捱勒牢	nga leq lau
+捱日腳	nga gniq ciaq
+掐煞	khaq saq
+掐勒	khaq leq
+排落去	ba loq chi
+排勒	ba leq
+掛落去	kuo loq chi
+採落去	tshe loq chi
+接落去	tsiq loq chi
+接受弗了	tsiq zieu veq liau	1
+接受勿了	tsiq zieu veq liau
+接勒	tsiq leq
+接落就是	tsiq loq dzieu zy
+接勒是	tsiq leq zy
+接落是	tsiq loq zy
+控制弗了	khon cyu veq liau	1
+控制勿了	khon cyu veq liau
+推落去	thei loq chi
+推勒	thei leq
+揉勒	gnieu leq
+提落去	di loq chi
+提勒	di leq
+提高自家	di kau zi ko
+插落去	tshaq loq chi
+插勒	tshaq leq
+插的	tshaq tiq
+換落去	wun loq chi
+換勒	wun leq
+握落去	oq loq chi
+揮勒	huei leq
+搖勒	yau leq
+搖勒頭	yau leq deu
+搞煞	gau saq
+搬勒	pun leq
+搭配勒	taq phei leq
+搶落去	tshian loq chi
+搶勒	tshian leq
+搽勒	jo leq
+摔落去	seq loq chi
+摘落去	tsaq loq chi
+摟勒	leu leq
+摸落去	moq loq chi
+摸弗着	moq veq joq	1
+摸弗着	moq veq zhoq	1
+摸勿着	moq veq joq
+摸勿着	moq veq zhoq
+摸弗着邊	moq veq joq pien	1
+摸弗着邊	moq veq zhoq pien	1
+摸勿着邊	moq veq joq pien
+摸勿着邊	moq veq zhoq pien
+摸弗着邊際	moq veq joq pien tsi	1
+摸弗着邊際	moq veq zhoq pien tsi	1
+摸勿着邊際	moq veq joq pien tsi
+摸勿着邊際	moq veq zhoq pien tsi
+摸弗着頭腦	moq veq joq deu nau	1
+摸弗着頭腦	moq veq zhoq deu nau	1
+摸勿着頭腦	moq veq joq deu nau
+摸勿着頭腦	moq veq zhoq deu nau
+摸勒着	moq leq joq
+摸勒着	moq leq zhoq
+撈勒	lhau leq
+撈勒仔	lhau leq tsy
+撈的	lhau tiq
+撐落去	tshan loq chi
+撐弗落去	tshan veq loq chi	1
+撐勿落去	tshan veq loq chi
+撐煞	tshan saq
+撐煞死	tshan saq si
+撐煞了	tshan saq lei
+撐勒	tshan leq
+撐勒仔	tshan leq tsy
+撐的	tshan tiq
+撒落去	saq loq chi
+撕落去	sy loq chi
+撞煞	jaon saq
+撞煞死	jaon saq si
+撞煞了	jaon saq lei
+撤落去	tshiq loq chi
+撬落去	jiau loq chi
+撮起	tshoq chi
+撮起來	tshoq chi le
+撲落去	phoq loq chi
+擁勒	ion leq
+擇日腳	dzeq gniq ciaq
+擋弗了	taon veq liau	1
+擋勿了	taon veq liau
+操勒	tshau leq
+擔勒	taen leq
+擔的	taen tiq
+擠落去	tsi loq chi
+擠煞	tsi saq
+擠勒	tsi leq
+抬落去	de loq chi
+抬勒	de leq
+擤鼻頭	hen beq deu
+擱弗落	koq veq loq	1
+擱弗落	goq veq loq	1
+擱勿落	koq veq loq
+擱勿落	goq veq loq
+擱弗牢	goq veq lau	1
+擱勿牢	goq veq lau
+擱勒牢	koq leq lau
+擱勒牢	goq leq lau
+擱勒	koq leq
+擱的	koq tiq
+擱勒	goq leq
+擱的	goq tiq
+擺落去	pa loq chi
+擺脫弗了	pa theq veq liau	1
+擺脫勿了	pa theq veq liau
+攀勒	phaen leq
+攔的	laen tiq
+攤落去	thaen loq chi
+攤掉了	thaen diau lei
+攤勒	thaen leq
+攤勒仔	thaen leq tsy
+攤的	thaen tiq
+支勒	tsy leq
+支的	tsy tiq
+收落去	sieu loq chi
+收勒	sieu leq
+改弗了	ke veq liau	1
+改勿了	ke veq liau
+改趁	ke tshin
+改變弗了	ke pien veq liau	1
+改變勿了	ke pien veq liau
+攻落去	kon loq chi
+放落去	faon loq chi
+放牛娃	faon ngeu uaen
+放勒	faon leq
+教落去	kau loq chi
+教其	kau ji
+教渠	kau ji
+教俉	kau ng
+教爾	kau ng
+教儂	kau nou
+教撥	kau peq
+教眼	kau ngaen
+敞勒	tshian leq
+敞的	tshian tiq
+敲落去	khau loq chi
+敲勒	khau leq
+整煞	tsin saq
+敷的	fu tiq
+數弗着	su veq joq	1
+數弗着	su veq zhoq	1
+數勿着	su veq joq
+數勿着	su veq zhoq
+數勒着	su leq joq
+數勒着	su leq zhoq
+數勒	su leq
+斬落去	tsaen loq chi
+日夜弗分	gniq ya veq fen	1
+日夜勿分	gniq ya veq fen
+春天大亂夢	chyun thien dou loen maon
+昧勒	mei leq
+昧勒良心	mei leq lian sin
+是俉	zy ng
+是爾	zy ng
+是儂	zy nou
+是假個	zy ko goq
+是假個	zy ko ghoq
+是𠲎	zy va
+是弗	zy veq	1
+是勿	zy veq
+夜到睏覺	ya tau khuen kau
+夜裏睏覺	ya li khuen kau
+夜晚辰光	ya vaen zhyun kuaon
+暗落去	ein loq chi
+曾經個	dzen cin goq
+曾經個	dzen cin ghoq
+會落去	wei loq chi
+有了鈔票	yeu leq tshau phiau
+有星人	yeu sin gnin
+有人話	yeu gnin wo
+有人講	yeu gnin kaon
+有儂	yeu nou
+有借有還再借弗難	yeu tsia yeu waen tse tsia veq naen	1
+有借有還再借勿難	yeu tsia yeu waen tse tsia veq naen
+有日腳	yeu gniq ciaq
+服落去	voq loq chi
+服勒	voq leq
+望勒	maon leq
+朝勒	dziau leq
+本人個觀點	pen gnin goq kun tien
+本人個觀點	pen gnin ghoq kun tien
+面孔板勒仔	mien khon paen leq tsy
+枕勒	tsin leq
+枕的	tsin tiq
+枯煞	khu saq
+架落去	ko loq chi
+架勒	ko leq
+栽落去	tse loq chi
+框落去	khuaon loq chi
+梗煞	kan saq
+梳隻	sy tsaq
+槓勒	gaon leq
+槓的	gaon tiq
+標落去	piau loq chi
+欠勒	chien leq
+歪鼻頭	hua beq deu
+歲個	shyu goq
+歲個	shyu ghoq
+歸還撥	kuei waen peq
+死弗	si veq	1
+死勿	si veq
+死弗了	si veq liau	1
+死勿了	si veq liau
+死弗帶去	si veq ta chi	1
+死勿帶去	si veq ta chi
+死弗承認	si veq dzin zhyun	1
+死勿承認	si veq dzin zhyun
+死弗瞑目	si veq min moq	1
+死勿瞑目	si veq min moq
+死弗認錯	si veq gnin tshou	1
+死勿認錯	si veq gnin tshou
+死弗足惜	si veq tsoq siq	1
+死勿足惜	si veq tsoq siq
+你煞	ng saq
+俉煞	ng saq
+爾煞	ng saq
+儂煞	nou saq
+煞你	saq ng
+煞俉	saq ng
+煞爾	saq ng
+煞儂	saq nou
+死勒	si leq
+死快了	si khua lei
+煞我了	saq ngo lei
+死活弗顧	si weq veq ku	1
+死活勿顧	si weq veq ku
+死個	si goq
+死個	si ghoq
+段辰光	doen zhyun kuaon
+殺人弗眨眼	saq gnin veq tsaq ngaen	1
+殺人勿眨眼	saq gnin veq tsaq ngaen
+殺人弗見血	saq gnin veq cien shiuq	1
+殺人勿見血	saq gnin veq cien shiuq
+殺辰光	saq zhyun kuaon
+雌鴨	tshy aen
+毒煞	doq saq
+比落去	pi loq chi
+比俉	pi ng
+比儂	pi nou
+氣煞人	chi saq gnin
+氣勒	chi leq
+水上馬達	shyu zaon mo daq
+水上馬達車	shyu zaon mo daq tsho
+求俉	jieu ng
+求爾	jieu ng
+求儂	jieu nou
+求求俉	jieu jieu ng
+求求爾	jieu jieu ng
+求求儂	jieu jieu nou
+求勒	jieu leq
+沉落去	dzin loq chi
+沒落去	mheq loq chi
+沒喫	mheq chioq
+沒喫沒穿	mheq chioq mheq choen
+嘸沒水平	mhiq sei bin
+嘸沒水平	mhiq shyu bin
+醫煞	i saq
+沿勒	yen leq
+泄落去	siq loq chi
+泛勒	faen leq
+泡勒	phau leq
+注視勒	cyu zy leq
+洗落去	si loq chi
+活落去	weq loq chi
+活弗了	weq veq liau	1
+活勿了	weq veq liau
+派落去	pha loq chi
+流落去	lieu loq chi
+流傳落去	lieu joen loq chi
+流勒	lieu leq
+流着眼淚	lieu joq ngaen li
+流着眼淚	lieu zhoq ngaen li
+流鼻頭	lieu beq deu
+流鼻頭紅	lieu beq deu on
+流鼻頭紅血	lieu beq deu on shiuq
+流鼻頭紅	lieu beq deu ghon
+流鼻頭紅血	lieu beq deu ghon shiuq
+浪費辰光	laon fi zhyun kuaon
+浮的	veu tiq
+消失落去	siau shyuq loq chi
+混落去	wen loq chi
+混弗落去	wen veq loq chi	1
+混勿落去	wen veq loq chi
+混日腳	wen gniq ciaq
+混勒	wen leq
+滑落去	waq loq chi
+滑勒	waq leq
+滴落去	tiq loq chi
+滾落去	kuen loq chi
+漂勒	phiau leq
+漂的	phiau tiq
+漆勒	tshiq leq
+漆的	tshiq tiq
+漏勒	leu leq
+演勒	yen leq
+漲勒	tsian leq
+潑落去	pheq loq chi
+潛落去	dzien loq chi
+瀉落去	sia loq chi
+灌煞	kun saq
+灌的	kun tiq
+灑落去	sa loq chi
+炒落去	tshau loq chi
+炒勒	tshau leq
+炸勒	tso leq
+炸煞	tso saq
+炸個	tso goq
+炸個	tso ghoq
+炸個	zaq goq
+炸個	zaq ghoq
+無菌個	vu chiun goq
+無菌個	vu chiun ghoq
+無菌個	vu chiun goq
+無菌個	vu chiun ghoq
+照落去	tsiau loq chi
+照勒	tsiau leq
+煩煞了	vaen saq lei
+煩煞人	vaen saq gnin
+煮熟個鴨子飛了	tsy zhoq goq aq tsy fi lei
+煮熟個鴨子飛了	tsy zhoq ghoq aq tsy fi lei
+煮勒	tsy leq
+燉的	ten tiq
+燒煞	siau saq
+燙煞	thaon saq
+燙勒	thaon leq
+爬落去	bo loq chi
+爭勒	tsan leq
+爭風喫醋	tsen fon chioq tshu
+爲俉	wei ng
+爲爾	wei ng
+爲儂	wei nou
+爲倷	wei naq
+爽煞	saon saq
+牛肉圓	ngeu gnioq yoen
+牽落去	chien loq chi
+牽的	chien tiq
+牽勒	chien leq
+牽勒走	chien leq tseu
+犯勒着	vaen leq joq
+犯勒着	vaen leq zhoq
+猜弗着	tshe veq joq	1
+猜勿着	tshe veq joq
+猜弗着	tshe veq zhoq	1
+猜勿着	tshe veq zhoq
+環的	waen tiq
+生落來	san loq le
+生落去	san loq chi
+生喫	san chioq
+生命中頂	sen min con tin
+生勒	san leq
+生小人	san siau gnin
+用弗了	yon veq liau	1
+用勿了	yon veq liau
+用弗着	yon veq joq	1
+用勿着	yon veq joq
+用弗着	yon veq zhoq	1
+用勿着	yon veq zhoq
+用勒着	yon leq joq
+用勒着	yon leq zhoq
+用餐辰光	yon tshaen zhyun kuaon
+甩弗掉	huaq veq diau	1
+甩勿掉	huaq veq diau
+甩弗開	huaq veq khe	1
+甩勿開	huaq veq khe
+由俉	yeu ng
+由爾	yeu ng
+由儂	yeu nou
+由勒	yeu leq
+留落去	lieu loq chi
+留勒	lieu leq
+留的	lieu tiq
+畫落去	wo loq chi
+當落去	taon loq chi
+當弗了	taon veq liau	1
+當勿了	taon veq liau
+當俉	taon ng
+當爾	taon ng
+當儂	taon nou
+當場抲牢	taon dzian kho lau
+當家個	taon ko goq
+當家個	taon ko ghoq
+當差個	taon tsha goq
+當差個	taon tsha ghoq
+當勒	taon leq
+病勒	bin leq
+瘦落去	seu loq chi
+嘴巴癟勒仔	cyu po piq leq tsy
+嘴巴癟仔	cyu po piq tsy
+嘴巴癟的	cyu po piq tiq
+發落去	faq loq chi
+發展個國家	faq tsien goq koq cia
+發展個國家	faq tsien ghoq koq cia
+發展個國家	faq coen goq koq cia
+發展個國家	faq coen ghoq koq cia
+發揮弗了	faq huei veq liau	1
+發揮勿了	faq huei veq liau
+發現自家	faq yen zi ko
+發勒	faq leq
+發撥爾	faq peq ng
+發撥俉	faq peq ng
+發撥你	faq peq ng
+皺勒	tseu leq
+皺勒仔	tseu leq tsy
+皺仔	tseu tsy
+皺的	tseu tiq
+眉頭管皺勒仔	mi deu kun tseu leq tsy
+眉頭管皺仔	mi deu kun tseu tsy
+眉頭管皺的	mi deu kun tseu tiq
+盛勒	dzin leq
+直勒	dziq leq
+直勒仔	dziq leq tsy
+直仔	dziq tsy
+相差弗多	sian tsho veq tou	1
+相差勿多	sian tsho veq tou
+省落來	san loq le
+省落	san loq
+省鈔票	san tshau phiau
+省眼	san ngaen
+看落去	khien loq chi
+看弗落去	khien veq loq chi	1
+看勿落去	khien veq loq chi
+看弗過去	khien veq kou chi	1
+看勿過去	khien veq kou chi
+看也弗看	khien gha veq khien	1
+看也勿看	khien gha veq khien
+看俉	khien ng
+看爾	khien ng
+看儂	khien nou
+看勒其	khien leq ji
+看勒渠	khien leq ji
+看其的	khien ji tiq
+看勒你	khien leq ng
+看勒俉	khien leq ng
+看勒爾	khien leq ng
+看勒儂	khien leq nou
+看我的	khien ngo tiq
+眼看勒	ngaen khien leq
+眼看的	ngaen khien tiq
+瞄弗準	miau veq cyun	1
+瞄勿準	miau veq cyun
+砍落去	khaen loq chi
+硬撐落去	ngan tshan loq chi
+硬的	ngan tiq
+硬勒	ngan leq
+硬勒頭皮	ngan leq deu bi
+磕隻響頭	kheq tsaq shian deu
+磕隻頭	kheq tsaq deu
+祖孫兩人	tsu sen lian gnin
+祝俉	coq ng
+祝爾	coq ng
+祝儂	coq nou
+祝倷	coq naq
+移落去	yi loq chi
+積的	tsiq tiq
+空落去	khon loq chi
+空勒	khon leq
+空勒仔	khon leq tsy
+空仔	khon tsy
+穿落去	choen loq chi
+站落去	dzaen loq chi
+端落去	toen loq chi
+端勒	toen leq
+端勒仔	toen leq tsy
+笑煞	siau saq
+笑煞人	siau saq gnin
+笑勒	siau leq
+笨煞	ben saq
+第廿	di gniaen
+第廿七	di gniaen tshiq
+第廿九	di gniaen cieu
+第廿五	di gniaen ng
+第廿四	di gniaen sy
+第廿條	di gniaen diau
+第二日	di gni gniq
+等落去	ten loq chi
+等俉	ten ng
+等爾	ten ng
+等儂	ten nou
+等勒	ten leq
+等你的	ten ng tiq
+等俉的	ten ng tiq
+等爾的	ten ng tiq
+等儂的	ten nou tiq
+算落去	soen loq chi
+算俉	soen ng
+算爾	soen ng
+算儂	soen nou
+管弗着	kun veq joq	1
+管弗着	kun veq zhoq	1
+管勿着	kun veq joq
+管勿着	kun veq zhoq
+簽落去	tshien loq chi
+簽的	tshien tiq
+粘的	knien tiq
+紅勒	ghon leq
+紅勒仔	ghon leq tsy
+紅鼻頭	ghon beq deu
+絞燥	gau sau
+絞煞	ciau saq
+綁落去	paon loq chi
+維持落去	vi dzy loq chi
+維持落去	vi dzi loq chi
+緊接勒	cin tsiq leq
+編落去	pien loq chi
+練落去	lien loq chi
+縊煞	iq saq
+縫落去	von loq chi
+縫煞	von saq
+縮落去	shoq loq chi
+繞勒	gniau leq
+纏牢	dzien lau
+纏勒	dzien leq
+纔落去	dze loq chi
+罩的	tsau tiq
+羞煞	sieu saq
+翹落去	chiau loq chi
+翹的	chiau tiq
+翻落去	faen loq chi
+翻的	faen tiq
+老落去	lau loq chi
+老弗死	lau veq si	1
+老勿死	lau veq si
+而落去	er loq chi
+而俉	er ng
+而爾	er ng
+而儂	er nou
+聚勒	zhyu leq
+聽落去	thin loq chi
+聽弗進	thin veq tsin	1
+聽弗進去	thin veq tsin chi	1
+聽勿進	thin veq tsin
+聽勿進去	thin veq tsin chi
+聽俉	thin ng
+聽爾	thin ng
+聽儂	thin nou
+聽勒	thin leq
+聽張了	thin tsian lei
+聽明了	thin min lei
+肯落去	khen loq chi
+背弗動	pei veq don	1
+背勿動	pei veq don
+背弗動	bei veq don	1
+背勿動	bei veq don
+揹弗動	pei veq don	1
+揹勿動	pei veq don
+脫弗了	theq veq liau	1
+脫勿了	theq veq liau
+小膽鬼	siau taen kuei
+臥落去	ngou loq chi
+自動路梯	zy don lu the
+自嘆勿如	zy thaen veq zhyu
+自愧勿如	zy khuei veq zhyu
+自愧勿如	zy guei veq zhyu
+自找苦喫	zy tsau khu chioq
+自討苦喫	zy thau khu chioq
+臭煞	tshieu saq
+舉勒	ciu leq
+舉勒仔	ciu leq tsy
+舉的	ciu tiq
+花辰光	huo zhyun kuaon
+茶點辰光	dzo tien zhyun kuaon
+茶點辰光	dzo te zhyun kuaon
+蓋的	ke tiq
+藥煞	yaq saq
+行弗通	yin veq thon	1
+行勿通	yin veq thon
+行勒通	yin leq thon
+衝落去	chon loq chi
+衝俉	chon ng
+衝爾	chon ng
+衝儂	chon nou
+衝勒	chon leq
+衝自家	chon zi ko
+補落去	pu loq chi
+裹勒	kou leq
+裹勒仔	kou leq tsy
+裹的	kou tiq
+要俉	iau ng
+要爾	iau ng
+要儂	iau nou
+要馱	iau dou
+要死弗活	iau si veq weq	1
+要死勿活	iau si veq weq
+見弗着	cien veq joq	1
+見勿着	cien veq joq
+見弗着	cien veq zhoq	1
+見勿着	cien veq zhoq
+見勒多了	cien leq tou lei
+見勒着	cien leq joq
+見勒着	cien leq zhoq
+規模頂大	kuei mou tin dou
+覺着交關	koq joq ciau kuaen
+覺着交關	koq zhoq ciau kuaen
+覺着自家	koq joq zi ko
+覺着自家	koq zhoq zi ko
+解決弗了	ka ciuq veq liau	1
+解決勿了	ka ciuq veq liau
+訂煞	tin saq
+討人歡喜	thau gnin hun shi
+託勒	thoq leq
+託勒仔	thoq leq tsy
+託的	thoq tiq
+記落去	ci loq chi
+記得俉	ci teq ng
+記得爾	ci teq ng
+記得儂	ci teq nou
+記性推板	ci sin thei paen
+記勒	ci leq
+認弗出	gnin veq chyuq	1
+認弗出來	gnin veq chyuq le	1
+認弗清	gnin veq tshin	1
+認勿出	gnin veq chyuq
+認勿出來	gnin veq chyuq le
+認勿清	gnin veq tshin
+認爲自家	zhyun wei zi ko
+課餘辰光	khou yu zhyun kuaon
+調落去	diau loq chi
+談判落去	daen phun loq chi
+請落去	tshin loq chi
+請俉	tshin ng
+請爾	tshin ng
+請儂	tshin nou
+講落去	kaon loq chi
+謝謝俉	zia zia ng
+謝謝爾	zia zia ng
+謝謝儂	zia zia nou
+謝謝倷	zia zia naq
+譜落去	pu loq chi
+護勒	wu leq
+變落去	pien loq chi
+變弗了	pien veq liau	1
+變勿了	pien veq liau
+變推板	pien thei paen
+讓人家去講	gnian gnin ko chi kaon
+讓俉	gnian ng
+讓爾	gnian ng
+讓儂	gnian nou
+讚自家	tsaen zi ko
+豎勒	zhyu leq
+豎的	zhyu tiq
+象徵勒	zian tsin leq
+豬八戒喫人參果	cyu paq ka chioq zhyun tshaen kou
+貨比三家不喫虧	hou pi saen cia peq chioq khuei
+貨比三家不喫虧	hou pi saen cia peq chioq chiu
+貨比三家弗喫虧	hou pi saen cia veq chioq khuei	1
+貨比三家弗喫虧	hou pi saen cia veq chioq chiu	1
+貨比三家勿喫虧	hou pi saen cia veq chioq khuei
+貨比三家勿喫虧	hou pi saen cia veq chioq chiu
+貪喫鬼	thein chioq kuei
+貴勒	ciu leq
+貴個	ciu goq
+貴個	ciu ghoq
+買回屋落	ma wei oq loq
+費辰光	fi zhyun kuaon
+貼落去	thiaq loq chi
+賣弗出去	ma veq chyuq chi	1
+賣勿出去	ma veq chyuq chi
+賣個	ma goq
+賣個	ma ghoq
+賣隻	ma tsaq
+質量推板	tsiq lian thei paen
+賴勒	la leq
+賺弗了	dzaen veq liau	1
+賺勿了	dzaen veq liau
+賺大鈔票	dzaen dou tshau phiau
+贏弗了	yin veq liau	1
+贏勿了	yin veq liau
+出腳大仙	chyuq ciaq da sien
+走落去	tseu loq chi
+走弗了	tseu veq liau	1
+走勿了	tseu veq liau
+走弗過去	tseu veq kou chi	1
+走勿過去	tseu veq kou chi
+走勒	tseu leq
+走自家個路	tseu zi ko goq lu
+走自家個路	tseu zi ko ghoq lu
+起弗了	chi veq liau	1
+起勿了	chi veq liau
+起勒	chi leq
+趕落去	kien loq chi
+趕辰光	kien zhyun kuaon
+趕勒	kien leq
+跌煞	tiq saq
+跑落去	bau loq chi
+跑弗了	bau veq liau	1
+跑勿了	bau veq liau
+跑弗了寺	bau veq liau zy	1
+跑勿了寺	bau veq liau zy
+跑弗了廟	bau veq liau miau	1
+跑勿了廟	bau veq liau miau
+跑了和尚跑弗了廟	bau leq ghou zhaon bau veq liau miau	1
+跑了和尚跑勿了廟	bau leq ghou zhaon bau veq liau miau
+跑得了和尚跑弗了廟	bau teq leq ghou zhaon bau veq liau miau	1
+跑得了和尚跑勿了廟	bau teq leq ghou zhaon bau veq liau miau
+跑勒	bau leq
+跟落去	ken loq chi
+跟俉	ken ng
+跟爾	ken ng
+跟儂	ken nou
+跟勒	ken leq
+跟勒仔	ken leq tsy
+跨落去	khua loq chi
+跨落去	khuo loq chi
+跨勒	khua leq
+跨勒	khuo leq
+跪落去	jiu loq chi
+跪勒	jiu leq
+跳落去	thiau loq chi
+跳勒	thiau leq
+踏落去	daq loq chi
+踢落去	thiq loq chi
+踩落去	tshe loq chi
+踮勒仔	tien leq tsy
+踮勒	tien leq
+蹲的	ten tiq
+蹺的	chiau tiq
+蹺勒	chiau leq
+蹺勒仔	chiau leq tsy
+躲落去	to loq chi
+軋煞	gaq saq
+較推板	ciau thei paen
+載浮載沉	tse vu tse dzin
+載浮載沉	tse veu tse dzin
+載勒	tse leq
+輪落去	len loq chi
+轉落去	coen loq chi
+轉趁	coen tshin
+轉嫁撥	coen cia peq
+轟落去	hon loq chi
+迷煞	mi saq
+迷勒	mi leq
+追落去	tsei loq chi
+追勒	tsei leq
+退落去	thei loq chi
+退還撥	thei waen peq
+送落去	son loq chi
+送俉	son ng
+送爾	son ng
+送儂	son nou
+送還撥	son waen peq
+逃落去	dau loq chi
+逃弗了	dau veq liau	1
+逃勿了	dau veq liau
+逆勒	gniq leq
+透落去	theu loq chi
+透勒	theu leq
+透勒仔	theu leq tsy
+透的	theu tiq
+趤了	dan leq
+連落去	lien loq chi
+連勒	lien leq
+連頭也弗回	lien deu gha veq wei	1
+連頭也勿回	lien deu gha veq wei
+週休兩日	tsieu shieu lian gniq
+週年視差	tsieu gnien zy tsha
+進弗了	tsin veq liau	1
+進勿了	tsin veq liau
+進弗去	tsin veq chi	1
+進勿去	tsin veq chi
+逼落去	piq loq chi
+逼俉	piq ng
+逼爾	piq ng
+逼儂	piq nou
+逼煞	piq saq
+運落去	yun loq chi
+過弗落去	kou veq loq chi	1
+過勿落去	kou veq loq chi
+過弗了	kou veq liau	1
+過勿了	kou veq liau
+過弗去	kou veq chi	1
+過勿去	kou veq chi
+過勒去	kou leq chi
+過日腳	kou gniq ciaq
+過勒	kou leq
+過過念頭	kou kou gnien deu
+遣落去	chien loq chi
+遮弗了	tso veq liau	1
+遮勿了	tso veq liau
+避勒	bi leq
+邁勒	maen leq
+還落來	wa loq le
+還落去	wa loq chi
+還弗	wa veq	1
+還勿	wa veq
+還弗出	wa veq chyuq	1
+還勿出	wa veq chyuq
+還弗出	waen veq chyuq	1
+還勿出	waen veq chyuq
+還弗是	wa veq zy	1
+還勿是	wa veq zy
+還𣍐	wa vei
+還弗曉得	wa veq shiau teq	1
+還勿曉得	wa veq shiau teq
+還嘸沒來	wa mhiq le
+還俉	waen ng
+還爾	waen ng
+還儂	waen nou
+還來的	wa le tiq
+還勒	waen leq
+還勒起	waen leq chi
+還忖	wa tshen
+還是來	wa zy le
+還是來的	wa zy le tiq
+還有啥	wa yeu soq
+還有啥	wa yeu so
+還有啥	wa yeu sou
+還有交關	wa yeu ciau kuaen
+還有𠲎	wa yeu va
+還有勿	wa yeu veq
+還有弗	wa yeu veq	1
+還有𣍐	wa yeu vei
+還有啥人	wa yeu soq gnin
+還嘸沒	wa mhiq
+還用講	wa yon kaon
+還撥	waen peq
+還行勒通	wa yin leq thon
+還跟勒	wa ken leq
+還跟的	wa ken tiq
+還過勒	wa kou leq
+還過勒去	wa kou leq chi
+還鈔票	waen tshau phiau
+還落來	gha loq le
+還落去	gha loq chi
+還弗	gha veq	1
+還勿	gha veq
+還弗出	gha veq chyuq	1
+還勿出	gha veq chyuq
+還弗是	gha veq zy	1
+還勿是	gha veq zy
+還𣍐	gha vei
+還弗曉得	gha veq shiau teq	1
+還勿曉得	gha veq shiau teq
+還嘸沒來	gha mhiq le
+還來的	gha le tiq
+還忖	gha tshen
+還搭	gha taq
+還是來	gha zy le
+還是來的	gha zy le tiq
+還有啥	gha yeu soq
+還有啥	gha yeu so
+還有啥	gha yeu sou
+還有交關	gha yeu ciau kuaen
+還有𠲎	gha yeu va
+還有勿	gha yeu veq
+還有弗	gha yeu veq	1
+還有𣍐	gha yeu vei
+還有啥人	gha yeu soq gnin
+還嘸沒	gha mhiq
+還用講	gha yon kaon
+還行勒通	gha yin leq thon
+還跟勒	gha ken leq
+還跟的	gha ken tiq
+還過勒	gha kou leq
+還過勒去	gha kou leq chi
+都落去	tu loq chi
+鄉音無改鬢毛衰	shian in vu ke pin mau tshei
+鄉音無改鬢毛衰	shian in vu ke pin mau tshei
+醒的	sin tiq
+調覺的	diau kau tiq
+量勒	lian leq
+釘落去	tin loq chi
+釘煞	tin saq
+釘勒	tin leq
+釘的	tin tiq
+鉤落去	keu loq chi
+鋪落去	phu loq chi
+鋸落去	ciu loq chi
+鑲的	sian tiq
+鑽隻	tsoen tsaq
+鑽隻洞	tsoen tsaq don
+長弗大	tsian veq dou	1
+長勿大	tsian veq dou
+門牌號頭	men ba ghau deu
+閃勒	sien leq
+閉勒	pi leq
+閉勒仔	pi leq tsy
+閉的	pi tiq
+眼睛閉勒仔	ngaen tsin pi leq tsy
+眼睛閉的	ngaen tsin pi tiq
+開落去	khe loq chi
+開弗了	khe veq liau	1
+開勿了	khe veq liau
+關弗了	kuaen veq liau	1
+關勿了	kuaen veq liau
+關勒	kuaen leq
+防勒	baon leq
+防勒	vaon leq
+阻擋弗了	tsu taon veq liau	1
+阻擋勿了	tsu taon veq liau
+阻止弗了	tsu tsy veq liau	1
+阻止勿了	tsu tsy veq liau
+降落去	ghaon loq chi
+陪俉	bei ng
+陪爾	bei ng
+陪儂	bei nou
+陪勒	bei leq
+陪勒仔	bei leq tsy
+陪的	bei tiq
+陪俉的	bei ng tiq
+陪爾的	bei ng tiq
+陪儂的	bei nou tiq
+陪我的	bei ngo tiq
+隔壁人家	kaq piq gnin ko
+隔勒	kaq leq
+隨俉	zei ng
+隨爾	zei ng
+隨儂	zei nou
+隨勒	zei leq
+雞翼梢	ci yiq sau
+離弗了	li veq liau	1
+離勿了	li veq liau
+離俉	li ng
+離爾	li ng
+離儂	li nou
+出勒	chyuq leq
+出勒仔	chyuq leq tsy
+靜落去	zin loq chi
+非俉	fi ng
+非爾	fi ng
+非儂	fi nou
+非俉不可	fi ng peq khou
+非爾不可	fi ng peq khou
+非儂不可	fi nou peq khou
+非俉莫屬	fi ng moq joq
+非爾莫屬	fi ng moq joq
+非儂莫屬	fi nou moq joq
+靠自家	khau zi ko
+頂一記	tin iq ci
+頂落	tin loq
+頂落來	tin loq le
+頂落去	tin loq chi
+頂勿	tin veq
+頂勿住	tin veq jyu
+頂勿起	tin veq chi
+頂勿起來	tin veq chi le
+頂弗	tin veq	1
+頂弗住	tin veq jyu	1
+頂弗起	tin veq chi	1
+頂弗起來	tin veq chi le	1
+頂牢	tin lau
+頂勒	tin leq
+頂的	tin tiq
+順勒	zhyun leq
+領勒	lin leq
+題落去	di loq chi
+題勒	di leq
+顧弗了	ku veq liau	1
+顧勿了	ku veq liau
+風味小喫	fon vi siau chioq
+颳勒	kuaq leq
+飄落去	phiau loq chi
+飄勒	phiau leq
+飄勒仔	phiau leq tsy
+飄的	phiau tiq
+飛落去	fi loq chi
+養勒	ian leq
+養勒仔	ian leq tsy
+餓弗煞	ngou veq saq	1
+餓勿煞	ngou veq saq
+𣍐餓煞	vei ngou saq
+餓煞	ngou saq
+餓煞了	ngou saq lei
+餓煞來	ngou saq le
+餓煞勒	ngou saq leq
+餓煞鬼	ngou saq ciu
+餓勒	ngou leq
+餓的	ngou tiq
+肚皮餓的	du bi ngou tiq
+餵俉	iu ng
+餵爾	iu ng
+餵儂	iu nou
+駕勒	cia leq
+背駝仔	pei dou tsy
+騎落去	ji loq chi
+騎勒	ji leq
+騎的	ji tiq
+騙落去	phien loq chi
+騙爾	phien ng
+騙俉	phien ng
+騙儂	phien nou
+膩腥了	gni sin lei
+膩腥煞	gni sin saq
+鬧勒	nau leq
+魚圓	ng yoen
+魚圓湯	ng yoen thaon
+魚圓粗麪	ng yoen tshu mien
+鳥弗生蛋	tiau veq san daen	1
+鳥勿生蛋	tiau veq san daen
+鳥弗生蛋	gniau veq san daen	1
+鳥勿生蛋	gniau veq san daen
+黏落去	knien loq chi
+黏的	knien tiq
+黑白弗分	heq baq veq fen	1
+黑白勿分	heq baq veq fen
+默認個	meq zhyun goq
+默認個	meq zhyun ghoq
+點落去	tien loq chi
+點弗着	tien veq dziaq	1
+點勿着	tien veq dziaq
+炸肉圓	zaq gnioq yoen
+弗出產	veq chyuq tshaen	1
+勿出產	veq chyuq tshaen
+天亮𡀂	thien lian lei
+解學費	ka ghoq fi
+解稅單	ka sei taen
+解稅通知	ka sei thon cyu
+解稅通知單	ka sei thon cyu taen
+
+# 帶字母的詞彙
+
+A	ei
+a	ei
+B	bi
+b	bi
+C	si
+c	si
+D	di
+d	di
+E	i
+e	i
+F	e fu
+f	e fu
+G	ji
+g	ji
+H	e chiu
+h	e chiu
+I	ei
+i	ei
+I	a i
+i	a i
+J	jie
+j	jie
+K	khe
+k	khe
+L	e er
+l	e er
+M	e m
+m	e m
+N	e n
+n	e n
+O	o
+o	o
+O	ou
+o	ou
+P	phi
+p	phi
+Q	khieu
+q	khieu
+R	a er
+r	a er
+S	e sy
+s	e sy
+T	thi
+t	thi
+U	yeu
+u	yeu
+U	ieu
+u	ieu
+V	vi
+v	vi
+W	daq beq lieu
+w	daq beq lieu
+X	e kheq sy
+x	e kheq sy
+Y	wei
+y	wei
+Y	wa yi
+y	wa yi
+Z	ze deq
+z	ze deq
+老K牌	lau khe ba
+老K牌	lau khe baen
+B超	bi tshiau
+CT	si thi
+T恤	thi shiuq
+T恤衫	thi shiuq saen
+U盤	ieu bun
+X光	e kheq sy kuaon
+X刀	e kheq sy tau
+X光片	e kheq sy kuaon phien
+愛克斯光	e kheq sy kuaon
+愛克斯刀	e kheq sy tau
+愛克斯光片	e kheq sy kuaon phien
+4S店	sy e sy tien
+DVD	di vi di
+DNA	di e n ei
+VCD	vi si di
+AA制	ei ei cyu
+ATM	ei thi e m
+ATM機	ei thi e m ci
+A股	ei ku
+QQ	khieu khieu
+MP3	e m phi saen
+MP4	e m phi sy
+T1	thi iq
+T2	thi lian
+T1航站樓	thi iq ghaon dzaen leu
+T2航站樓	thi lian ghaon dzaen leu
+NBA	e n bi ei
+浙BA	tsiq bi ei
+
+# 增補地名
+
+一凱電子
+一品空間大廈	iq phin khon cien da gho
+一品空間大廈	iq phin khon cien da so
+一品華庭
+一市港水庫
+一橫河
+一舟集團	iq tsieu dziq doen
+一高
+丁家埭村	tin ko da tshen
+丁家塘水庫	tin ko daon shyu khu
+丁家山	tin ko saen
+丁樓家	tin leu ko
+丁香苑
+丁香路
+七二三大街	tshiq gni saen dou ka
+七塘
+七塘江
+七夫山
+七甲江
+七甲路
+七里墊新村	tshiq li tien sin tshen
+七里廟
+丈亭交警隊	dzian din ciau cin dei
+丈亭工商所
+丈亭站
+丈梅水庫
+三七市
+三七市菜場
+三七房
+三八江
+三勤
+三北
+三北公寓
+三北名都
+三北市場
+三十弓江
+三合村
+三和嘉園
+三塘
+三塘橋
+三塘江
+三家村水庫	saen ko tshen shyu khu
+三市橋
+三市路
+三忠巷
+三房
+三房甲江
+三方大廈	saen faon da gho
+三方大廈	saen faon da so
+三星村
+三星橋
+三星橋水庫
+三李村
+三村
+三橋江
+三橫
+三橫河
+三民路
+三江中學	saen kaon con ghoq
+三江口新村
+三江檢測公司
+三江購物
+三河線路口
+三洋村
+三洋村委
+三溪村
+三溪浦水庫
+三甲南路
+三竈江
+三竈潭路
+三維技術公司
+三羣村
+三聖殿水庫
+三聯新村
+三聯村
+三聯河
+三菱化學	saen lin huo yoq
+三號橋市場
+三里
+三迸橋村
+三靈電子
+三鳳村
+上三塘
+上三房
+上三房工業區
+上上城
+上下橋
+上下陳
+上何
+上倉門
+上傅
+上傅家村	zaon fu ko tshen
+上兆坑下屋
+上六房
+上凌
+上凌楊家	zaon lin yan ko
+上劉村
+上半山
+上古山
+上周塘
+上周村
+上品院
+上坪坎
+上城上涼亭
+上塘
+上宋村
+上山坑
+上山村
+上嶴村
+上庵東
+上張
+上快船江
+上房小區
+上房路
+上木坑
+上木坑水庫
+上李家	zaon li ko
+上東商務中心
+上林坊
+上林小學	zaon lin siau ghoq
+上林華庭
+上橫
+上橫路口
+上水村
+上水溪村
+上水碶
+上沈村
+上沈舊宅河
+上河塘
+上河頭
+上泥橋江
+上游河
+上漾山
+上潘
+上王
+上王村
+上畈
+上畦
+上皇橋
+上臺嶴水庫
+上茅灣
+上荷花橋
+上菱新村
+上董
+上車門
+上邵
+上邵村
+上邵河
+上郁
+上陣加油站	zaon dzin ko yeu dzaen
+上陣張家	zaon dzin tsian ko
+上陳加油站	zaon dzin ko yeu dzaen
+上馮
+上馮新村
+上龍泉
+上龍泉村口
+下一竈
+下一竈村
+下三塘
+下二竈	gho gni tsau
+下倪橋
+下兆坑
+下凌
+下勵
+下半山
+下古山
+下呂家	gho li ko
+下周漕
+下周隘村	gho tsieu ka tshen
+下嚴
+下城西嶴
+下塘
+下塘新村
+下塢
+下山坑
+下嶴
+下嶺
+下庵畈
+下廟
+下張
+下張村
+下張河
+下應北路
+下應華榮
+下應路
+下應農貿市場
+下應鎮
+下應人	gho in gnin
+下應鎮政府
+下木坑
+下木橋
+下林
+下林村
+下楊
+下楊家	gho yan ko
+下橫埭路
+下水小學	gho shyu siau ghoq
+下水村
+下沈港
+下河村
+下沿山
+下洋
+下潘
+下牌門頭	gho ba men deu
+下王
+下王村
+下畈
+下畈庵
+下畦
+下茅灣
+下荷花橋
+下莊水庫
+下莊溪
+下菱新村
+下萬令村
+下萬齡
+下董
+下車任	gho tsho zhyun
+下邵村
+下金
+下陳江
+下饞
+下馮
+下龍泉
+世南中學	shyu nein con ghoq
+世南家園	shyu nein cia yoen
+世紀名苑	shyu ci min ioen
+世紀家園	shyu ci cia yoen
+世紀曙光	shyu ci zhyu kuaon
+世紀東方	shyu ci ton faon
+世紀東方廣場	shyu ci ton faon kuaon dzian
+世紀聯華	shyu ci lien wo
+世紀聯華超市	shyu ci lien wo tshiau zy
+世紀花園	shyu ci huo yoen
+世紀長春	shyu ci dzian chyun
+中一村
+中京集團	con cin dziq doen
+中保大廈	con pau da gho
+中保大廈	con pau da so
+中信銀行大廈	con sin gnin ghaon da gho
+中信銀行大廈	con sin gnin ghaon da so
+中凱華庭
+中匯數控機械公司
+中國塑料城	con koq soq liau dzin
+中基寧波公司	con ci gnin poq kon sy
+中基寧波公司	con ci gnin pou kon sy
+中堡溪
+中塑大廈	con soq da gho
+中塑大廈	con soq da so
+中塘
+中墩
+中大河
+中央大廈	con ian da gho
+中央大廈	con ian da so
+中央大道	con ian da dau
+中央岸
+中央花園
+中宅水庫
+中官路村
+中寧大廈	con gnin da gho
+中寧大廈	con gnin da so
+中寧花園
+中山中路
+中山名都
+中山家園	con saen cia yoen
+中山小區
+中山東苑
+中山河
+中山華庭
+中山路
+中巴南站
+中後沈
+中後河
+中心幼兒園	con sin ieu er yoen
+中心幼兒園	con sin ieu lu yoen
+中心廣場
+中心村
+中心橋
+中心河
+中心站
+中心路
+中慈大廈	con dzy da gho
+中慈大廈	con dzy da so
+中星村
+中機路
+中橫河
+中江
+中河家園	con ghou cia yoen
+中河茗苑
+中河麗園
+中泰都市花苑
+中洲錦苑
+中營巷
+中石化寧波工程公司	con zaq huo gnin poq kon dzin kon sy
+中石化寧波工程公司	con zaq huo gnin pou kon dzin kon sy
+中科院幼兒園	con khou yoen ieu er yoen
+中科院幼兒園	con khou yoen ieu lu yoen
+中科院材料所
+中策動力機電集團	con tsheq don lien ci dien dziq doen
+中興一路
+中興北路
+中興南路
+中興大廈	con shin da gho
+中興大廈	con shin da so
+中興大道	con shin da dau
+中興小區
+中興櫻花公園
+中萃家園	con zei cia yoen
+中萃路
+中萬齡
+中超重工
+中農信國際商廈	con non sin koq tsi shaon gho
+中農信國際商廈	con non sin koq tsi shaon so
+中邁商務樓
+中青文化廣場
+丹井巷
+丹南路
+丹峯小區
+丹峯東路
+丹桂苑
+丹陽小區
+丹靜公寓
+丹鳳小區
+丹鳳新村
+丹鳳社區
+久聯公司
+乍山
+乍浦鄉
+乍浦人	dzo phu gnin
+乍浦人	tso phu gnin
+九五商務大廈	cieu ng shaon vu da gho
+九五商務大廈	cieu ng shaon vu da so
+九五商務大廈	cieu ng shaon vu da gho
+九五商務大廈	cieu ng shaon vu da so
+九五花園
+九四房
+九塘江
+九壘山
+九天嶴
+九峯北路
+九峯小區
+九峯山
+九峯山社區
+九峯山網嶴景區
+九峯水庫
+九峯西路
+九嶴水庫
+九彎弄
+九房
+九曲小區
+九曲河
+九曲社區
+九架屋弄	cieu ko oq lon
+九甲江
+九甲路
+九隆建材城
+九頃水庫
+九鼎家園	cieu tin cia yoen
+九龍家苑	cieu lon cia ioen
+九龍江
+九龍湖旅遊區
+九龍湖鎮政府
+乳膠廠	zhyu ciau tshian
+乾炳村	jien pin tshen
+二六市	gni loq zy
+二四房
+二塘	gni daon
+二塘江
+二塘頭	gni daon deu
+二橫河
+二水廠路
+二竈市	gni tsau zy
+二竈江
+二竈潭路	gni tsau daen lu
+二竈灣
+二號橋	gni ghau jiau
+二號橋市場	gni ghau jiau zy dzian
+二輕大廈	er chin da gho
+二輕大廈	er chin da so
+二輕大廈	gni chin da gho
+二輕大廈	gni chin da so
+二靈山溫泉酒店	gni lin saen uen joen tsieu tien
+二高路	gni kau lu
+五一九廣場
+五塊巷
+五塘橫江
+五塘橫河
+五婆湖水庫
+五家池弄	ng ko dzy lon
+五家池弄	ng ko dzi lon
+五小村
+五嶴溪
+五市溪
+五愛江
+五星新村
+五星村
+五星河
+五星路
+五根頭
+五洞橋
+五洲星集團	ng tsieu sin dziq doen
+五湖村委會
+五環山大樓	ng waen saen da leu
+五百嶴水庫
+五礦路
+五祖頭茶廠
+五穀公司
+五竈
+五竈灣
+五聯
+五臺寺
+五臺山路
+五豐
+五車堰
+五車堰岔口
+五都王
+五鄉工業區
+五鄉工業園區
+五鄉行政中心	ng shian yin tsin con sin
+五鄉農貿市場
+五鄉鎮政府
+五鄉鎮行政中心	ng shian cyun yin tsin con sin
+五鄉鎮行政服務中心	ng shian cyun yin tsin voq vu con sin
+五鄉鎮行政服務中心	ng shian cyun yin tsin voq vu con sin
+五鄉集貿市場	ng shian dziq meu zy dzian
+五里牌	ng li ba
+五里牌亭	ng li ba din
+五里碑
+五金索具有限公司
+五鋒橋
+五馬工業區
+五龍橋
+五龍潭
+井亭
+井亭家園	tsin din cia yoen
+井岡山路
+井頭弄
+亞洲紙業
+交通大樓	ciau thon da leu
+交通警察局	ciau thon cin tshaq jioq
+京華茗苑
+京都賓館
+亭下水庫
+亭溪
+人健藥業	zhyun jien yaq gniq
+人力資源交流中心	zhyun liq tsy gnioen ciau lieu con sin
+人和家園	zhyun ghou cia yoen
+人和巷	zhyun ghou ghaon
+人和街	zhyun ghou ka
+人和街口	zhyun ghou ka kheu
+人和西街	zhyun ghou si ka
+人民保險公司	zhyun min pau shien kon sy
+人民北路	zhyun min poq lu
+人民大道	zhyun min da dau
+人民橋	zhyun min jiau
+人民閘	zhyun min zaq
+人頭鳥服飾	zhyun deu gniau voq siq
+仁久村
+仁壽橋
+仁湖路
+付家	fu ko
+仙台路
+仙境路
+仙峯環閤中心
+仙房西路
+仙橋
+仙潭路
+仙荷家園	sien ghou cia yoen
+仰島灣
+仲一
+任家	zhyun ko
+任建預製場	zhyun cien yu cyu dzian
+伊司達公司
+伍家板橋	wu ko paen jiau
+伍梅樟樹橋
+伏虎亭	voq hu din
+伏虎將軍廟	voq hu tsian ciun miau
+伏龍新村	voq lon sin tshen
+佈政新村
+低坪
+低坪村
+低塘職校
+低塘街道
+低塘人	ti daon gnin
+低塘衛生院	ti daon wei sen yoen
+低塘鎮
+佑聖巷
+何俞
+何家	ghou ko
+何家小學	ghou ko siau ghoq
+何家工業區	ghou ko kon gniq chiu
+何家新村	ghou ko sin tshen
+何家村	ghou ko tshen
+余家新河	yu ko sin ghou
+余家甲路	yu ko ciaq lu
+余家路江	yu ko lu kaon
+余隘	yu ka
+佛教老年修養院	veq ciau lau gnien sieu ian yoen
+佛靈寺
+佩珍醫院
+佳匯景苑
+佳家苑	cia cia ioen
+供電路
+侯家	gheu ko
+保利廣場
+保利湖濱天地
+保利電影院
+保慶路
+保稅南區
+保稅東區
+保稅西區
+保豐路
+俞塘
+俞塘村
+俞塘村口
+俞家	yu ko
+俞家嶴	yu ko au
+俞家站	yu ko dzaen
+俞山新村
+俞王
+俞王村
+俞范
+俞范中學	yu vaen con ghoq
+俞范東路
+俞范西路
+俞車利漕
+信懋學校	sin meu ghoq yau
+信拓路
+信泰路
+信誼新村
+信開路
+修人中學	sieu zhyun con ghoq
+倉儲路
+倉前
+倉基巷
+倉嶴水庫
+倉門
+倒流水庫
+候青門
+倡隆村
+倪家	gni ko
+倪家堰橋	gni ko ien jiau
+倪家堰路	gni ko ien lu
+倪家弄	gni ko lon
+倪家浦	gni ko phu
+倪王
+假山巷	ko saen ghaon
+假山新村	ko saen sin tshen
+健康路
+傅中灣
+傅家	fu ko
+傅馬
+備碶跟路
+傢俬城	cia sy dzin
+傳染病醫院	joen gnien bin i yoen
+元吉巷
+元寶嶺
+元禾
+兆龍路
+兆龍路口
+光信路
+光明村
+光明眼病醫院
+光明路
+光明路口
+光溪
+光華村
+光華站
+光華路
+光華農貿菜市
+光輝路
+克山村
+全民健身中心
+兩號橋
+兩號橋市場
+八塘路
+八大坑	paq da khan
+八字村
+八字村委會
+八字橋
+八工區
+八方錦苑
+八柱橋南路
+八甲弄
+八角樓巷
+公交汽車培訓中心	kon ciau chi tsho bei shiun con sin
+公共資源交易中心	kon gon tsy gnioen ciau yiq con sin
+公園路
+公路橫河
+公鐵立交橋	kon thiq liq ciau jiau
+六五房
+六北
+六塘
+六塘江
+六塘江路
+六甲江
+六竈
+六竈江
+共青路
+兵科院
+冠英村
+冠英莊
+冬青路
+冶山路
+冷水坑水庫
+凌江名庭
+凌波路
+凌漕路
+凌雲路
+凱榮機械
+凹凸重工
+刀片公司
+划船巷
+利民水庫
+前井頭路
+前俞巷
+前周
+前堰頭村
+前境路
+前大河
+前孫橋
+前岸
+前張
+前後方
+前後陳村
+前應小區
+前應東區
+前應西區
+前應路
+前新宅
+前方
+前方新村
+前方路
+前東漕
+前柳漕
+前橫
+前橫村
+前殷
+前江村
+前河
+前河北路
+前河南路
+前河路
+前洋廟
+前溪湖水庫
+前潭
+前王
+前王河
+前王港
+前王畈
+前百丈
+前聞江岸
+前胡村
+前莫家巷	zien moq ko ghaon
+前華家	zien wo ko
+前董
+前蔥園路
+前蕢
+前虞
+前虞和諧亭
+前虞村
+前豐
+前豐街
+前進路
+前鄭
+前陳
+前陶家漕	zien dau ko zau
+剡嶴	zhoen au
+剡江	zhoen kaon
+剡源	zhoen gnioen
+創富路
+創新大廈	tshaon sin da gho
+創新大廈	tshaon sin da so
+創新路
+創業一路
+創業三路
+創業二路
+創業五路
+創業六路
+創業四路
+創業大廈	tshaon gniq da gho
+創業大廈	tshaon gniq da so
+創業大道	tshaon gniq da dau
+創業橋
+創業路
+創苑路
+劉家嶴水庫	lieu ko au shyu khu
+劉家弄	lieu ko lon
+劉杜村
+劍南家園溫馨苑	cien nein cia yoen uen shin ioen
+劍南家園芳香苑	cien nein cia yoen faon shian ioen
+劍寺路
+劍山支路
+劍山菜市場
+劍山路
+劍橋公園
+劍江村
+劍江路
+劍蘭苑
+劍蘭路
+力奇電器
+力洋水庫
+力洋溪
+勝一村
+勝光村
+勝周線
+勝地名苑
+勝堰
+勝山塘江
+勝山大道	sin saen da dau
+勝山西路
+勝豐佳苑
+勝豐新村
+勝豐東苑
+勝豐河
+勝豐路
+勞家埭	lau ko da
+勞家埭江	lau ko da kaon
+勤勇
+勤建路
+勤豐
+勤豐新村
+勵家	li ko
+勵家弄小區	li ko lon siau chiu
+勵家路	li ko lu
+勵江岸
+包商銀行	pau shaon gnin ghaon
+包家	pau ko
+包家地巷	pau ko di ghaon
+包家路	pau ko lu
+化工區管委會
+化桃
+化龍莊
+北一環路
+北三環東路
+北二環中路
+北二環東路
+北二環西路
+北二環路
+北侖中醫院
+北侖人民醫院	poq len zhyun min i yoen
+北侖人民醫院南門	poq len zhyun min i yoen nein men
+北侖客運站
+北侖客運總站
+北侖小港
+北侖影劇院
+北侖新村
+北侖春曉
+北侖看守所
+北侖老車站
+北侖職高
+北侖衙前
+北侖電大	poq len dien da
+北侖電廠
+北侖電視臺
+北侖青少年宮
+北侖體藝中心
+北園路
+北大河
+北大街	poq dou ka
+北大西路	poq da si lu
+北大路	poq da lu
+北大路口	poq da lu kheu
+北山
+北山下
+北山村
+北川路
+北斗北路
+北斗南路
+北斗星辰
+北斗路
+北星路
+北村
+北柳街
+北極新村
+北極星村
+北極星路
+北橫河
+北河沿路
+北沿河路
+北海路
+北渡
+北溪路
+北濱江路
+北環東路
+北環西路
+北環路
+北興路
+北蘭江東路
+北街村
+北辰雅苑
+北郊河
+北門村
+北電小區
+北電賓館
+北面洋水庫
+匡堰
+匡堰大道	khuaon ien da dau
+匡堰菜場
+匡堰衛生院	khuaon ien wei sen yoen
+匡堰鎮政府
+匡興路
+匯嘉新園
+匯景新苑
+匯泉路
+匯港公司
+匯源小區
+匯源市場
+匯翠花園
+匯金大廈	wei cin da gho
+匯金大廈	wei cin da so
+匯頭
+匯頭小學	wei deu siau ghoq
+匯頭村
+匯麗機電
+匯龍村
+匯龍浦
+十七房景區
+十七房路
+十五中學實驗校區	zhyuq ng con ghoq zhyuq gniaen yau chiu
+十五嶴
+十八灣河
+十字北街
+十字南街
+十字東街
+十房
+十甲路口
+十里四香
+千丈老年公寓
+千畝嶴水庫
+千金湖
+升螺頭
+半坑
+半塘
+半夜江路
+半山
+半山堰江
+半島華府
+半掘浦
+半江河
+半浦村
+半路漲
+南二東路	nein gni ton lu
+南二環中路	nein gni waen con lu
+南二環中路
+南二環東路
+南二西路	nein gni si lu
+南余河
+南勝苑
+南北河
+南匯半塘
+南匯菜場
+南園新村
+南園路
+南坑
+南坑水庫
+南城沿路
+南城邊街
+南堡河
+南塘路
+南大步巷	nein da bu ghaon
+南大河
+南大街	nein dou ka
+南大西路	nein da si lu
+南大路	nein da lu
+南宋石刻公園
+南山北路
+南山實業
+南山新村
+南岸秀庭
+南嶴
+南嶴水庫
+南怡新村
+南新路
+南方偉業
+南方塘水庫
+南方液壓
+南村
+南東安路
+南林村
+南林村錢家	nein lin tshen dzien ko
+南橫江
+南橫河
+南永寧巷
+南河沿路
+南洋路
+南洋車業
+南洪小區
+南洪村
+南海路
+南深
+南渡村
+南渡菜場
+南湖路
+南溪家園	nein chi cia yoen
+南演武街
+南濱江路
+南環路
+南白河路
+南盤水庫
+南站西路
+南聯
+南苑上都
+南苑小區
+南苑新村
+南苑社區
+南蘭江東路
+南蘭江西路
+南裕小區
+南裕新村
+南豐大橋	nein fon da jiau
+南鎮安街
+南門
+南門副食品市場
+南門大街	nein men dou ka
+南門站
+南門頭
+南雅街
+南雷公寓
+南雷南路
+南雷村
+南雷里
+南頭門
+博威集團	poq uei dziq doen
+博宏工業區
+博曼特工業有限公司
+博曼特集團	poq maen deq dziq doen
+原油碼頭
+厲江岸
+及各橋
+友誼水庫
+古中大橋	ku con da jiau
+古城新境
+古城路
+古塘綠苑
+古塘華苑
+古塘街道
+古塘人	ku daon gnin
+古塘西路
+古塘麗景
+古庵
+古庵村
+古林中心路
+古林二商	ku lin gni shaon
+古林公交站	ku lin kon ciau dzaen
+古林夏家	ku lin gho ko
+古林文化中心
+古林村
+古林衛生院	ku lin wei sen yoen
+古林鎮中學	ku lin cyun con ghoq
+古林鎮政府
+古洞橋
+古窯浦
+古西路
+古講堂巷
+古路頭
+古阿育王寺	ku aq gnioq waon zy
+句章東路
+叫天港
+史家巷	sy ko ghaon
+史家弄	sy ko lon
+史家弄水庫	sy ko lon shyu khu
+史家新村	sy ko sin tshen
+史家村	sy ko tshen
+史家灣	sy ko uaen
+史家灣點	sy ko uaen tien
+司前
+司前新村
+合一
+合嶴
+合生國際城	gheq sen koq tsi dzin
+合興村
+合興路
+合鴿
+吉利汽車
+吉慶河
+吉慶街
+吉慶路
+吉祥嶴水庫
+吉祥新村
+吉祥路
+同三村
+同光小學	don kuaon siau ghoq
+同光村
+同大里
+同山
+同德路
+同心橋
+同心苑
+同心路
+同方傑座
+同春小區
+同濟中學	don tsi con ghoq
+同濟路
+同谷路
+名仕南苑
+名仕嘉景苑
+名仕花園
+名匯大廈	min wei da gho
+名匯大廈	min wei da so
+名江新都
+名邦商務大廈	min paon shaon vu da gho
+名邦商務大廈	min paon shaon vu da gho
+名都公寓
+名門莊園
+後王村
+向南河
+向家弄水庫	shian ko lon shyu khu
+向陽路
+君子街
+君悅國際花園
+君悅花園
+君瀾上府
+君臨廣場
+君豪中心
+吳墩	ng ten
+吳墩	ngu ten
+吳夾嶴	ng kaq au
+吳夾嶴	ngu kaq au
+吳家	ng ko
+吳家	ngu ko
+吳家塘路	ng ko daon lu
+吳家塘路	ngu ko daon lu
+吳家村	ng ko tshen
+吳家村	ngu ko tshen
+吳家漕	ng ko zau
+吳家漕	ngu ko zau
+吳家莊	ng ko tsaon
+吳家莊	ngu ko tsaon
+吳家鬥	ng ko teu
+吳家鬥	ngu ko teu
+吳山北路
+吳山南路
+吳嶴	ng au
+吳嶴	ngu au
+吳江岸村	ng kaon ngein tshen
+吳江岸村	ngu kaon ngein tshen
+吳江岸蘇家小區	ng kaon ngein su ko siau chiu
+吳江岸蘇家小區	ngu kaon ngein su ko siau chiu
+吳澤浦	ng dzeq phu
+吳澤浦	ngu dzeq phu
+周余三漕
+周公宅
+周公宅新村
+周公宅水庫
+周勝村
+周坑嶴水庫
+周塘墩
+周塘東街
+周塘西村
+周塘西街
+周塘西路
+周夾村
+周家埭	tsieu ko da
+周家嶴	tsieu ko au
+周家浦	tsieu ko phu
+周家浦村	tsieu ko phu tshen
+周家涼亭	tsieu ko lian din
+周家路	tsieu ko lu
+周家路新江	tsieu ko lu sin kaon
+周家路江	tsieu ko lu kaon
+周家路灣	tsieu ko lu uaen
+周宿渡	tsieu shyu du
+周宿渡路	tsieu shyu du lu
+周巷
+周巷中心
+周巷供電所
+周巷傢俬城	tsieu ghaon cia sy dzin
+周巷公園
+周巷文化宮
+周巷水廠
+周巷汽車站
+周巷站
+周巷鎮政府
+周巷鎮東大道	tsieu ghaon cyun ton da dau
+周巷鎮東新村
+周巷食品城
+周東
+周林港
+周橋
+周江岸
+周江岸路
+周百
+周西線
+周邵村
+周陳村
+周韓
+呼童街
+和園
+和宅
+和平小區
+和德路
+和泰雅苑
+和潤公寓
+和而思
+和諧橋
+和邦大廈	ghou paon da gho
+和邦大廈	ghou paon da so
+和鴿
+咸六村
+咸寧路
+咸祥一號橋
+咸祥勞動服務中心
+咸祥新街
+咸祥派出所
+咸祥菜場
+咸祥鎮中小學	yen dzian cyun con siau ghoq
+咸開路
+哈利斯頓	ha li sy ten
+唐家橋	daon ko jiau
+唐家漕	daon ko zau
+唐家路	daon ko lu
+唐葉新村
+唐虞路
+商務大廈	shaon vu da so
+商務大廈	shaon vu da gho
+商幫文化公園
+商會大廈	shaon wei da gho
+商會大廈	shaon wei da so
+商業精密鑄造廠
+商檢路
+商貿大廈	shaon meu da gho
+商貿大廈	shaon meu da so
+商貿街
+商貿路
+商都大廈	shaon tu da gho
+商都大廈	shaon tu da so
+啓文小區
+啓文幼兒園	chi ven ieu er yoen
+啓文幼兒園	chi ven ieu lu yoen
+啓文河
+啓文社區
+啓文花園
+啓文路
+啓新路
+啓新高爾夫球場	chi sin kau er fu jieu dzian
+啓明光電
+啓明南路
+啓明星座
+啓明星辰
+啓明路
+啓航橋
+喬里
+單家	zhoen ko
+嘉儀鋼板公司
+嘉利路
+嘉和名苑
+嘉怡花園
+嘉悅生活廣場	cia yuq sen weq kuaon dzian
+嘉悅購物廣場
+嘉溪
+嘉溪廟
+嘉盛銀座	cia zin gnin zou
+嘉裏商務大廈	cia li shaon vu da gho
+嘉裏商務大廈	cia li shaon vu da so
+嘉裏商務大廈	cia li shaon vu da gho
+嘉裏商務大廈	cia li shaon vu da so
+嘉裏商務樓
+嘉都苑
+嚴家	gnien ko
+四合村
+四塘南大路	sy daon nein da lu
+四塘村
+四塘橫江
+四塘橫河
+四塘橫路
+四塘江
+四塘江路
+四塘頭
+四季堰路
+四季東城
+四季桂花園
+四季華庭
+四安村
+四方家園	sy faon cia yoen
+四方小區
+四明公寓
+四明城市廣場
+四明山村
+四明山路
+四明山門
+四明東路
+四明橋水庫
+四明湖水庫
+四明路
+四期碼頭
+四竈浦
+四竈浦水庫
+四聯
+四腳涼亭
+四號橋
+回江南路
+回江路
+回龍
+回龍橋
+囤山
+國七寺
+國儲局八三七處
+國商城
+國慶河
+國泰巷
+國稅大廈	koq sei da gho
+國稅大廈	koq sei da so
+國豐街
+國貿大廈	koq meu da gho
+國貿大廈	koq meu da so
+國貿新花園
+國貿花園
+國醫街
+國防中心	koq vaon con sin
+國際大廈	koq tsi da gho
+國際大廈	koq tsi da so
+國際展銷中心
+國際會議中心
+國際發展大廈	koq tsi faq tsien da gho
+國際發展大廈	koq tsi faq tsien da so
+國際發展大廈	koq tsi faq coen da gho
+國際發展大廈	koq tsi faq coen da so
+國際航運中心
+國際酒店
+園丁新村
+園丁橋
+園丁社區
+園丁街
+園丁路
+園中路
+園區排澇河
+園區管委會
+園堍
+園西路
+圖書館路
+團圈支路
+團橋
+土地巷
+土地弄
+土埭村
+地關醫院
+坊前
+坊前村
+坎中
+坎勝路
+坎墩中心小學	khaen ten con sin siau ghoq
+坎墩交警隊	khaen ten ciau cin dei
+坎墩東街
+坎墩老街
+坎墩街道
+坎墩人	khaen ten gnin
+坎墩農貿市場
+坎墩醫院
+坎東
+坎東小學	khaen ton siau ghoq
+坎西
+坦坑路
+垂釣中心
+埋馬村
+城下路
+城北中學	dzin poq con ghoq
+城北門
+城南三區
+城南供電所
+城南小區
+城南東路
+城市元年
+城市學院
+城市廣場
+城市星光苑
+城市桃源小區
+城市發展有限公司
+城市綠洲
+城市花園
+城投大廈	dzin deu da gho
+城投大廈	dzin deu da so
+城東公寓
+城東工商所
+城東新村
+城東橋
+城東路
+城楊村
+城河東路
+城河西路
+城泗塘
+城灣
+城灣新村
+城灣水庫
+城聯
+城西嶴
+城西石塘
+城西路
+城關醫院
+城隍塗
+埕窯路
+培源汽配公司
+培羅成
+培羅成集團	bei lou dzin dziq doen
+堰南
+堰山
+堰頭王
+堰頭邵
+堰頭邵河
+報恩河
+場前路
+堵家橋	tu ko jiau
+塔前河
+塔山花園
+塔水路
+塔裏坑水庫
+塗田漲村
+塘下村
+塘堰橋
+塘嶴水庫
+塘民村
+塘民橋
+塘溪敬老院
+塘溪衛生院	daon chi wei sen yoen
+塘灣
+塘灣人家	daon uaen zhyun cia
+塘灣村
+塘盛路	daon dzan lu
+塘西中路
+塘西新村
+塘西路
+塘頭街
+塞納電熱
+墊橋村
+墊橋路
+墊橋路江
+壓賽李家	aq se li ko
+壓賽河
+壩頭東路
+壩頭西路
+壩頭路
+士林工藝
+夏家	gho ko
+夏家村	gho ko tshen
+夏家橋	gho ko jiau
+夏家河	gho ko ghou
+夏巷
+夏李嶴
+夏涼
+夏虞河
+外埠頭
+外塘路
+外墩
+外子貢河
+外峙渡口	nga dzi du kheu
+外嶴
+外廠
+外應村
+外新屋路
+外星屋
+外洋新村
+外洋路
+外湖
+外潛龍街
+外灘
+外灘花園
+外環北路
+外環東路
+外環西路
+外環路
+外畈
+外蔡
+外貿工業園區
+外鍾路
+外馬盤村
+外馬路
+大井路
+大件碼頭	dou jien mo deu
+大來街	da le ka
+大公岔口
+大別山路	da biq saen lu
+大化水庫
+大古塘江
+大吉巷	da ciq ghaon
+大善寺港
+大坑水庫	dou khan shyu khu
+大坪地
+大坪地村
+大埠丘水庫
+大埠頭	dou bu deu
+大堰鬥
+大塗塘
+大塘港
+大塘港水庫
+大將橋
+大山村
+大嵐	da laen
+大嵐鎮	da laen cyun
+大嵐人	da laen gnin
+大嵩東城
+大嵩江
+大嵩菜場
+大嵩西城
+大嶴
+大嶴村
+大嶴水庫	da au shyu khu
+大嶴菜場
+大嶴路
+大嶺下
+大嶺頂
+大巖嶴水庫
+大市堰
+大廟周
+大廟弄
+大慶北路	da chin poq lu
+大成房
+大成東路	da dzin ton lu
+大成橋
+大成花園	da dzin huo yoen
+大成菜場
+大成路	da dzin lu
+大戴街	dou te ka
+大教場路
+大斜橋水庫	dou zia jiau shyu khu
+大旺橋路
+大昌路
+大明河	da min ghou
+大書院巷
+大朱家新村	da cyu ko sin tshen
+大朱家新村	dou cyu ko sin tshen
+大朱家河	da cyu ko ghou
+大朱家河	dou cyu ko ghou
+大梁街	da lian ka
+大楓樹下
+大榭中學	da zia con ghoq
+大榭客運中心	da zia khaq yun con sin
+大榭石化	da zia zaq huo
+大榭醫院	da zia i yoen
+大樹下
+大橋	da jiau
+大橋	dou jiau
+大橋市場	dou jiau zy dzian
+大橋敬老院	dou jiau cin lau yoen
+大橋街	dou jiau ka
+大步街	da bu ka
+大池墩水庫	dou dzi ten shyu khu
+大池墩水庫	dou dzy ten shyu khu
+大汪路
+大河
+大河南路
+大河巷
+大河新村
+大河橋路
+大治橋
+大泉坑水庫
+大洋橋
+大浦河北路	da phu ghou poq lu
+大涇浦
+大港一路	da kaon iq lu
+大港中路	da kaon con lu
+大港二路	da kaon gni lu
+大港五路	da kaon ng lu
+大港公寓	da kaon kon gniu
+大港六路	da kaon loq lu
+大港工業城	da kaon kon gniq dzin
+大港新村	da kaon sin tshen
+大港生活區	da kaon sen weq chiu
+大港貨櫃
+大湖頭水庫
+大溟村
+大溟村口
+大滄北路	da tshaon poq lu
+大漕
+大灣水庫
+大烏巖水庫	da u ngaen shyu khu
+大牌頭	dou ba deu
+大田小區	da dien siau chiu
+大畈
+大皎
+大石門村
+大石門水庫
+大碧浦
+大程堰
+大紅鷹職業學院	da ghon in tsiq gniq yoq yoen
+大茅嶴水庫
+大莊
+大衆公寓	da con kon gniu
+大街東路	dou ka ton lu
+大街路	dou ka lu
+大袁家	dou yoen ko
+大西門	dou si men
+大西門外
+大西門路
+大觀璟園
+大路門江
+大路頭江	dou lu deu kaon
+大通中路	da thon con lu
+大通北路	da thon poq lu
+大通東路	da thon ton lu
+大通橋	da thon jiau
+大通河	da thon ghou
+大通花園
+大通西路	da thon si lu
+大通路	da thon lu
+大闊頭	dou khueq deu
+大隱工業園區	da in kon gniq yoen chiu
+大雙嶴水庫
+大雲叉口	da yun tsho kheu
+大雲小學	da yun siau ghoq
+大雲村	da yun tshen
+大雷教堂	da lei ciau daon
+大雷溪	da lei chi
+大霖山路口	da lin saen lu kheu
+大高子水庫
+大黃橋南路
+大黃橋路	da waon jiau lu
+天一玩具
+天一醫院
+天之星
+天之海大廈	thien tsy he da gho
+天九街
+天井寺
+天井嶴
+天元加油站	thien gnioen ko yeu dzaen
+天元大廈	thien gnioen da gho
+天元大廈	thien gnioen da so
+天元大道	thien gnioen da dau
+天元界塘工業區
+天元老街口
+天元花壇
+天元衛生院	thien gnioen wei sen yoen
+天元錢王
+天元鎮北西路
+天元鎮北路口
+天元鎮政府
+天元鐵皮市場
+天勝佳苑
+天勝花鳥市場	thien sin huo gniau zy dzian
+天台山路
+天合財匯中心
+天和家園	thien ghou cia yoen
+天壽公園
+天壽西路
+天壽路
+天安路
+天官和庭
+天宮莊園
+天寧大廈	thien gnin da gho
+天寧大廈	thien gnin da so
+天寧路
+天山路
+天峯路
+天平路
+天怡嘉苑
+天成家園	thien dzin cia yoen
+天打巖
+天敘路
+天景佳苑
+天業精鑄公司
+天欣家園	thien shin cia yoen
+天欣巷
+天水華都
+天沁家園	thien tshin cia yoen
+天河溫泉賓館
+天潤商座
+天潭路
+天琴大廈	thien jin da gho
+天琴大廈	thien jin da so
+天童新村
+天童村
+天童莊
+天童莊村
+天童菜場
+天童街
+天童路
+天童風景名勝區
+天聖路
+天興公寓
+天興嘉園
+天興路
+天賜佳園
+天賜家園	thien sy cia yoen
+天賜房
+天鑫家園	thien shin cia yoen
+天閤家園	thien koq cia yoen
+天雷坑
+天順公寓
+天順路
+天香橋
+天馬會展中心
+天騁服飾
+天高巷
+天鵝灣
+天龍山路
+太古城
+太古新街
+太字地路
+太守名府
+太屺村
+太屺村綜合樓
+太屺村農貿市場
+太平人壽	tha bin zhyun zieu
+太平嶴
+太平市場
+太平橋
+太平洋保險公司
+太平洋時代中心
+太河公寓
+太河南路
+太河路
+太湖路
+太行山路	tha ghaon saen lu
+太陽園
+太陽殿路
+太陽紡機
+夾溪
+夾田橋
+奇奧科技
+奉中社區
+奉中菜場
+奉先橋
+奉化劇院
+奉化大酒店	von huo da tsieu tien
+奉南新一村
+奉南路
+奉天海
+奉港中學	von kaon con ghoq
+奧克斯工業園區
+奧克斯集團	au kheq sy dziq doen
+奧力孚公寓
+奧特萊斯廣場
+奧麗賽大廈	au li se da gho
+奧麗賽大廈	au li se da so
+如意金水灣
+妙勝村委
+妙勝禪寺
+妙山中學	miau saen con ghoq
+妙峯山路
+姆嶺
+始平路
+姓胡塘路
+姚墅村
+姚家	yau ko
+姚家墊	yau ko tien
+姚家河	yau ko ghou
+姚家浦	yau ko phu
+姚嶴水庫
+姚嶺水庫
+姚張村
+姚東村
+姚江上上城
+姚江家園	yau kaon cia yoen
+姚江怡景
+姚江新都大廈	yau kaon sin tu da gho
+姚江新都大廈	yau kaon sin tu da so
+姚江東路
+姚江橋
+姚江花博園
+姚江花園
+姚江路
+姚童河
+姚豐南路
+姚豐橋
+姚豐社區
+姜南村
+姜姓
+姜家	cian ko
+姜家村	cian ko tshen
+姜家渡	cian ko du
+姜山二商	cian saen gni shaon
+姜山公交站	cian saen kon ciau dzaen
+姜山實驗中學	cian saen zhyuq gniaen con ghoq
+姜山環鎮路
+姜山菜場
+姜山衛生院	cian saen wei sen yoen
+姜山運管站
+姜山鎮中心小學	cian saen cyun con sin siau ghoq
+姜山鎮政府
+姜山頭
+姜岱
+姜村
+姜橫線
+姜湖水庫
+姜湖路
+姜隴
+威海路
+威爾路	uei er lu
+威瑪斯
+婦保醫院
+嫩江路
+子孫巷
+子陵新村
+子陵村
+子陵橋
+子陵路
+子陵陳山
+孔墅
+孔墅村
+孔家	khon ko
+孔家潭	khon ko dein
+孔家金苑	khon ko cin ioen
+孔浦中學	khon phu con ghoq
+孔浦公園
+孔浦支路
+孔浦路
+孔雀小區
+字巖下
+字豐
+孚竹
+孝聞巷
+孟家	man ko
+孟家埭	man ko da
+季景路
+孫塘南路
+孫塘新村
+孫塘路
+孫家	sen ko
+孫家境模具城	sen ko cin mou jiu dzin
+孫家境祠堂	sen ko cin dzy daon
+孫家境祠堂	sen ko cin zy daon
+孫家村	sen ko tshen
+孫家河	sen ko ghou
+孫家漕	sen ko zau
+孫家莊	sen ko tsaon
+孫家麗園	sen ko li yoen
+孫巷
+孫張漕
+孫方
+孫方南路
+孫祠巷
+孫陸村
+孫馬村
+學士東路	yoq zy ton lu
+學士橋	yoq zy jiau
+學士路	yoq zy lu
+學府苑	yoq fu ioen
+學府茗苑	yoq fu min ioen
+學府路	yoq fu lu
+學弄
+學苑東路	yoq ioen ton lu
+學苑路
+它山	thou saen
+它山堰路	thou saen ien lu
+它山廟	thou saen miau
+宅前張河
+安信商住樓
+安居幸福苑
+安居橋
+安山路
+安平路
+安康橋
+安泰街
+安置小區
+宋嚴王
+宋嚴王村
+宋家	son ko
+宋家弄	son ko lon
+宋家漕	son ko zau
+宋詔橋小區	son thei jiau siau chiu
+宋詔橋市場	son thei jiau zy dzian
+宏偉路
+宏圍路	ghon wei lu
+宏基廣場
+宏堅
+宏堅村
+宏堅站
+宏泰廣場
+宏洲
+宏港路
+宏潤花園
+宏興公寓
+宏遠路
+宗漢停車場	tson hein din tsho dzian
+宗漢停車場	tson hein din tsho dzian
+宗漢環衛所	tson hein waen wei so
+宗漢環衛所	tson hein waen wei so
+宗漢菜市	tson hein tshe zy
+宗漢菜市	tson hein tshe zy
+宗漢街道	tson hein ka dau
+宗漢街道	tson hein ka dau
+宗漢人	tson hein gnin
+宗漢人	tson hein gnin
+宗興停車場
+官倉港
+官園
+官橋
+官橋浦
+官田弄水庫
+官莊河
+官驛河頭
+定向河
+定山橋
+定山路
+定心寺
+定橋
+定橋村
+宜家鬥	gni ko teu
+宜科科技
+宜青苑
+客運總站
+宣家涼亭	shoen ko lian din
+宣江岸村
+家嶺	ko lin
+家電會展中心	cia dien wei tsien con sin
+家電會展中心	cia dien wei coen con sin
+密巖
+富北市場
+富北村
+富士花園
+富巷新村
+富強路
+富春江路
+富春花園
+富民村委
+富盛針織	fu zin tsin tsiq
+富茂大廈	fu meu da gho
+富茂大廈	fu meu da so
+富豪家園	fu ghau cia yoen
+富達花園
+富邦廣場
+實驗公寓
+寧南南路
+寧南立交橋	gnin nein liq ciau jiau
+寧南路
+寧報印刷公司
+寧大南校門	gnin da nein yau men
+寧大東校門	gnin da ton yau men
+寧大花園	gnin da huo yoen
+寧大附屬醫院	gnin da vu joq i yoen
+寧宮寺
+寧峯分理處	gnin fon fen li chyu
+寧徐路
+寧慈公路
+寧慈東路
+寧慈路
+寧東家園	gnin ton cia yoen
+寧橫路
+寧沁家園	gnin tshin cia yoen
+寧沁路
+寧波中遠物流大廈	gnin poq con yoen veq lieu da gho
+寧波中遠物流大廈	gnin poq con yoen veq lieu da so
+寧波中遠物流大廈	gnin pou con yoen veq lieu da gho
+寧波中遠物流大廈	gnin pou con yoen veq lieu da so
+寧波九中	gnin poq cieu con
+寧波九中	gnin pou cieu con
+寧波化工區	gnin poq huo kon chiu
+寧波化工區	gnin pou huo kon chiu
+寧波國檢	gnin poq koq cien
+寧波國檢	gnin pou koq cien
+寧波國際文武學校	gnin poq koq tsi ven vu ghoq yau
+寧波國際文武學校	gnin pou koq tsi ven vu ghoq yau
+寧波圖書館	gnin poq du shyu kun
+寧波圖書館	gnin pou du shyu kun
+寧波城市學院	gnin poq dzin zy yoq yoen
+寧波城市學院	gnin pou dzin zy yoq yoen
+寧波外事學校	gnin poq nga zy ghoq yau
+寧波外事學校	gnin pou nga zy ghoq yau
+寧波外事學院	gnin poq nga zy yoq yoen
+寧波外事學院	gnin pou nga zy yoq yoen
+寧波大學北校區	gnin poq da ghoq poq yau chiu
+寧波大學北校區	gnin pou da ghoq poq yau chiu
+寧波大學科技學院	gnin poq da ghoq khou ji yoq yoen
+寧波大學科技學院	gnin pou da ghoq khou ji yoq yoen
+寧波客運中心	gnin poq khaq yun con sin
+寧波客運中心	gnin pou khaq yun con sin
+寧波市精神病院	gnin poq zy tsin zhyun bin yoen
+寧波市精神病院	gnin pou zy tsin zhyun bin yoen
+寧波幫康城陽光大廈	gnin poq paon khaon dzin yan kuaon da gho
+寧波幫康城陽光大廈	gnin poq paon khaon dzin yan kuaon da so
+寧波幫康城陽光大廈	gnin pou paon khaon dzin yan kuaon da gho
+寧波幫康城陽光大廈	gnin pou paon khaon dzin yan kuaon da so
+寧波技師學院	gnin poq ji sy yoq yoen
+寧波技師學院	gnin pou ji sy yoq yoen
+寧波日報社	gnin poq zhyuq pau dzo
+寧波日報社	gnin pou zhyuq pau dzo
+寧波書城文化廣場	gnin poq shyu dzin ven huo kuaon dzian
+寧波書城文化廣場	gnin pou shyu dzin ven huo kuaon dzian
+寧波海關	gnin poq he kuaen
+寧波海關	gnin pou he kuaen
+寧波牛奶集團	gnin poq ngeu na dziq doen
+寧波牛奶集團	gnin pou ngeu na dziq doen
+寧波眼科醫院	gnin poq ngaen khou i yoen
+寧波眼科醫院	gnin pou ngaen khou i yoen
+寧波石油大廈	gnin poq zaq yeu da gho
+寧波石油大廈	gnin poq zaq yeu da so
+寧波石油大廈	gnin pou zaq yeu da gho
+寧波石油大廈	gnin pou zaq yeu da so
+寧波研發園	gnin poq gnien faq yoen
+寧波研發園	gnin pou gnien faq yoen
+寧波研發園	gnin poq knien faq yoen
+寧波研發園	gnin pou knien faq yoen
+寧波第七醫院	gnin poq di tshiq i yoen
+寧波第七醫院	gnin pou di tshiq i yoen
+寧波第五醫院	gnin poq di ng i yoen
+寧波第五醫院	gnin pou di ng i yoen
+寧波聯通公司	gnin poq lien thon kon sy
+寧波聯通公司	gnin pou lien thon kon sy
+寧波職業技術學院	gnin poq tsiq gniq ji zhyuq yoq yoen
+寧波職業技術學院	gnin pou tsiq gniq ji zhyuq yoq yoen
+寧波腫瘤醫院	gnin poq con lieu i yoen
+寧波腫瘤醫院	gnin pou con lieu i yoen
+寧波諾丁漢大學	gnin poq noq tin hein da ghoq
+寧波諾丁漢大學	gnin pou noq tin hein da ghoq
+寧波諾丁漢大學	gnin poq noq tin hein da ghoq
+寧波諾丁漢大學	gnin pou noq tin hein da ghoq
+寧波都市農業園區	gnin poq tu zy non gniq yoen chiu
+寧波都市農業園區	gnin pou tu zy non gniq yoen chiu
+寧波鄞州高教園區	gnin poq gnin tsieu kau ciau yoen chiu
+寧波鄞州高教園區	gnin pou gnin tsieu kau ciau yoen chiu
+寧波雅戈爾動物園	gnin poq ia kaq er don veq yoen
+寧波雅戈爾動物園	gnin poq ia kou er don veq yoen
+寧波雅戈爾動物園	gnin pou ia kaq er don veq yoen
+寧波雅戈爾動物園	gnin pou ia kou er don veq yoen
+寧波電大	gnin poq dien da
+寧波電大	gnin pou dien da
+寧波電臺	gnin poq dien de
+寧波電臺	gnin pou dien de
+寧波頤樂園	gnin poq yi loq yoen
+寧波頤樂園	gnin pou yi loq yoen
+寧波飯店	gnin poq vaen tien
+寧波飯店	gnin pou vaen tien
+寧波高教園區	gnin poq kau ciau yoen chiu
+寧波高教園區	gnin pou kau ciau yoen chiu
+寧海報社
+寧海大廈	gnin he da gho
+寧海大廈	gnin he da so
+寧燕大樓	gnin ien da leu
+寧福路
+寧穿路	gnin choen lu
+寧穿路
+寧興大廈	gnin shin da gho
+寧興大廈	gnin shin da so
+寧興財富廣場
+寧舟新村
+寧豐中路
+寧豐橋
+寧邱路
+寧都華庭
+寧鎮公路
+寧靜家園	gnin zin cia yoen
+寧馨園
+寨基水庫
+審批中心
+寫意春秋
+寶豐
+寶劍河
+寶幢市場
+寶慶河
+寶慶禪寺
+寶成機械
+寶新
+寶林寺
+寶源路
+寶馬傢俬	pau mo cia sy
+寺前王
+寺前王水庫
+寺山路
+寺龍
+封山寺
+將軍廟
+小三房
+小北門
+小吳家	siau ng ko
+小吳家	siau ngu ko
+小團浦
+小城春秋
+小城花園
+小塘花園
+小如江
+小安村
+小寺林
+小山
+小山公園
+小山後路
+小山新村
+小嶴
+小嶴水庫
+小嶺頭水庫
+小嶺頭站
+小工廠
+小庵
+小昌門
+小星星車業
+小東澄
+小樟樹
+小橋江
+小橫坑水庫
+小洋橋
+小洞嶴水庫
+小浹江
+小涇浦
+小清水湖
+小港實驗小學	siau kaon zhyuq gniaen siau ghoq
+小港工業區
+小港聯合車站
+小港街道辦事處
+小港醫院
+小湖橋新村
+小溪嶴水庫
+小烏巖水庫
+小田屋
+小百丈水庫
+小皎
+小茶亭
+小董家	siau ton ko
+小路下水庫
+小郎家	siau laon ko
+小門海口
+小陳家路	siau dzin ko lu
+小駱花園
+尖山頭
+尖嶺村
+尚南華庭
+尚海財富大廈	zhaon he dze fu da gho
+尚海財富大廈	zhaon he dze fu da so
+尚源佳苑
+尚田新村
+尚田鎮政府
+尹江岸二村	yin kaon ngein gni tshen
+尹江岸新村
+尹江路
+居敬小區
+居敬小學	ciu cin siau ghoq
+居敬居委會
+居敬橋
+居樂村	ciu loq tshen
+屠家莊	du ko tsaon
+屯山
+山下
+山下村
+山下瀋河
+山下王
+山下莊村
+山後新村
+山水人家	saen shyu gnin ko
+山水人家	saen shyu zhyun cia
+山海華庭
+山登水庫
+山西新村
+山西村
+山西河
+山貨市場
+山防
+屺峙	chi dzi
+屺峙村	chi dzi tshen
+岐化
+岐化路口
+岐山村
+岐山路
+岐洋
+岐湖村
+岐西
+岐陽村
+岷山學校	min saen ghoq yau
+峙山公園
+峙山文化廣場
+峙山醫院
+峙嶺山莊
+峙龍塘水庫	dzy lon daon shyu khu
+峙龍塘水庫	dzi lon daon shyu khu
+峻壁溪
+峽口水庫
+崇勝村
+崇和莊
+崇壽人民廣場	dzon zieu zhyun min kuaon dzian
+崇壽小學	dzon zieu siau ghoq
+崇壽工業區
+崇壽貨運站
+崇邱路
+崔嶴
+崔陳江路
+崗墩
+嵐山村
+嵐山水庫
+嵩山路
+嵩江東路
+嵩江西路
+嵩江路
+嶗山路
+嶴底水庫
+嶴漲水庫
+嶴裏水庫
+嶺下
+嶺下村
+嶺下水庫
+嶺腳下
+嶺頂
+嶺頭村
+嶽地村
+嶽林寺
+嶽林廣場
+嶽王廟
+巖下
+巖家塘	ngaen ko daon
+巖山弄水庫
+巖庵水庫
+巖河
+巖頭江
+川堂莊家	choen daon tsaon ko
+工一路
+工人新村	kon gnin sin tshen
+工商職業技術學院	kon shaon tsiq gniq ji zhyuq yoq yoen
+工程學院	kon dzin yoq yoen
+巴黎春天百貨	pa li chyun thien paq hou
+市府北大院	zy fu poq da yoen
+市府宿舍
+市政公司
+布政小學	pu tsin siau ghoq
+布政新村
+帥康
+帥特龍公司
+帥特龍集團	se deq lon dziq doen
+常洪
+常洪橋
+常青藤小城
+平安大廈	bin ein da gho
+平安大廈	bin ein da so
+平安鳥雨衣	bin ein gniau yu i
+平樂小區	bin loq siau chiu
+平潭水庫
+平王社區
+平石水庫
+平窯村
+年泥墩
+幸安公寓
+幸福家園	yin foq cia yoen
+幸福水庫
+幸福河
+幸福路
+幹墩
+店跟橋頭
+府北路
+府橋街
+庵東
+庵東市場路
+庵東建設路
+庵東衛生院	ein ton wei sen yoen
+庵東車站
+庵東農貿市場
+庵東鎮北路
+庵東鎮政府
+庵角路
+庶來村
+康家弄	khaon ko lon
+康山
+康山小學	khaon saen siau ghoq
+康山村
+康強路
+康復中心
+康橋南路北段
+康賽妮公司
+廟下
+廟前
+廟前周
+廟前頭
+廟堰村
+廟墩上路
+廟山路口
+廟山頭
+廟嶺
+廟後
+廟後張
+廟後頭
+廟戴村	miau te tshen
+廟東新村
+廟洪路
+廟跟
+廟跟河
+廟邊黃
+廠堂街
+廠跟
+廢舊物資市場
+廣南商城
+廣博大廈	kuaon poq da gho
+廣博大廈	kuaon poq da so
+廣博科技園區
+廣博陽光麗園
+廣博集團科技園	kuaon poq dziq doen khou ji yoen
+廣安橋
+廣平小區
+廣廈怡庭	kuaon gho yi din
+廣廈社區	kuaon gho dzo chiu
+廣濟公寓
+廣電中心
+廣電大廈	kuaon dien da gho
+廣電大廈	kuaon dien da so
+廬山中路
+廬山西路
+廬山路
+建塘江
+建塘江水庫
+建委大樓	cien uei da leu
+建嶴
+建嶴廟前
+建嶴村
+建嶴橋
+建嶴水庫
+建興橋
+建興路
+建莊村
+建設
+建設村
+建設水庫
+引發工業區
+引發工業小區
+張夏
+張孫
+張家園	tsian ko yoen
+張家墊	tsian ko tien
+張家山水庫	tsian ko saen shyu khu
+張家橋	tsian ko jiau
+張家漕	tsian ko zau
+張家潭	tsian ko dein
+張山亭
+張山江
+張嶴水庫
+張巷
+張斌橋菜場
+張方
+張李陸
+張村
+張江岸
+張清橋
+張鑑碶	tsian kaen chi
+張華山
+張鄞線
+張陳傅村
+張陸河
+張馬
+彌勒大道	mi leq da dau
+彩江大廈	tshe kaon da gho
+彩江大廈	tshe kaon da so
+彩虹家園	tshe ghon cia yoen
+彩虹新村
+彭橋
+彭橋直江
+彭橋站
+彭王浦
+後二房支路
+後二房路
+後俞
+後倉
+後倪村
+後劉漕
+後周
+後周漕
+後塘路
+後大河
+後大河橋
+後大街	gheu dou ka
+後姜
+後姜河
+後宅
+後小路
+後屠橋烈士陵園
+後山下
+後崗頭
+後嶴弄水庫
+後平畈路
+後廟新村
+後廠
+後弄
+後張
+後張村
+後所
+後新屋
+後新屋弄
+後新村
+後方停車場
+後方新村
+後施
+後楊嶴水庫
+後橫塘河
+後橫橋
+後橫江路
+後殷
+後水江路
+後江村
+後池頭
+後河巷
+後油車
+後洋村
+後洋池弄
+後洪家畈	gheu ghon ko paen
+後浦街
+後湖崗水庫
+後溪頭
+後漕
+後漕路
+後漕頭河
+後潘橋
+後營巷
+後王
+後王港
+後田垟巷
+後田洋顧路
+後百丈
+後石橋小區
+後聞江岸
+後胡村
+後茅山水庫
+後莫家巷	gheu moq ko ghaon
+後華家	gheu wo ko
+後袁
+後袁河
+後路田水庫
+後鄭
+後鄭巷
+後鄮
+後閘橋江
+後陳
+後陳村
+後陶家漕	gheu dau ko zau
+後隆
+後隆村
+後馬路
+後馮家路	gheu von ko lu
+後鳳廟
+後黃
+徐前村
+徐家	zi ko
+徐家堰	zi ko ien
+徐家橋	zi ko jiau
+徐家橫	zi ko wan
+徐家河	zi ko ghou
+徐家浦	zi ko phu
+徐家竈路	zi ko tsau lu
+徐戎三村	zi gnion saen tshen
+徐江岸河
+徐王村
+徐王路
+徐霞客大道	zi ya khaq da dau
+徐龍集團	zi lon dziq doen
+得力辦公用品
+得力電子公司
+得發花園
+德勝橋
+德勝路
+德發花園
+德馨園
+德馨家園	teq shin cia yoen
+心意橋
+志海果蔬合作社
+忠烈路
+快船江
+念慈園
+念慈橋
+思娘嶴水庫
+怡和大廈	yi ghou da gho
+怡和大廈	yi ghou da so
+怡峯家園	yi fon cia yoen
+怡惠中路
+怡惠小區
+怡樂園	yi loq yoen
+怡江新村
+怡江華庭
+怡陽公寓
+恆力鋼構
+恆富大廈	ghen fu da gho
+恆富大廈	ghen fu da so
+恆山路
+恆泰大廈	ghen tha da gho
+恆泰大廈	ghen tha da so
+恆豐路
+恆陽小區
+恆隆中心
+悅來市
+悅來市江
+悅榕山莊
+悅盛橋	yuq zin jiau
+悅龍灣
+悠雲路
+惠愛醫院
+惠政東路
+惠政橋
+惠政路
+惠民村
+惠江路
+惠金佳園
+惠風東路
+惠風西路
+愛中
+愛國江
+愛字地
+愛嶺
+愛嶺村
+愛民南路
+慈吉集團	dzy ciq dziq doen
+慈城中學	dzy dzin con ghoq
+慈城南門
+慈城新城站
+慈城東門口
+慈客隆
+慈康門診
+慈東
+慈江
+慈浦大橋	dzy phu da jiau
+慈湖人家	dzy wu gnin ko
+慈湖人家	dzy wu zhyun cia
+慈湖逸墅
+慈溪三院
+慈溪中學	dzy chi con ghoq
+慈溪中醫院
+慈溪交警大隊	dzy chi ciau cin da dei
+慈溪交通運輸局	dzy chi ciau thon yun shyu jioq
+慈溪人民醫院	dzy chi zhyun min i yoen
+慈溪周巷鎮
+周巷鎮
+慈溪周巷人	dzy chi tsieu ghaon gnin
+周巷人	tsieu ghaon gnin
+慈溪國土局
+慈溪大酒店	dzy chi da tsieu tien
+慈溪天元
+慈溪宗漢	dzy chi tson hein
+慈溪宗漢	dzy chi tson hein
+慈溪客運東站
+慈溪客運西站
+慈溪實驗小學	dzy chi zhyuq gniaen siau ghoq
+慈溪山莊
+慈溪崇壽鎮
+崇壽鎮
+慈溪崇壽人	dzy chi dzon zieu gnin
+崇壽人	dzon zieu gnin
+慈溪市殘聯
+慈溪橫河鎮
+橫河鎮
+慈溪橫河人	dzy chi wan ghou gnin
+橫河人	wan ghou gnin
+慈溪消防大隊	dzy chi siau vaon da dei
+慈溪滸山街道
+滸山街道
+慈溪滸山人	dzy chi hu saen gnin
+滸山人	hu saen gnin
+慈溪職高
+慈溪財富中心
+慈溪醫藥
+慈溪長途汽車站	dzy chi dzian du chi tsho dzaen
+慈甬路
+慈百苑
+慈百路
+慈覺寺水庫	dzy cioq zy shyu khu
+慈豐
+慈都家園	dzy tu cia yoen
+慈鎮運河
+慧燈寺
+慶安
+慶豐橋
+憲卿第公寓
+應嘉麗園
+應家	in ko
+應家新河	in ko sin ghou
+應家村	in ko tshen
+應家河	in ko ghou
+應家老河	in ko lau ghou
+應家閘	in ko zaq
+應山村
+懸慈
+戎家橋	gnion ko jiau
+成興公寓
+戚家	tshiq ko
+戚家山別墅區	tshiq ko saen biq zhyu chiu
+戚家山賓館	tshiq ko saen pin kun
+戚家村	tshiq ko tshen
+戚隘河	tshiq ka ghou
+戴家	te ko
+戴江岸	te kaon ngein
+戴王村	te waon tshen
+打網嶴
+投創中心
+拆落市
+拓嶺崗
+拓普
+拾尺橋
+振工路
+振瀛路
+振甬路
+振興東路
+振興橋
+振興西路
+振興路
+振興路口
+排澇河
+掘船灣
+提香公寓
+揚子江路
+揚帆路
+擇陽寺路口
+擎天池
+擔山公園
+擔峙
+擺線減速機廠
+支浦河
+支溪嶴
+教場山	ciau dzian saen
+敬德小學	cin teq siau ghoq
+文中路
+文化家園	ven huo cia yoen
+文化路
+文匯新村
+文山菜場
+文山路
+文山路站
+文峯小區
+文教路	ven ciau lu
+文昌住宅區
+文昌閣
+文景苑
+文景路
+文臺河
+文華路
+文萃新村
+文衛路
+文體活動中心
+文鼎星苑
+斜角橋
+斯貝
+新三村
+新世紀學校	sin shyu ci ghoq yau
+新世紀小學	sin shyu ci siau ghoq
+新世紀花園	sin shyu ci huo yoen
+新二江
+新京大廈	sin cin da gho
+新京大廈	sin cin da so
+新佳苑
+新區世紀城	sin chiu shyu ci dzin
+新區中心
+新區西高速入口
+新區長途汽車站	sin chiu dzian du chi tsho dzaen
+新呂
+新周家	sin tsieu ko
+新園路
+新城中心
+新城大廈	sin dzin da gho
+新城大廈	sin dzin da so
+新城大道	sin dzin da dau
+新城大道北路	sin dzin da dau poq lu
+新城大道南路	sin dzin da dau nein lu
+新城家園	sin dzin cia yoen
+新城市花園
+新塘公寓
+新塘家園	sin daon cia yoen
+新塘橫江
+新塘沿
+新塘沿汪家	sin daon yen uaon ko
+新夏家	sin gho ko
+新大路
+新天地
+新天地小區
+新奧燃氣
+新宅
+新屋
+新屋新村
+新峯小區
+新嶺嶴水庫
+新庵江
+新廟跟
+新建北路
+新建新權
+新恆公寓
+新恆路
+新政村
+新新公路
+新新家園	sin sin cia yoen
+新明達
+新星村
+新星河
+新星路
+新星龍灣商務樓
+新時代
+新時代大廈	sin zy de da gho
+新普銳斯
+新暉路
+新曹
+新村
+新村路
+新東村
+新林村
+新梅路
+新模
+新橋下村
+新橋北路
+新橋村
+新橋路
+新橋骨科醫院
+新橫河
+新權村
+新民水庫
+新江
+新江廈商城	sin kaon gho shaon dzin
+新江沿
+新江路
+新河
+新河明珠
+新河橋
+新泓口河
+新洋線
+新洲銀座
+新浦
+新海公司
+新海景花園
+新涼亭水庫
+新港公司
+新港商務廣場
+新港商業廣場
+新港物流
+新潘新村
+新潤大酒店	sin zhyun da tsieu tien
+新潮路
+新灣
+新界小學	sin ka siau ghoq
+新老周
+新聯村
+新舟村
+新舟西路
+新芝河
+新芝路
+新莊
+新莊村
+新莊村村委會
+新華園
+新華村
+新華橋
+新蕾公司
+新西門
+新西門路
+新豐小區
+新豐河
+新豐路
+新豔公寓
+新路嶴水庫
+新都匯商務中心
+新都明珠苑
+新都美地
+新都花園
+新靈峯公寓
+新馬河
+方前
+方嚴村
+方堰
+方太公司
+方家	faon ko
+方家堰河	faon ko ien ghou
+方家嶴水庫	faon ko au shyu khu
+方家新村	faon ko sin tshen
+方家橋	faon ko jiau
+方家橋新村	faon ko jiau sin tshen
+方家浦	faon ko phu
+方家漕	faon ko zau
+方戴	faon te
+方東
+方橋村
+方橋村委
+方水村
+方莊路
+方邊
+方陽橋
+方隘	faon ka
+施家	sy ko
+施家山	sy ko saen
+施家山村	sy ko saen tshen
+施家漕	sy ko zau
+施山河
+施嶴
+施村
+旗山村
+日新街	zhyuq sin ka
+日月山水	zhyuq yuq saen shyu
+日月星城	zhyuq yuq sin dzin
+日月星苑	zhyuq yuq sin ioen
+日湖婚慶廣場	zhyuq wu huen chin kuaon dzian
+日湖家園	zhyuq wu cia yoen
+日湖花園	zhyuq wu huo yoen
+日積	zhyuq tsiq
+日顯路
+日麗中路	zhyuq li con lu
+日麗東路	zhyuq li ton lu
+日麗路	zhyuq li lu
+早教中心	tsau ciau con sin
+昌樂路	chaon loq lu
+昌興橋
+明一
+明一河
+明仕麗庭
+明佳
+明倫
+明倫村
+明偉中學	min wei con ghoq
+明偉衛生院	min wei wei sen yoen
+明光路
+明南小區
+明南新村
+明南社區
+明園
+明堂嶴
+明堂嶴村
+明州花園
+明州西路
+明州醫院
+明德橋
+明昌橋
+明晨紫月
+明曙路
+明樓中學	min leu con ghoq
+明樓公園
+明樓新村
+明海商業廣場
+明海大道	min he da dau
+明港中學	min kaon con ghoq
+明港公寓
+明珠商貿大廈	min cyu shaon meu da gho
+明珠商貿大廈	min cyu shaon meu da so
+明珠路
+明輝路
+明辰紫月
+易通公司	yi thon kon sy
+星光家園	sin kuaon cia yoen
+星光村
+星光苑
+星城半島
+星星港灣
+星林橋
+星河晨光
+星河花園
+星海嘉苑
+星辰公寓
+星陽新村
+星陽菜場
+映山嶴
+春園小區
+春園路
+春城花園
+春山路口
+春暉
+春暉佳苑
+春暉小區
+春曉中學	chyun shiau con ghoq
+春曉供電所
+春曉客運站
+春曉工業園區
+春曉文化
+春曉東二路	chyun shiau ton gni lu
+春曉聽海路
+春曉花園
+春曉華園
+春曉觀海路
+春曉路
+春曉車站
+春曉鎮
+春曉人	chyun shiau gnin
+春曉鎮政府
+春江花城
+春江花月
+春秋名都
+時代大廈	zy de da gho
+時代大廈	zy de da so
+時代新居
+時代華庭
+時代華都
+晚稻田水庫
+晨光家園	zhyun kuaon cia yoen
+景丁
+景升企業
+景和家園	cin ghou cia yoen
+景家園	cin cia yoen
+景德寺
+景怡園
+景江岸
+景江路
+景泰家園	cin tha cia yoen
+景第公寓
+景芳園
+景觀大道	cin kun da dau
+景觀花苑
+晶華名園
+晶都苑
+暢園
+曙光小區
+曙光新村
+曙光電影院
+書香園
+書香景苑
+書香曉苑
+書香苑
+曹娥江路
+曹家	dzau ko
+曹村
+曹郎
+曹隘	dzau ka
+曹隘村	dzau ka tshen
+曹隘橋	dzau ka jiau
+曹隘河	dzau ka ghou
+最良新村
+最良橋
+最良江
+會展路
+會稽廟	kuei ci miau
+月亮苑
+月來嶴
+月湖盛園	yuq wu zin yoen
+月湖銀座
+月立電器
+朗海公路
+朗霞
+望春工業區	vaon chyun kon gniq chiu
+望春工業區管委會	vaon chyun kon gniq chiu kun uei wei
+望春橋村	vaon chyun jiau tshen
+望春法庭	vaon chyun faq din
+望春路	vaon chyun lu
+望梅路	vaon mei lu
+望江家園	vaon kaon cia yoen
+望江小學	vaon kaon siau ghoq
+望江工業區	vaon kaon kon gniq chiu
+望江村	vaon kaon tshen
+望江花園
+望江苑	vaon kaon ioen
+望江苑
+望江路	vaon kaon lu
+望海路
+望童線	vaon don sien
+望童路	vaon don lu
+朝暉新城	tsiau huei sin dzin
+朝暉橋	tsiau huei jiau
+朝陽幼兒園	dziau yan ieu er yoen
+朝陽幼兒園	dziau yan ieu lu yoen
+朝陽新村	dziau yan sin tshen
+朝陽薈公寓	tsiau yan uei kon gniu
+朝陽路
+朱一社區
+朱塘
+朱家山	cyu ko saen
+朱家峯	cyu ko fon
+朱家村	cyu ko tshen
+朱家橋	cyu ko jiau
+朱家河	cyu ko ghou
+朱家沿	cyu ko yen
+朱家沿河	cyu ko yen ghou
+朱家浦	cyu ko phu
+朱家漕	cyu ko zau
+朱家漕村	cyu ko zau tshen
+朱家站	cyu ko dzaen
+朱家莊	cyu ko tsaon
+朱敏
+朱敏文體中心
+朱梅許巖
+朱浪漕
+朱湯
+朱田村
+朱界村
+朱稱
+朱郁
+朱都墩
+朱雀新村
+朱雀社區
+朱韓
+朱韓村
+朵柱嶺水庫
+杉杉科創園
+杉杉科技園區
+杉杉金融貿易大廈	saen saen cin yon meu yiq da gho
+杉杉金融貿易大廈	saen saen cin yon meu yiq da so
+杉立路
+李四嶴
+李夢小區
+李家坑	li ko khan
+李家弄	li ko lon
+李家村	li ko tshen
+李家河	li ko ghou
+李家洋	li ko yan
+李家漕	li ko zau
+李家灘	li ko thaen
+李家舍	li ko so
+李嶴
+李關弟中學	li kuaen di con ghoq
+李隘	li ka
+李馮河
+杏村
+杏陽小區
+杖錫
+杜嶴
+杜村
+杜義弄
+杜郭
+杭州灣職校
+杭州銀行	ghaon tsieu gnin ghaon
+杭灣中路
+東一
+東一小學	ton iq siau ghoq
+東一幼兒園	ton iq ieu er yoen
+東一幼兒園	ton iq ieu lu yoen
+東一碼頭
+東一路
+東一農貿市場
+東三
+東三路
+東二新村	ton gni sin tshen
+東二路	ton gni lu
+東二路
+東五竈北路
+東五竈南路
+東來國際大廈	ton le koq tsi da gho
+東保線
+東六房村
+東勝路
+東吳中學	ton ngu con ghoq
+東吳小學	ton ngu siau ghoq
+東吳市場
+東吳鎮政府
+東周
+東周塘
+東嚴
+東園新村
+東坑
+東坑裏水庫
+東城名苑
+東城峯匯大廈	ton dzin fon wei da gho
+東城峯匯大廈	ton dzin fon wei da so
+東城水岸
+東城河
+東城花鳥市場	ton dzin huo gniau zy dzian
+東城華園
+東塘河
+東外灘公寓
+東大河
+東姜
+東寅商座
+東山嶴
+東山村
+東山河
+東山社區
+東山門
+東山頭
+東崗村
+東嶴江
+東嶴溪
+東張
+東方名庭
+東方名苑
+東方商務中心
+東方外國語學校	ton faon nga koq gniu ghoq yau
+東方明珠城
+東方明珠小區
+東方灣邸
+東方物流
+東方瑞市
+東方花園
+東方苑
+東方閣
+東旱門路
+東昇
+東昇河
+東昌路
+東明河
+東朝街	ton dziau ka
+東李
+東村
+東林寺
+東柳坊
+東柳坊河
+東柳新村
+東楊
+東樓
+東橫河
+東橫路
+東江
+東江家園	ton kaon cia yoen
+東江沿
+東沈
+東沙新村
+東沙港
+東河
+東河花園
+東泰家園	ton tha cia yoen
+東海塑料廠	ton he soq liau tshian
+東海明園
+東海明珠公寓
+東海曙光大廈	ton he zhyu kuaon da gho
+東海曙光大廈	ton he zhyu kuaon da so
+東海花園
+東海菜市場
+東海蓄電池公司	ton he shioq dien dzi kon sy
+東海蓄電池公司	ton he shioq dien dzy kon sy
+東海集團	ton he dziq doen
+東港新村
+東湖花園
+東湖馨園
+東源華府
+東溪
+東潤銘座
+東澄村
+東瑞大廈	ton zei da gho
+東瑞大廈	ton zei da so
+東環北路
+東畈村
+東界牌	ton ka ba
+東相苑
+東碶路
+東臺公寓
+東興小區
+東興社區
+東航大廈	ton ghaon da gho
+東航大廈	ton ghaon da so
+東苑路
+東裕小區
+東裕新村
+東裕社區
+東裕菜場
+東西嶴
+東西鄭路口
+東谷湖水庫
+東路橋
+東邑北路
+東邑小區
+東邵
+東郊
+東郊服務中心	ton ciau voq vu con sin
+東郊服務中心	ton ciau voq vu con sin
+東郡名苑
+東郡尚都
+東都佳苑
+東都華庭
+東錢
+東錢湖中學	ton dzien wu con ghoq
+東錢湖中心小學	ton dzien wu con sin siau ghoq
+東錢湖旅遊學校	ton dzien wu li yeu ghoq yau
+東錢湖管委會
+東錢湖遊客服務中心	ton dzien wu yeu khaq voq vu con sin
+東錢湖遊客服務中心	ton dzien wu yeu khaq voq vu con sin
+東錢湖鎮政府
+東門橋
+東門老酒廠
+東門菜場
+東陳河
+東雅
+東雅村
+東雅農貿市場
+東頭陳
+東香茗園
+東體育場路
+東鶯新村
+東鷹花園
+松下村
+松嶴鎮
+松嶴人	son au gnin
+松溪
+松竹新村
+松花江中學	son huo kaon con ghoq
+松花江路
+板倉
+板材城
+板橋路江
+林周村
+林周站
+林唐
+林善嶴水庫
+林塘
+林家浦	lin ko phu
+林廟路
+林頭方
+果藝場
+柏坑水庫
+柏樹地
+柏樹花園
+柏頓嘉園
+染店弄
+柔石
+柔石故居
+柘嶴
+柞灣
+柯力電氣
+柳夾嶴
+柳家	lieu ko
+柳家嶴	lieu ko au
+柳岸晨韻
+柳汀新村
+柳汀星座
+柳汀花苑
+柳莊小區
+柳西新村
+柳隘村	lieu ka tshen
+柴家	za ko
+柴家橋	za ko jiau
+柴家港	za ko kaon
+柴家漕	za ko zau
+柴弄
+柴樓
+柴橋中學	za jiau con ghoq
+柴橋南街
+柴橋客運站
+柴橋工業區
+柴橋老站
+柴橋老車站
+柴橋菜場
+柴橋街道辦事處
+柴橋醫院
+柴橋頭
+柴溪
+柴門口
+栗樹塘
+校東小區
+核心村
+格林生活廣場	kaq lin sen weq kuaon dzian
+格蘭春天小區
+格蘭春天鉑園
+格蘭雲天
+桂井街
+桂冠公寓
+桂家	kuei ko
+桂池村
+桂花園
+桃園小區
+桃園新村
+桃山弄水庫
+桃江村
+桃渡
+桃源小區
+桃源書院
+桃源橋
+桐樹院
+桐江橋
+桐湖
+桑園新村
+桑家	saon ko
+桑菊家園	saon cioq cia yoen
+桓村
+梁周線
+梁家	lian ko
+梁家堰	lian ko ien
+梁弄敬老院
+梁弄菜場
+梁弄鎮
+梁弄人	lian lon gnin
+梁弄鎮政府
+梁橋
+梁橋路口
+梁湖頭
+梁祝小區
+梁祝文化園
+梁輝水庫
+梁輝老年中心
+梁輝衛生院	lian huei wei sen yoen
+梁輝開發區
+梁馮小區
+梁馮橋
+梅園村
+梅園酒店
+梅墟凌雲路
+梅墟北區
+梅墟新城
+梅墟路
+梅山中學	mei saen con ghoq
+梅山保稅港區管委會
+梅山大河
+梅山客運站
+梅山新區
+梅山鄉政府
+梅峯
+梅嶴
+梅嶺
+梅嶺下
+梅景路
+梅東村
+梅東渡口
+梅林路口
+梅梁橋
+梅樹孔
+梅樹孔口
+梅樹小區
+梅沁園
+梅湖
+梅湖三站
+梅湖村
+梅湖水庫
+梅湖路
+梅湖農場
+梅溪水庫
+梅盛苑	mei zin ioen
+梅蘭江
+梅西村
+梅錫
+梅陽公園
+梨園殿水庫
+梨洲中學	li tsieu con ghoq
+梨洲街道
+梨洲醫院
+梵石花園
+棉海村
+棉紡小區
+棉豐村
+森林水庫
+棲鳳橋
+楊公山
+楊家	yan ko
+楊家寺	yan ko zy
+楊家嶴	yan ko au
+楊家弄	yan ko lon
+楊家新村	yan ko sin tshen
+楊家橋	yan ko jiau
+楊家河	yan ko ghou
+楊家漕	yan ko zau
+楊家站	yan ko dzaen
+楊家路橋	yan ko lu jiau
+楊嶴
+楊巷江
+楊村
+楊枝橋
+楊柳江
+楊柳池路
+楊梅嶺水庫
+楊梅路
+楊湖村
+楊漕
+楊石塘
+楊西河漕
+楊觀橋
+楊陳
+楊陳村
+楓丹馨園
+楓園
+楓樹弄
+楓灣家園	fon uaen cia yoen
+楓灣河
+榆柳塘江
+榧樹潭水庫
+榭光
+榭嘉路
+榮合公館
+榮安佳境
+榮安和院
+榮安大廈	yon ein da gho
+榮安大廈	yon ein da so
+榮安實驗中學	yon ein zhyuq gniaen con ghoq
+榮安府
+榮安花園
+榮欣苑
+榮駱路
+榴樹頭
+槐樹公園
+槐樹新村
+樂和家園	loq ghou cia yoen
+樂家	loq ko
+樂家	ngoq ko
+樊家	vaen ko
+樊嶴水庫
+樊嶴港
+樓下陳
+樓夾嶴村
+樓家	leu ko
+樓家公鐵立交橋	leu ko kon thiq liq ciau jiau
+樓家支路	leu ko tsy lu
+樓家河	leu ko ghou
+樓盆河
+樟嶴村
+樟星
+樟村
+樟村崔嶴
+樟村烈士陵園
+樟樹下
+樟橋頭
+樟漕路
+樟興路
+樟韻人家
+模具城
+樹橋
+樹橋村
+樹橋頭
+橋裏王
+橋頭嚴
+橋頭堡指揮部
+橋頭王
+機場邊檢站
+機關幼兒園	ci kuaen ieu er yoen
+機關幼兒園	ci kuaen ieu lu yoen
+機電路
+橡樹灣小區
+橫北洞橋河
+橫坎頭
+橫坑水庫
+橫坑溪
+橫坑裏水庫
+橫堰
+橫塘村委
+橫山
+橫山崗
+橫山村
+橫山橋
+橫山水庫
+橫山碼頭
+橫峯堰
+橫嶴水庫
+橫嶺水庫
+橫江
+橫河
+橫河三角站
+橫河中學	wan ghou con ghoq
+橫河交警中隊	wan ghou ciau cin con dei
+橫河埭路
+橫河實驗小學	wan ghou zhyuq gniaen siau ghoq
+橫河污水處理站
+橫河街
+橫河路
+橫河鎮中心小學	wan ghou cyun con sin siau ghoq
+橫河鎮政府
+橫河鎮文化廣場
+橫河頭
+橫涇市場
+橫涇河
+橫港
+橫溪中心小學	wan chi con sin siau ghoq
+橫溪公交站	wan chi kon ciau dzaen
+橫溪廣電站
+橫溪村
+橫溪水庫
+橫溪繡花廠
+橫溪農貿市場
+橫溪錢嶴
+橫溪鎮中學	wan chi cyun con ghoq
+橫溪鎮政府
+橫漲
+橫街工業區
+橫街水廠
+橫街派出所
+橫街菜場
+橫街鎮政府
+橫豐村
+橫路陳村
+橫道新村
+橫鄞線
+櫟斜水庫
+櫟社交警中隊	liq dzo ciau cin con dei
+櫟社蔣家	liq dzo tsian ko
+櫟高線
+櫻花針織
+欣欣家園	shin shin cia yoen
+欣達站
+歐景苑
+歡樂家園	hun loq cia yoen
+正大糧油	tsin da lian yeu
+正大路	tsin da lu
+正始中學	tsin sy con ghoq
+正學公寓	tsin yoq kon gniu
+正學路	tsin yoq lu
+正德泰和
+正明新二村
+正明新村
+正明村
+步梯巖水庫
+武勝門
+武嶺水庫
+武嶺花園
+武林學校	vu lin ghoq yau
+武羣橫路
+武警學校	vu cin ghoq yau
+歷崔路
+歷崔路口
+歷石線
+段三線
+段塘丁家	doen daon tin ko
+段塘中路
+段塘東路
+段塘西路
+段梅立交橋	doen mei liq ciau jiau
+段頭灣
+段頭灣市場
+殷家灣	in ko uaen
+殿北
+殿跟村
+每食屋凍品中心
+毓秀路
+毛力水庫
+毛夾嶴
+毛家	mau ko
+毛家坪水庫	mau ko bin shyu khu
+毛家漕	mau ko zau
+毛山頭
+毛嶴
+毛嶴村
+毛嶼港水庫
+毛巾廠
+毛杜
+民主路
+民安路
+民惠東路
+民惠西路
+民樂工業區	min loq kon gniq chiu
+民聯
+民豐街
+氣象北路
+氣象南路
+水中灣
+水倉頭
+水口水庫
+水家	shyu ko
+水家村	shyu ko tshen
+水尚闌珊
+水岸心境
+水岸花園
+水岸藍庭
+水岸鑫城
+水岸香榭
+水景苑
+水晶大廈	shyu tsin da gho
+水晶大廈	shyu tsin da so
+水木清華
+水流橋水庫
+水琚王
+水茂華園
+水華家園	shyu wo cia yoen
+水門樂園	shyu men loq yoen
+水閣周
+水雲浦
+水韻江南
+永亨銅管道
+永佳苑
+永信
+永傅路
+永安公交	ion ein kon ciau
+永安路
+永成塘
+永新景園
+永旺村
+永旺村委
+永昌公交	ion chaon kon ciau
+永晨商場
+永泰公園
+永泰花園
+永淦古玩
+永發運輸公司
+永盛公交	ion zin kon ciau
+永福庵
+永紅家園	ion ghon cia yoen
+永茂精密鑄造廠
+永茂路
+永豐家苑	ion fon cia ioen
+永豐庫遺址
+永豐新村
+汀香苑
+求真學校	jieu tsin ghoq yau
+江中工業園區
+江中老年中心
+江余橋
+江北交警大隊	kaon poq ciau cin da dei
+江北創業
+江北大河
+江北實驗中學	kaon poq zhyuq gniaen con ghoq
+江北實驗小學	kaon poq zhyuq gniaen siau ghoq
+江北工業區管委會
+江北投資創業中心
+江北眼病醫院
+江南一品
+江南人家	kaon nein zhyun cia
+江南大河
+江南新城
+江南春曉
+江南景苑
+江南村
+江南村石路頭
+江南綠洲
+江南綠洲小區
+江南菜場
+江南貿城
+江南逸庭
+江口村
+江城世家	kaon dzin shyu ko
+江家	kaon ko
+江家山站	kaon ko saen dzaen
+江家新村	kaon ko sin tshen
+江廈銀座	kaon gho gnin zou
+江星公寓
+江東中心小學	kaon ton con sin siau ghoq
+江東交警大隊	kaon ton ciau cin da dei
+江東四明山河
+江東新世紀	kaon ton sin shyu ci
+江東明皇大樓	kaon ton min waon da leu
+江東東明河
+江東水廠
+江東江南路
+江東海明
+江東海明河
+江東海運大樓	kaon ton he yun da leu
+江東科技創業中心
+江東第二實驗小學	kaon ton di gni zhyuq gniaen siau ghoq
+江東西柳
+江東青城大樓	kaon ton tshin dzin da leu
+江東青山
+江東頤高數碼廣場
+江沿
+江澄北路
+江澄南路
+江濱
+江濱公園
+江花賓館
+江讒頭
+江邵路
+江都名苑
+江鈴汽車
+江陸
+江陸村
+汪家	uaon ko
+汪家村	uaon ko tshen
+汪家橋河	uaon ko jiau ghou
+汪家河	uaon ko ghou
+汪楊
+汶溪	men chi
+汽貿大道	chi meu da dau
+汽車商城
+汽車營
+汽車臨時南站
+汽車西站
+沁園街
+沁春橋
+沁水麗庭
+沈五
+沈五村
+沈呂清
+沈家	sin ko
+沈家村	sin ko tshen
+沈家河	sin ko ghou
+沙堰
+沙堰村
+沙堰村委會
+沙家墊	so ko tien
+沙家墊村	so ko tien tshen
+沙山度假村	so saen du cia tshen
+沙村
+沙河小學	so ghou siau ghoq
+沙港
+沙港村
+沙港茗苑
+沙溪
+沙羅坊
+沙黃江
+河南顧
+河塍路口	ghou zin lu kheu
+河塘新村
+河姆	ghou m
+河姆	ghou meu
+河姆渡大橋	ghou m du da jiau
+河姆渡大橋	ghou meu du da jiau
+河姆渡鎮中	ghou m du cyun con
+河姆渡鎮中	ghou meu du cyun con
+河姆渡鎮政府	ghou m du cyun tsin fu
+河姆渡鎮政府	ghou meu du cyun tsin fu
+河尚坑
+河山村
+河東
+河東岸
+河清路
+河灘浦河
+河瑭新村
+河肚港
+河西村
+河角
+河頭工業區
+河頭村
+河頭衛生院	ghou deu wei sen yoen
+河頭陳
+河風麗庭
+油嘴油泵廠
+油車嶺
+油車江
+油車浦
+沿丈路口
+沿區路
+沿山大河
+沿山河路
+沿江村
+沿江東路
+沿江西路
+沿海新村
+沿溪村
+沿西河
+泉溪
+泊水塘	boq shyu daon
+泗洲頭溪
+泗港小區
+泗港社區
+波導公司
+泥堰頭
+泥橋頭
+泥灣
+泥灣村
+泥牛塘江
+泰和家園	tha ghou cia yoen
+泰和馨苑
+泰安大廈	tha ein da gho
+泰安大廈	tha ein da so
+泰安社區
+泰安西路
+泰富廣場
+泰山莊
+泰康東路
+泰河中學	tha ghou con ghoq
+泰河學校	tha ghou ghoq yau
+泰河小區
+泰河康園
+泰清山水庫
+泰興小區
+洋山崗
+洋山嶴村
+洋市中心河
+洋沙山西七路
+洋沙山風景區
+洋浦
+洋漲
+洞口廟水庫
+洞山
+洞橋公交站	don jiau kon ciau dzaen
+洞橋新家園	don jiau sin cia yoen
+洞橋明苑
+洞橋村
+洞橋菜場
+洞橋頭
+洪塘中心小學	ghon daon con sin siau ghoq
+洪塘中興一路
+洪塘中路
+洪塘南路
+洪塘橋
+洪塘經濟發展中心
+洪塘街道辦事處
+洪塘變電所
+洪塘陳家弄	ghon daon dzin ko lon
+洪塘頤和名苑
+洪家新河	ghon ko sin ghou
+洪家河	ghon ko ghou
+洪家畈	ghon ko paen
+洪山廟水庫
+洪嶴
+洪渡新村
+洪溪
+洪盛橋	ghon zin jiau
+洪祥橋
+洪都花園
+洪都路
+洪陳村
+流水巖水庫
+浙大寧波理工學院	tsiq da gnin poq li kon yoq yoen
+浙大寧波理工學院	tsiq da gnin pou li kon yoq yoen
+浙大軟件學院寧波分院	tsiq da gnioen jien yoq yoen gnin poq fen yoen
+浙大軟件學院寧波分院	tsiq da gnioen jien yoq yoen gnin pou fen yoen
+浙東垂釣中心
+浙東棉紗市場
+浙東輕紡城
+浙江三榮電機公司
+浙江工商職業技術學院	tsiq kaon kon shaon tsiq gniq ji zhyuq yoq yoen
+浙江紡織服裝學院	tsiq kaon faon tsiq voq tsaon yoq yoen
+浙江醫藥學校	tsiq kaon i yaq ghoq yau
+浙江醫藥學院	tsiq kaon i yaq yoq yoen
+浙甬建材市場
+浜子港
+浦口王村
+浦東村
+浦根村
+浦發大廈	phu faq da gho
+浦發大廈	phu faq da so
+浦豐村
+浪琴海
+浮中
+浮尚橋
+海信花園
+海信路
+海光大廈	he kuaon da gho
+海光大廈	he kuaon da so
+海南新村
+海南村
+海南路口
+海城花園
+海城路
+海天二村
+海天園
+海天新村
+海天路
+海天路站
+海富路
+海寧街
+海山名座
+海川大道	he choen da dau
+海川橋
+海川路
+海悅花苑
+海星塑機	he sin soq ci
+海星家園	he sin cia yoen
+海星小區
+海星村
+海星路
+海晏路	he ien lu
+海晨園
+海景東苑
+海景花園
+海景華庭
+海景豪庭
+海曙交警大隊	he zhyu ciau cin da dei
+海曙區人武部	he zhyu chiu zhyun vu bu
+海曙外國語學校	he zhyu nga koq gniu ghoq yau
+海殿路口
+海洋家園	he yan cia yoen
+海港花園
+海濱花園
+海濱路
+海琴園
+海田大廈	he dien da gho
+海田大廈	he dien da so
+海納名苑
+海衛家園	he wei cia yoen
+海通食品
+海運村
+海關大樓	he kuaen da leu
+海關路
+海韻園
+海風莊園
+海鴻園
+涇浦庵
+涼亭弄
+淞浦
+淡水井頭
+淡水泓
+淡水湖水庫
+淡港
+淡溪
+淮河路口
+深溪新涼亭
+深溪村
+深溪洪家橋頭	sin chi ghon ko jiau deu
+淹浦
+淺水灣城市花園
+淺水灣小區
+淺水灣農莊
+清川佳園
+清林閒庭
+清水橋路
+清水河
+清水湖
+清水潭農莊
+清水灣
+清水灣小區
+清水菜場
+清水麗庭
+清沁家園	tshin tshin cia yoen
+清河小區
+清河賓館
+清泉山莊
+清泉新村
+清泉花園	tshin joen huo yoen
+清泉花園
+清泰公寓
+清涼寺水庫
+清灣橋
+清芷園
+清道觀
+渚青路
+渡口路站
+渡頭董
+港城嘉苑
+港都茗宅
+港隆時代廣場
+港頭村
+游泳健身中心
+湖北路
+湖匯山
+湖口弄
+湖堤
+湖塘
+湖塘村
+湖塘橫江
+湖塘江
+湖塘河
+湖塘菜場
+湖山
+湖山人家	wu saen zhyun cia
+湖心景區
+湖心村
+湖心村始發站
+湖心河
+湖景花園
+湖東菜場
+湖泊河	wu phaq ghou
+湖清墊
+湖芳村
+湖裏陳
+湖西村
+湖西路
+湖頭
+湗橋頭
+湯家	thaon ko
+湯家廟	thaon ko miau
+湯家閘	thaon ko zaq
+源中路
+溪下
+溪下村
+溪下菜場
+溪口一村
+溪口三村
+溪口二村
+溪口水庫
+溪塘頭
+溪岸家苑	chi ngein cia ioen
+溪東
+溪沿溪
+溪鳳橋
+溫州銀行	uen tsieu gnin ghaon
+溫州銀行大廈	uen tsieu gnin ghaon da gho
+溫州銀行大廈	uen tsieu gnin ghaon da so
+滄北
+滄海北路
+滄海名苑
+滄海實業大廈	tshaon he zhyuq gniq da gho
+滄海實業大廈	tshaon he zhyuq gniq da so
+滄海路
+滄田
+滄田工業區
+滄田村
+滑塔巖水庫
+滕家園	den ko yoen
+滕山
+滴水墩水庫
+滸山
+滸山江
+滸山菜市
+滸崇公路
+漁業基地
+漁浦
+漁浦巷
+漁溪
+漁溪市場
+漁緣農莊
+漁金小區
+演武
+演武公園
+漕港
+漢塘	hein daon
+漢塘	hein daon
+漢塘村	hein daon tshen
+漢塘村	hein daon tshen
+漲浦景苑
+潘天壽中學	phun thien zieu con ghoq
+潘家	phun ko
+潘家墊	phun ko tien
+潘家村	phun ko tshen
+潘嶴廟
+潘沈
+潘火小區
+潘火橋小區
+潘火開發區管委會
+潛龍新村
+潤和園
+潤德小學	zhyun teq siau ghoq
+潭南
+潮塘
+潮塘江
+潺子浦
+潺浦河
+澄浪潭
+澄浪社區
+澥浦大會堂	ha phu da wei daon
+澥浦汽車站
+澥浦衛生院	ha phu wei sen yoen
+澥浦鎮政府
+濠河
+濱江家苑	pin kaon cia ioen
+濱江小區
+濱江新村
+濱江花苑
+濱江路
+濱海一路
+濱海五路
+濱海便民服務中心
+濱海公交站	pin he kon ciau dzaen
+濱海博物館
+濱海污水廠
+濱海社區
+濱海管委會
+濱海錦苑
+瀛洲小區
+灣塘村
+灣底
+灣底村
+灣頭中心河
+灣頭馬家	uaen deu mo ko
+火炬大廈	hou jiu da gho
+火炬大廈	hou jiu da so
+火燒灣
+火車東站
+炒貨市場
+炮臺菜場
+烏家	u ko
+烏山
+烏山南路
+烏山小區
+烏山站
+烏山綜合樓
+烏山路
+烏巖
+烏玉橋
+烏石弄水庫
+烏竹園水庫
+烏頭門
+焦山
+煉化公司
+煉化後施市場
+煉化車
+煉化醫院
+煉化體育館
+照山橋
+熊家街	yon ko ka
+燎源電器
+燕子窠
+燕山水庫
+燕灣村
+營口
+營門路
+燭溪
+爛田汪
+爛蛇弄水庫
+牆弄村
+牆裏小區
+牌門	ba men
+牌門頭	ba men deu
+牛山水庫
+牛泥塘崗
+牛背脊	ngeu pei tsiq
+牛軛丘
+牛郎河
+牛頭嶴水庫
+牟山小學	meu saen siau ghoq
+牟山江
+牟山鎮政府
+牡丹公寓
+牡丹小區
+牡牛紙業
+物流樞紐港
+犢山
+狀元嶴水庫	jaon gnioen au shyu khu
+獅丹努集團	sy taen nu dziq doen
+獅山新村
+獅山村
+獅紅
+獸頭
+玄壇殿
+玉字地
+玉帶溪
+玉立路
+王仙崗
+王兩漕
+王天路
+王夾嶴
+王夾嶴水庫
+王家埭	waon ko da
+王家壩	waon ko po
+王家弄	waon ko lon
+王家弄河	waon ko lon ghou
+王家新村	waon ko sin tshen
+王家村	waon ko tshen
+王家橋	waon ko jiau
+王家橋村	waon ko jiau tshen
+王家橫河	waon ko wan ghou
+王家港	waon ko kaon
+王家漕	waon ko zau
+王家潭	waon ko dein
+王家麓村	waon ko loq tshen
+王家麓水庫	waon ko loq shyu khu
+王山村
+王嶴
+王榭
+王淑浦村
+王相公水庫
+王笙齡小學	waon sen lin siau ghoq
+王隘新村	waon ka sin tshen
+玫瑰園
+玫瑰花園
+玲瓏小區
+珍寶公寓
+珠山寺水庫
+珠峯路
+珠江村
+珠江路
+珠溪
+珠溪水庫
+現代商城
+球山
+球東
+瑞園
+瑞巖寺水庫
+瑞巖寺風景區
+瑞麗家園	zei li cia yoen
+瑤琳小區
+瑪瑙路
+璟月灣
+環城北路西段
+環城西路北段
+環城路
+環境監測中心
+環湖路
+環球中心
+環球城
+環球經貿大廈	waen jieu cin meu da gho
+環球經貿大廈	waen jieu cin meu da so
+環衛站
+環衛處
+環鎮北路
+環鎮路
+瓜坑
+瓦窯橋
+瓶壺中苑
+瓶壺北苑
+瓶壺南苑
+甘宣村
+甘泉畈
+甘溪村
+甘潼寺
+生寶路
+甬傑氣動公司
+甬城和庭
+甬新橋
+甬新河
+甬旺路
+甬晨商場
+甬江南路
+甬江外漕
+甬江工業區
+甬江村
+甬江路
+甬港新村
+甬港現代銘樓
+甬興新村
+甬興西路
+田中央
+田地周
+田央沈
+田家村	dien ko tshen
+田屋
+田廠
+田洋
+田洋裏水庫
+田洋顧弄
+田畈路
+田胡村
+田胡路
+田舍陳
+田螺山遺址
+田鄭村
+田隴
+田顧
+田顧河
+甲村
+甲村老車站
+甲村農貿市場
+申坎頭水庫	shyun khaen deu shyu khu
+申寶橡塑廠	shyun pau zian soq tshian
+申甬日製衣	shyun ion zhyuq cyu i
+甸央周
+甸張
+甸張村
+甸張港
+甸漲村
+畈坑水庫
+畈嶴水庫
+畈裏塘
+畈裏塘橋
+界堰
+界塘路
+界牌村	ka ba tshen
+畢家河	piq ko ghou
+畢家碶路	piq ko chi lu
+登州街
+發展大廈	faq tsien da gho
+發展大廈	faq tsien da so
+發展大廈	faq coen da gho
+發展大廈	faq coen da so
+白山頭
+白峯中學	baq fon con ghoq
+白峯碼頭
+白峯鎮
+白嶽小學	baq ngoq siau ghoq
+白彭小區
+白楊路
+白水路
+白沙中心
+白沙水廠
+白沙菜市
+白沙路
+白河一路
+白河小區
+白河路
+白溪
+白溪水庫
+白漁村
+白石尖
+白石村
+白石頭路
+白羅橋
+白羅浦
+白衣巷
+白金漢爵	baq cin hein tsiaq
+白金漢爵	baq cin hein tsiaq
+白金灣小區
+白雲
+白雲二村	baq yun gni tshen
+白雲公寓
+白雲北路
+白雲商貿中心
+白雲小區
+白雲山莊
+白雲橋
+白雲社區
+白雲街
+白鶴二村	baq ngoq gni tshen
+白鷺園
+白龍崗
+百丈南路
+百丈崗水庫
+百丈江
+百丈花園
+百兩村
+百兩橋
+百合家苑	paq gheq cia ioen
+百合小區
+百寧街
+百梁北路
+百梁橋
+百梁橋村
+百梁路口
+百步崗
+百步階
+百興街
+百花路
+百郎橋
+百隆集團	paq lon dziq doen
+皇冠公寓
+皇冠大廈	waon kun da gho
+皇冠花園
+皇山新村
+皇山橋
+皇山橋路
+皋拜橋
+皎口水庫
+皎山
+盆山
+盈港大廈	yin kaon da gho
+盈港大廈	yin kaon da so
+益明軸承
+益民街
+盛世又一村	zin shyu yeu iq tshen
+盛世嘉苑	zin shyu cia ioen
+盛世天城	zin shyu thien dzin
+盛世新都	zin shyu sin tu
+盛世華城	zin shyu wo dzin
+盛世酈都	zin shyu li tu
+盛家	dzan ko
+盛家河	dzan ko ghou
+盛嶴	zin au
+盛梅路	zin mei lu
+盛達氣動公司	zin daq chi don kon sy
+盛霞路	dzan ya lu
+盛霞路	dzan ia lu
+盤棋山路
+盧一
+直塘
+直塘江
+直塘路
+直江
+直江路
+直河
+直落河
+直落泓
+相公殿中街
+相公殿車站
+相士地
+相嶴水庫
+真香園
+瞻岐衛生院	tsien ji wei sen yoen
+瞻虹路
+知恩中學	cyu en con ghoq
+石井坑水庫
+石佛堂水庫
+石倉嶴
+石化市場西路
+石卜坎村
+石埠頭
+石堰村
+石塘
+石塘下
+石塘下河
+石塘村
+石壁山水庫
+石婆橋
+石子洞橋
+石家	zaq ko
+石家橋	zaq ko jiau
+石山頭
+石板巷
+石柱下村
+石柱嶴水庫
+石橋
+石橋頭路
+石欄橋
+石灰嶴
+石臼廟村
+石道地
+石門水庫
+石門溪
+石陽寺路口
+石頭橋小區
+石頭橋菜市
+石馬塘
+石馬水庫
+石鼓門水庫
+石龍線
+研發園區
+碑塔廠跟
+碑塔菜場
+碧水和城
+碧水家園	piq shyu cia yoen
+碧水蓮晴
+碧海小學	piq he siau ghoq
+碶頭
+碾子橋
+碾子灘
+碾子頭
+磚窯廠
+磨刀橋
+磨刀橋路
+磻溪
+磻溪新村
+社田
+社田村
+祕圖山公寓
+祖廟水庫
+祝家	coq ko
+祝家匯	coq ko wei
+祝家匯村	coq ko wei tshen
+祝家墩	coq ko ten
+祝家橋	coq ko jiau
+祝家渡	coq ko du
+神鴿實業
+祥和嘉苑
+祥雲路
+福慶路
+福明家園	foq min cia yoen
+福明村
+福民
+福民公園
+福民村
+福泉公寓
+福泉山景區
+福泉路
+福洋老年公寓
+福海花園
+福達刀片廠
+禪巖
+禽蛋市場
+禾家橋村	ghou ko jiau tshen
+禾山
+禾豐
+秀東尚座
+秀水家苑	sieu shyu cia ioen
+秀水華庭
+秋實路
+科創路
+科園北路
+科技公園
+科技大廈	khou ji da gho
+科技大廈	khou ji da so
+科技小區
+科技支路
+科技路
+科興路
+科苑路
+科貿中心
+科達路
+秦堰
+秦堰村
+秦堰橋
+秦山水庫
+秦渡路
+秧田頭
+程家	dzin ko
+穆家	moq ko
+穆家巷	moq ko ghaon
+穆家橋	moq ko jiau
+穆家河	moq ko ghou
+積家橋	tsiq ko jiau
+穴湖水庫
+空相寺
+穿咸線
+窯山頭
+窯頭
+立信機械
+立方寓
+站前路
+站南路
+章尹橋
+章水鎮政府
+章聖寺水庫
+章隘村	tsaon ka tshen
+童一
+童一村
+童家	don ko
+童家嶴水庫	don ko au shyu khu
+童家新村	don ko sin tshen
+童家河	don ko ghou
+童家漕	don ko zau
+童嶴村
+童心路
+童方路
+童村
+童橋村
+童氏醫院
+童王
+童王小區
+童王河
+童西河
+竹之韻食品公司
+竹園新村
+竹山橋
+竹林溪
+竹泉路
+竹溪園
+竹絲嵐
+竺家坑水庫	coq ko khan shyu khu
+竺家橋	coq ko jiau
+竺山頭
+笆弄
+笙竹嶺
+第一小學	di iq siau ghoq
+第七路
+第三醫院
+第九醫院
+第二小學	di gni siau ghoq
+第四堡
+第四實驗小學	di sy zhyuq gniaen siau ghoq
+筍嶴
+筍行弄
+筱牆巷
+筲箕斗
+筲箕灣鄭家	sau ci uaen dzin ko
+算山
+管江
+管江糧站
+箭峯
+箭港
+箭路頭
+精忠信用社
+糜山
+糧站路
+糧豐小區
+糧豐街
+糯稻頭水庫
+紅光老年協會
+紅十字醫院
+紅山水庫
+紅旗河
+紅星小區
+紅星美凱龍
+紅星美凱龍那
+紅景佳苑
+紅林
+紅林路口
+紅梅新村
+紅梅社區
+紅楓路
+紅泉水庫
+紅牆外弄
+紅聯
+紅聯渡口
+紅聯菜場
+紅舒村
+紅葉路口
+紅衛橋
+紡織東路
+紡織西路
+紡織路
+紫城路
+紫微嶴水庫
+紫汀花園
+紫溪
+紫石
+紫薇新村
+紫郡
+紫郡小區
+紫金名座
+紫金小區
+紫鵑新村
+細嶺
+細嶺教堂	si lin ciau daon
+紹成小學	ziau dzin siau ghoq
+紹興舍頭
+經一路
+經七路
+經三路
+經五中路
+經五北路
+經五路
+經八路
+經六路
+經四路
+經堂
+綠園一路
+綠園三路
+綠園二路
+綠園大廈	loq yoen da gho
+綠園大廈	loq yoen da so
+綠城桂花園
+綠島
+綠梅新村
+綠都路
+綠野村
+維多利大酒店	vi tou li da tsieu tien
+維拉小鎮	vi lha siau cyun
+維科城市桃源
+締景灣公寓
+緣園
+緯一路
+緯三路
+緯六路
+緯四路
+縣前街
+縣後巷
+縣江
+縣江橋
+縫紉機廠
+繁佳公寓
+繁景小區
+繁景花園
+繁榮路
+繁裕二村	vaen yu gni tshen
+繁裕新村
+繆家	mieu ko
+繞池路
+羅墅橋
+羅家	lou ko
+羅家河	lou ko ghou
+羅家漕	lou ko zau
+羅江工業園區
+羅池廟
+羅渡
+羅灣
+羅蒙倉庫
+羅鳴南路
+羊山巷
+羊府路
+羊毛衫市場
+羊毛衫廠
+羊行街
+羊角田
+美墅
+美好家園	mei hau cia yoen
+美萊醫院
+美邦商務樓
+羣誼路
+羣豐路
+義嶴坑水庫
+義門路
+翁姚
+翁家	on ko
+翁家墩	on ko ten
+翁家新村	on ko sin tshen
+翁家橋	on ko jiau
+翁家池	on ko dzi
+翁家浦	on ko phu
+翁王路
+翁華縫配廠
+翁郎橋
+翔鷹
+翔鷹公司
+翠屏路
+翠柏一里
+翠柏里
+翠柏東巷
+翠柏河
+翠柏西巷
+翠湖苑
+翠湖香堤
+翡翠灣
+翰香苑
+翻石渡
+耀華家園	yau wo cia yoen
+耀輝路
+耀馬橋
+老人公寓	lau gnin kon gniu
+老周港
+老四房
+老城關醫院
+老夏家	lau gho cia
+老實巷
+老屋橋弄
+老年房
+老年活動中心站
+老廟
+老廟小學	lau miau siau ghoq
+老指揮部
+老梅山
+老竹木市場
+老街
+老街北路
+老街南路
+老西門
+老闆娘食品廠
+老鷹山
+老鷹灣
+耐吉
+耕漁橋
+耷河村
+聖墩村
+聖萊達電器
+聚才路
+聚興路
+聚豐化工公司
+聚賢北路
+聚邦路
+聚金家園	zhyu cin cia yoen
+聞江岸
+聞濤苑
+聯勝路
+聯勤村
+聯升一路
+聯升佳苑
+聯南社區	lien nein dzo chiu
+聯合公寓
+聯合大廈	lien gheq da gho
+聯合大廈	lien gheq da so
+聯合路
+聯明村
+聯盛商業廣場	lien zin shaon gniq kuaon dzian
+聯盛搜秀城	lien zin seu sieu dzin
+聯盟橋
+聯興家園	lien shin cia yoen
+聯興村
+聯虹路
+聯豐世紀苑	lien fon shyu ci ioen
+聯豐中路
+聯豐新村
+聯豐村
+聯豐立交橋	lien fon liq ciau jiau
+聯通家園	lien thon cia yoen
+聰園路
+職成教中心	tsiq dzin ciau con sin
+職田王
+肖家	siau ko
+肖家巷	siau ko ghaon
+肖東中學	siau ton con ghoq
+肖東立交橋	siau ton liq ciau jiau
+育才中學	yoq dze con ghoq
+育才初中
+育才家園	yoq dze cia yoen
+育才小學	yoq dze siau ghoq
+育王公墓
+育興街
+胡公巖小區
+胡夾嶴水庫
+胡家	wu ko
+胡家新河	wu ko sin ghou
+胡家村	wu ko tshen
+胡家洋	wu ko yan
+胡陳港水庫
+脈雲路
+臘梅路
+臨俞小學	lin yu siau ghoq
+臨俞工業區
+臨周江
+臨山
+臨山海塗水庫
+臨山醫院
+臨山鎮政府
+臨春路
+臨春路口
+臨江小區
+臨江西苑
+臨江路
+臨浦新村
+臨海路
+自來水公司	zy le shyu kon sy
+興化山水庫
+興和路
+興圃巷
+興園巷
+興城路
+興奉橋
+興安路
+興宋路
+興寧中路
+興寧南路
+興寧巷
+興寧橋
+興島南路
+興嶴站
+興工三路
+興工二路
+興工路
+興巨路
+興市路
+興建花園
+興建路
+興慈一路
+興慈七路
+興慈三路
+興慈五路
+興慈八路
+興慈六路
+興慈四路
+興房路
+興東路
+興柴村
+興柴路
+興梅家苑	shin mei ko ioen
+興梅橋
+興業一路
+興業三路
+興業中路
+興業二路
+興業五路
+興業六路
+興業南路
+興業四路
+興業大廈	shin gniq da gho
+興業大廈	shin gniq da so
+興業大道	shin gniq da dau
+興業路
+興橋三路
+興橋五路
+興橋路
+興江一路
+興江三路
+興江二路
+興江五路
+興浦街
+興海路
+興港路
+興甬橋
+興甬路
+興盛路	shin zin lu
+興莊路
+興華燈具公司
+興裕新村
+興誠路
+興賢路
+興農大廈	shin non da gho
+興農大廈	shin non da so
+興鎮三路
+興鎮街
+興陸村
+興電路
+舊宅徐
+舊宅村
+舍輞水庫
+舒周
+舒夾嶴
+舒家	shyu ko
+舒家灘	shyu ko thaen
+舒郎崗
+舜北公園
+舜北小區
+舜北新村
+舜南新村
+舜宇路
+舜水北路
+舜江名苑
+舜科東路
+舜都傢俬廣場	shyun tu cia sy kuaon dzian
+舜都裝飾市場
+舜雁商寓
+舟孟新村
+舟宿雲庭
+航海公司
+航渡橋
+船底坑水庫
+芒灘
+芙蓉家園	vu yon cia yoen
+芝山
+芝山村
+芝蘭堰路
+芝蘭新城
+花園新村
+花園村
+花園社區
+花塘西路
+花壇新村
+花峙新村
+花峙新苑
+花池巷
+花牆門
+花苑新村
+花莊跟
+花門頭
+花香維也納	huo shian vi ye neq
+苔嶴水庫
+苕溪
+英雄水庫
+英雄河
+茂新
+茂新村
+茂新村委會
+茂生路	meu sen lu
+范家	vaen ko
+范家丘	vaen ko chieu
+范市
+范市人	vaen zy gnin
+茅家	mau ko
+茅家小區	mau ko siau chiu
+茅家小河	mau ko siau ghou
+茅家河	mau ko ghou
+茅山村
+茅山衛生院	mau saen wei sen yoen
+茅嶺墩水庫
+茅東
+茅洋山路
+茅洋水庫
+茅草漕
+茅鑊
+茗園
+茗山廣場
+茗山路
+茗西小區
+茗雅苑
+茜苑新村
+茶亭庵
+茶培水庫
+茶山水庫
+茶廠
+茶桃公路
+茶院溪
+荷曉東路
+荷梁線
+荷池新村
+荷池路
+荷花二村	ghou huo gni tshen
+荷花家園	ghou huo cia yoen
+荷花新村
+荷花橋村
+荷花池頭
+莊下
+莊前
+莊家村	tsaon ko tshen
+莊山小區
+莊山菜場
+莊嶴水庫
+莊市大道	tsaon zy da dau
+莊市新街路
+莊市派出所
+莊市淺水灣小區
+莊市菜市場
+莊橋上邵站
+莊橋大街	tsaon jiau dou ka
+莊橋孔家	tsaon jiau khon ko
+莊橋實驗學校	tsaon jiau zhyuq gniaen ghoq yau
+莊橋工業園區
+莊橋河
+莊橋火車站
+莊橋童家	tsaon jiau don ko
+莊橋西衛橋
+莊洪路
+莊浦路
+莊溪古廟
+莊溪家園	tsaon chi cia yoen
+莊溪路口
+莊黃泓
+莘嶴	sin au
+莘嶴部隊	sin au bu dei
+莘橋	sin jiau
+莘香雅苑
+莫家嶴水庫	moq ko au shyu khu
+莫家村	moq ko tshen
+莫家湖	moq ko wu
+莫干山路	moq kien saen lu
+莫方公路	moq faon kon lu
+菁江渡
+菁華路
+菜場北路
+菜市巷
+華中街
+華倫公司
+華光城
+華光廠
+華勝北路
+華勝南路
+華勝路
+華升草藝
+華嘉橋
+華嚴巷
+華嚴街
+華城花園
+華塘
+華太家園	wo tha cia yoen
+華家江路	wo ko kaon lu
+華山新村
+華山水庫
+華山路
+華峙
+華峙水庫
+華峙河
+華峯公寓
+華巖寺水庫
+華庭公寓
+華庭家園	wo din cia yoen
+華康名傢俬	wo khaon min cia sy
+華德汽車
+華慈醫院
+華新路
+華晨雅苑
+華東物資城
+華業街
+華樓街
+華泰劍橋
+華泰星城
+華泰街
+華泰西苑
+華浦新村
+華海路
+華潤五彩城
+華繡巷
+華美傢俬市場	wo mei cia sy zy dzian
+華興路
+華茂教師公寓
+華藝服飾
+華裕路
+華豐星城
+華豐花園
+華豐莊園
+華豔新村
+華都公寓
+華鋼機械
+華錦巷
+華頂山路
+華鵬路
+菱池街
+萬利路
+萬和公寓
+萬國商城
+萬國新村
+萬安橋
+萬安莊
+萬安莊園
+萬家嶴	vaen ko au
+萬市徐
+萬年橋路
+萬弓塘河
+萬景公寓
+萬景山
+萬江華庭
+萬湫山
+萬盛實業	vaen zin zhyuq gniq
+萬科城
+萬科金色城市
+萬科金色水岸
+萬科雲鷺灣
+萬竹溪
+萬興公寓
+萬興路
+萬衆村
+萬象路
+萬豪中心
+萬達公寓
+萬達廣場
+萬金路
+葉家	yiq ko
+葉家小區	yiq ko siau chiu
+葉家山下	yiq ko saen gho
+葉家村	yiq ko tshen
+葉家浦	yiq ko phu
+葉嶴
+葉涇浦
+葑水港
+葑水港村
+葛家灣	keq ko uaen
+葛水
+董家	ton ko
+董家小區	ton ko siau chiu
+董家橋	ton ko jiau
+董家橋村	ton ko jiau tshen
+董家畈	ton ko paen
+董王
+蒲塘
+蒲家	bu ko
+蒲家村	bu ko tshen
+蒲門水庫
+蓀塘堰
+蓀湖村
+蓀湖水庫
+蓀湖水庫河
+蓀湖路
+蓉峯村
+蓉峯村口
+蓉江工業區
+蓉江新村
+蓉江村
+蓓蕾小學	bei lei siau ghoq
+蓬苑路
+蓬萊中街
+蓬萊寺
+蓬萊小區
+蓬萊裏
+蓬萊路
+蓮塘路
+蓮橋第
+蓮橋街
+蔚斗小學	uei teu siau ghoq
+蔚斗新村
+蔚藍水岸
+蔡家	tsha ko
+蔡家巷	tsha ko ghaon
+蔡家河	tsha ko ghou
+蔡家溪	tsha ko chi
+蔡郎橋
+蔡郎橋村
+蔣吳
+蔣家園	tsian ko yoen
+蔣家江	tsian ko kaon
+蔣嶴
+蔣潭	tsian dein
+蕙江路
+蕭家	siau ko
+蕭皋西路
+薈博雅苑
+薛家	siq ko
+薛家南路	siq ko nein lu
+薛家新家園	siq ko sin cia yoen
+薛家村	siq ko tshen
+薛家河	siq ko ghou
+薪橋北路
+薪橋南路
+藍天公寓
+藍瑞橋
+藍西橋
+藍青路
+藍馨橋
+藕池大廈	ngeu dzy da gho
+藕池大廈	ngeu dzy da so
+藕池大廈	ngeu dzi da gho
+藕池大廈	ngeu dzi da so
+藕池新村
+藕纜橋
+藕纜橋路
+蘆城老站
+蘆家橋	lu ko jiau
+蘆庵線
+蘆江北路
+蘆江小區
+蘆港
+蘆港村
+蘆瀆中學	lu doq con ghoq
+蘆王村
+蘆花橋
+蘆葦路
+蘆蒲
+蘇家村	su ko tshen
+蘇家河	su ko ghou
+蘇家畈河	su ko paen ghou
+蘭亭綠源
+蘭亭路
+蘭墅公寓
+蘭江中學	laen kaon con ghoq
+蘭江街道
+蘭江街道辦事處
+蘭海
+虎哨周
+虎哨周菜場
+虎嶼
+虎王
+虞家	gniu ko
+虞家路	gniu ko lu
+虞波北園
+虞波大廈	gniu pou da gho
+虞波廣場
+虞波江
+虞波江路
+虞波花園
+虞波西園
+號乘車口
+虹南路
+虹星村
+虹橋小區
+虹橋路
+虹橋頭
+蛟門江路
+蛟門浦
+蜀山路
+蜃蛟
+蜃蛟村
+蝦辣
+蝶緣路
+蟠龍
+蟠龍北路
+蟠龍新村
+蟠龍村
+蟠龍路
+蟹山水庫
+蟹鉗口水庫
+衆安家園	con ein cia yoen
+行政中心	yin tsin con sin
+行政服務中心	yin tsin voq vu con sin
+行政服務中心	yin tsin voq vu con sin
+行知職高	yin cyu tsiq kau
+衙前
+衙前菜場
+衛山景苑
+衛星水庫
+袁家	yoen ko
+袁家漕頭	yoen ko zau deu
+袁陳村
+裏仁橋路
+裏仁花園
+裏何路口
+裏坑水庫
+裏夏新村
+裏外匯頭
+裏宅
+裏嶴
+裏嶴新菜場
+裏嶴水庫
+裏廠
+裏村
+裏杜湖水庫
+裏梅
+裏湖
+裏湖水庫
+裏溪巷
+裏漕
+裏灣水庫
+裏考坑水庫
+裏辦電站
+裏龍江
+裘家浦	jieu ko phu
+裘山
+裘市
+裘市新橋
+裘市水站
+裘樹嶴
+裘皮城
+製衣公司
+西一
+西一路
+西三
+西三村
+西丹路
+西倉溪
+西北街
+西吳
+西唐
+西嚴村
+西圃村
+西城十二庭院	si dzin zhyuq gni din yoen
+西城春天
+西城楓景
+西城河
+西墟村
+西大河
+西大街西路	si dou ka si lu
+西姜
+西宅公園
+西岸邊
+西嶴
+西嶴水庫
+西後巷
+西徑
+西房路
+西朱
+西村
+西林水庫
+西楊村
+西江
+西江古村
+西江堰
+西江村
+西江沿
+西沈
+西河
+西河巷
+西河沿
+西河潭水庫
+西河花園
+西河街
+西洋港
+西港
+西湖花園
+西湖閘
+西溪
+西溪尺廠
+西溪村
+西溪水庫
+西澤水庫
+西灣路
+西王
+西王埭
+西王嶴
+西王漕
+西盛村	si zin tshen
+西盛社區	si zin dzo chiu
+西盛站	si zin dzaen
+西直江北路
+西直路
+西石山北路
+西石山橋
+西石山路
+西社壇巷
+西華頭
+西街
+西衛橋
+西谷湖水庫
+西貨站
+西賢房
+西躍馬橋
+西郊路
+西長營弄	si dzian yin lon
+西門中學	si men con ghoq
+西門外路
+西門新村
+西門水庫
+西門環島
+西門菜市
+西門遊園
+西雅
+親親家園	tshin tshin cia yoen
+覺渡大河
+觀宗寺
+觀山
+觀海衛路
+觀莊
+觀蜃路
+角洞嶴水庫
+解放東街	ka faon ton ka
+解放河	ka faon ghou
+解放路	ka faon lu
+計家山	ci ko saen
+計家山下	ci ko saen gho
+許家	shiu ko
+許家橋	shiu ko jiau
+詠歸路
+語錄亭
+誠信路
+諸家西區	cyu ko si chiu
+諸家路	cyu ko lu
+諸灣二路
+謝家灣	zia ko uaen
+謝家𡓦
+謝家𡓦村
+謝聖殿
+譚家嶺	daen ko lin
+譚家嶺東路	daen ko lin ton lu
+譚家嶺西路	daen ko lin si lu
+護龍寺
+讓裏
+谷家堰	koq ko ien
+豐北小學	fon poq siau ghoq
+豐南公寓
+豐城
+豐山公寓
+豐山前
+豐山橋
+豐山路
+豐成路
+豐柏街
+豐樂苑	fon loq ioen
+豐樂苑小區	fon loq ioen siau chiu
+豐樂路	fon loq lu
+豐河
+豐澤灣公寓
+豐澤華庭
+豐登路
+豐盛路	fon zin lu
+豐茂苑
+豐華企業
+豐華名都
+豐頤家園	fon yi cia yoen
+象峯新村
+象巖
+豪城合成革
+豪都花園
+貝士達
+貝家邊	pei ko pien
+貝發公司
+貝發制筆廠
+貢海路
+貴駟工業區	kuei sy kon gniq chiu
+貴駟工業小區	kuei sy kon gniq siau chiu
+貴駟村服務中心	kuei sy tshen voq vu con sin
+貴駟村服務中心	kuei sy tshen voq vu con sin
+貴駟汽車站	kuei sy chi tsho dzaen
+費家巷	vi ko ghaon
+費市	vi zy
+費市家園	vi zy cia yoen
+費市家苑	vi zy cia ioen
+費源路
+貼水橋
+貿城中路
+貿城東路
+貿盛路	meu zin lu
+賀丞
+賀丞新村
+賀丞路
+賀墅江
+賀家橋	ghou ko jiau
+賓果公寓
+賢江大道	yen kaon da dau
+賢江村
+賣柴嶴水庫
+賣麪橋
+賣麪橋村
+賴王
+賽德廣場
+賽洋
+賽維思機械
+赤坎水庫
+赤星橋
+走馬街廣場
+越溪梅園
+趙家村	dziau ko tshen
+趙家洋	dziau ko yan
+趙家浦	dziau ko phu
+趙家莊	dziau ko tsaon
+路下徐
+路下徐村
+路東泓
+路林市場
+路橫橋
+路沿鄭
+路灣
+路燈管理所	lu ten kun li so
+路西泓
+跳頭
+躍進塘路
+躍進橋
+躍進江
+躍馬橋
+躍龍一路
+躍龍中學	yaq lon con ghoq
+躍龍二路	yaq lon gni lu
+躍龍公園
+躍龍大橋	yaq lon da jiau
+躍龍山
+躍龍市場
+躍龍路
+車何渡
+車嶴港水庫
+車嶺庵
+車廄
+車廄大橋	tsho cieu da jiau
+車廄水庫
+車廄糧站
+車河路
+車河路口
+車燈廠
+車站路
+車轎街
+軍江
+輝橋路
+輪仰
+轎辰大廈	jiau zhyun da gho
+轎辰大廈	jiau zhyun da so
+農副廠
+農副產品批發市場
+農墾路
+農批市場
+農技弄
+農業要素中心
+農科所
+農興路
+農行大廈	non ghaon da gho
+農行大廈	non ghaon da so
+迎勝村
+迎春水岸
+迎春路
+迎豐村
+迎霞北路	gnin ya poq lu
+迎霞北路	gnin ia poq lu
+迎鳳巷
+迎鳳街
+迎鳳路
+迪興大廈	diq shin da gho
+迪興大廈	diq shin da so
+途衆汽貿城
+通和路
+通天廟
+通德
+通惠路
+通泰路
+通濟橋
+通用塑機	thon yon soq ci
+通用廠
+通達小區
+通達路
+通達鑄造
+通達開關廠
+進口道
+進港中路
+進港西路
+逸嘉新園
+逸夫中學	yiq fu con ghoq
+遊涇江
+遊源
+運政稽查大隊	yun tsin ci dzo da dei
+運河橋
+道成嶴村
+達蓬北路
+達蓬南路
+遠一路
+遠望道頭弄	yoen vaon dau deu lon
+遠東工業城
+遮坑
+遮樓
+遺址渡口
+邁南橋
+邁水橋小區
+邊家	pien ko
+邊莊陣村
+邱家	chieu ko
+邱隘大道	chieu ka da dau
+邱隘民營工業區	chieu ka min yin kon gniq chiu
+邱隘羊毛衫市場	chieu ka yan mau saen zy dzian
+邱隘農貿市場	chieu ka non meu zy dzian
+邱隘青年路	chieu ka tshin gnien lu
+邵中路
+邵家	ziau ko
+邵家丘	ziau ko chieu
+邵家匯	ziau ko wei
+邵家匯村	ziau ko wei tshen
+邵家弄	ziau ko lon
+邵家村	ziau ko tshen
+邵家河	ziau ko ghou
+邵家渡	ziau ko du
+邵家渡村	ziau ko du tshen
+邵家路	ziau ko lu
+邵嶴
+邵嶴水庫
+邵江岸
+郁家	ioq ko
+郁家墳頭	ioq ko ven deu
+郁家灣	ioq ko uaen
+郁浪浦
+郁浪浦橋
+郎官巷東弄
+郎家坪水庫	laon ko bin shyu khu
+郟家埭	ciaq ko da
+郭塘河
+郭夏村
+郭姆村
+郭家	koq ko
+郭家峙	koq ko dzy
+郭家峙	koq ko dzi
+郭家港	koq ko kaon
+郭巨客運站
+郭巨老站
+郭浪橋
+郭相橋
+郭范村
+郭衙巷
+郵電公寓
+郵電大樓	yeu dien da leu
+郵電巷
+郵電新村
+郵電東路
+郵電路
+都市仁和中心
+都市森林
+都市華庭
+都市麗灣
+都會經典公寓
+鄉成
+鄉道
+鄒家河	tseu ko ghou
+鄒家竈	tseu ko tsau
+鄒溪
+鄔姚
+鄔家弄	u ko lon
+鄔隘小學	u ka siau ghoq
+鄔隘河	u ka ghou
+鄞南佳苑
+鄞奉大橋	gnin von da jiau
+鄞州中心
+鄞州二院	gnin tsieu gni yoen
+鄞州交警大隊	gnin tsieu ciau cin da dei
+鄞州人民醫院	gnin tsieu zhyun min i yoen
+鄞州公園
+鄞州區政府
+鄞州大道	gnin tsieu da dau
+鄞州實驗中學	gnin tsieu zhyuq gniaen con ghoq
+鄞州投資創業中心
+鄞州教育中心	gnin tsieu ciau yoq con sin
+鄞州文藝中心
+鄞州新華書店
+鄞州海關
+鄞州特教中心	gnin tsieu deq ciau con sin
+鄞州科技中心
+鄞州老年樂園	gnin tsieu lau gnien loq yoen
+鄞州藝術學校	gnin tsieu gni zhyuq ghoq yau
+鄞州行政服務中心	gnin tsieu yin tsin voq vu con sin
+鄞州行政服務中心	gnin tsieu yin tsin voq vu con sin
+鄞州財稅局
+鄞州鋼材市場
+鄞州錫青銅公司
+鄞州電信局
+鄞州電力客服中心
+鄞州電視臺
+鄞州體育中心
+鄞州體育館
+鄞州高教園區	gnin tsieu kau ciau yoen chiu
+鄞州黨校
+鄞東北路
+鄞江中學	gnin kaon con ghoq
+鄞江商埠
+鄞江衛生院	gnin kaon wei sen yoen
+鄞江鎮中學	gnin kaon cyun con ghoq
+鄞江鎮政府
+鄭夾嶴水庫
+鄭家	dzin ko
+鄭家新村	dzin ko sin tshen
+鄭家村	dzin ko tshen
+鄭家浦	dzin ko phu
+鄭家莊	dzin ko tsaon
+鄭巷
+鄭巷花壇
+鄭隘	dzin ka
+鄭隘村	dzin ka tshen
+鄰里中心
+酒埕巖
+醫藥大樓	i yaq da leu
+里仁橋
+重家	jon ko
+野毛漲
+金一路
+金一路口
+金二路
+金億文園
+金元路
+金光大廈	cin kuaon da gho
+金光大廈	cin kuaon da so
+金匯大廈	cin wei da gho
+金匯大廈	cin wei da so
+金南路
+金地小區
+金城小區
+金域華府
+金堂村
+金堂路
+金壺中苑
+金壺南苑
+金夾嶴水庫
+金家	cin ko
+金家埭	cin ko da
+金家漕	cin ko zau
+金屬園區管委會
+金山
+金山一路
+金山七路
+金山中學	cin saen con ghoq
+金山五路
+金山南區
+金山名苑
+金山新村
+金山菜市
+金山路
+金峨
+金峨寺
+金峯路
+金川路
+金工中路
+金工路
+金帶巷
+金府華庭
+金庭茗苑
+金慈路
+金旦花園
+金昌路
+金星公司
+金星花園
+金東北苑
+金東南苑
+金桂名苑
+金桂苑
+金桂路
+金棉小區
+金橋一路
+金橋小區
+金橋新村
+金橋路口
+金氏實業
+金水路
+金水路口
+金江小區
+金江花園
+金池
+金沙路口
+金海嘉園
+金海岸花園
+金海灣
+金海路
+金港大廈	cin kaon da gho
+金港大廈	cin kaon da so
+金港花苑
+金港華庭
+金湖世家	cin wu shyu cia
+金源路
+金溪
+金溪村
+金溪路
+金灣華庭
+金田苑
+金盛路	cin dzan lu
+金盛路	cin zin lu
+金石引河
+金穗公寓
+金聲路
+金興路
+金色廣場
+金色瓏庭小區
+金色蘭庭
+金英路
+金菊路
+金華村
+金華河
+金葛巷
+金虹路
+金誠路
+金谷中路
+金谷北路
+金谷南路
+金谷小區
+金豐紫園
+金豐陽光
+金輝東路
+金輝西路
+金輝路
+金輪二廠	cin len gni tshian
+金輪北路
+金輪南路
+金輪鋁業
+金輪集團	cin len dziq doen
+金通路
+金達路
+金邑水岸
+金邑華庭
+金都嘉園
+金都大廈	cin tu da gho
+金都大廈	cin tu da so
+金銀山
+金鐘小區
+金鐘路
+金陸
+金隆家園	cin lon cia yoen
+金雞路
+金騰路
+金鷹路
+金鷹鼓風機廠
+金黃商廈	cin waon shaon gho
+金黃商廈	cin waon shaon so
+金點子服飾
+銀億海尚廣場
+銀天大廈	gnin thien da gho
+銀天大廈	gnin thien da so
+銀山
+銀山寺
+銀峯路
+銀星苑
+銀杏四季
+銀杏社區
+銀桂苑
+銀河大廈	gnin ghou da gho
+銀河大廈	gnin ghou da so
+銀河灣
+銀河灣小區
+銀河路
+銀海嘉園
+銀潤豪景商務廣場
+銀珠明園
+銀翔路
+銀菊路
+銀豐水庫
+銀都佳園
+銀都苑
+銀鳳曉月
+銀鳳社區
+銅盆閘
+錢塘江中路
+錢塘江路
+錢家	dzien ko
+錢家橋	dzien ko jiau
+錢嶴
+錢嶴菜場
+錢湖人家	dzien wu zhyun cia
+錢湖南路文華路
+錢湖工業區
+錢湖悅府
+錢湖新村
+錢湖景苑
+錢湖東路
+錢湖水上樂園	dzien wu shyu zaon loq yoen
+錢湖西路
+錢湖路
+錢湖麗園
+錢豐巷
+錢隆山莊
+錦地水岸
+錦寓路
+錦屏中學	cin bin con ghoq
+錦屏北路
+錦屏南路
+錦屏小學	cin bin siau ghoq
+錦山別墅
+錦山明珠
+錦江年華
+錦江花園
+錦江華園
+錦港佳園
+錦港大酒店	cin kaon da tsieu tien
+錦港府
+錦湖華庭
+錦溪小學	cin chi siau ghoq
+錦繡千丈
+錦繡名苑
+錦繡曙光
+錦繡江花
+錦繡福興
+錦繡花苑
+錦繡街
+錦苑小區
+錦苑東巷
+錦苑社區
+錦苑西巷
+錦誠明都
+錦霞路	cin ya lu
+錦霞路	cin ia lu
+鍾公廟中學	con kon miau con ghoq
+鍾公廟職業高中
+鍾公廟菜場
+鍾公廟路
+鍾包村
+鍾南小區
+鍾家弄	con ko lon
+鍾家橋村	con ko jiau tshen
+鍾家沙	con ko so
+鍾家潭	con ko dein
+鍾家灣	con ko uaen
+鍾家門頭	con ko men deu
+鍾盈小區
+鎖瀾橋
+鎮中橫路
+鎮南大道	cyun nein da dau
+鎮南橫路
+鎮南路
+鎮大路	cyun da lu
+鎮安新村
+鎮安村
+鎮安街
+鎮定橋北路
+鎮定橋南路
+鎮小路
+鎮東北路
+鎮東南路
+鎮東路
+鎮水橋
+鎮海中醫院
+鎮海公交	cyun he kon ciau
+鎮海區政府
+鎮海客運中心
+鎮海市民廣場
+鎮海市民服務中心	cyun he zy min voq vu con sin
+鎮海市民服務中心	cyun he zy min voq vu con sin
+鎮海第二醫院	cyun he di gni i yoen
+鎮海經濟開發區
+鎮海自來水公司	cyun he zy le shyu kon sy
+鎮西北路
+鎮西新村
+鎮遠橋
+鎮遠路
+鎮駱西路
+鎮龍浦
+鐵錨街
+鑑湖路
+鑫海公司
+鑫瑞路
+鑫隆花園
+長勝	dzian sin
+長勝市村	dzian sin zy tshen
+長城路	dzian dzin lu
+長埭屋村	dzian da oq tshen
+長埭村	dzian da tshen
+長塘	dzian daon
+長塘河	dzian daon ghou
+長墩	dzian ten
+長壽南路	dzian zieu nein lu
+長壽寺	dzian zieu zy
+長壽東路	dzian zieu ton lu
+長壽路	dzian zieu lu
+長安新村	dzian ein sin tshen
+長島花園	dzian tau huo yoen
+長嶴弄水庫	dzian au lon shyu khu
+長嶺公園	dzian lin kon yoen
+長嶺小區	dzian lin siau chiu
+長嶺水庫	dzian lin shyu khu
+長嶺路	dzian lin lu
+長慶路	dzian chin lu
+長應河	dzian in ghou
+長新新村	dzian sin sin tshen
+長曙橋	dzian zhyu jiau
+長樂新村	dzian loq sin tshen
+長樂村	dzian loq tshen
+長樂社區	dzian loq dzo chiu
+長樂路	dzian loq lu
+長汀村	dzian thin tshen
+長汀路	dzian thin lu
+長江中學	dzian kaon con ghoq
+長池支路	dzian dzy tsy lu
+長池支路	dzian dzi tsy lu
+長河交警隊	dzian ghou ciau cin dei
+長河南大路	dzian ghou nein da lu
+長河塘	dzian ghou daon
+長河花壇新村	dzian ghou huo daen sin tshen
+長河西街	dzian ghou si ka
+長河農貿市場	dzian ghou non meu zy dzian
+長河鎮政府	dzian ghou cyun tsin fu
+長溪水庫	dzian chi shyu khu
+長漕	dzian zau
+長漕河	dzian zau ghou
+長潭	dzian daen
+長生橋弄	dzian sen jiau lon
+長生路	dzian sen lu
+長畈嶺水庫	dzian paen lin shyu khu
+長石村	dzian zaq tshen
+長線橋	dzian sien jiau
+長興東路	dzian shin ton lu
+長興路	dzian shin lu
+長豐新村	dzian fon sin tshen
+長豐河	dzian fon ghou
+長邱線	dzian chieu sien
+長陽東路	dzian yan ton lu
+長陽路	dzian yan lu
+長隆製衣	dzian lon cyu i
+長駱路	dzian loq lu
+門浦
+開元路
+開源路
+開發區春曉園區
+開發區醫院
+開誠企業
+開豐大廈	khe fon da gho
+開豐大廈	khe fon da so
+開豐橋
+開豐路
+閩江路
+闊墩頭
+關外路
+關山路
+阮家	gnioen ko
+阮家村	gnioen ko tshen
+防汛公路
+降渚溪
+陡門頭
+陰郎店
+陳付村
+陳倪路
+陳勝橋
+陳婆嶴
+陳婆渡
+陳婆渡小區
+陳家	dzin ko
+陳家團	dzin ko doen
+陳家埭	dzin ko da
+陳家墊	dzin ko tien
+陳家山頭	dzin ko saen deu
+陳家嶴	dzin ko au
+陳家巷	dzin ko ghaon
+陳家村	dzin ko tshen
+陳家水庫	dzin ko shyu khu
+陳家河	dzin ko ghou
+陳家蓬	dzin ko bon
+陳家路	dzin ko lu
+陳家路江	dzin ko lu kaon
+陳家路江水庫	dzin ko lu kaon shyu khu
+陳山
+陳山社區
+陳巷
+陳橫樓
+陳橫樓村
+陳沈
+陳王村
+陳監橋
+陳華
+陳華浦新村
+陳袁方
+陳託橋
+陳郎橋
+陳鈔堂
+陳鑑橋
+陳鑑橋村
+陶公島
+陶公島景區
+陶公村
+陶家	dau ko
+陶家路江	dau ko lu kaon
+陶然軒
+陶瓷廠
+陶衛城
+陸丁路
+陸中灣
+陸嘉家園	loq cia cia yoen
+陸埠橋
+陸埠水庫
+陸家	loq ko
+陸家堰	loq ko ien
+陸家堰村	loq ko ien tshen
+陸家山頂	loq ko saen tin
+陸家村	loq ko tshen
+陸家橫河	loq ko wan ghou
+陸家江	loq ko kaon
+陸家河	loq ko ghou
+陸家竈	loq ko tsau
+陽光公寓
+陽光南路
+陽光嘉園
+陽光天地
+陽光天地小區
+陽光廣場
+陽光水岸
+陽光清晨
+陽光清晨花苑
+陽光花園
+陽光茗都
+陽光路
+陽明公園
+陽明公寓
+陽明山莊
+陽明東路
+陽明花園
+陽明街道
+陽明西路
+陽東村
+隆興家園	lon shin cia yoen
+隆興精密鑄造廠
+隆興路
+隆順
+隆順花園
+隔山王家	kaq saen waon ko
+隔嶺塘水庫
+隔水洋
+隔溪張水庫
+隧道北路
+隱學山莊	in yoq saen tsaon
+雁村
+雁蕩山路
+雄鎮家園	yon cyun cia yoen
+雄鎮橋
+雅仕公寓
+雅戈爾大道	ia kaq er da dau
+雅戈爾大道	ia kou er da dau
+雅戈爾新村	ia kaq er sin tshen
+雅戈爾新村	ia kou er sin tshen
+雅戈爾服裝城	ia kaq er voq tsaon dzin
+雅戈爾服裝城	ia kou er voq tsaon dzin
+雅林溪
+雅渡新村
+雅源北路
+雅源南路
+雅源幼兒園	ia gnioen ieu er yoen
+雅源幼兒園	ia gnioen ieu lu yoen
+雅源路
+雅莊村
+雅賢村
+集古路	zhyuq ku lu
+集士港中學	zhyuq zy kaon con ghoq
+集士港村	zhyuq zy kaon tshen
+集士港菜場	zhyuq zy kaon tshe dzian
+集士港醫院	zhyuq zy kaon i yoen
+集士港鎮政府	zhyuq zy kaon cyun tsin fu
+集士西路	zhyuq zy si lu
+集發路
+集興路	zhyuq shin lu
+集興路
+雍和苑
+雍景苑
+雙和家苑	shaon ghou cia ioen
+雙囍雍園
+雙嶴
+雙嶺水庫
+雙建
+雙斢
+雙東村
+雙東路
+雙楊河
+雙橋村
+雙橋河
+雙橋苑
+雙橋路
+雙河橋
+雙河路
+雙獅
+雙美溪
+雙虹閣
+雙銀村
+雙銀村口
+雙閘門水庫
+雪嶴
+雪松路
+雪竇山路
+雲城農貿市場
+雲山浦
+雲彩路
+雲杉路
+雲林中路口
+雲河綠洲
+雲海村
+雲湖
+雲臺山路
+雲西庵水庫
+雲輝路
+雲鑫亭
+雲飛路
+雲騰路
+雲鷺灣
+雲龍中學	yun lon con ghoq
+雲龍加油站	yun lon ko yeu dzaen
+雲龍工業區
+雲龍派出所
+雲龍農貿市場
+雲龍鎮政府
+雷公巷
+雷峯
+雷峯村
+雷峯路口
+電信大樓	dien sin da leu
+電管所
+霍家畣	hoq ko teq
+霓虹路
+霞南
+霞景水岸
+霞浦南路	ya phu nein lu
+霞浦南路	ia phu nein lu
+霞浦派出所	ya phu pha chyuq so
+霞浦派出所	ia phu pha chyuq so
+霞浦西路	ya phu si lu
+霞浦西路	ia phu si lu
+霞浦路	ya phu lu
+霞浦路	ia phu lu
+霞西新村	ya si sin tshen
+霞西新村	ia si sin tshen
+靈塔醫院
+靈峯公寓
+靈峯山路
+靈峯水庫
+靈峯浦
+靈峯站
+靈巖社區
+靈橋
+靈湖新村
+靈石寺
+靈雲禪寺
+靈顯廟
+青墊
+青少年宮北路
+青少年宮路
+青山嶴
+青山港
+青峙
+青年才郡
+青年路
+青林
+青林嘉園
+青林河
+青林渡路
+青林灣街
+青港
+青滕花園
+青灣水庫
+青石巷
+青草巷
+青草灣
+青雲梯景區
+青龍橋
+靖南大街	zin nein dou ka
+靖海南路
+靖海路
+靜德橋
+靜海路
+靶場路
+鞍山村
+鞍山翁家	ein saen on ko
+韓夏村
+韓家	ghein ko
+韓家路	ghein ko lu
+韓嶺
+響嶺崗
+響嶺路
+項家村	ghaon ko tshen
+項隘村	ghaon ka tshen
+順德華庭
+順德路
+順達路
+順隆路
+順風村
+預製廠
+頓嶴
+頓嶴村
+領豪鑫座
+頤樂園	yi loq yoen
+頤高數碼廣場
+頭緒路
+顏公河
+顏家	yen ko
+顧家橋	ku ko jiau
+顧家橋村	ku ko jiau tshen
+顧家港	ku ko kaon
+風塘崗
+風格城事
+風華路
+飛揚國際旅遊廣場
+飛虹海苑
+飛轎集團	fi jiau dziq doen
+飛鳳山
+飛鳳山莊
+飛龍家苑	fi lon cia ioen
+飛龍針織
+食品街
+養所路
+餘三村
+餘三站
+餘姚三中
+餘姚中學	yu yau con ghoq
+餘姚二中	yu yau gni con
+餘姚人民醫院	yu yau zhyun min i yoen
+餘姚北站
+餘姚四中
+餘姚工業區一區
+餘姚市中醫院
+餘姚市政府
+餘姚市檢察院
+餘姚梁弄鎮
+餘姚梁弄人	yu yau lian lon gnin
+餘姚汽車北站
+餘姚汽車南站
+餘姚汽車東站
+餘姚汽車西站
+餘姚火車站
+餘姚看守所
+餘姚總工會
+餘姚職成教中心	yu yau tsiq dzin ciau con sin
+餘姚萬達廣場
+餘姚農藥廠
+餘姚電信局
+餘姚體育館
+餘姚鳳山街道
+餘家甲	yu ko ciaq
+餘庵西路
+餘慈高鐵站
+餘汶線	yu men sien
+饅頭山
+首南中路
+首南東路
+首南路
+首善路
+香堤水岸
+香山港
+香山路
+香格國際廣場
+香格大廈	shian kaq da gho
+香格大廈	shian kaq da so
+香格里拉城市花園	shian kaq li lha dzin zy huo yoen
+香榭家園	shian zia cia yoen
+香榭雅苑
+香榭麗舍
+香樟路
+香河灣
+香洲曉築
+香雪路
+香頌園
+香頌灣花園
+馨園路
+馬中
+馬中村
+馬中灣
+馬園新村
+馬園社區
+馬家橋	mo ko jiau
+馬家河	mo ko ghou
+馬家路	mo ko lu
+馬崗水庫
+馬崗河
+馬嶴水庫
+馬廊廈	mo laon gho
+馬徑
+馬渚
+馬渚中河
+馬潭南路
+馬潭路
+馬潭路加油站	mo daen lu ko yeu dzaen
+馬王
+馬盤村
+馬聯
+馬蹄漕
+馬車橋
+馬郎畈
+馬面橋
+馮家	von ko
+馮家漕	von ko zau
+馮家閘	von ko zaq
+馮徐丘
+駐嶺水庫
+駱慈線
+駱興家園	loq shin cia yoen
+駱興村
+駱費公路	loq vi kon lu
+駱駝中心
+駱駝小學	loq dou siau ghoq
+駱駝工業區
+駱駝歐尚超市
+駱駝農場
+駱駝金華村
+駱駝鎮
+驚駕名庭
+驛亭路
+驛南路口
+體育場路
+高坎頭水庫
+高塘三村
+高塘四村
+高塘新村
+高塘橋
+高塘花園
+高塘路
+高壓路
+高壓路變電所
+高夾線
+高家畈	kau ko paen
+高屋
+高峯家園	kau fon cia yoen
+高峯新村
+高德公寓
+高教園區	kau ciau yoen chiu
+高教園區圖書館	kau ciau yoen chiu du shyu kun
+高新區管委會
+高新區行政服務中心	kau sin chiu yin tsin voq vu con sin
+高新區行政服務中心	kau sin chiu yin tsin voq vu con sin
+高新區辦證中心
+高望新苑
+高村
+高橋中學	kau jiau con ghoq
+高橋家園	kau jiau cia yoen
+高橋工業區
+高橋村
+高橋江
+高橋農貿市場
+高橋鎮政府
+高河塘
+高河塘社區
+高河塘路
+高溪頭
+高灣水庫
+高牆門
+高王叉口
+高王村
+高王路
+高田塍	kau dien zin
+高田王街
+高背浦	kau pei phu
+高興村
+高豐家園	kau fon cia yoen
+高車頭
+高車頭路
+高速低塘站
+高速馬渚
+高錢村
+高錢生態村	kau dzien sen the tshen
+高錢衛生院	kau dzien wei sen yoen
+高鐵餘姚北站
+高鳳新村
+高鳳路
+鬥底洪港
+鬥後
+鬱金香中心
+魏家	nguei ko
+魏家浦	nguei ko phu
+魚豐弄
+鮑家	bau ko
+鮑家匯	bau ko wei
+鮑家洋	bau ko yan
+鮑家耷小區	bau ko taq siau chiu
+鳧溪
+鳳元路
+鳳凰山主題樂園	von waon saen cyu di loq yoen
+鳳凰新村
+鳳凰橋
+鳳山新村
+鳳山菜場
+鳳山街道
+鳳山路
+鳳嶴
+鳳嶺
+鳳怡新村
+鳳東
+鳳林新建
+鳳洋一路
+鳳洋三路
+鳳洋二路	von yan gni lu
+鳳洋二路
+鳳洋新村
+鳳美新村
+鳳翔路
+鳳起路
+鳳鳴路
+鳳龍山莊
+鳴山
+鳴山小區
+鳴山村
+鳴山社區
+鳴山路江
+鴛鴦北路
+鴻景灣小區
+鴻翔錦園
+鴻運建材市場
+鴻都大廈	ghon tu da gho
+鴻都大廈	ghon tu da so
+鴻順家園	ghon zhyun cia yoen
+鵝頸村
+鷹山路
+鹹塘街
+鹿山
+鹿窠
+麗中橋
+麗北橋
+麗園尚都
+麗園馨都
+麗安橋
+麗新橋
+麗景小區
+麗景英郡
+麗橫路
+麗江新都
+麗莊西苑
+麗莊路
+麗都苑
+麟寓路
+麟泉橋
+麟海藝校
+麥德龍路
+麻屋
+麻廠村
+麻車
+黃古林路
+黃壇水庫
+黃夾嶴水庫
+黃家園	waon ko yoen
+黃家埠	waon ko bu
+黃家埠鎮中學	waon ko bu cyun con ghoq
+黃家埠鎮政府	waon ko bu cyun tsin fu
+黃家橋	waon ko jiau
+黃家河	waon ko ghou
+黃家浦	waon ko phu
+黃家莊	waon ko tsaon
+黃家車頭	waon ko tsho deu
+黃尖浦
+黃山公園
+黃山公寓
+黃山村
+黃山東路
+黃山沿
+黃山綠苑
+黃山豪庭
+黃岩潭
+黃岩頭
+黃嶺
+黃庵
+黃明水庫
+黃梔花巷
+黃楊村
+黃沙水庫
+黃河路
+黃泥弄
+黃海路
+黃箭山村委
+黃箭山車站
+黃蘇東路
+黃賢溪
+黃通嶴水庫
+黃金嶴水庫
+黃隘	waon ka
+黃隘村	waon ka tshen
+黃龍坑水庫
+黃龍橋
+黃龍港河
+黃龍潭
+黎山後
+黎明村
+點兵山
+鼎新街
+鼎泰路
+鼓樓東路
+鼓樓西路
+鼓韻花苑
+龍三村委會
+龍三村林家	lon saen tshen lin ko
+龍三路
+龍中大橋	lon con da jiau
+龍南初中
+龍城路
+龍山浦
+龍底
+龍柏社區
+龍樾灣
+龍泉井路
+龍泉東路
+龍泉西路
+龍洋路
+龍津尚都
+龍潭山路
+龍潭水庫
+龍潭飛瀑景區
+龍澤名園
+龍灣新村
+龍灣銀都
+龍燈牆巷
+龍王塘
+龍王橋路
+龍瑞路
+龍翔路
+龍膽漕
+龍舌
+龍舌村
+龍舌浦
+龍觀中心學校	lon kun con sin ghoq yau
+龍觀敬老院
+龍觀鄉政府
+龍角山路
+龍角巖水庫
+龍谷村
+龍鎮大道	lon cyun da dau
+龍門路
+龍鼎商業廣場
+龔家	kon ko
+龔家弄	kon ko lon
+龔家河	kon ko ghou
+龔家潭路	kon ko dein lu
+龔馮村
+

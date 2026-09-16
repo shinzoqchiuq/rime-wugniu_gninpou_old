@@ -1,0 +1,10445 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Author:
+#
+# Shin Zoqchiuq <shinzoqchiuq@outlook.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+# vocabulary from old books
+#
+
+---
+name: wugniu_gninpou_old.old_book
+version: "2026.09.08
+"
+sort: by_weight
+...
+
+矮矮個	a a goq
+矮矮	a a
+矮矮個	a a kou
+挨挨擠擠	a a tsi tsi
+挨着	a joq
+挨攏來	a lon le
+挨班個	a paen goq
+挨班	a paen
+挨次序	a tshy zhyu
+挨戶冊	a wu tshaq
+阿弟個	aq di goq
+壓治	aq jyu
+阿發	aq faq
+阿發個	aq faq goq
+壓弗住	aq feq jyu
+阿非利加	aq fi li cio
+阿及爾	aq jiq er
+壓實	aq zhyuq
+阿哥個	aq kou goq
+阿拉個	aq laq goq
+壓勒	aq leq
+阿買	aq ma
+阿妹個	aq mei goq
+阿蒙個	aq mon goq
+阿嗎	aq mo
+阿嗎個	aq mo goq
+阿頑	aq nguaen
+阿孃個	aq gnian goq
+壓煞個	aq saq goq
+壓勢	aq shyu
+阿爹個	aq tia goq
+阿多	aq tou
+壓服	aq voq
+阿姨個	aq yi goq
+奧地利亞	au di li io
+懊弗轉	au feq coen
+懊悔	au huei
+奧古士督	au ku zy toq
+奧妙	au miau
+奧妙個	au miau goq
+拗半	au pun
+懊糟	au tsau
+鏖糟個	au tsau goq
+鏖糟八剌	au tsau paq la
+敗了	ba lei
+敗掉	ba diau
+敗掉個	ba diau goq
+牌個	ba goq
+敗仔	ba tsy
+白白個	baq baq goq
+拔出	baq chyuq
+白了	baq lei
+拔掉	baq diau
+白恩	baq en
+白粉	baq fen
+白個	baq goq
+拔起	baq chi
+白䩍䩍個	baq liau liau goq
+拔摩	baq mou
+白身	baq sin
+白雲	baq yun
+拔上	baq zaon
+抱抱	bau bau
+抱其個	bau ji goq
+抱其	bau ji
+抱勒去	bau leq chi
+抱來	bau le
+抱來仔	bau le tsy
+暴虐	bau gniaq
+暴虐個	bau gniaq goq
+袍子	bau tsy
+抱仔	bau tsy
+抱進來	bau tsin le
+袍套	bau thau
+抱上	bau zaon
+備備	bei bei
+備辦個	bei baen goq
+備辦好	bei baen hau
+備辦了	bei baen leq
+倍個	bei goq
+備好	bei hau
+備好個	bei hau goq
+備好間	bei hau kaen
+備好間個	bei hau kaen goq
+備好了個	bei hau liau goq
+備好了	bei hau liau
+備好東	bei hau ton
+備好東個	bei hau ton goq
+備好仔	bei hau tsy
+備勒	bei leq
+倍數	bei su
+備足	bei tsoq
+賠還	bei waen
+賠還個	bei waen goq
+浡出	beq chyuq
+笨個	ben goq
+盆子裏	ben tsy li
+琵琶	bi bo
+避掉	bi diau
+皮袋	bi de
+避弗過	bi feq kou
+肥糞	bi fen
+皮膚	bi fu
+皮膚個	bi fu goq
+皮個	bi goq
+疲倦	bi jioen
+避過	bi kou
+避開	bi khe
+避勒過	bi leq kou
+皮肉	bi gnioq
+皮鞭	bi pien
+皮帶	bi ta
+脾胃	bi wei
+皮匠	bi zian
+嫖嬉	biau shi
+別爿	biq baen
+別處	biq chyu
+別埭	biq da
+鼻頭管裏個	biq deu kun li goq
+鼻頭管裏	biq deu kun li
+別條	biq diau
+別向	biq shian
+別一別	biq iq biq
+別國	biq koq
+別國個	biq koq goq
+別國人	biq koq gnin
+別國人個	biq koq gnin goq
+別加	biq cio
+別迦摩	biq cio mou
+別起	biq chi
+鼻圈	biq chioen
+別開	biq khe
+別開個	biq khe goq
+別開仔	biq khe tsy
+別拉海萊	biq laq he le
+別利個	biq li goq
+別利	biq li
+別流個	biq lieu goq
+別流	biq lieu
+別落來	biq loq le
+別落	biq loq
+別日	biq gniq
+別書	biq shyu
+別西卜	biq si poq
+別隻	biq tsaq
+別樣個	biq yan goq
+別是巴	biq zy po
+辨出	bien chyuq
+辨弗出	bien feq chyuq
+辨弗清通	bien feq tshin thon
+便個	bien goq
+辨勒	bien leq
+辨勒出	bien leq chyuq
+辯論	bien len
+便阿尼	bien ou gni
+辨別	bien piq
+辯別	bien piq
+辯駁	bien poq
+便以利	bien yi li
+便雅憫	bien yo min
+便雅憫個	bien yo min goq
+便亞米	bien io mi
+並排	bin ba
+平平直直	bin bin dziq dziq
+平頭	bin deu
+平地裏	bin di li
+平常	bin jaon
+平直了	bin dziq lei
+平直個	bin dziq goq
+貧賤	bin dzien
+平安	bin ein
+平安個	bin ein goq
+平安之	bin ein tsy
+並弗是	bin feq zy
+並非	bin fi
+屏風	bin fon
+病個	bin goq
+貧窮	bin jion
+憑據	bin ciu
+病裏	bin li
+瓶裏個	bin li goq
+瓶裏	bin li
+平落	bin loq
+病人個	bin gnin goq
+病源	bin gnioen
+病勢	bin shyu
+病症	bin tsin
+平天冠	bin thien kun
+病痛	bin thon
+平坦	bin thaen
+平垟	bin yan
+平垟個	bin yan goq
+平垟裏	bin yan li
+平齊	bin zi
+貧賤	bin zien
+貧賤個	bin zien goq
+並行個	bin ghan goq
+縛住	bou jyu
+縛住個	bou jyu goq
+縛住了個	bou jyu liau goq
+縛住了	bou jyu liau
+縛住的	bou jyu tiq
+縛弗過	bou feq kou
+縛好	bou hau
+縛間	bou kaen
+縛勒	bou leq
+縛了個	bou liau goq
+縛了	bou liau
+縛攏	bou lon
+縛來	bou le
+縛東	bou ton
+縛仔	bou tsy
+縛帶攏	bou taen lon
+泊潮	boq dziau
+薄情	boq dzin
+伏間	boq kaen
+伏的	boq tiq
+伏仔	boq tsy
+伏帶倒	boq taen tau
+步步	bu bu
+葡萄	bu dau
+葡萄樹	bu dau zhyu
+葡萄樹個	bu dau zhyu goq
+葡萄樹裏	bu dau zhyu li
+葡萄果	bu dau kou
+葡萄籽	bu dau tsy
+葡萄園	bu dau yoen
+葡萄園裏	bu dau yoen li
+葡萄園裏個	bu dau yoen li goq
+葡萄牙	bu dau yo
+部百流	bu paq lieu
+部百流個	bu paq lieu goq
+步兵	bu pin
+菩薩個	bu saq goq
+部丟利	bu tieu li
+部鐵	bu thiq
+蒲齊	bu zi
+蒲齊個	bu zi goq
+部亞	bu io
+步行個	bu ghan goq
+步行勒	bu ghan leq
+步行奔攏	bu ghan pen lon
+盤裏	bun li
+盤問	bun men
+叛逆	bun gniq
+磐石	bun zaq
+辦法	baen faq
+辦過仔	baen kou tsy
+辦了	baen leq
+辦到	baen tau
+辦事	baen zy
+辦事個	baen zy goq
+辦事人	baen zy gnin
+辦罪	baen zei
+爬個	bo goq
+琶漢巴	bo hein po
+爬起了	bo chi lei
+爬起來了	bo chi le lei
+爬起身	bo chi sin
+稗草個	bo tshau goq
+爬帶起	bo taen chi
+爬上	bo zaon
+爬上去	bo zaon chi
+防備	baon bei
+防備好	baon bei hau
+防弗着	baon feq joq
+旁非利亞	baon fi li io
+旁非利亞個	baon fi li io goq
+防到	baon tau
+準備	cyun bei
+震動	cyun don
+震動個	cyun don goq
+震動過	cyun don kou
+震勒	cyun leq
+燭臺上	coq de zaon
+祝福	coq foq
+祝福個	coq foq goq
+祝福仔	coq foq tsy
+祝個	coq goq
+只管	coq kun
+竹凳	coq ten
+桌凳上	coq ten zaon
+桌凳下	coq ten gho
+給點	coq tien
+祝讚	coq tsaen
+祝讚個	coq tsaen goq
+囑託	coq thoq
+囑託個	coq thoq goq
+祝文	coq ven
+祝謝	coq zia
+祝謝好	coq zia hau
+祝謝仔	coq zia tsy
+中縛	con bou
+腫腫個	con con goq
+腫腫	con con
+種田地	con dien di
+種田個	con dien goq
+忠臣	con dzin
+衆族	con dzoq
+種個	con goq
+忠孝帶	con shiau ta
+中意	con i
+中意個	con i goq
+種樹個	con zhyu goq
+種樹	con zhyu
+中國	con koq
+總管個	con kun goq
+腫起來	con chi le
+種間	con kaen
+種間個	con kaen goq
+種勒	con leq
+種來	con le
+總名	con min
+中央個	con gnian goq
+衆人個	con gnin goq
+中保	con pau
+總兵	con pin
+衆牲	con san
+棕色個	con seq goq
+棕色	con seq
+忠信	con sin
+忠心	con sin
+忠信個	con sin goq
+忠心個	con sin goq
+種的	con tiq
+種的個	con tiq goq
+種黨	con taon
+衆位	con wei
+終於	con iu
+揸勒	co leq
+築個	coq goq
+壯壯	caon caon
+壯壯個	caon caon goq
+壯了	caon lei
+掌權	caon jioen
+掌權個	caon jioen goq
+掌管	caon kun
+樁間	caon kaen
+壯年	caon gnien
+鑄出	cyu chyuq
+鑄出個	cyu chyuq goq
+鑄釧	cyu choen
+知道	cyu dau
+主了	cyu lei
+蛀掉	cyu diau
+註定	cyu din
+蛀蟲	cyu jon
+制度	cyu du
+鑄就好	cyu dzieu hau
+主個	cyu goq
+嘴鉗裏	cyu jien li
+嘴脣	cyu zhyun
+主顧	cyu ku
+主顧個	cyu ku goq
+主顧是	cyu ku zy
+知己	cyu ci
+主見	cyu cien
+主母	cyu meu
+主腦	cyu nau
+嘴眼鼻頭	cyu ngaen beq deu
+主日	cyu gniq
+主人家個	cyu gnin ko goq
+嘴巴個	cyu po goq
+嘴巴裏	cyu po li
+嘴巴裏個	cyu po li goq
+致使得	cyu sy teq
+知識	cyu siq
+知識個	cyu siq goq
+注心	cyu sin
+株打株	cyu tan cyu
+珠子	cyu tsy
+知足	cyu tsoq
+製作	cyu tsoq
+主宰	cyu tse
+制服了	cyu voq lei
+制服個	cyu voq goq
+智慧	cyu wei
+智慧個	cyu wei goq
+諸事	cyu zy
+製造	cyu zau
+製造個	cyu zau goq
+諸侯	cyu gheu
+磚頭個	coen deu goq
+轉動	coen don
+轉方	coen faon
+轉方個	coen faon goq
+轉向	coen shian
+轉過	coen kou
+專管	coen kun
+轉去	coen chi
+轉來個	coen le goq
+專門	coen men
+轉變	coen pien
+轉賜撥	coen sy peq
+轉彎	coen uaen
+出頭出腦	chyuq deu chyuq nau
+出城	chyuq dzin
+出奇	chyuq ji
+出其不意	chyuq ji peq i
+出血個	chyuq shiuq goq
+出煙個	chyuq ien goq
+出煙	chyuq ien
+出格個	chyuq kaq goq
+出過	chyuq kou
+出管	chyuq kun
+出去	chyuq chi
+出起	chyuq chi
+出去個	chyuq chi goq
+出間	chyuq kaen
+出口	chyuq kheu
+出力	chyuq liq
+出令	chyuq lin
+出路	chyuq lu
+出露露	chyuq lu lu
+出來	chyuq le
+出來個	chyuq le goq
+出毛個	chyuq mau goq
+出毛	chyuq mau
+出門個	chyuq men goq
+出門去	chyuq men chi
+出門間	chyuq men kaen
+出名個	chyuq min goq
+出名	chyuq min
+出孃胎	chyuq gnian the
+出兵	chyuq pin
+出膊個	chyuq poq goq
+出息	chyuq siq
+出身	chyuq sin
+出身個	chyuq sin goq
+出身露體	chyuq sin lu thi
+出身露體個	chyuq sin lu thi goq
+出點	chyuq tien
+出東	chyuq ton
+出東個	chyuq ton goq
+出脫	chyuq theq
+出胎	chyuq the
+出現	chyuq yen
+出材	chyuq ze
+出上	chyuq zaon
+出於	chyuq iu
+春夏秋冬	chyun gho tshieu ton
+戳記	choq ci
+戳起來	choq chi le
+觸怒個	choq nu goq
+觸怒	choq nu
+戳心	choq sin
+戳傷	choq saon
+戳進	choq tsin
+觸犯	choq vaen
+沖着	chon joq
+衝撞	chon jaon
+充軍	chon ciun
+充滿	chon mun
+衝上	chon zaon
+寵愛	chon e
+寵愛個	chon e goq
+扯鈸	cho beq
+叉牌	cho baen
+扯開	cho khe
+叉勒	cho leq
+闖勒去	chaon leq chi
+闖進	chaon tsin
+闖進來	chaon tsin le
+處置	chyu cyu
+吹出	chyu chyuq
+處處	chyu chyu
+吹着	chyu joq
+吹動	chyu don
+吹動個	chyu don goq
+吹弗到	chyu feq tau
+取個	chyu goq
+取贖	chyu zhoq
+取贖個	chyu zhoq goq
+取贖了	chyu zhoq liau
+吹過	chyu kou
+吹過來	chyu kou le
+吹勒去	chyu leq chi
+吹來	chyu le
+吹癟了	chyu piq liau
+吹癟了個	chyu piq liau goq
+取笑	chyu siau
+取笑好仔	chyu siau hau tsy
+吹打	chyu tan
+癡癲個	chyu tien goq
+癡癲	chyu tien
+娶進	chyu tsin
+吹進	chyu tsin
+取還	chyu waen
+吹號筒	chyu ghau don
+穿穿	choen choen
+穿城	choen dzin
+穿個	choen goq
+穿好	choen hau
+穿厭	choen ien
+穿過	choen kou
+穿勒	choen leq
+穿來	choen le
+穿的	choen tiq
+穿的個	choen tiq goq
+穿仔	choen tsy
+穿進	choen tsin
+舛錯	choen tshoq
+穿上	choen zaon
+竄上	choen zaon
+大備	da bei
+大闢	da biq
+大闢個	da biq goq
+大殿個	da dien goq
+大慈	da dzy
+大才	da dze
+大英國	da in koq
+大熟	da zhoq
+大熟個	da zhoq goq
+大概個	da ke goq
+大哭	da khoq
+大拉象	da laq zian
+大裏	da li
+大利大	da li da
+大瑪	da mo
+大麻風	da mo fon
+大麻风	da mo fon
+大馬哩	da mo li
+大瑪努大	da mo nu da
+大馬色	da mo seq
+大馬色個	da mo seq goq
+大比大	da pi da
+大失	da shyuq
+大數	da su
+大將	da tsian
+大作用	da tsoq yon
+大萬個	da vaen goq
+大萬	da vaen
+大轄	da gheq
+踏掉	daq diau
+踏掉仔	daq diau tsy
+踏着	daq joq
+踏腳凳	daq ciaq ten
+踏煞	daq saq
+踏煞個	daq saq goq
+達太	daq tha
+踏糊	daq wu
+宕落來	dan loq le
+宕東	dan ton
+逃出	dau chyuq
+逃出去	dau chyuq chi
+道了	dau lei
+稻田	dau dien
+逃弗過	dau feq kou
+逃弗走個	dau feq tseu goq
+逃弗走	dau feq tseu
+道個	dau goq
+道其	dau ji
+逃過	dau kou
+蹈矩	dau ciu
+逃勒	dau leq
+道理	dau li
+道理個	dau li goq
+逃門	dau men
+逃難	dau naen
+逃到	dau tau
+逃走	dau tseu
+逃走個	dau tseu goq
+道義	dau yi
+道義個	dau yi goq
+道是	dau zy
+盜賊	dau zeq
+盜賊個	dau zeq goq
+逃上去	dau zaon chi
+兌勒	dei leq
+隊裏	dei li
+隊數	dei su
+隊打隊	dei tan dei
+奪轉	deq coen
+特特	deq deq
+突然	deq zhoen
+奪去	deq chi
+特拉可尼提	deq laq khou gni di
+奪勒	deq leq
+奪勒去	deq leq chi
+奪了去	deq leq chi
+奪了來	deq leq le
+特羅非摩	deq lou fi mou
+特羅亞	deq lou io
+奪來個	deq le goq
+奪來	deq le
+特買	deq ma
+特買潮	deq ma dziau
+特買個	deq ma goq
+突尼斯	deq gni sy
+特庇	deq pi
+特庇個	deq pi goq
+窞裏	dein li
+藤牌	den ba
+庉處	den chyu
+庉處個	den chyu goq
+庉了	den lei
+庉庉	den den
+庉弗住	den feq jyu
+庉弗過	den feq kou
+庉弗得	den feq teq
+庉個	den goq
+庉過	den kou
+庉間	den kaen
+庉間個	den kaen goq
+庉牢	den lau
+庉了	den leq
+庉勒過	den leq kou
+庉攏	den lon
+庉來	den le
+庉落了	den loq lei
+庉落個	den loq goq
+庉滿	den mun
+庉日	den gniq
+庉人之	den gnin tsy
+庉身之	den sin tsy
+庉宿	den soq
+庉宿個	den soq goq
+庉到	den tau
+庉的	den tiq
+庉的個	den tiq goq
+庉東	den ton
+庉仔	den tsy
+庉上	den zaon
+騰上	den zaon
+頭篷	deu bon
+頭個	deu goq
+頭一	deu iq
+頭一埭	deu iq da
+頭一條	deu iq diau
+頭一個	deu iq goq
+頭一梗	deu iq kuan
+頭一塊	deu iq khuei
+頭一句	deu iq ciu
+頭一起	deu iq chi
+頭一門	deu iq men
+頭一日	deu iq gniq
+頭一遭	deu iq tsau
+頭一胎	deu iq the
+頭一胎個	deu iq the goq
+頭一伐	deu iq vaq
+頭緒	deu zhyu
+頭頸裏	deu cin li
+頭頸沿	deu cin yen
+投勒	deu leq
+頭裏個	deu li goq
+投落	deu loq
+頭落	deu loq
+頭腦	deu nau
+頭腦拉	deu nau laq
+頭二百	deu gni paq
+頭日	deu gniq
+頭扭轉	deu gnien coen
+頭生個	deu san goq
+投宿	deu soq
+頭頂上	deu tin zaon
+頭遭	deu tsau
+頭遭子	deu tsau tsy
+頭早仔	deu tsau tsy
+投胎	deu the
+投伏	deu voq
+頭位	deu wei
+頭會	deu wei
+頭夜	deu ya
+頭沿	deu yen
+頭上	deu zaon
+地步	di bu
+地盤	di bun
+地震	di cyun
+提達	di daq
+啼了	di lei
+地動	di don
+地方了	di faon lei
+地方個	di faon goq
+地個	di goq
+啼個	di goq
+第一埭	di iq da
+第一代個	di iq de goq
+第一代	di iq de
+第一封	di iq fon
+第一顆	di iq khou
+第一日	di iq gniq
+第一隻	di iq tsaq
+第一遭	di iq tsau
+第一章	di iq tsaon
+第一樣	di iq yan
+第十	di zhyuq
+第十五	di zhyuq ng
+第十四	di zhyuq sy
+地界	di ka
+地基	di ci
+地基上	di ci zaon
+第九	di cieu
+地加波利	di cio pou li
+第加波利	di cio pou li
+提起	di chi
+提起過	di chi kou
+地坑	di khan
+地坑裏	di khan li
+啼哭	di khoq
+啼哭個	di khoq goq
+提拉	di laq
+地裏	di li
+地理	di li
+地裏個	di li goq
+第六	di loq
+第六顆	di loq khou
+提門	di men
+地面頂	di mien ten
+地名	di min
+提摩太	di mou tha
+提摩太個	di mou tha goq
+題目	di moq
+提幔	di maen
+提瑪	di mo
+第五	di ng
+第五顆	di ng khou
+第二道	di gni dau
+第二顆	di gni khou
+第二遍	di gni pien
+第二首	di gni sieu
+第二遭	di gni tsau
+第二伐	di gni vaq
+第二樣	di gni yan
+第二號	di gni ghau
+地獄	di gnioq
+地獄個	di gnioq goq
+地獄裏	di gnioq li
+地獄裏個	di gnioq li goq
+提阿非羅	di ou fi lou
+第八	di paq
+提八	di paq
+提比哩亞	di pi li io
+提庇留	di pi lieu
+第四	di sy
+第四顆	di sy khou
+提醒	di sin
+第三	di saen
+第三顆	di saen khou
+第三日	di saen gniq
+第三遭	di saen tsau
+第三伐	di saen vaq
+第三層	di saen zen
+地底下	di ti gho
+地底下個	di ti gho goq
+地丁	di tin
+提多	di tou
+提多個	di tou goq
+地之	di tsy
+蹄子	di tsy
+地之極	di tsy jiq
+第七	di tshiq
+第七代個	di tshiq de goq
+第七代	di tshiq de
+第七顆	di tshiq khou
+提帶起	di taen chi
+地土	di thu
+地土個	di thu goq
+地位	di wei
+地垟個	di yan goq
+地垟裏個	di yan li goq
+地穴	di yuq
+地上	di zaon
+地上個	di zaon goq
+提上去	di zaon chi
+提賀葛里相	di ghou keq li sian
+地下	di gho
+地下個	di gho goq
+疊成	diaq dzin
+疊好仔	diaq hau tsy
+調白	diau baq
+調皮	diau bi
+調動	diau don
+調戲	diau shi
+調覺轉來	diau kau coen le
+調覺了	diau kau lei
+調覺個	diau kau goq
+調勒	diau leq
+調班	diau paen
+掉搶	diau tshian
+調錯	diau tshou
+調換	diau wun
+敵國	diq koq
+糴穀個	diq koq goq
+糴穀	diq koq
+笛子	diq tsy
+田稻	dien dau
+甜了	dien lei
+田頭人	dien deu gnin
+田地	dien di
+田地裏個	dien di li goq
+田地裏	dien di li
+甜糖蜜渧	dien daon miq ti
+甜糖蜜渧個	dien daon miq ti goq
+田野畈個	dien ia paen goq
+田野畈	dien ia paen
+田角裏	dien koq li
+田價	dien ko
+填勒	dien leq
+田裏	dien li
+殿裏	dien li
+田裏個	dien li goq
+田獵	dien liaq
+墊來	dien le
+田畝	dien meu
+填命	dien min
+填滿	dien mun
+田畈裏	dien paen li
+奠酒	dien tsieu
+奠酒個	dien tsieu goq
+田野畈裏	dien ya paen li
+定道	din dau
+定鈿	din dien
+定個	din goq
+亭哈巴	din ha po
+定好	din hau
+定好個	din hau goq
+定好間	din hau kaen
+定好了	din hau liau
+定好了個	din hau liau goq
+定實	din zhyuq
+定規個	din kuei goq
+定規了	din kuei liau
+定規撥	din kuei peq
+停腳個	din ciaq goq
+停腳	din ciaq
+定見	din cien
+定間個	din kaen goq
+定間	din kaen
+停來	din le
+定落	din loq
+亭那巴	din na po
+亭訥	din neq
+亭訥個	din neq goq
+亭拿	din no
+定撥	din peq
+定罪	din zei
+定罪個	din zei goq
+定罪過	din zei kou
+絕掉	jyuq diau
+絕開	jyuq khe
+絕開個	jyuq khe goq
+逐日個	joq gniq goq
+重頭	jon deu
+重重	jon jon
+重重個	jon jon goq
+蟲豸	jon dzi
+蟲豸個	jon dzi goq
+蟲豸之	jon dzi tsy
+重個	jon goq
+重入	jon zhyuq
+重起來	jon chi le
+重語	jon gniu
+重生出來	jon san chyuq le
+重世	jon si
+重先	jon sien
+重新	jon sin
+重傷了	jon saon liau
+重擔	jon taen
+重擔個	jon taen goq
+重言	jon yen
+重罪	jon zei
+搽搽	jo jo
+搽來	jo le
+搽油個	jo yeu goq
+搽油	jo yeu
+着一記	joq iq ci
+撞着	jaon joq
+常常	jaon jaon
+治壓	jyu aq
+除掉	jyu diau
+除掉個	jyu diau goq
+住居	jyu ciu
+住間個	jyu kaen goq
+住間	jyu kaen
+除勒	jyu leq
+住來	jyu le
+除滅	jyu miq
+除滅掉	jyu miq diau
+住的個	jyu tiq goq
+住的	jyu tiq
+住東	jyu ton
+柱子	jyu tsy
+柱子個	jyu tsy goq
+除此之外	jyu tshy tsy nga
+除完	jyu wun
+全備	joen bei
+全備個	joen bei goq
+傳道個	joen dau goq
+全地	joen di
+全全	joen joen
+全全備備	joen joen bei bei
+全副	joen fu
+傳向	joen shian
+全然	joen zhoen
+傳過個	joen kou goq
+傳廣	joen kuaon
+傳教個	joen ciau goq
+全家個	joen ko goq
+全家	joen ko
+傳開個	joen khe goq
+傳開去	joen khe chi
+傳攏	joen lon
+傳落來個	joen loq le goq
+全能	joen nen
+全能個	joen nen goq
+全日	joen gniq
+全書個	joen shyu goq
+全書	joen shyu
+全隻	joen tsaq
+全斢	joen theu
+傳話個	joen wo goq
+痊癒	joen yu
+傳授弗來個	joen zieu feq le goq
+傳授弗來	joen zieu feq le
+傳授個	joen zieu goq
+大篷	dou bon
+馱出了	dou chyuq lei
+馱出個	dou chyuq goq
+大了	dou lei
+大大個	dou dou goq
+大肚	dou du
+大肚個	dou du goq
+大潮	dou dziau
+大財	dou dze
+馱弗來個	dou feq le goq
+馱弗來	dou feq le
+大風	dou fon
+大荒個	dou huaon goq
+大如	dou zhyu
+大街裏個	dou ka li goq
+大街裏	dou ka li
+大街上	dou ka zaon
+大街上個	dou ka zaon goq
+馱過了	dou kou lei
+馱過仔	dou kou tsy
+大規模	dou kuei mou
+大姑娘個	dou ku gnian goq
+大腳褲	dou ciaq khu
+大劫	dou ciq
+馱歸	dou ciu
+馱歸個	dou ciu goq
+陀迦瑪	dou cio mo
+馱起	dou chi
+馱去了	dou chi lei
+大起來個	dou chi le goq
+馱間	dou kaen
+陀拉	dou laq
+馱了	dou leq
+大勒緊	dou leq cin
+馱勒去	dou leq chi
+馱勒起	dou leq chi
+馱勒來	dou leq le
+舵裏個	dou li goq
+舵裏	dou li
+馱攏	dou lon
+大籠	dou lon
+大路上	dou lu zaon
+馱來個	dou le goq
+陀密相	dou miq sian
+大碼頭	dou mo deu
+大樣	dou gnian
+大人個	dou gnin goq
+大水個	dou shyu goq
+大小個	dou siau goq
+墮身	dou sin
+墮身個	dou sin goq
+馱的個	dou tiq goq
+馱點	dou tien
+大點	dou tien
+馱東	dou ton
+馱仔	dou tsy
+馱進	dou tsin
+大酒	dou tsieu
+大腿個	dou thei goq
+大腿裏	dou thei li
+大腿下	dou thei gho
+大廳裏	dou thin li
+大糊的	dou vu tiq
+大話	dou wo
+大牆	dou zian
+大怏	dou aon
+大河	dou ghou
+大紅個	dou ghon goq
+毒蟲	doq jon
+獨獨	doq doq
+讀讀	doq doq
+毒蛇	doq dzo
+毒蛇個	doq dzo goq
+讀法	doq faq
+讀弗出	doq feq chyuq
+讀個	doq goq
+讀好仔	doq hau tsy
+獨一	doq iq
+獨一個	doq iq goq
+讀一個	doq iq goq
+讀一	doq iq
+獨一位	doq iq wei
+讀過	doq kou
+毒氣	doq chi
+讀起	doq chi
+讀勒	doq leq
+讀勒出	doq leq chyuq
+獨門	doq men
+獨眼	doq ngaen
+讀書個	doq shyu goq
+毒心	doq sin
+讀點	doq tien
+獨子	doq tsy
+讀仔	doq tsy
+讀會了	doq wei liau
+毒藥	doq yaq
+獨養	doq yan
+毒食	doq ziq
+銅盆	don ben
+同隊個	don dei goq
+銅鈿個	don dien goq
+動靜	don dzin
+銅蛇	don dzo
+銅壇	don daen
+銅個	don goq
+動個	don goq
+動好	don hau
+同享	don shian
+同船個	don zhoen goq
+同船	don zhoen
+銅鈎	don keu
+動工	don kon
+動腳	don ciaq
+銅器	don chi
+動起來	don chi le
+動勒	don leq
+同路個	don lu goq
+同路	don lu
+同母	don meu
+同謀	don meu
+銅網	don maon
+動怒	don nu
+同年個	don gnien goq
+童女	don gniu
+童女個	don gniu goq
+銅絲	don sy
+銅絲個	don sy goq
+銅師父	don sy vu
+同室	don shyuq
+同死同活個	don si don weq goq
+同死同活	don si don weq
+動身	don sin
+同心	don sin
+動身個	don sin goq
+同心協力	don sin yaq liq
+同心合意	don sin gheq i
+動作	don tsoq
+動作起來	don tsoq chi le
+同當	don taon
+同房	don vaon
+同事個	don zy goq
+同事	don zy
+同事人	don zy gnin
+同席	don ziq
+同席個	don ziq goq
+同牀	don zaon
+同牀個	don zaon goq
+同行同坐	don ghan don zou
+肚皮裏	du bi li
+塗掉	du diau
+渡過	du kou
+度過	du kou
+肚飢了	du ci lei
+肚飢個	du ci goq
+塗勒	du leq
+肚裏	du li
+度量	du lian
+肚量	du lian
+度日個	du gniq goq
+塗銷	du siau
+肚痛	du thon
+圖畫	du wo
+慈悲	dzy pei
+慈悲個	dzy pei goq
+慈悲心	dzy pei sin
+慈悲之	dzy pei tsy
+慈祥	dzy zian
+慈愛	dzy e
+咋個了	dza goq lei
+咋好	dza hau
+咋樣	dza gnian
+咋會	dza wei
+咋會爲了	dza wei wei leq
+造反個	dzau faen goq
+造化	dzau huo
+巢穴	dzau yuq
+雜紅玉	dzeq ghon gnioq
+存個	dzen goq
+存好個	dzen hau goq
+存好	dzen hau
+存間	dzen kaen
+存來	dzen le
+存的個	dzen tiq goq
+存東	dzen ton
+存積	dzen tsiq
+池個	dzi goq
+池裏	dzi li
+池裏個	dzi li goq
+遲誤	dzi ngu
+遲早	dzi tsau
+遲緩	dzi wun
+着掉	dziaq diau
+着重	dziaq jon
+着個	dziaq goq
+着戤	dziaq ge
+着實	dziaq zhyuq
+着急	dziaq ciq
+着急煞	dziaq ciq saq
+着起來	dziaq chi le
+着落	dziaq loq
+着遍	dziaq pien
+長備	dzian bei
+長頭	dzian deu
+詳詳	dzian dzian
+丈夫	dzian fu
+長久了	dzian cieu lei
+丈人個	dzian gnin goq
+詳細	dzian si
+長槍手	dzian tshian sieu
+丈尺	dzian tshiq
+長通	dzian thon
+長遠了	dzian yoen lei
+長遠之	dzian yoen tsy
+長學	dzian ghoq
+朝廷上	dziau din zaon
+召個	dziau goq
+朝衣	dziau i
+召攏	dziau lon
+朝攏	dziau lon
+召攏來個	dziau lon le goq
+召攏來	dziau lon le
+召來	dziau le
+召來個	dziau le goq
+朝帽	dziau mau
+朝帽裏	dziau mau li
+朝南個	dziau nein goq
+潮熱	dziau gniq
+朝西個	dziau si goq
+潮數	dziau su
+直衝	dziq chon
+直頭	dziq deu
+值鈿個	dziq dien goq
+直弗起	dziq feq chi
+直街	dziq ka
+直起來	dziq chi le
+直路	dziq lu
+寂納	dziq neq
+寂納廟	dziq neq miau
+直到	dziq tau
+直等	dziq ten
+直等到	dziq ten tau
+姪子	dziq tsy
+值夜	dziq ya
+嫉邪	dziq zia
+嫉邪個	dziq zia goq
+踐踏	dzien daq
+漸漸	dzien dzien
+錢袋	dzien de
+錢櫃裏	dzien jiu li
+錢櫃裏個	dzien jiu li goq
+前功盡棄	dzien kon dzin chi
+錢庫	dzien khu
+錢庫裏	dzien khu li
+纏攏	dzien lon
+錢店	dzien tien
+錢店裏	dzien tien li
+纏擾	dzien ziau
+城中	dzin con
+鄭重個	dzin jon goq
+鄭重	dzin jon
+城池	dzin dzi
+誠誠實實個	dzin dzin zhyuq zhyuq goq
+誠誠實實	dzin dzin zhyuq zhyuq
+成就	dzin dzieu
+成就個	dzin dzieu goq
+盡其	dzin ji
+仍舊	dzin jieu
+誠實	dzin zhyuq
+誠實個	dzin zhyuq goq
+誠實無僞	dzin zhyuq vu nguei
+誠實無妄	dzin zhyuq vu vaon
+成功	dzin kon
+成功個	dzin kon goq
+成功了	dzin kon liau
+成管個	dzin kun goq
+成管	dzin kun
+城腳沿	dzin ciaq yen
+成見	dzin cien
+成家個	dzin ko goq
+成勒	dzin leq
+乘勒	dzin leq
+剩勒	dzin leq
+沉勒	dzin leq
+城裏	dzin li
+情理	dzin li
+城裏個	dzin li goq
+陣裏個	dzin li goq
+陣裏	dzin li
+城裏向	dzin li shian
+成殮	dzin lien
+沉落	dzin loq
+剩落個	dzin loq goq
+剩落東	dzin loq ton
+剩落東個	dzin loq ton goq
+沉落去了	dzin loq chi lei
+剩落間個	dzin loq kaen goq
+剩落間	dzin loq kaen
+城門個	dzin men goq
+城門口	dzin men kheu
+城門外	dzin men nga
+情面	dzin mien
+承爾情	dzin ng dzin
+城外	dzin nga
+成人長大	dzin gnin tsian da
+成人長大個	dzin gnin tsian da goq
+情願	dzin gnioen
+情願個	dzin gnioen goq
+陣勢	dzin shyu
+盡心	dzin sin
+誠心	dzin sin
+誠信	dzin sin
+盡心竭力	dzin sin jiq liq
+城子	dzin tsy
+臣子	dzin tsy
+城子個	dzin tsy goq
+臣子個	dzin tsy goq
+城子裏	dzin tsy li
+成招	dzin tsiau
+情節	dzin tsiq
+成親	dzin tshin
+承當	dzin taon
+成爲	dzin wei
+情由	dzin yeu
+成孕	dzin yun
+仇敵	dzieu diq
+仇敵個	dzieu diq goq
+囚犯	dzieu vaen
+族種	dzoq con
+族種個	dzoq con goq
+族裏	dzoq li
+族份	dzoq ven
+族份個	dzoq ven goq
+俗話	dzoq wo
+俗言	dzoq yen
+從頭硬節	dzon deu ngen tsiq
+從善	dzon zhoen
+從古以來	dzon ku yi le
+從來	dzon le
+從始到終	dzon sy tau con
+從先	dzon sien
+頌讚	dzon tsaen
+從此之後	dzon tshy tsy gheu
+頌揚	dzon yan
+從前	dzon zien
+助攏來個	dzu lon le goq
+助攏來	dzu lon le
+才全德備	dze joen teq bei
+才情	dze dzin
+纔方	dze faon
+在其內	dze ji nein
+財鄉	dze shian
+財利	dze li
+在內個	dze nein goq
+才能	dze nen
+才能個	dze nen goq
+在外	dze nga
+在外個	dze nga goq
+纔始	dze sy
+在心	dze sin
+財物	dze veq
+財物個	dze veq goq
+纔是	dze zy
+在前	dze zien
+在前個	dze zien goq
+在上	dze zaon
+在後	dze gheu
+在後個	dze gheu goq
+在行個	dze ghaon goq
+暫庉	dzaen den
+暫庉個	dzaen den goq
+賺頭個	dzaen deu goq
+殘缺個	dzaen chiuq goq
+殘缺	dzaen chiuq
+殘缺不全個	dzaen chiuq peq joen goq
+殘缺不全	dzaen chiuq peq joen
+暫寓	dzaen gniu
+賺點	dzaen tien
+賺進來	dzaen tsin le
+賺湊	dzaen tsheu
+暫時	dzaen zy
+暫時個	dzaen zy goq
+查出來	dzo chyuq le
+查查	dzo dzo
+查查看	dzo dzo khien
+蛇個	dzo goq
+查過	dzo kou
+搽過的	dzo kou tiq
+查察	dzo tshaq
+查察個	dzo tshaq goq
+查察官	dzo tshaq kun
+查察記	dzo tshaq ci
+查察衙門	dzo tshaq ngo men
+抬出	de chyuq
+抬出來	de chyuq le
+代代	de de
+抬抬	de de
+代代個	de de goq
+抬個	de goq
+代求	de jieu
+代贖	de zhoq
+抬過	de kou
+代管	de kun
+抬起	de chi
+抬起來	de chi le
+袋口裏	de kheu li
+抬了	de leq
+抬勒來	de leq le
+袋裏	de li
+袋裏個	de li goq
+代寫	de sia
+代等	de ten
+待等	de ten
+抬進	de tsin
+抬進去	de tsin chi
+抬帶起	de taen chi
+代受	de zieu
+臺上	de zaon
+彈出	daen chyuq
+但個	daen goq
+壇個	daen goq
+彈琴	daen jin
+彈琴個	daen jin goq
+壇裏	daen li
+壇裏個	daen li goq
+但願	daen gnioen
+彈唱	daen tshaon
+淡黃	daen waon
+淡黃玉	daen waon gnioq
+但以理	daen yi li
+但也理	daen ye li
+但是	daen zy
+壇上	daen zaon
+壇上個	daen zaon goq
+壇下	daen gho
+度量	doq lian
+盪來盪去	daon le daon chi
+蕩邊個	daon pien goq
+蕩樣	daon yan
+斷絕了	doen jyuq lei
+斷氣了	doen chi lei
+團圈個	doen chioen goq
+斷落了	doen loq lei
+厄巴大	eq po da
+按平	ein bin
+按部就班	ein bu dzieu paen
+案桌	ein coq
+案桌上個	ein coq zaon goq
+案桌上	ein coq zaon
+暗中	ein con
+安提阿	ein di aq
+安提帕	ein di pho
+安提帕底	ein di pho ti
+暗洞	ein don
+暗洞洞個	ein don don goq
+暗藏	ein dzaon
+暗藏個	ein dzaon goq
+按按	ein ein
+安安	ein ein
+暗暗	ein ein
+安安然然	ein ein zhoen zhoen
+安安心心	ein ein sin sin
+安安穩穩	ein ein uen uen
+安安靜靜	ein ein zin zin
+暗妃波里	ein fi pou li
+暗個	ein goq
+安個	ein goq
+按個	ein goq
+案件	ein jien
+安好仔	ein hau tsy
+暗如	ein zhyu
+安間	ein kaen
+安間個	ein kaen goq
+暗拉非	ein laq fi
+安勒	ein leq
+按勒	ein leq
+暗路	ein lu
+安來	ein le
+按來	ein le
+暗蘭	ein laen
+暗蘭個	ein laen goq
+暗昧	ein mei
+安密八	ein miq paq
+安南	ein nein
+暗伯利	ein paq li
+暗騙	ein phien
+暗四	ein sy
+安息	ein siq
+安息個	ein siq goq
+安息日個	ein siq gniq goq
+安心	ein sin
+按手	ein sieu
+按手個	ein sieu goq
+安搭	ein taq
+安得	ein teq
+安德約戈	ein teq iaq kou
+安得烈	ein teq liq
+安得烈個	ein teq liq goq
+安敦	ein ten
+安頓	ein ten
+安底阿戈	ein ti aq kou
+安的	ein tiq
+安多尼古	ein tou gni ku
+鞍子	ein tsy
+安葬	ein tsaon
+安葬個	ein tsaon goq
+安葬好	ein tsaon hau
+按察使	ein tshaq sy
+安耽弗來	ein taen feq le
+安天下	ein thien gho
+安慰	ein uei
+安慰個	ein uei goq
+安慰過	ein uei kou
+安穩	ein uen
+安穩個	ein uen goq
+安靜	ein zin
+暗號	ein ghau
+恩寵	en chon
+恩慈	en dzy
+恩約	en iaq
+恩賜	en sy
+恩賜個	en sy goq
+恩赦	en so
+恩賞	en saon
+恩典	en tien
+恩惠	en wei
+恩惠個	en wei goq
+恩座	en zou
+恩座個	en zou goq
+恩座前	en zou zien
+恩上	en zaon
+恩永遠	en ion yoen
+謳出	eu chyuq
+謳出來	eu chyuq le
+謳個	eu goq
+謳好仔	eu hau tsy
+謳響	eu shian
+謳響個	eu shian goq
+謳起來	eu chi le
+謳勒	eu leq
+謳勒響	eu leq shian
+謳攏	eu lon
+謳攏來	eu lon le
+謳來	eu le
+謳來謳去	eu le eu chi
+謳仔	eu tsy
+嘔憎	eu tsen
+傴帶倒	eu taen tau
+謳帶倒	eu taen tau
+謳帶進來	eu taen tsin le
+發出個	faq chyuq goq
+發出來	faq chyuq le
+發出來個	faq chyuq le goq
+發達	faq daq
+發動	faq don
+法度	faq du
+發財	faq dze
+法堂前	faq daon zien
+法堂上	faq daon zaon
+發風	faq fon
+發狂	faq guaon
+發狂個	faq guaon goq
+發狂的	faq guaon tiq
+發極	faq jiq
+發憨	faq hein
+法術	faq zhyuq
+發過	faq kou
+發光	faq kuaon
+發起	faq chi
+發起來	faq chi le
+法老	faq lau
+法老個	faq lau goq
+法勒	faq leq
+法勒士	faq leq zy
+法勒士個	faq leq zy goq
+法利賽	faq li se
+法力	faq liq
+法路	faq lu
+法內力個	faq nei liq goq
+法內力	faq nei liq
+發怒	faq nu
+發兵	faq pin
+法箱	faq sian
+法箱裏	faq sian li
+發笑	faq siau
+發鏽	faq sieu
+發鏽個	faq sieu goq
+發散	faq saen
+發抖	faq teu
+發點	faq tien
+發癲個	faq tien goq
+發癲	faq tien
+法子	faq tsy
+法則	faq tseq
+發作	faq tsoq
+發怏	faq aon
+弗知弗覺	feq cyu feq koq
+弗大裏	feq da li
+弗庉	feq den
+弗成禮	feq dzin li
+弗斷個	feq doen goq
+弗斷	feq doen
+弗妨得個	feq faon teq goq
+弗妨得	feq faon teq
+弗歡喜	feq hun shi
+弗歡喜個	feq hun shi goq
+弗響了	feq shian lei
+弗歇	feq shiq
+弗歇個	feq shiq goq
+弗如	feq zhyu
+怫然	feq zhoen
+弗過去個	feq kou chi goq
+弗公義	feq kon yi
+弗潔淨個	feq ciq zin goq
+弗潔淨	feq ciq zin
+弗見	feq cien
+弗見個	feq cien goq
+弗見仔	feq cien tsy
+弗欠	feq chien
+弗勒干	feq leq kien
+弗呂家	feq li cio
+弗攏	feq lon
+弗來個	feq le goq
+弗落個	feq loq goq
+弗能	feq nen
+弗怕個	feq pho goq
+弗怕懼	feq pho jiu
+弗生個	feq san goq
+弗死個	feq si goq
+弗想	feq sian
+弗相	feq sian
+弗想到	feq sian tau
+弗聲	feq sin
+弗衰敗個	feq se ba goq
+弗衰敗	feq se ba
+弗捨	feq so
+弗捨得個	feq so teq goq
+弗到之處	feq tau tsy chyu
+弗對個	feq tei goq
+弗得弗	feq teq feq
+弗得弗講	feq teq feq kaon
+弗得弗做	feq teq feq tsou
+弗點個	feq tien goq
+弗點	feq tien
+弗照	feq tsiau
+弗照咋	feq tsiau dza
+弗單只	feq taen tsiq
+弗貪生	feq thein sen
+弗話	feq wo
+粉白了個	fen baq liau goq
+粉白了	fen baq liau
+紛紛	fen fen
+分分開	fen fen khe
+紛紛不一	fen fen peq iq
+吩咐	fen fu
+吩咐個	fen fu goq
+吩咐好仔	fen fu hau tsy
+分其出	fen ji chyuq
+分據	fen ciu
+分開了	fen khe lei
+分開個	fen khe goq
+分勒	fen leq
+分勒開	fen leq khe
+分裂開	fen liq khe
+粉板	fen paen
+分𤖼開	fen phaq khe
+分剖	fen pheu
+分剖個	fen pheu goq
+分剖記	fen pheu ci
+粉碎	fen sei
+分散了	fen saen lei
+分帶開	fen taen khe
+粉糊	fen wu
+分完	fen wun
+飛出來	fi chyuq le
+廢掉	fi diau
+費掉	fi diau
+廢掉個	fi diau goq
+非但	fi daen
+廢弗掉	fi feq diau
+飛禽	fi jin
+非各	fi koq
+腓吉路	fi ciq lu
+飛去	fi chi
+非拉鐵非	fi laq thiq fi
+飛勒	fi leq
+非禮	fi li
+腓理徒	fi li du
+非禮個	fi li goq
+腓利門	fi li men
+非禮之財	fi li tsy dze
+非利士	fi li zy
+腓力	fi liq
+費力	fi liq
+腓力個	fi liq goq
+腓立比	fi liq pi
+腓力比	fi liq pi
+腓力士	fi liq zy
+腓力士個	fi liq zy goq
+非羅羅古	fi lou lou ku
+飛落來	fi loq le
+飛攏來	fi lon le
+飛來	fi le
+飛來飛去	fi le fi chi
+飛亂	fi loen
+非尼哈	fi gni ha
+腓尼革	fi gni keq
+腓尼基	fi gni ci
+飛報	fi pau
+腓比	fi pi
+飛跑	fi phau
+飛散	fi saen
+飛到	fi tau
+榧子	fi tsy
+飛進	fi tsin
+翡翠	fi tshei
+翡翠玉	fi tshei gnioq
+非凡	fi vaen
+非凡個	fi vaen goq
+費完	fi wun
+廢王	fi waon
+非義之財	fi yi tsy dze
+費用	fi yon
+菲士巴三	fi zy po saen
+費事失業個	fi zy shyuq gniq goq
+費事失業	fi zy shyuq gniq
+非士都	fi zy tu
+飛上	fi zaon
+飛上去	fi zaon chi
+福地	foq di
+福徒納	foq du neq
+福音	foq in
+福音個	foq in goq
+福音書	foq in shyu
+福氣了	foq chi lei
+福氣個	foq chi goq
+覆來	foq le
+福源	foq gnioen
+福園	foq yoen
+福園裏	foq yoen li
+封皮	fon bi
+風病	fon bin
+風了	fon lei
+風俗	fon dzoq
+豐豐	fon fon
+風個	fon goq
+封好	fon hau
+楓樹裏	fon zhyu li
+鋒快個	fon khua goq
+風氣	fon chi
+鋒利	fon li
+鋒利個	fon li goq
+風涼個	fon lian goq
+風涼點個	fon lian tien goq
+風涼點	fon lian tien
+俸祿	fon loq
+風爐裏	fon lu li
+封來	fon le
+風浪	fon laon
+風暴	fon pau
+風聲	fon sin
+封的	fon tiq
+瘋癱	fon thaen
+風癱個	fon thaen goq
+封王個	fon waon goq
+封王	fon waon
+風雨	fon yu
+風雲	fon yun
+㩤㩤	fu fu
+傅傅	fu fu
+敷敷	fu fu
+傅個	fu goq
+敷好	fu hau
+富貴個	fu kuei goq
+傅來	fu le
+夫子	fu tsy
+富足	fu tsoq
+富足個	fu tsoq goq
+富足起來	fu tsoq chi le
+富足勒緊	fu tsoq leq cin
+撫養	fu yan
+傅油	fu yeu
+傅油個	fu yeu goq
+孚亞	fu io
+覅其個	fe ji goq
+反轉	faen coen
+翻出來	faen chyuq le
+泛泛	faen faen
+反悔	faen huei
+反響	faen shian
+翻過	faen kou
+翻來	faen le
+翻來覆去	faen le foq chi
+反亂	faen loen
+番餅	faen pin
+反爲	faen wei
+翻譯	faen yiq
+氾上來	faen zaon le
+放轉來其	faon coen le ji
+放出	faon chyuq
+放出來個	faon chyuq le goq
+放出來	faon chyuq le
+放出仔	faon chyuq tsy
+放掉	faon diau
+方纔	faon dze
+方法	faon faq
+放放	faon faon
+放好	faon hau
+放火	faon hou
+方船	faon zhoen
+放間個	faon kaen goq
+放間	faon kaen
+放間仔	faon kaen tsy
+放開	faon khe
+放開去	faon khe chi
+放落	faon loq
+放來	faon le
+放炮	faon phau
+放肆	faon sy
+放鬆	faon son
+妨得	faon teq
+妨得個	faon teq goq
+方子	faon tsy
+放走	faon tseu
+紡織	faon tsiq
+紡織個	faon tsiq goq
+放縱	faon tson
+放膽	faon taen
+放膽個	faon taen goq
+放膽開	faon taen khe
+放膽點	faon taen tien
+方言	faon yen
+軋住的	gaq jyu tiq
+絞股裏個	gau ku li goq
+絞股裏	gau ku li
+交落東	gau loq ton
+絞手	gau sieu
+絞帶攏	gau taen lon
+跔進	geu tsin
+共攏	gon lon
+怀裏	gua li
+饋送	guei son
+跍間	gu kaen
+其中	ji con
+奇出奇樣個	ji chyuq ji yan goq
+奇出奇樣	ji chyuq ji yan
+其道	ji dau
+其田	ji dien
+忌憚	ji daen
+奇奇怪怪	ji ji kua kua
+其訓	ji shiun
+騎過	ji kou
+奇怪	ji kua
+其該管	ji ke kun
+其臘	ji laq
+其剌	ji laq
+其臘個	ji laq goq
+其命	ji min
+騎馬	ji mo
+騎馬個	ji mo goq
+妓女	ji gniu
+祈禱	ji tau
+其底瑪	ji ti mo
+騎的個	ji tiq goq
+騎仔	ji tsy
+其帖	ji thiaq
+其話	ji wo
+奇事	ji zy
+奇事個	ji zy goq
+其自	ji zi
+其自個	ji zi goq
+騎上去	ji zaon chi
+旗號	ji ghau
+旗下	ji gho
+旗下人	ji gho gnin
+強辯	jian bien
+強辯個	jian bien goq
+強奪	jian deq
+犟頭倔腦個	jian deu jiuq nau goq
+滰弗	jian feq
+強個	jian goq
+強如	jian zhyu
+滰乾淨	jian kien zin
+滰乾淨個	jian kien zin goq
+滰過個	jian kou goq
+滰過了	jian kou liau
+強起來	jian chi le
+強勒	jian leq
+滰勒去	jian leq chi
+滰肉個	jian gnioq goq
+轎夫	jiau fu
+極頭	jiq deu
+及軋	jiq gaq
+極其	jiq ji
+極好個	jiq hau goq
+極好	jiq hau
+及如	jiq zhyu
+竭力	jiq liq
+鉗住	jien jyu
+虔誠	jien dzin
+虔誠個	jien dzin goq
+健個	jien goq
+虔虔心心	jien jien sin sin
+圈裏	jien li
+虔生個	jien san goq
+虔生	jien san
+虔心	jien sin
+虔心個	jien sin goq
+虔心起來	jien sin chi le
+件打件	jien tan jien
+健爭	jien tsan
+健爭起來	jien tsan chi le
+近便	jin bien
+勁道個	jin dau goq
+近地	jin di
+近弗攏	jin feq lon
+近個	jin goq
+勤勤	jin jin
+近近	jin jin
+近攏	jin lon
+近攏去	jin lon chi
+近攏來	jin lon le
+近來	jin le
+鯨魚	jin ng
+近身	jin sin
+近身弗攏	jin sin feq lon
+近身弗攏個	jin sin feq lon goq
+近身官	jin sin kun
+禽獸	jin sieu
+近點	jin tien
+近乎	jin wu
+求主	jieu cyu
+求法	jieu faq
+求搿泰	jieu geq tha
+求個	jieu goq
+舊個	jieu goq
+求求	jieu jieu
+求求個	jieu jieu goq
+求好	jieu hau
+舊約	jieu iaq
+求告	jieu kau
+求過	jieu kou
+舊起來	jieu chi le
+求懇	jieu khen
+舊人	jieu gnin
+求拜	jieu pa
+球打球	jieu tan jieu
+求錯	jieu tshou
+求榮	jieu yon
+求和	jieu ghou
+櫃頭	jiu deu
+櫃頭頂	jiu deu ten
+拒絕	jiu jyuq
+櫃臺	jiu de
+懼憚	jiu daen
+拒絕	jiu jiq
+懼脅	jiu shiq
+跪帶落	jiu taen loq
+跪帶倒	jiu taen tau
+掘出個	jiuq chyuq goq
+掘出	jiuq chyuq
+掘出來	jiuq chyuq le
+𧤼着	jiuq joq
+掘間個	jiuq kaen goq
+掘間	jiuq kaen
+掘勒	jiuq leq
+掘落去	jiuq loq chi
+𧤼煞	jiuq saq
+掘井個	jiuq tsin goq
+掘井	jiuq tsin
+倦去	jioen chi
+權能	jioen nen
+權柄	jioen pin
+權勢	jioen shyu
+窮盡	jion dzin
+窮個	jion goq
+窮窮	jion jion
+窮苦	jion khu
+窮苦個	jion khu goq
+窮人個	jion gnin goq
+戤着	ge joq
+寋個	ge goq
+戤到	ge tau
+擱牢	goq lau
+哈腓拉	ha fi laq
+哈基	ha ci
+哈蘭	ha laen
+哈蘭個	ha laen goq
+哈麥	ha maq
+哈抹	ha meq
+哈默	ha meq
+哈抹個	ha meq goq
+哈母勒	ha meu leq
+哈諾	ha noq
+哈薩瑪非	ha saq mo fi
+哈洗遜大瑪個	ha si sen da mo goq
+哈洗遜大瑪	ha si sen da mo
+哈瑣	ha sou
+哈多蘭	ha tou laen
+哈撻	ha thaq
+喝喝	haq haq
+嚇嚇	haq haq
+喝過	haq kou
+嚇勒	haq leq
+哈哩路耶	haq li lu ya
+瞎眼個	haq ngaen goq
+嚇到	haq tau
+嚇倒	haq tau
+瞎子	haq tsy
+瞎子個	haq tsy goq
+好處	hau chyu
+好處個	hau chyu goq
+好其	hau ji
+好好	hau hau
+好好歹歹	hau hau te te
+好曉得	hau shiau teq
+好意	hau i
+好如	hau zhyu
+好聚	hau zhyu
+好幾	hau ci
+好幾日	hau ci gniq
+好起來	hau chi le
+好喫	hau chioq
+好喫個	hau chioq goq
+好看個	hau khien goq
+好看點	hau khien tien
+好佬	hau lau
+好佬個	hau lau goq
+好勒緊	hau leq cin
+好日個	hau gniq goq
+好日過	hau gniq kou
+好撥	hau peq
+好比像	hau pi zian
+好詩	hau sy
+好使得	hau sy teq
+好使得個	hau sy teq goq
+好心	hau sin
+好算	hau soen
+好點	hau tien
+好東	hau ton
+好仔	hau tsy
+好歹	hau te
+好聽	hau thin
+好話	hau wo
+好樣	hau yan
+好事	hau zy
+好像	hau zian
+許撥	hei peq
+黑暗	heq ein
+黑暗個	heq ein goq
+黑暗時世	heq ein zy shyu
+黑黑	heq heq
+黑黑個	heq heq goq
+黑煙	heq ien
+赫究蘭恩	heq cieu laen en
+黑氣	heq chi
+黑米	heq mi
+黑摩其尼	heq mou ji gni
+黑馬	heq mo
+赫人	heq gnin
+赫庇拿	heq pi no
+黑早	heq tsau
+黑夜	heq ya
+黑雲	heq yun
+撼起來	hein chi le
+漢利	hein li
+漢利個	hein li goq
+漢尼巴	hein gni po
+狠呵	hen ho
+火頭	hou deu
+火柱	hou jyu
+火着個	hou dziaq goq
+火個	hou goq
+火煙	hou ien
+火光	hou kuaon
+火坑裏	hou khan li
+火裏	hou li
+呵囉大笑	hou lou da siau
+藃攏	hou lon
+火爐	hou lu
+火爐個	hou lu goq
+火爐裏	hou lu li
+火盧裏	hou lu li
+訶萊西	hou le si
+火熱個	hou gniq goq
+火熱鐵塌	hou gniq thiq thaq
+火把	hou po
+火燒個	hou siau goq
+火燒	hou siau
+火星	hou sin
+火速	hou soq
+火山	hou saen
+火箭	hou tsien
+貨物	hou veq
+貨物個	hou veq goq
+火焰	hou yen
+火焰個	hou yen goq
+火石	hou zaq
+烘火	hon hou
+烘烘	hon hon
+烘烘火	hon hon hou
+哄人精	hon gnin tsin
+哄騙個	hon phien goq
+歪斜個	hua zia goq
+歪斜	hua zia
+甩掉仔	huaq diau tsy
+毀掉	huei diau
+悔改	huei ke
+賄賂	huei lu
+灰色個	huei seq goq
+灰色	huei seq
+毀壞	huei we
+悔罪	huei zei
+悔罪改過	huei zei ke kou
+忽然	hueq zhoen
+忽略	hueq liaq
+婚姻	huen in
+婚配	huen phei
+婚配個	huen phei goq
+虎豹	hu pau
+呼粻	hu tsian
+歡歡	hun hun
+歡歡喜喜	hun hun shi shi
+歡喜了	hun shi lei
+歡喜弗煞	hun shi feq saq
+歡喜個	hun shi goq
+歡樂個	hun loq goq
+歡天	hun thien
+花白個	huo baq goq
+花白	huo baq
+化掉	huo diau
+花掉	huo diau
+花旗	huo ji
+花旗國	huo ji koq
+花衣	huo i
+化功	huo kon
+化吉	huo ciq
+花起	huo chi
+花帶	huo ta
+花紋	huo ven
+花紋個	huo ven goq
+化爲平地	huo wei bin di
+化爲烏有	huo wei u yeu
+花園	huo yoen
+花園裏	huo yoen li
+荒掉	huaon diau
+慌慌	huaon huaon
+謊告	huaon kau
+荒過	huaon kou
+荒年	huaon gnien
+況且	huaon tshia
+謊話	huaon wo
+荒旱	huaon ghein
+嬉頭	shi deu
+喜地	shi di
+稀奇	shi ji
+稀奇個	shi ji goq
+稀奇古怪	shi ji ku kue
+稀奇勒緊	shi ji leq cin
+嬉戲	shi shi
+喜喜	shi shi
+嬉嬉	shi shi
+嬉戲個	shi shi goq
+希臘	shi laq
+希拉	shi laq
+希臘個	shi laq goq
+希臘國	shi laq koq
+希拉波立	shi laq pou liq
+希臘字	shi laq zy
+希里	shi li
+希里個	shi li goq
+希利尼	shi li gni
+希律	shi liq
+希律個	shi liq goq
+希羅底	shi lou ti
+希羅底個	shi lou ti goq
+希羅天	shi lou thien
+戲弄	shi lon
+希幔	shi maen
+希伯	shi paq
+希百	shi paq
+希伯崙	shi paq len
+希伯來	shi paq le
+希伯來個	shi paq le goq
+希伯來字	shi paq le zy
+希耳米	shi er mi
+希斯崙	shi sy len
+希斯倫	shi sy len
+嬉笑	shi siau
+希底結	shi ti ciq
+戲文場裏	shi ven dzian li
+希未	shi vi
+喜事	shi zy
+謔話	shiaq wo
+謔言	shiaq yen
+向着	shian joq
+向常	shian jaon
+香壇	shian daen
+香壇個	shian daen goq
+享福	shian foq
+響個	shian goq
+鄉個	shian goq
+香個	shian goq
+響其	shian ji
+響響	shian shian
+響響個	shian shian goq
+響應	shian in
+香氣	shian chi
+香氣個	shian chi goq
+響雷過	shian lei kou
+響勒	shian leq
+響亮	shian lian
+香料	shian liau
+向了	shian liau
+香料個	shian liau goq
+響鈴	shian lin
+香木	shian moq
+向爾拉	shian ng laq
+鄉紳	shian sin
+香子	shian tsy
+鄉村	shian tshen
+鄉村裏	shian tshen li
+鄉村裏個	shian tshen li goq
+享完	shian wun
+香油	shian yeu
+孝順	shiau zhyun
+孝敬	shiau cin
+𢳚開仔	shiau khe tsy
+曉得了	shiau teq lei
+曉得個	shiau teq goq
+曉得其	shiau teq ji
+歇工	shiq kon
+歇口	shiq kheu
+歇落	shiq loq
+蠍子	shiq tsy
+歇擔	shiq taen
+吸上	shiq zaon
+吸上去	shiq zaon chi
+顯出	shien chyuq
+獻出	shien chyuq
+顯出個	shien chyuq goq
+顯出來	shien chyuq le
+顯出來個	shien chyuq le goq
+顯出東	shien chyuq ton
+獻個	shien goq
+險𢞕	shien hoq
+險險	shien shien
+險險個	shien shien goq
+顯然	shien zhoen
+顯理	shien li
+顯理個	shien li goq
+顯靈	shien lin
+顯靈個	shien lin goq
+顯靈是	shien lin zy
+獻來	shien le
+顯明	shien min
+獻人	shien gnin
+獻撥	shien peq
+獻新個	shien sin goq
+獻新	shien sin
+獻祭	shien tsi
+獻祭個	shien tsi goq
+顯揚	shien yan
+獻上	shien zaon
+獻上個	shien zaon goq
+獻上去	shien zaon chi
+獻上來	shien zaon le
+獻上來個	shien zaon le goq
+欣但	shin daen
+興起	shin chi
+興起來	shin chi le
+興起來個	shin chi le goq
+興旺	shin waon
+興旺起來	shin waon chi le
+虛個	shiu goq
+虛花	shiu huo
+虛花個	shiu huo goq
+虛花事	shiu huo zy
+虛㽺個	shiu shiq goq
+許過	shiu kou
+許間	shiu kaen
+虛假個	shiu ko goq
+虛空個	shiu khon goq
+虛空	shiu khon
+許米乃	shiu mi ne
+許願	shiu gnioen
+許撥	shiu peq
+許配個	shiu phei goq
+許配	shiu phei
+許多	shiu tou
+许多	shiu tou
+許多個	shiu tou goq
+虛浮個	shiu veu goq
+虛浮	shiu veu
+虛妄個	shiu vaon goq
+虛話	shiu wo
+血出	shiuq chyuq
+血田	shiuq dien
+血氣	shiuq chi
+血氣個	shiuq chi goq
+血漏	shiuq leu
+血漏個	shiuq leu goq
+血脈	shiuq maq
+訓誨	shiun huei
+燻上	shiun zaon
+熏上	shiun zaon
+萱草	shioen tshau
+胸牌	shion ba
+胸牌個	shion ba goq
+胸牌裏	shion ba li
+胸牌裏個	shion ba li goq
+胸中	shion con
+嗅嘴個	shion cyu goq
+兄弟個	shion di goq
+兇險個	shion shien goq
+兇險	shion shien
+兇兇	shion shion
+嗅嗅嘴	shion shion cyu
+胸脘頭裏	shion kun deu li
+兇器	shion chi
+兇起來	shion chi le
+兇殺	shion saq
+兇色色	shion seq seq
+兇手	shion sieu
+兇手個	shion sieu goq
+胸懷	shion we
+兇惡	shion oq
+兇惡個	shion oq goq
+海塗個	he du goq
+海塗	he du
+海塗上	he du zaon
+海個	he goq
+海狗皮個	he keu bi goq
+海狗皮	he keu bi
+海狗個	he keu goq
+海狗	he keu
+海口	he kheu
+海裏	he li
+海裏個	he li goq
+海路	he lu
+海浪	he laon
+海面	he mien
+海綿花	he mien huo
+海邊	he pien
+海邊沿	he pien yen
+海水	he shyu
+海山	he saen
+海島	he tau
+海島個	he tau goq
+海島裏	he tau li
+海洋	he yan
+海洋個	he yan goq
+海洋裏	he yan li
+海洋裏個	he yan li goq
+海上	he zaon
+喊哪	haen naq
+颬勒	ho leq
+醫病個	i bin goq
+醫病	i bin
+挔出	i chyuq
+挔出仔	i chyuq tsy
+衣穿	i choen
+依了	i deq
+倚重其	i jon ji
+依從	i dzon
+醫弗好	i feq hau
+醫好	i hau
+醫好個	i hau goq
+依順	i zhyun
+依順個	i zhyun goq
+意見	i cien
+倚靠	i khau
+依了	i leq
+意裏	i li
+醫亮	i lian
+醫亮個	i lian goq
+意懶	i laen
+依邊	i pien
+意思	i sy
+依心	i sin
+衣衫襤褸	i saen laen li
+依點	i tien
+挔點	i tien
+意足	i tsoq
+衣服	i voq
+依侍	i zy
+倚侍	i zy
+倚恃個	i zy goq
+倚恃	i zy
+衣裳個	i zaon goq
+押別	iaq biq
+約定	iaq din
+約定了	iaq din leq
+約但	iaq daen
+約個	iaq goq
+約好	iaq hau
+約基別	iaq ci biq
+約令	iaq lin
+約來	iaq le
+約蘭	iaq laen
+押瑪	iaq mo
+約南	iaq nein
+約拿	iaq no
+約拿個	iaq no goq
+約伯	iaq paq
+約八	iaq paq
+約伯個	iaq paq goq
+約帕	iaq pho
+約帕個	iaq pho goq
+約珥	iaq er
+約瑟	iaq seq
+約瑟個	iaq seq goq
+約書	iaq shyu
+約書亞	iaq shyu io
+約西	iaq si
+約細	iaq si
+約西個	iaq si goq
+約西亞	iaq si io
+約箱	iaq sian
+約箱個	iaq sian goq
+約箱裏	iaq sian li
+約束	iaq soq
+約珊	iaq saen
+約沙法	iaq so faq
+約丹	iaq taen
+約担	iaq taen
+約丹個	iaq taen goq
+約亞拿	iaq io no
+約翰	iaq ghein
+約翰個	iaq ghein goq
+養大個	ian dou goq
+養間	ian kaen
+養東	ian ton
+腰縛裏	iau bou li
+要防	iau baon
+舀出來	iau chyuq le
+要弗勒	iau feq leq
+要個	iau goq
+腰脅	iau shiq
+腰脅裏	iau shiq li
+要記	iau ci
+要緊個	iau cin goq
+要緊點	iau cin tien
+要想	iau sian
+要像	iau zian
+一排	iq ba
+一倍	iq bei
+一坒	iq bi
+一別	iq biq
+一瓶	iq bin
+一步	iq bu
+一部	iq bu
+一桌	iq coq
+一種	iq con
+一終	iq con
+一株	iq cyu
+益處	iq chyu
+一處	iq chyu
+一道	iq dau
+一隊	iq dei
+一條	iq diau
+一鈿	iq dien
+一定	iq din
+一定個	iq din goq
+一定不易個	iq din peq yiq goq
+一定不易	iq din peq yiq
+一廚	iq jyu
+一大	iq dou
+一大隊	iq dou dei
+一大潮	iq dou dziau
+一大班	iq dou paen
+一桶	iq don
+一場	iq dzian
+一長日	iq dzian gniq
+一潮生	iq dziau san
+一直落來	iq dziq loq le
+一陣	iq dzin
+一成濟路	iq dzin tsi lu
+一族	iq dzoq
+一族個	iq dzoq goq
+一代	iq de
+一團	iq doen
+一按	iq ein
+一幅	iq foq
+一封	iq fon
+一副	iq fu
+一番	iq faen
+一個半	iq goq pun
+一件	iq jien
+一件生	iq jien san
+一掘	iq jiuq
+一向	iq shian
+一響	iq shian
+一一	iq iq
+𥣘𥣘個	iq iq goq
+𥣘𥣘	iq iq
+一更	iq kan
+一格	iq keq
+一根	iq ken
+一個生	iq kou san
+一國	iq koq
+一股	iq ku
+一管	iq kun
+一光	iq kuaon
+一塊	iq khuei
+一計	iq ci
+一斤	iq cin
+一句	iq ciu
+一鈞	iq ciun
+一卷	iq cioen
+一起	iq chi
+一丘	iq chieu
+一概	iq ke
+一家個	iq ko goq
+一刻	iq kheq
+一看	iq khien
+一看其	iq khien ji
+一看見	iq khien cien
+一看前頭	iq khien zien deu
+一口	iq kheu
+一口氣	iq kheu chi
+一顆	iq khou
+一抲着	iq kho joq
+益拉	iq laq
+一里	iq li
+一厘	iq li
+一禮	iq li
+一兩個	iq lian goq
+一兩	iq lian
+一兩樣	iq lian yan
+一粒	iq liq
+一連	iq lien
+一摙	iq lien
+一路	iq lu
+一路生	iq lu san
+一來	iq le
+益蘭	iq laen
+一落	iq loq
+一落過	iq loq kou
+一枚	iq mei
+一末	iq meq
+一問	iq men
+一面	iq mien
+一命	iq min
+一明白	iq min baq
+一滿	iq mun
+一網	iq maon
+一男	iq nein
+一眼個	iq ngaen goq
+一眼都	iq ngaen tu
+一日個	iq gniq goq
+一年	iq gnien
+一年個	iq gnien goq
+一女	iq gniu
+益八	iq paq
+益伯特利	iq paq deq li
+一百簍	iq paq leu
+一百零十	iq paq lin zhyuq
+一百多	iq paq tou
+一百隻	iq paq tsaq
+一百石	iq paq zaq
+一包	iq pau
+一杯	iq pei
+一本	iq pen
+一筆	iq piq
+一邊	iq pien
+一遍	iq pien
+一班	iq paen
+一般	iq paen
+一畈	iq paen
+一把	iq po
+一幫	iq paon
+一派	iq pha
+一匹	iq phiq
+一片	iq phien
+一篇	iq phien
+一碰着	iq phon joq
+一𥈊	iq saq
+溢煞	iq saq
+一霎時	iq saq zy
+一生一世個	iq san iq si goq
+一色	iq seq
+一色斯樣個	iq seq sy yan goq
+一束	iq shoq
+一雙	iq shaon
+一箱子	iq sian tsy
+一笑	iq siau
+一聲	iq sin
+一心	iq sin
+一升	iq sin
+一心情願	iq sin dzin gnioen
+一心一意	iq sin iq i
+一首	iq sieu
+一打一	iq tan iq
+一刀	iq tau
+一對	iq tei
+一等	iq ten
+一渧	iq ti
+一吊	iq tiau
+一點	iq tien
+一頂	iq tin
+益督	iq toq
+一籽	iq tsy
+一籽個	iq tsy goq
+一隻	iq tsaq
+一隻小羊	iq tsaq siau yan
+一遭	iq tsau
+一走到	iq tseu tau
+一走進	iq tseu tsin
+一節	iq tsiq
+一箭	iq tsien
+一進	iq tsin
+一摘	iq tsoq
+一種	iq tson
+一章	iq tsaon
+一雌	iq tshy
+一冊	iq tshaq
+一忖	iq tshen
+一忖着	iq tshen joq
+一忖起	iq tshen chi
+一忖到	iq tshen tau
+一切	iq tshiq
+一切個	iq tshiq goq
+一千七百	iq tshien tshiq paq
+一餐	iq tshaen
+一朵	iq to
+一𡍲	iq thaq
+一體	iq thi
+一體生	iq thi san
+一庹	iq thoq
+一胎	iq the
+一胎個	iq the goq
+一彖	iq thoen
+一份	iq ven
+一萬萬	iq vaen vaen
+一劃	iq waq
+一位	iq wei
+一夜	iq ya
+一樣個	iq yan goq
+一營	iq yin
+一穴	iq yuq
+一園	iq yoen
+一雄	iq yon
+一時	iq zy
+一是班	iq zy paen
+一徐	iq zi
+一席	iq ziq
+一任	iq zin
+一座	iq zou
+一坐	iq zou
+一上去	iq zaon chi
+煙個	ien goq
+煙裏	ien li
+厭憎	ien tsen
+厭煩	ien vaen
+應轉	in coen
+印出	in chyuq
+映出來	in chyuq le
+應了	in lei
+印頭	in deu
+應着	in joq
+影着	in joq
+應承	in dzin
+茵陳	in dzin
+應承了	in dzin liau
+應承了個	in dzin liau goq
+隱藏	in dzaon
+隱藏個	in dzaon goq
+隱藏間	in dzaon kaen
+隱藏的	in dzaon tiq
+隱藏的個	in dzaon tiq goq
+應弗來	in feq le
+殷勤	in jin
+應許了	in shiu lei
+應許個	in shiu goq
+殷殷	in in
+陰陰	in in
+印戒	in ka
+英吉利	in ciq li
+應起	in chi
+應起來	in chi le
+應該個	in ke goq
+陰間個	in kaen goq
+陰間裏	in kaen li
+應勒來	in leq le
+隱落	in loq
+隱瞞	in mun
+隱瞞弗來	in mun feq le
+應驗	in gnien
+應驗	in gniaen
+應驗個	in gniaen goq
+音拿	in no
+印版	in paen
+陰司	in sy
+陰司個	in sy goq
+陰司裏	in sy li
+應對	in tei
+應得	in teq
+應答	in teq
+應得個	in teq goq
+印的	in tiq
+印證	in tsin
+影蹤	in tson
+應當	in taon
+應當個	in taon goq
+因爲	in wei
+因爲爾	in wei ng
+陰魂	in wen
+因由	in yeu
+英雄	in yon
+應用	in yon
+應用個	in yon goq
+英雄個	in yon goq
+飲食	in ziq
+英勇	in ion
+幽過	ieu kou
+幽間	ieu kaen
+幽勒	ieu leq
+憂慮	ieu li
+幽來	ieu le
+憂悶	ieu men
+憂悶個	ieu men goq
+憂悶許多	ieu men shiu tou
+憂悶相	ieu men sian
+幽的個	ieu tiq goq
+幽的	ieu tiq
+幽進	ieu tsin
+憂上	ieu zaon
+集隊	zhyuq dei
+十頭	zhyuq deu
+十頭八	zhyuq deu paq
+十頭八里	zhyuq deu paq li
+十條	zhyuq diau
+實情	zhyuq dzin
+實在	zhyuq dze
+十幅	zhyuq foq
+十一幅	zhyuq iq foq
+十一粒	zhyuq iq liq
+十根	zhyuq ken
+十國	zhyuq koq
+十國生	zhyuq koq san
+十股	zhyuq ku
+十股得一	zhyuq ku teq iq
+十股之一	zhyuq ku tsy iq
+十塊	zhyuq khuei
+十九	zhyuq cieu
+實拉	zhyuq laq
+入了	zhyuq leq
+入了魔	zhyuq leq mou
+十兩	zhyuq lian
+習練	zhyuq lien
+習練過了個	zhyuq lien kou liau goq
+習練過了	zhyuq lien kou liau
+習練過來個	zhyuq lien kou le goq
+習練過來	zhyuq lien kou le
+十六	zhyuq loq
+十六年	zhyuq loq gnien
+入魔	zhyuq mou
+入魔個	zhyuq mou goq
+入魔的	zhyuq mou tiq
+十五	zhyuq ng
+十五仞	zhyuq ng zhyun
+十五六	zhyuq ng loq
+十二種	zhyuq gni con
+十二埭	zhyuq gni da
+十二道	zhyuq gni dau
+十二顆	zhyuq gni khou
+十二粒	zhyuq gni liq
+十二三	zhyuq gni saen
+十二房	zhyuq gni vaon
+十日個	zhyuq gniq goq
+十年	zhyuq gnien
+十年個	zhyuq gnien goq
+十八	zhyuq paq
+十四	zhyuq sy
+十四五萬	zhyuq sy ng vaen
+十四萬	zhyuq sy vaen
+十聲	zhyuq sin
+十三	zhyuq saen
+十多	zhyuq tou
+十隻	zhyuq tsaq
+十遭	zhyuq tsau
+入進	zhyuq tsin
+十足	zhyuq tsoq
+十七	zhyuq tshiq
+十千	zhyuq tshien
+十𡍲	zhyuq thaq
+實惠個	zhyuq wei goq
+十樣	zhyuq yan
+入耶穌教	zhyuq ye su ciau
+十月	zhyuq yuq
+日月星	zhyuq yuq sin
+日月之	zhyuq yuq tsy
+十字架個	zhyuq zy ko goq
+十字架上	zhyuq zy ko zaon
+神道	zhyun dau
+神堂	zhyun daon
+神個	zhyun goq
+神國	zhyun koq
+神國個	zhyun koq goq
+神國裏	zhyun koq li
+循規	zhyun kuei
+神光	zhyun kuaon
+順境	zhyun cin
+忍氣	zhyun chi
+忍氣吞聲	zhyun chi then sin
+神靈	zhyun lin
+巡邏	zhyun lou
+順路	zhyun lu
+純藍	zhyun laen
+神明	zhyun min
+神明個	zhyun min goq
+人奶	zhyun na
+忍耐	zhyun ne
+忍耐弗住	zhyun ne feq jyu
+忍相	zhyun sian
+仁心	zhyun sin
+順手邊	zhyun sieu pien
+神子	zhyun tsy
+順隻	zhyun tsaq
+神蹟	zhyun tsiq
+循都基	zhyun tu ci
+神體	zhyun thi
+神通	zhyun thon
+神父	zhyun vu
+神父個	zhyun vu goq
+循環	zhyun waen
+純粹	zhyun zei
+神像	zhyun zian
+仁愛	zhyun e
+仁愛個	zhyun e goq
+神啊	zhyun gha
+熟個	zhoq goq
+熟熟管	zhoq zhoq kun
+贖過	zhoq kou
+屬國	zhoq koq
+熟了點	zhoq leq tien
+熟悉個	zhoq siq goq
+熟悉	zhoq siq
+贖罪	zhoq zei
+贖罪個	zhoq zei goq
+贖罪祭個	zhoq zei tsi goq
+贖罪祭	zhoq zei tsi
+屬於	zhoq iu
+屬下	zhoq gho
+屬下個	zhoq gho goq
+尚且	zhaon tshia
+樹城	zhyu dzin
+樹個	zhyu goq
+乳香	zhyu shian
+聚集攏	zhyu zhyuq lon
+聚聚	zhyu zhyu
+如果	zhyu kou
+敘劍	zhyu cien
+敘劍個	zhyu cien goq
+如今	zhyu cin
+敘加	zhyu cio
+樹起來	zhyu chi le
+誰拉	zhyu laq
+樹裏	zhyu li
+敘利腓尼基	zhyu li fi gni ci
+樹裏個	zhyu li goq
+敘利亞	zhyu li io
+樹林	zhyu lin
+聚攏	zhyu lon
+聚攏個	zhyu lon goq
+聚攏間	zhyu lon kaen
+聚攏間個	zhyu lon kaen goq
+聚攏來	zhyu lon le
+聚攏東	zhyu lon ton
+聚攏東個	zhyu lon ton goq
+乳酪	zhyu loq
+樹木	zhyu moq
+誰儂個	zhyu noq goq
+如尼	zhyu gni
+如心	zhyu sin
+聚首	zhyu sieu
+乳漿	zhyu tsian
+聚足	zhyu tsoq
+如此	zhyu tshy
+聚帶攏	zhyu taen lon
+樹縫	zhyu von
+樹縫裏	zhyu von li
+聚會	zhyu wei
+聚會堂	zhyu wei daon
+聚會堂個	zhyu wei daon goq
+聚會堂裏	zhyu wei daon li
+聚會堂裏個	zhyu wei daon li goq
+誰話	zhyu wo
+敘事	zhyu zy
+樹上	zhyu zaon
+樹下	zhyu gho
+善終	zhoen con
+善終個	zhoen con goq
+船主	zhoen cyu
+船頭個	zhoen deu goq
+船個	zhoen goq
+然然	zhoen zhoen
+船個船	zhoen kou zhoen
+全靠	zhoen khau
+船裏	zhoen li
+船裏頭	zhoen li deu
+船裏個	zhoen li goq
+船路	zhoen lu
+然而	zhoen er
+船底	zhoen ti
+膳長	zhoen tsian
+善事	zhoen zy
+船上個	zhoen zaon goq
+船上	zhoen zaon
+善惡	zhoen oq
+善惡個	zhoen oq goq
+擅於	zhoen iu
+船號	zhoen ghau
+然後	zhoen gheu
+介出	ka chyuq
+街道	ka dau
+戒掉	ka diau
+解個	ka goq
+街街弄弄	ka ka lon lon
+解去	ka chi
+解開仔	ka khe tsy
+解勒	ka leq
+介呢	ka ni
+解說	ka shyuq
+解說個	ka shyuq goq
+介相貌	ka sian mau
+介星	ka sin
+解仔	ka tsy
+介做	ka tsou
+芥菜子	ka tshe tsy
+介時候	ka zy gheu
+解上去個	ka zaon chi goq
+解上去	ka zaon chi
+解上來個	ka zaon le goq
+解上來	ka zaon le
+格步階裏	kaq bu kaen li
+溢出來個	kaq chyuq le goq
+革掉	kaq diau
+夾雜攏的個	kaq dzeq lon tiq goq
+夾雜攏的	kaq dzeq lon tiq
+隔火	kaq hou
+隔海	kaq he
+夾起	kaq chi
+隔開	kaq khe
+隔開個	kaq khe goq
+夾勒	kaq leq
+夾攏的	kaq lon tiq
+格外	kaq nga
+格外個	kaq nga goq
+隔壁個	kaq piq goq
+格布亞	kaq pu io
+隔帶開	kaq taen khe
+溢上	kaq zaon
+溢上來	kaq zaon le
+耕種個	kan con goq
+告了	kau lei
+高大個	kau dou goq
+校場裏	kau dzian li
+教方	kau faon
+告向	kau shian
+教向其道	kau shian ji dau
+高興	kau shin
+高興起來	kau shin chi le
+高興相	kau shin sian
+教訓個	kau shiun goq
+高如	kau zhyu
+高高	kau kau
+高高個	kau kau goq
+高高興興	kau kau shin shin
+教過仔	kau kou tsy
+教勒	kau leq
+高樓	kau leu
+膠粘	kau gnien
+膠黏	kau gnien
+酵水	kau shyu
+酵水個	kau shyu goq
+高聲	kau sin
+高山	kau saen
+高山堆	kau saen tei
+高山堆裏	kau saen tei li
+高低	kau ti
+高天	kau thien
+高廳	kau thin
+教會了	kau wei lei
+攪擾	kau ziau
+告狀個	kau zaon goq
+居園個	ki yoen goq
+居園	ki yoen
+箇爿	keq baen
+箇種	keq con
+箇種介	keq con ka
+箇種介個	keq con ka goq
+箇株	keq cyu
+箇株介	keq cyu ka
+箇株介個	keq cyu ka goq
+箇埭	keq da
+箇道	keq dau
+割稻個	keq dau goq
+箇隊	keq dei
+箇頭	keq deu
+箇頭個	keq deu goq
+箇條	keq diau
+割掉	keq diau
+箇大潮	keq dou dziau
+箇潮	keq dziau
+箇乘	keq dzin
+箇族	keq dzoq
+箇族個	keq dzoq goq
+箇代	keq de
+箇代個	keq de goq
+箇封	keq fon
+箇番	keq faen
+箇個	keq goq
+箇個人	keq goq gnin
+箇件	keq jien
+箇向	keq shian
+箇鄉村裏	keq shian tshen li
+隔海	keq he
+箇一日	keq iq gniq
+革順	keq zhyun
+革順個	keq zhyun goq
+箇更	keq kan
+革革沙	keq keq so
+箇根	keq ken
+箇個	keq kou
+箇國個	keq koq goq
+箇國	keq koq
+箇梗	keq kuan
+箇孤孀個	keq ku saon goq
+箇孤孀	keq ku saon
+箇管	keq kun
+箇塊	keq khuei
+箇句	keq ciu
+箇卷	keq cioen
+革迦撒	keq cio saq
+箇起	keq chi
+箇去	keq chi
+箇丘	keq chieu
+箇間	keq kaen
+箇家	keq ko
+箇家個	keq ko goq
+箇口	keq kheu
+革老底	keq lau ti
+革老爹	keq lau tia
+革老丟	keq lau tieu
+革老丟個	keq lau tieu goq
+箇類	keq lei
+革勒士	keq leq zy
+革利免	keq li mien
+革哩底	keq li ti
+革哩底個	keq li ti goq
+革利士布	keq li zy pu
+革哩士布	keq li zy pu
+箇兩	keq lian
+箇兩個	keq lian goq
+箇粒	keq liq
+革流巴	keq lieu po
+革羅巴個	keq lou po goq
+革羅巴	keq lou po
+箇路	keq lu
+革來	keq le
+葛萊蘇	keq le su
+箇枚	keq mei
+箇末	keq meq
+箇面	keq mien
+箇網	keq maon
+箇岸	keq ngein
+革尼撒勒	keq gni saq leq
+革尼土個	keq gni thu goq
+革尼土	keq gni thu
+箇日	keq gniq
+箇年	keq gnien
+箇杯	keq pei
+箇本	keq pen
+箇邊	keq pien
+箇邊個	keq pien goq
+箇班	keq paen
+箇派	keq pha
+箇派個	keq pha goq
+箇匹	keq phiq
+箇篇	keq phien
+箇雙	keq shaon
+箇星	keq sin
+箇星個	keq sin goq
+箇星介	keq sin ka
+箇首	keq sieu
+箇打	keq tan
+箇𡍲	keq tein
+箇頂	keq tin
+箇東西	keq ton si
+箇支	keq tsy
+箇隻	keq tsaq
+箇遭	keq tsau
+箇遭個	keq tsau goq
+箇張	keq tsian
+箇節	keq tsiq
+箇進	keq tsin
+箇七個	keq tshiq goq
+箇七	keq tshiq
+合帶攏	keq taen lon
+箇黨	keq taon
+箇𡍲	keq thaq
+箇𡍲裏	keq thaq li
+葛托	keq thoq
+箇伐	keq vaq
+箇份	keq ven
+箇位	keq wei
+箇夜	keq ya
+箇樣	keq yan
+箇營個	keq yin goq
+箇營	keq yin
+箇穴	keq yuq
+箇是	keq zy
+箇字	keq zy
+箇時	keq zy
+箇座	keq zou
+箇晌	keq zaon
+箇號	keq ghau
+趕出了	kien chyuq lei
+趕出過	kien chyuq kou
+趕出東	kien chyuq ton
+趕出仔	kien chyuq tsy
+干大基	kien da ci
+衦頭	kien dein
+趕着	kien joq
+感動	kien don
+感動個	kien don goq
+感恩	kien en
+感恩個	kien en goq
+肝個	kien goq
+感化	kien huo
+干戈	kien kou
+趕緊	kien cin
+肝氣痛個	kien chi thon goq
+肝氣痛	kien chi thon
+趕勒害	kien leq ghe
+趕落	kien loq
+感念	kien gniaen
+甘心	kien sin
+趕散	kien saen
+趕到	kien tau
+稈子	kien tsy
+稈子裏	kien tsy li
+趕走	kien tseu
+敢當	kien taon
+感謝	kien zia
+感謝個	kien zia goq
+乾淨了	kien zin lei
+乾淨個	kien zin goq
+趕上	kien zaon
+趕上去	kien zaon chi
+跟着	ken joq
+跟從	ken dzon
+根根	ken ken
+根基	ken ci
+根基個	ken ci goq
+更改弗來	ken ke feq le
+更改弗來個	ken ke feq le goq
+跟間	ken kaen
+跟間個	ken kaen goq
+跟勒去	ken leq chi
+跟勒來個	ken leq le goq
+跟勒來	ken leq le
+根脈	ken maq
+根源	ken gnioen
+根本	ken pen
+根生土養	ken san thu yan
+根深	ken sin
+勾掉	keu diau
+勾住	keu jyu
+夠喫	keu chioq
+鈎子	keu tsy
+鉤子	keu tsy
+鈎子下	keu tsy gho
+夠用	keu yon
+過頭了	kou deu lei
+過頭仔	kou deu tsy
+過弗過	kou feq kou
+過弗過去	kou feq kou chi
+歌賦	kou fu
+過個	kou goq
+過好	kou hau
+裹好仔	kou hau tsy
+過海	kou he
+過如	kou zhyu
+果然	kou zhoen
+過去個	kou chi goq
+過去點	kou chi tien
+過愆	kou chien
+過愆個	kou chien goq
+哥拉個	kou laq goq
+哥拉	kou laq
+哥拉汛	kou laq sin
+哥裏倭蘭	kou li ou laen
+過了個	kou liau goq
+哥林多	kou lin tou
+哥羅西	kou lou si
+歌羅西	kou lou si
+過路個	kou lu goq
+過來	kou le
+過來個	kou le goq
+歌篾	kou miq
+歌篾個	kou miq goq
+哥尼流	kou gni lieu
+過失	kou shyuq
+過心	kou sin
+過心弗去	kou sin feq chi
+個數個	kou su goq
+歌珊	kou saen
+哥桑	kou saon
+個打個	kou tan kou
+個打個個	kou tan kou goq
+過對過	kou tei kou
+過點	kou tien
+果子	kou tsy
+過之	kou tsy
+過仔	kou tsy
+果子個	kou tsy goq
+過之後	kou tsy gheu
+過節	kou tsiq
+歌唱	kou tshaon
+歌唱個	kou tshaon goq
+裹帶攏	kou taen lon
+過短	kou toen
+過分了	kou ven lei
+過犯	kou vaen
+過犯個	kou vaen goq
+過洋	kou yan
+哥士	kou zy
+過於	kou iu
+哥轄	kou gheq
+哥轄個	kou gheq goq
+各種	koq con
+國個	koq goq
+各國個	koq koq goq
+各國	koq koq
+各各他	koq koq tha
+穀價	koq ko
+國家個	koq ko goq
+角裏	koq li
+國裏	koq li
+各人個	koq gnin goq
+各般	koq paen
+國生	koq san
+國數	koq su
+國數個	koq su goq
+國打國	koq tan koq
+各打各個	koq tan koq goq
+各打各	koq tan koq
+國打國個	koq tan koq goq
+各到處	koq tau chyu
+穀倉裏	koq tshaon li
+國份	koq ven
+國份個	koq ven goq
+國王	koq waon
+國王個	koq waon goq
+國號	koq ghau
+公平	kon bin
+公平個	kon bin goq
+公平之	kon bin tsy
+公道個	kon dau goq
+工程	kon dzin
+公堂裏	kon daon li
+工夫	kon fu
+工夫個	kon fu goq
+工具	kon jiu
+恭喜	kon shi
+供應	kon in
+恭恭	kon kon
+供供個	kon kon goq
+供供	kon kon
+公估個	kon ku goq
+公估	kon ku
+公館裏	kon kun li
+攻擊	kon ciq
+恭敬	kon cin
+公舉	kon ciu
+拱起	kon chi
+功勞	kon lau
+拱勒頭	kon leq deu
+供撥	kon peq
+攻打	kon tan
+公子	kon tsy
+供祭	kon tsi
+供祭個	kon tsi goq
+弓箭	kon tsien
+貢旦定	kon taen din
+貢旦定城	kon taen din dzin
+供奉	kon von
+供奉個	kon von goq
+公會	kon wei
+公會個	kon wei goq
+公會裏	kon wei li
+公會之	kon wei tsy
+公義	kon yi
+公義個	kon yi goq
+公事	kon zy
+供上	kon zaon
+公侯	kon gheu
+拐杖	kua dzian
+怪風	kua fon
+拐拐	kua kua
+拐腳個	kua ciaq goq
+拐勒	kua leq
+摑腳	kuaq ciaq
+摑手	kuaq sieu
+括土	kuaq thu
+梗青個	kuan tshin goq
+貴重個	kuei jon goq
+皈依	kuei i
+歸根	kuei ken
+規規	kuei kuei
+規矩	kuei ciu
+歸勒	kuei leq
+歸攏	kuei lon
+規模	kuei mou
+歸撥	kuei peq
+圭必	kuei piq
+歸到	kuei tau
+劊子手	kuei tsy sieu
+歸正	kuei tsin
+歸正個	kuei tsin goq
+歸正了	kuei tsin liau
+歸天	kuei thien
+歸土	kuei thu
+歸服	kuei voq
+歸附	kuei vu
+歸於	kuei iu
+骨頭個	kueq deu goq
+骨肉	kueq zhoq
+骨髓	kueq si
+昆蟲	kuen jon
+棍子	kuen tsy
+顧着個	ku joq goq
+故意	ku i
+古實	ku zhyuq
+古實個	ku zhyuq goq
+孤孤	ku ku
+估估	ku ku
+固固	ku ku
+古利奈	ku li ne
+孤伶仃	ku lin tin
+僱來個	ku le goq
+僱來	ku le
+雇來個	ku le goq
+雇來	ku le
+古萊西	ku le si
+古米	ku mi
+沽尼	ku gni
+姑娘	ku gnian
+孤孀個	ku saon goq
+古典	ku tien
+臌脹	ku tsian
+古蹟	ku tsiq
+固執不通	ku tsiq peq thon
+孤清	ku tshin
+故事	ku zy
+古時	ku zy
+古時節	ku zy tsien
+古時節個	ku zy tsien goq
+管押	kun aq
+管押間	kun aq kaen
+管住	kun jyu
+管治	kun jyu
+官府	kun fu
+管拾	kun zhyuq
+管間	kun kaen
+管間個	kun kaen goq
+管勒	kun leq
+管理	kun li
+管門個	kun men goq
+管門	kun men
+冠冕	kun mien
+管守	kun sieu
+管守個	kun sieu goq
+管賬	kun tsian
+官長個	kun tsian goq
+官廳	kun thin
+官廳裏	kun thin li
+管園個	kun yoen goq
+管園	kun yoen
+乖巧	kue chiau
+關牒	kuaen diaq
+關着	kuaen joq
+關好	kuaen hau
+關好仔	kuaen hau tsy
+關一關	kuaen iq kuaen
+關關好	kuaen kuaen hau
+關間	kuaen kaen
+關間個	kuaen kaen goq
+關了個	kuaen liau goq
+關來	kuaen le
+關門個	kuaen men goq
+關礙	kuaen nge
+關鎖間	kuaen sou kaen
+關東	kuaen ton
+關仔	kuaen tsy
+關係	kuaen yi
+關於	kuaen iu
+掛間個	kuo kaen goq
+掛間	kuo kaen
+掛勒	kuo leq
+掛來	kuo le
+掛念	kuo gniaen
+寡婦	kuo vu
+寡婦個	kuo vu goq
+光光個	kuaon kuaon goq
+光光	kuaon kuaon
+廣闊	kuaon khueq
+廣闊勒緊	kuaon khueq leq cin
+光景	kuaon cin
+光亮	kuaon lian
+光明	kuaon min
+光明個	kuaon min goq
+光照	kuaon tsiau
+光彩	kuaon tshe
+光滑個	kuaon waq goq
+光滑	kuaon waq
+光華	kuaon wo
+廣行	kuaon ghan
+快要	khua iau
+快如	khua zhyu
+快快	khua khua
+快快活活	khua khua weq weq
+快勒	khua leq
+快亮	khua lian
+快落	khua loq
+快樂個	khua loq goq
+快生個	khua san goq
+快生	khua san
+快死	khua si
+快死個	khua si goq
+快星點	khua sin tien
+快到	khua tau
+快到個	khua tau goq
+快點	khua tien
+快活個	khua weq goq
+快活記	khua weq ci
+快活勒緊	khua weq leq cin
+快活無比	khua weq vu pi
+快夜	khua ya
+虧待	khuei de
+盔甲	khuei kaq
+盔甲個	khuei kaq goq
+塊數	khuei su
+塊打塊	khuei tan khuei
+闊個	khueq goq
+闊闊個	khueq khueq goq
+闊闊	khueq khueq
+闊綽	khueq tshiaq
+睏弗熟	khuen feq zhoq
+睏熟個	khuen zhoq goq
+睏熟間	khuen zhoq kaen
+睏熟的	khuen zhoq tiq
+睏熟東	khuen zhoq ton
+困苦	khuen khu
+睏間	khuen kaen
+睏間個	khuen kaen goq
+睏的個	khuen tiq goq
+睏東	khuen ton
+睏仔	khuen tsy
+枯了	khu lei
+苦弗過	khu feq kou
+苦個	khu goq
+苦苦	khu khu
+枯勒	khu leq
+骷髏	khu leu
+苦裏個	khu li goq
+苦裏	khu li
+枯落個	khu loq goq
+枯落	khu loq
+苦惱	khu nau
+苦人	khu gnin
+苦難	khu naen
+苦難個	khu naen goq
+苦撒	khu saq
+苦煞	khu saq
+苦撒個	khu saq goq
+枯燥	khu sau
+枯燥個	khu sau goq
+苦楚	khu tshu
+苦菜	khu tshe
+箍套圈	khu thau chioen
+寬待	khun de
+寬約	khun iaq
+寬闊	khun khueq
+寬空	khun khon
+寬弛	khun sy
+款式	khun shyuq
+寬恕	khun shyu
+寬綽個	khun tshiaq goq
+寬綽	khun tshiaq
+寬緩	khun wun
+寬容	khun yon
+寬宏	khun ghon
+寬宏肚量	khun ghon du lian
+寬限	khun ghaen
+寬限其	khun ghaen ji
+誇口	khuo kheu
+誇口個	khuo kheu goq
+曠野裏	khuaon ie li
+基阿個	ci aq goq
+基阿	ci aq
+基磐之	ci bun tsy
+基大老瑪	ci da lau mo
+基達	ci daq
+幾條	ci diau
+磯法	ci faq
+記弗起	ci feq chi
+幾分個	ci fen goq
+繫好東	ci hau ton
+饑荒	ci huaon
+幾十	ci zhyuq
+既然	ci zhoen
+幾根	ci ken
+幾幾乎	ci ci wu
+既經	ci cin
+幾句	ci ciu
+機器	ci chi
+季拉	ci laq
+繫勒	ci leq
+計論	ci len
+基利家	ci li cio
+基利家個	ci li cio goq
+幾兩	ci lian
+基列	ci liq
+基列亞巴	ci liq io po
+基路冰	ci lu pin
+基路冰個	ci lu pin goq
+繫來	ci le
+基蘭	ci laen
+計謀	ci meu
+基母利	ci meu li
+基納	ci neq
+基尼	ci gni
+基尼洗	ci gni si
+基業	ci gniq
+基業個	ci gniq goq
+幾年	ci gnien
+記認個	ci gnin goq
+記念	ci gniaen
+幾百塊	ci paq khuei
+機變百出	ci pien paq chyuq
+基悉	ci siq
+基薛	ci siq
+肌身	ci sin
+肌身個	ci sin goq
+肌身裏	ci sin li
+肌身上	ci sin zaon
+計數	ci su
+記數	ci su
+記得個	ci teq goq
+記得記	ci teq ci
+記得間	ci teq kaen
+記得牢	ci teq lau
+記得到	ci teq tau
+基帝	ci ti
+繫的	ci tiq
+基督	ci toq
+基督徒	ci toq du
+基督個	ci toq goq
+寄東	ci ton
+繫仔	ci tsy
+幾隻	ci tsaq
+幾糟	ci tsau
+幾尺	ci tshaq
+基都拉	ci tu laq
+基都拉個	ci tu laq goq
+幾套	ci thau
+幾萬	ci vaen
+機會	ci wei
+機會個	ci wei goq
+幾樣	ci yan
+幾時	ci zy
+基士個	ci zy goq
+基士	ci zy
+記號	ci ghau
+腳步	ciaq bu
+腳桶裏	ciaq don li
+腳梗	ciaq kuan
+腳裏	ciaq li
+腳裏個	ciaq li goq
+甲路	ciaq lu
+甲摩尼	ciaq mou gni
+甲尼	ciaq gni
+腳底	ciaq ti
+腳底下個	ciaq ti gho goq
+腳節末蹄	ciaq tsiq meq di
+腳沿	ciaq yen
+腳下	ciaq gho
+僵攏起	cian lon chi
+澆個	ciau goq
+澆澆	ciau ciau
+澆來	ciau le
+教門個	ciau men goq
+教門裏	ciau men li
+教外個	ciau nga goq
+教外	ciau nga
+教外人	ciau nga gnin
+驕傲	ciau ngau
+驕傲個	ciau ngau goq
+驕傲心	ciau ngau sin
+驕傲糊塗個	ciau ngau wu du goq
+驕傲糊塗	ciau ngau wu du
+繳身帶	ciau sin ta
+繳的個	ciau tiq goq
+繳的	ciau tiq
+教會個	ciau wei goq
+教會裏	ciau wei li
+教會裏個	ciau wei li goq
+教皇個	ciau waon goq
+教用	ciau yon
+潔白	ciq baq
+潔白個	ciq baq goq
+結佩	ciq bei
+結了黨	ciq deq taon
+激動	ciq don
+激動個	ciq don goq
+激動起	ciq don chi
+結陣	ciq dzin
+結仇	ciq dzieu
+急法	ciq faq
+結個	ciq goq
+結局	ciq jioq
+結實	ciq zhyuq
+結實仔	ciq zhyuq tsy
+結熟	ciq zhoq
+結果	ciq kou
+結結	ciq ciq
+潔潔	ciq ciq
+結結實實	ciq ciq zhyuq zhyuq
+潔潔淨淨	ciq ciq zin zin
+激起	ciq chi
+激起來	ciq chi le
+揭開	ciq khe
+結勒	ciq leq
+汲淪	ciq len
+吉利	ciq li
+結攏	ciq lon
+結攏了個	ciq lon liau goq
+結攏了	ciq lon liau
+今末個	ciq miq goq
+今末仔	ciq miq tsy
+劫難	ciq naen
+結煞	ciq saq
+結煞個	ciq saq goq
+擊散個	ciq saen goq
+擊散	ciq saen
+結算	ciq soen
+結的	ciq tiq
+結黨	ciq taon
+結黨個	ciq taon goq
+潔淨	ciq zin
+潔淨個	ciq zin goq
+潔淨仔	ciq zin tsy
+結怨	ciq ioen
+見頭	cien deu
+肩胛頭個	cien kaq deu goq
+堅革哩	cien keq li
+見過	cien kou
+堅固	cien ku
+堅固個	cien ku goq
+堅堅	cien cien
+見見	cien cien
+見究	cien cieu
+堅決個	cien ciuq goq
+堅決	cien ciuq
+建間個	cien kaen goq
+建間	cien kaen
+建立	cien liq
+建來	cien le
+見面	cien mien
+見面個	cien mien goq
+見疑	cien gni
+見識	cien siq
+堅心	cien sin
+堅信	cien sin
+見得	cien teq
+監督	cien toq
+見證	cien tsin
+建造	cien zau
+建造個	cien zau goq
+禁壓間	cin aq kaen
+金瓶	cin bin
+謹防	cin baon
+景緻	cin cyu
+金珠	cin cyu
+枕頭上	cin deu zaon
+境地	cin di
+敬重	cin jon
+禁住	cin jyu
+京城	cin dzin
+金壇	cin daen
+金壇個	cin daen goq
+禁弗住	cin feq jyu
+經弗起	cin feq chi
+金貨	cin hou
+驚𢞕	cin hoq
+驚駭	cin shie
+謹慎	cin zhyun
+鏡乾	cin kien
+金鈎	cin keu
+經過	cin kou
+經過個	cin kou goq
+經過了	cin kou leq
+鏡光	cin kuaon
+緊急	cin ciq
+緊緊	cin cin
+敬敬	cin cin
+警戒	cin cie
+經卷裏	cin cioen li
+金器	cin chi
+金圈	cin chioen
+金剛石	cin kaon zaq
+經歷過	cin liq kou
+經練	cin lien
+金鈴	cin lin
+經絡	cin loq
+經爐	cin lu
+金銀個	cin gnin goq
+金銀	cin gnin
+今難間	cin naen kaen
+今世個	cin si goq
+警醒	cin sin
+經手	cin sieu
+經手個	cin sieu goq
+金子個	cin tsy goq
+鏡子裏	cin tsy li
+金字	cin zy
+竟是介	cin zy ka
+今是介	cin zy ka
+禁食	cin ziq
+禁食個	cin ziq goq
+禁食其	cin ziq ji
+敬愛	cin e
+救主	cieu cyu
+救主個	cieu cyu goq
+救轉	cieu coen
+救轉來	cieu coen le
+救出	cieu chyuq
+救出個	cieu chyuq goq
+救道	cieu dau
+久了	cieu lei
+救恩	cieu en
+救法	cieu faq
+救弗來	cieu feq le
+救個	cieu goq
+九個頭	cieu goq dein
+九十九	cieu zhyuq cieu
+九十五	cieu zhyuq ng
+救贖	cieu zhoq
+救贖個	cieu zhoq goq
+救過	cieu kou
+究竟	cieu cin
+救救	cieu cieu
+九百	cieu paq
+救兵	cieu pin
+救世主個	cieu shyu cyu goq
+九歲了	cieu shyu lei
+救世個	cieu shyu goq
+救星	cieu sin
+九點	cieu tien
+九州	cieu tsieu
+救復	cieu voq
+救完	cieu wun
+救罪個	cieu zei goq
+救罪	cieu zei
+救上	cieu zaon
+誡命	cie min
+歸了	ciu lei
+居住	ciu jyu
+舉動	ciu don
+鬼個	ciu goq
+矩矩	ciu ciu
+貴貴	ciu ciu
+歸去了	ciu chi lei
+歸去個	ciu chi goq
+居里扭	ciu li gnieu
+歸來	ciu le
+居比路	ciu pi lu
+句打句	ciu tan ciu
+歸到	ciu tau
+歸到仔	ciu tau tsy
+舉薦	ciu tsien
+舉薦個	ciu tsien goq
+舉上	ciu zaon
+舉上去	ciu zaon chi
+決定	ciuq din
+決意	ciuq i
+噘噘	ciuq ciuq
+軍器	ciun chi
+君王	ciun waon
+君王個	ciun waon goq
+君王之	ciun waon tsy
+均勻	ciun yun
+均士淡丁	ciun zy daen tin
+捐攏	cioen lon
+捲攏	cioen lon
+捐項	cioen ghaon
+捐項個	cioen ghaon goq
+佳澳	cio au
+迦大其	cio da ji
+加大拉	cio da laq
+迦但	cio daen
+嘉慶	cio chin
+迦拉	cio laq
+加拉太	cio laq tha
+加拉太個	cio laq tha goq
+加勒葛	cio leq keq
+加勒葛搭	cio leq keq taq
+迦勒底	cio leq ti
+加利利個	cio li li goq
+加略	cio liaq
+加略個	cio liaq goq
+迦列	cio liq
+迦流	cio lieu
+迦米	cio mi
+迦瑪列	cio mo liq
+迦瑪列個	cio mo liq goq
+迦南	cio nein
+迦南個	cio nein goq
+迦南米	cio nein mi
+迦拿	cio no
+迦拿個	cio no goq
+迦百農	cio paq non
+迦百多家	cio paq tou cio
+加帕多家	cio pho tou cio
+迦薩	cio saq
+迦得	cio teq
+迦得個	cio teq goq
+迦鐵	cio thiq
+迦猶	cio yeu
+迦含	cio ghein
+起頭了	chi deu lei
+起頭個	chi deu goq
+棄掉	chi diau
+棄掉個	chi diau goq
+棄掉仔	chi diau tsy
+棄絕	chi jyuq
+欺待	chi de
+豈弗	chi feq
+去弗來個	chi feq le goq
+去弗得個	chi feq teq goq
+去弗得	chi feq teq
+豈弗是	chi feq zy
+起個	chi goq
+去其	chi ji
+氣其弗過	chi ji feq kou
+棄絕	chi jiq
+棄舊	chi jieu
+棄舊換新個	chi jieu wun sin goq
+棄舊換新	chi jieu wun sin
+起好	chi hau
+起火個	chi hou goq
+起火	chi hou
+氣呼呼	chi hu hu
+起血心	chi shiuq sin
+起因個	chi in goq
+起因	chi in
+起過	chi kou
+去過	chi kou
+蹊蹺個	chi chiau goq
+去看	chi khien
+起課個	chi khou goq
+起了兵	chi leq pin
+氣力	chi liq
+氣力個	chi liq goq
+起來	chi le
+氣味個	chi mi goq
+器皿	chi min
+器皿個	chi min goq
+企慕	chi mou
+去慕	chi mou
+企慕個	chi mou goq
+氣惱	chi nau
+氣傲	chi ngau
+豈難道	chi naen dau
+起屋個	chi oq goq
+起兵	chi pin
+欺騙	chi phien
+欺騙弗來個	chi phien feq le goq
+欺騙弗來	chi phien feq le
+欺騙個	chi phien goq
+去惜	chi siq
+起身	chi sin
+氣性	chi sin
+起首	chi sieu
+去仔	chi tsy
+起早	chi tsau
+起初	chi tshu
+去造	chi zau
+起造	chi zau
+去造上去	chi zau zaon chi
+棄邪	chi zia
+棄邪歸正	chi zia kuei tsin
+起上去	chi zaon chi
+起上去個	chi zaon chi goq
+恰好	chiaq hau
+卻勒	chiaq leq
+卻是	chiaq zy
+巧勒	chiau leq
+挈轉	chiq coen
+喫𢞕了	chiq hoq lei
+喫𢞕個	chiq hoq goq
+喫𢞕煞	chiq hoq saq
+喫險	chiq shien
+喫一驚	chiq iq cin
+乞乞	chiq chiq
+喫喫	chiq chiq
+喫力了	chiq liq lei
+牽轉來	chien coen le
+牽出	chien chyuq
+牽出來	chien chyuq le
+謙虛	chien shiu
+謙虛個	chien shiu goq
+欠高	chien kau
+謙恭個	chien kon goq
+謙恭	chien kon
+牽去	chien chi
+欠缺	chien chiuq
+牽勒來	chien leq le
+牽來	chien le
+牽磨個	chien mou goq
+欠少	chien siau
+欠到	chien tau
+欠早	chien tsau
+輕嘴薄舌	chin cyu boq ziq
+輕個	chin goq
+輕舉	chin ciu
+輕輕	chin chin
+輕看	chin khien
+輕可個	chin khou goq
+輕慢	chin maen
+輕慢個	chin maen goq
+輕點	chin tien
+輕言	chin yen
+驅逐	chiu joq
+去世了	chiu shyu lei
+去世個	chiu shyu goq
+缺處	chiuq chyu
+缺了	chiuq lei
+缺個	chiuq goq
+缺欠	chiuq chien
+缺勒點	chiuq leq tien
+缺裏個	chiuq li goq
+缺裏	chiuq li
+缺利利	chiuq li li
+缺少長短	chiuq siau dzian toen
+缺少個	chiuq siau goq
+屈打	chiuq tan
+缺點	chiuq tien
+缺乏	chiuq vaq
+缺分	chiuq ven
+闕份	chiuq ven
+屈害	chiuq ghe
+圈轉	chioen coen
+勸化	chioen huo
+勸化個	chioen huo goq
+勸過	chioen kou
+勸勸	chioen chioen
+圈圈	chioen chioen
+圈裏	chioen li
+勸勉個	chioen mien goq
+勸勉	chioen mien
+勸息	chioen siq
+勸釋	chioen siq
+勸醒	chioen sin
+勸心	chioen sin
+圈套	chioen thau
+圈套裏	chioen thau li
+勸慰	chioen uei
+喫掉	chioq diau
+喫剩個	chioq dzin goq
+喫剩	chioq dzin
+喫法	chioq faq
+喫弗住	chioq feq jyu
+喫弗來了	chioq feq le lei
+喫弗落個	chioq feq loq goq
+喫弗完	chioq feq wun
+喫好	chioq hau
+喫好仔	chioq hau tsy
+確實個	chioq zhyuq goq
+確實	chioq zhyuq
+喫過	chioq kou
+喫苦	chioq khu
+喫苦個	chioq khu goq
+喫喫	chioq chioq
+曲曲	chioq chioq
+喫勒	chioq leq
+喫沒了	chioq maq lei
+喫沒了	chioq meq lei
+喫奶個	chioq na goq
+喫奶	chioq na
+喫飽	chioq pau
+喫餅	chioq pin
+喫崩	chioq pon
+喫水個	chioq shyu goq
+喫到	chioq tau
+喫點	chioq tien
+喫仔	chioq tsy
+曲子	chioq tsy
+喫醉	chioq tsei
+喫醉個	chioq tsei goq
+喫醉的	chioq tsei tiq
+喫酒醉	chioq tsieu tsei
+喫酒醉個	chioq tsieu tsei goq
+喫足快	chioq tsoq khua
+喫草	chioq tshau
+喫飯	chioq vaen
+喫完	chioq wun
+喫用	chioq yon
+喫錢糧	chioq zien lian
+喫盡	chioq zin
+穹蒼	chion tshaon
+居主	ke cyu
+改掉	ke diau
+蓋住	ke jyu
+蓋好	ke hau
+改悔	ke huei
+改過	ke kou
+該管了	ke kun lei
+該管個	ke kun goq
+蓋間	ke kaen
+蓋勒	ke leq
+蓋勒牢	ke leq lau
+蓋落來	ke loq le
+該南	ke nein
+改變	ke pien
+該變	ke pien
+蓋布	ke pu
+該撒	ke saq
+該撒個	ke saq goq
+該撒利亞	ke saq li io
+該撒利亞個	ke saq li io goq
+蓋煞仔	ke saq tsy
+改樣	ke yan
+該像	ke zian
+蓋上	ke zaon
+改惡	ke oq
+改惡從善	ke oq dzon zhoen
+該亞法	ke io faq
+該亞法個	ke io faq goq
+間了	kaen lei
+間頭	kaen deu
+揀着	kaen joq
+揀着個	kaen joq goq
+揀擇	kaen dzeq
+揀擇個	kaen dzeq goq
+姦夫	kaen fu
+揀好仔	kaen hau tsy
+奸計	kaen ci
+奸計個	kaen ci goq
+監裏	kaen li
+監裏個	kaen li goq
+減落	kaen loq
+揀選	kaen shoen
+揀選出來	kaen shoen chyuq le
+揀選出來個	kaen shoen chyuq le goq
+揀選個	kaen shoen goq
+奸刁個	kaen tiau goq
+揀進	kaen tsin
+奸詐	kaen tso
+奸詐個	kaen tso goq
+姦婦	kaen vu
+姦淫	kaen yin
+姦淫個	kaen yin goq
+奸惡	kaen oq
+加倍個	ko bei goq
+假菩薩	ko bu saq
+家主	ko cyu
+嫁出	ko chyuq
+嫁出個	ko chyuq goq
+假充	ko chon
+加達摩斯	ko daq mou sy
+假道人	ko dau gnin
+加恩	ko en
+加弗起	ko feq chi
+假好	ko hau
+假好人	ko hau gnin
+假意	ko i
+假神	ko zhyun
+加勒	ko leq
+嫁撥	ko peq
+家譜	ko pu
+假心	ko sin
+家打家	ko tan ko
+加湊	ko tsheu
+加湊個	ko tsheu goq
+假話個	ko wo goq
+加上個	ko zaon goq
+加上去	ko zaon chi
+各處	koq chyu
+擱腳凳下	koq ciaq ten gho
+角角	koq koq
+各路	koq lu
+各路個	koq lu goq
+各到	koq tau
+各樣個	koq yan goq
+各樣如	koq yan zhyu
+講出	kaon chyuq
+講出來	kaon chyuq le
+講出來個	kaon chyuq le goq
+講了來	kaon deq le
+講着個	kaon joq goq
+講着	kaon joq
+講法	kaon faq
+講弗出	kaon feq chyuq
+講弗出個	kaon feq chyuq goq
+講弗盡	kaon feq dzin
+講弗盡個	kaon feq dzin goq
+槓個	kaon goq
+剛強	kaon jian
+剛強個	kaon jian goq
+剛強膽氣	kaon jian taen chi
+講好	kaon hau
+講好仔	kaon hau tsy
+講過	kaon kou
+講過個	kaon kou goq
+講過了	kaon kou liau
+講過了個	kaon kou liau goq
+講過了說話	kaon kou liau shyuq wo
+講經	kaon cin
+講究個	kaon cieu goq
+講起	kaon chi
+講去	kaon chi
+講起來	kaon chi le
+講假話	kaon ko wo
+講講	kaon kaon
+講開	kaon khe
+講勒	kaon leq
+講了相似	kaon leq sian zy
+江裏向	kaon li shian
+降落	kaon loq
+降落來	kaon loq le
+降落來個	kaon loq le goq
+講來	kaon le
+講來講去	kaon le kaon chi
+講撥	kaon peq
+江邊	kaon pien
+江水	kaon shyu
+講到	kaon tau
+講錯	kaon tshou
+講完	kaon wun
+講和	kaon ghou
+江河	kaon ghou
+江河個	kaon ghou goq
+揩掉	kha diau
+揩揩	kha kha
+揩燥	kha sau
+客客氣氣	khaq khaq chi chi
+客商	khaq shaon
+客套	khaq thau
+客房	khaq vaon
+揞個	khan goq
+揞起	khan chi
+揞勒	khan leq
+坑裏	khan li
+坑裏個	khan li goq
+揞落來	khan loq le
+揞煞	khan saq
+揞煞個	khan saq goq
+揞傷	khan saon
+坑子裏	khan tsy li
+靠着	khau joq
+敲斷	khau doen
+靠弗住	khau feq jyu
+靠弗實	khau feq zhyuq
+靠實	khau zhyuq
+考實	khau zhyuq
+靠實個	khau zhyuq goq
+靠實過個	khau zhyuq kou goq
+靠實過	khau zhyuq kou
+敲敲	khau khau
+敲開了	khau khe leq
+靠勒	khau leq
+考語	khau gniu
+靠百歲	khau paq shyu
+敲碎了	khau sei lei
+靠山	khau saen
+拷打	khau tan
+靠託	khau thoq
+刻薄	kheq boq
+刻薄個	kheq boq goq
+磕頭	kheq deu
+克治	kheq jyu
+刻毒	kheq doq
+刻印	kheq in
+刻印個	kheq in goq
+刻刻	kheq kheq
+刻來	kheq le
+刻玉	kheq gnioq
+客西馬尼	kheq si mo gni
+渴想	kheq sian
+磕倒	kheq tau
+刻忖個	kheq tshen goq
+刻字	kheq zy
+看出	khien chyuq
+看出來	khien chyuq le
+看重	khien jon
+看從	khien dzon
+看賺	khien dzaen
+看待	khien de
+看弗出	khien feq chyuq
+看弗出個	khien feq chyuq goq
+看弗過	khien feq kou
+看弗見	khien feq cien
+看弗見個	khien feq cien goq
+看過	khien kou
+看過個	khien kou goq
+看過仔	khien kou tsy
+看顧	khien ku
+看顧個	khien ku goq
+看慣了個	khien kuaen liau goq
+看慣了	khien kuaen liau
+看見	khien cien
+看見個	khien cien goq
+看見其	khien cien ji
+看見過	khien cien kou
+看見過個	khien cien kou goq
+看見了	khien cien leq
+看見仔	khien cien tsy
+看去	khien chi
+看起來	khien chi le
+看輕	khien chin
+看間	khien kaen
+看看	khien khien
+看看相	khien khien sian
+看勒	khien leq
+看勒出	khien leq chyuq
+看勒見	khien leq cien
+看勒見個	khien leq cien goq
+看來	khien le
+看守	khien sieu
+看得出	khien teq chyuq
+看東	khien ton
+看仔	khien tsy
+看羊	khien yan
+看羊個	khien yan goq
+肯個	khen goq
+懇求	khen jieu
+口才	kheu dze
+口音	kheu in
+口音個	kheu in goq
+口氣	kheu chi
+口渴	kheu kheq
+口渴個	kheu kheq goq
+口渴勒緊	kheu kheq leq cin
+口渴煞	kheu kheq saq
+口裏	kheu li
+口裏個	kheu li goq
+口糧	kheu lian
+口能	kheu nen
+口呆	kheu nge
+口業	kheu gniq
+口燥	kheu sau
+口唱	kheu tshaon
+可見	khou cien
+可拉	khou laq
+可拉個	khou laq goq
+可拉汛	khou laq sin
+可憐個	khou lien goq
+可憐相個	khou lien sian goq
+可比	khou pi
+可比像	khou pi zian
+可怕個	khou pho goq
+可怕	khou pho
+可惜	khou siq
+可惡個	khou u goq
+可以	khou yi
+可以個	khou yi goq
+可愛個	khou e goq
+可愛	khou e
+哭出來	khoq chyuq le
+擴充	khoq chon
+哭去	khoq chi
+哭起來	khoq chi le
+哭來	khoq le
+哭煞	khoq saq
+空中	khon con
+空頭個	khon deu goq
+空地	khon di
+空城	khon dzin
+空談	khon daen
+空過	khon kou
+空裏	khon li
+空磨	khon mou
+空屋	khon oq
+恐怕	khon pho
+空心	khon sin
+空心個	khon sin goq
+空手	khon sieu
+空手來	khon sieu le
+開闢	khe biq
+開闢個	khe biq goq
+開闢以來	khe biq yi le
+開出	khe chyuq
+開出去	khe chyuq chi
+開導	khe dau
+凱旋	khe joen
+開大了	khe dou leq
+開檯	khe de
+開恩	khe en
+開恩個	khe en goq
+開發個	khe faq goq
+開發	khe faq
+開好	khe hau
+開好間	khe hau kaen
+開花	khe huo
+開船	khe zhoen
+開國	khe koq
+開間個	khe kaen goq
+開墾個	khe khen goq
+開墾	khe khen
+開開	khe khe
+開開來	khe khe le
+開東	khe ton
+開仔	khe tsy
+開天闢地	khe thien phiq di
+開通	khe thon
+開懷	khe we
+檻頭	khaen deu
+侃侃而談	khaen khaen er daen
+嵌來	khaen le
+嵌鑲	khaen sian
+抲定	kho din
+抲定主意	kho din cyu i
+抲着	kho joq
+抲着個	kho joq goq
+抲住	kho jyu
+抲法	kho faq
+抲弗定	kho feq din
+抲弗着	kho feq joq
+抲其	kho ji
+抲勒	kho leq
+抲了去	kho leq chi
+抲來個	kho le goq
+抲魚個	kho ng goq
+囥弗住	khaon feq jyu
+康健	khaon jien
+康健個	khaon jien goq
+囥好仔	khaon hau tsy
+囥過	khaon kou
+囥間	khaon kaen
+囥勒	khaon leq
+囥了	khaon leq
+囥來	khaon le
+糠驗	khaon gniaen
+囥的	khaon tiq
+囥的個	khaon tiq goq
+囥東	khaon ton
+賴了	la lei
+喇嘛僧	la mo sen
+喇𠲎	la va
+蠟燭芯	laq coq sin
+攔轉	laq coen
+拉住了	laq jyu leq
+拉苟	laq keu
+拉戈尼亞	laq kou gni io
+拉結	laq ciq
+拉結個	laq ciq goq
+拉加	laq cio
+拉麥	laq maq
+拉瑪	laq mo
+拉瑪個	laq mo goq
+拉比個	laq pi goq
+拉波尼	laq pou gni
+拉班	laq paen
+拉班個	laq paen goq
+拉西亞	laq si io
+拉沙	laq so
+攔進	laq tsin
+喇合	laq gheq
+冷風	lan fon
+冷陰記	lan in ci
+冷冷	lan lan
+冷冷靜靜	lan lan zin zin
+冷落個	lan loq goq
+冷熱	lan gniq
+冷笑	lan siau
+冷靜個	lan zin goq
+勞步	lau bu
+老大個	lau da goq
+老成	lau dzin
+老成個	lau dzin goq
+老蛇	lau dzo
+老花	lau huo
+老鷹個	lau in goq
+老幼	lau ieu
+老實	lau zhyuq
+勞苦	lau khu
+勞苦個	lau khu goq
+牢監個	lau kaen goq
+牢監裏	lau kaen li
+牢監裏個	lau kaen li goq
+牢靠	lau khau
+勞勞	lau lau
+牢牢	lau lau
+老老了	lau lau lei
+牢牢靠靠	lau lau khau khau
+勞勞碌碌	lau lau loq loq
+老老少少	lau lau siau siau
+老例	lau li
+勞碌	lau loq
+勞碌個	lau loq goq
+勞碌過	lau loq kou
+老來個	lau le goq
+勞碌間	lau loq kaen
+牢門口	lau men kheu
+老年	lau gnien
+老𡢿個	lau gniun goq
+老本個	lau pen goq
+老本	lau pen
+老小	lau siau
+老少	lau siau
+老小個	lau siau goq
+勞心費力	lau sin fi liq
+勞心費力個	lau sin fi liq goq
+牢底	lau ti
+老底嘉	lau ti cio
+老底嘉個	lau ti cio goq
+雷電	lei dien
+屢常	lei jaon
+擂臺	lei de
+雷個	lei goq
+擂鼓	lei ku
+𨀤去	lei chi
+𨀤來	lei le
+屢年	lei gnien
+屢次	lei tshy
+屢次個	lei tshy goq
+勒拜	leq pe
+論千	len tshien
+論千論萬個	len tshien len vaen goq
+論千論萬	len tshien len vaen
+論萬	len vaen
+論萬個	len vaen goq
+漏出	leu chyuq
+漏洞	leu don
+濾出	li chyuq
+理取	li chyu
+理處	li chyu
+呂大	li da
+裏頭個	li deu goq
+離掉	li diau
+離掉個	li diau goq
+痢疾	li dziq
+利法	li faq
+哩非定	li fi din
+利哈	li ha
+裏向個	li shian goq
+裏衣	li i
+呂高尼	li kau gni
+呂高尼個	li kau gni goq
+利基翁	li ci on
+呂家個	li cio goq
+呂家	li cio
+離開	li khe
+離開了	li khe leq
+離開勒	li khe leq
+離開仔	li khe tsy
+麗麗	li li
+履歷	li liq
+理路	li lu
+里路	li lu
+禮貌	li maq
+禮貌	li mau
+裏外	li nga
+利奴	li nu
+禮拜堂裏	li pa daon li
+禮拜日個	li pa gniq goq
+禮拜日子	li pa gniq tsy
+利百地拿	li paq di no
+利百加	li paq cio
+利百加個	li paq cio goq
+呂彼亞	li pei io
+裏邊	li pien
+裏半邊	li pun pien
+利撒	li saq
+呂撒聶	li saq gniq
+犁梢	li sau
+離書	li shyu
+呂西亞	li si io
+利息	li siq
+利鮮	li sien
+理性	li sin
+離身	li sin
+呂底亞	li ti io
+呂底亞個	li ti io goq
+驢子	li tsy
+禮節	li tsiq
+利都是	li tu zy
+利烏米	li u mi
+利乏音	li vaq in
+禮物	li veq
+利未	li vi
+利未個	li vi goq
+理刑廳	li yin thin
+離遠	li yoen
+離遠個	li yoen goq
+利亞	li io
+利亞個	li io goq
+利河伯	li ghou paq
+厲害了	li ghe lei
+厲害個	li ghe goq
+厲害勒緊	li ghe leq cin
+略略	liaq liaq
+兩株	lian cyu
+兩條	lian diau
+涼亭	lian din
+涼亭裏	lian din li
+兩潮	lian dziau
+亮暗	lian ein
+量弗來個	lian feq le goq
+量弗來	lian feq le
+亮個	lian goq
+兩件	lian jien
+良善	lian zhoen
+兩覺	lian kau
+兩根	lian ken
+亮過	lian kou
+兩角裏	lian koq li
+兩管	lian kun
+亮光	lian kuaon
+亮光個	lian kuaon goq
+亮起	lian chi
+兩兩	lian lian
+量量	lian lian
+亮亮個	lian lian goq
+量量相	lian lian sian
+兩面	lian mien
+兩日個	lian gniq goq
+兩邊個	lian pien goq
+兩篇	lian phien
+良心裏	lian sin li
+良心上	lian sin zaon
+兩三	lian saen
+兩三個	lian saen goq
+兩三張	lian saen tsian
+兩三擔	lian saen taen
+兩遭	lian tsau
+量足	lian tsoq
+兩章	lian tsaon
+糧草	lian tshau
+亮塔	lian thaq
+亮塔個	lian thaq goq
+亮塔裏	lian thaq li
+亮塔裏個	lian thaq li goq
+兩伐	lian vaq
+良藥	lian yaq
+兩縣個	lian yoen goq
+兩縣	lian yoen
+糧食個	lian ziq goq
+兩座	lian zou
+兩號生	lian ghau san
+兩下	lian gho
+撩弗到	liau feq tau
+了個	liau goq
+蹽過	liau kou
+繚繳裏	liau ciau li
+繚繳裏個	liau ciau li goq
+了結	liau ciq
+鐐銬	liau khau
+撩勒着	liau leq joq
+料勒到	liau leq tau
+繚亂個	liau loen goq
+繚亂	liau loen
+撩得着	liau teq joq
+料作個	liau tsoq goq
+撩上來	liau zaon le
+立出來	liq chyuq le
+列隊	liq dei
+立定	liq din
+立定個	liq din goq
+立住	liq jyu
+歷朝個	liq dziau goq
+歷代個	liq de goq
+歷代	liq de
+律法	liq faq
+律法個	liq faq goq
+律法裏	liq faq li
+立約	liq iaq
+立約個	liq iaq goq
+立約過了個	liq iaq kou liau goq
+立約過了	liq iaq kou liau
+列國	liq koq
+列國個	liq koq goq
+立腳之	liq ciaq tsy
+力氣	liq chi
+立間	liq kaen
+立間個	liq kaen goq
+立刻	liq kheq
+裂開	liq khe
+立牢東	liq lau ton
+立勒住	liq leq jyu
+立勒牢	liq leq lau
+律例	liq li
+力量	liq lian
+力力	liq liq
+立立	liq liq
+立來	liq le
+立落	liq loq
+立落來	liq loq le
+立尼	liq gni
+立不里	liq peq li
+列邦	liq paon
+粒數	liq su
+立的個	liq tiq goq
+立東	liq ton
+立東個	liq ton goq
+立仔	liq tsy
+立帶起	liq taen chi
+列位	liq wei
+列王	liq waon
+煉出來	lien chyuq le
+廉恥	lien chyu
+鏈條個	lien diau goq
+連住	lien jyu
+臉番	lien faen
+練熟	lien zhoq
+連牽	lien chien
+連累	lien lei
+練練	lien lien
+戀戀不捨	lien lien peq she
+聯絡	lien loq
+連攏	lien lon
+連攏個	lien lon goq
+連攏了個	lien lon liau goq
+連攏了	lien lon liau
+連攏的	lien lon tiq
+連來	lien le
+連忙	lien maon
+連拼	lien phin
+連拼合柱個	lien phin keq jyu goq
+連拼合柱	lien phin keq jyu
+簾子	lien tsy
+簾子個	lien tsy goq
+連即	lien tsiq
+連只	lien tsiq
+連帶攏	lien taen lon
+連夜	lien ya
+臨終	lin con
+臨終個	lin con goq
+領轉	lin coen
+領着	lin joq
+臨着個	lin joq goq
+臨着過	lin joq kou
+靈個	lin goq
+零一	lin iq
+鄰居	lin ciu
+靈氣	lin chi
+領去	lin chi
+靈氣個	lin chi goq
+靈巧個	lin chiau goq
+靈勒緊	lin leq cin
+靈勒緊個	lin leq cin goq
+伶俐	lin li
+懍懍	lin lin
+懍懍動	lin lin don
+零零碎碎	lin lin sei sei
+領路	lin lu
+領路個	lin lu goq
+令郎	lin laon
+靈妙	lin miau
+靈妙個	lin miau goq
+臨滿	lin mun
+另外	lin nga
+臨死	lin si
+淋溼	lin siq
+零星	lin sin
+靈性折轉	lin sin coq coen
+靈性個	lin sin goq
+鄰舍個	lin so kou
+鄰舍家個	lin so ko goq
+領到	lin tau
+臨到	lin tau
+靈之	lin tsy
+領子	lin tsy
+領子個	lin tsy goq
+零七	lin tshiq
+靈活	lin weq
+靈活個	lin weq goq
+靈魂	lin wen
+靈魂個	lin wen goq
+領前	lin zien
+領受	lin zieu
+令愛	lin e
+流便	lieu bien
+流便個	lieu bien goq
+流轉	lieu coen
+流轉來	lieu coen le
+流出	lieu chyuq
+溜出	lieu chyuq
+留出	lieu chyuq
+流出個	lieu chyuq goq
+流出來	lieu chyuq le
+流出來個	lieu chyuq le goq
+留住	lieu jyu
+流血個	lieu shiuq goq
+流血	lieu shiuq
+流過來個	lieu kou le goq
+流過來	lieu kou le
+流開	lieu khe
+流落	lieu loq
+留落	lieu loq
+留落星	lieu loq sin
+留落東	lieu loq ton
+流落他鄉	lieu loq tha shian
+流瑪	lieu mo
+流珥	lieu er
+流珥個	lieu er goq
+留心	lieu sin
+留到	lieu tau
+流到	lieu tau
+留點	lieu tien
+留點落	lieu tien loq
+硫磺	lieu waon
+羅大	lou da
+羅實	lou zhyuq
+擄去間	lou chi kaen
+擄掠	lou liaq
+擄掠個	lou liaq goq
+擄掠去	lou liaq chi
+擄掠來個	lou liaq le goq
+擄掠來	lou liaq le
+擄掠仔	lou liaq tsy
+擄擄	lou lou
+擄擄落	lou lou loq
+羅馬	lou mo
+羅馬城	lou mo dzin
+羅馬個	lou mo goq
+羅馬國	lou mo koq
+羅馬教	lou mo ciau
+羅馬魯	lou mo lu
+羅馬人個	lou mo gnin goq
+羅馬書	lou mo shyu
+羅馬字	lou mo zy
+羅波安	lou pou ein
+羅得	lou teq
+羅得個	lou teq goq
+羅底	lou ti
+羅單	lou taen
+羅單個	lou taen goq
+羅以	lou yi
+綠㿮㿮	loq an an
+駱駝個	loq dou goq
+六幅	loq foq
+鹿個	loq goq
+六十九	loq zhyuq cieu
+六十六個	loq zhyuq loq goq
+六十五	loq zhyuq ng
+六十二	loq zhyuq gni
+六十萬	loq zhyuq vaen
+落個	loq kou
+六塊	loq khuei
+落監	loq kaen
+落監個	loq kaen goq
+六口	loq kheu
+六里	loq li
+碌碌	loq loq
+陸路裏	loq lu li
+落來	loq le
+六年	loq gnien
+綠玉	loq gnioq
+落難個	loq naen goq
+落難	loq naen
+六百	loq paq
+落山	loq saen
+落山個	loq saen goq
+六點鐘	loq tien con
+六隻	loq tsaq
+六章	loq tsaon
+六七個	loq tshiq goq
+落凡	loq vaen
+六慾	loq yoq
+聾𦗭個	lon ban goq
+弄出	lon chyuq
+弄出來	lon chyuq le
+弄掉頭	lon diau deu
+弄大	lon dou
+弄堂裏	lon daon li
+弄法	lon faq
+弄弗來個	lon feq le goq
+龍個	lon goq
+弄權	lon jioen
+攏去	lon chi
+弄勒	lon leq
+弄裏	lon li
+弄弄	lon lon
+攏攏	lon lon
+攏來	lon le
+弄煞個	lon saq goq
+弄到	lon tau
+攏總個	lon tson goq
+攏總走攏來	lon tson tseu lon le
+攏總怏煞	lon tson aon saq
+弄錯	lon tshou
+弄環	lon waen
+露出	lu chyuq
+露出來	lu chyuq le
+路頭	lu deu
+路程	lu dzin
+魯孚	lu fu
+魯孚個	lu fu goq
+路求	lu jieu
+蘆竿	lu kien
+蘆竿裏	lu kien li
+路徑	lu cin
+盧加	lu cio
+路口頭	lu kheu dein
+路里	lu li
+路邊沿	lu pien yen
+路斯	lu sy
+路得	lu teq
+路德	lu teq
+爐底	lu ti
+路丁	lu tin
+路梯之下	lu the tsy gho
+蘆薈	lu wei
+路士得	lu zy teq
+蘆柴縫裏	lu za von li
+路上	lu zaon
+路上個	lu zaon goq
+來弗	le feq
+來弗及了	le feq ji lei
+來其	le ji
+來意	le i
+來過	le kou
+來去個	le chi goq
+來間	le kaen
+來間個	le kaen goq
+來歷	le liq
+來來	le le
+來來去去個	le le chi chi goq
+來來去去	le le chi chi
+來來往往	le le uaon uaon
+來得	le teq
+來的個	le tiq goq
+來東了	le ton lei
+來東個	le ton goq
+來仔	le tsy
+來往	le uaon
+懶惰	laen dou
+懶惰個	laen dou goq
+藍陰陰	laen in in
+爛開去	laen khe chi
+籃裏	laen li
+襤褸	laen li
+籃裏個	laen li goq
+蘭塞	laen seq
+藍線	laen sien
+蘭塞	laen se
+藍帶	laen ta
+懶得	laen teq
+爛糊	laen wu
+爛糊個	laen wu goq
+落海	loq he
+落空	loq khon
+落空個	loq khon goq
+落落	loq loq
+落落來	loq loq le
+落得	loq teq
+落後	loq gheu
+𧻴趤	laon daon
+廊屋	laon oq
+廊屋裏	laon oq li
+亂出來	loen chyuq le
+亂進	loen tsin
+亂進個	loen tsin goq
+亂進來	loen tsin le
+亂做	loen tsou
+亂竄去	loen tshoen chi
+拉出個	lha chyuq goq
+𠞭出	lheu chyuq
+弄進	lhon tsin
+嘸阿爹	m aq tia
+嘸阿爹個	m aq tia goq
+嘸病	m bin
+嘸病個	m bin goq
+嘸憑據	m bin ciu
+嘸中用	m con yon
+嘸出路	m chyuq lu
+嘸處	m chyu
+嘸趣	m chyu
+嘸陶成了	m dau dzin lei
+嘸陶成個	m dau dzin goq
+嘸頭	m deu
+嘸頭緒	m deu zhyu
+嘸頭嘸緒	m deu m zhyu
+嘸定個	m din goq
+嘸定	m din
+嘸法	m faq
+嘸窮盡	m jion dzin
+嘸窮盡個	m jion dzin goq
+嘸要緊	m iau cin
+嘸影蹤個	m in tson goq
+嘸影蹤	m in tson
+嘸神氣	m zhyun chi
+嘸人性	m zhyun sin
+嘸緒	m zhyu
+嘸告個	m kau goq
+嘸酵水	m kau shyu
+嘸酵水個	m kau shyu goq
+嘸根頭	m ken deu
+嘸過	m kou
+嘸工夫	m kon fu
+嘸規	m kuei
+嘸關涉	m kuaen dziq
+嘸關礙	m kuaen nge
+嘸幾	m ci
+嘸幾個	m ci goq
+嘸幾個	m ci kou
+嘸幾日	m ci gniq
+嘸幾百年	m ci paq gnien
+嘸基督個	m ci toq goq
+嘸基督	m ci toq
+嘸幾時	m ci zy
+嘸救星	m cieu sin
+嘸矩	m ciu
+嘸氣力	m chi liq
+嘸起嘸倒	m chi m tau
+嘸喫用	m chioq yon
+嘸老𡢿	m lau gniun
+嘸理	m li
+嘸理性	m li sin
+嘸理性個	m li sin goq
+嘸律法	m liq faq
+嘸律法個	m liq faq goq
+嘸力個	m liq goq
+嘸力	m liq
+嘸力量	m liq lian
+嘸力量個	m liq lian goq
+嘸靈氣	m lin chi
+嘸毛病	m mau bin
+嘸毛病個	m mau bin goq
+嘸得了	m neq lei
+嘸得個	m neq goq
+嘸孃個	m gnian goq
+嘸孃	m gnian
+嘸人	m gnin
+嘸難	m naen
+嘸扳駁個	m paen poq goq
+嘸扳駁	m paen poq
+嘸瘢疤個	m paen po goq
+嘸瘢疤	m paen po
+嘸批評	m phi bin
+嘸批評個	m phi bin goq
+嘸偏曲心	m phien chioq sin
+嘸水個	m shyu goq
+嘸水	m shyu
+嘸想頭	m sian deu
+嘸想望	m sian vaon
+嘸信約	m sin iaq
+嘸信實	m sin zhyuq
+嘸信實個	m sin zhyuq goq
+嘸數個	m su goq
+嘸數目賬個	m su moq tsian goq
+嘸得個	m teq goq
+嘸底坑	m ti khan
+嘸底坑個	m ti khan goq
+嘸底坑裏	m ti khan li
+嘸爹	m tia
+嘸爹嘸孃	m tia m gnian
+嘸爹孃	m tia gnian
+嘸爹孃個	m tia gnian goq
+嘸點子	m tien tsy
+嘸多少	m tou siau
+嘸周割禮	m tsieu keq li
+嘸周割禮個	m tsieu keq li goq
+嘸做個	m tsou goq
+嘸千大萬	m tshien da vaen
+嘸采	m tshe
+嘸體面	m thi mien
+嘸體面個	m thi mien goq
+嘸天理	m thien li
+嘸痛	m thon
+嘸痛個	m thon goq
+嘸份	m ven
+嘸分	m ven
+嘸葉	m yiq
+嘸有	m yeu
+嘸雨個	m yu goq
+嘸雨	m yu
+嘸用	m yon
+嘸用個	m yon goq
+嘸瑕點	m yo tien
+嘸瑕點個	m yo tien goq
+嘸罪	m zei
+嘸罪個	m zei goq
+嘸學問個	m ghoq ven goq
+嘸學問	m ghoq ven
+賣主	ma cyu
+賣出	ma chyuq
+賣出個	ma chyuq goq
+賣掉	ma diau
+賣掉個	ma diau goq
+賣掉仔	ma diau tsy
+賣其掉	ma ji diau
+買好仔	ma hau tsy
+賣血個	ma shiuq goq
+賣血	ma shiuq
+買間	ma kaen
+買來	ma le
+買來個	ma le goq
+買賣	ma ma
+買賣個	ma ma goq
+賣撥	ma peq
+買撥	ma peq
+買點	ma tien
+買進	ma tsin
+買進個	ma tsin goq
+麥田裏	maq dien li
+麥粉	maq fen
+末個	maq goq
+麥個	maq goq
+麥基	maq ci
+麥基洗德	maq ci si teq
+麥基洗德個	maq ci si teq goq
+麥結	maq ciq
+麥裏	maq li
+麥比拉	maq pi laq
+麥比拉個	maq pi laq goq
+麥西	maq si
+麥鐵	maq thiq
+默示錄	maq zy loq
+沒上的	maq zaon tiq
+猛風	man fon
+猛火	man hou
+猛猛	man man
+猛猛個	man man goq
+猛暴	man pau
+猛心	man sin
+猛洋洋	man yan yan
+冒充	mau chon
+冒充個	mau chon goq
+冒險	mau shien
+毛毛	mau mau
+毛布	mau pu
+冒死	mau si
+冒寫	mau sia
+媢怨	mau ioen
+每常	mei jaon
+糜費掉	mei fi diau
+每幅	mei foq
+每封	mei fon
+𤈦其掉	mei ji diau
+𤈦起來	mei chi le
+美缺	mei chiuq
+每口	mei kheu
+每拉	mei laq
+美勒緊	mei leq cin
+黴爛	mei laen
+𤈦落	mei loq
+每每	mei mei
+美門	mei men
+美門口	mei men kheu
+美玉	mei gnioq
+𤈦煞了	mei saq lei
+每西亞	mei si io
+梅姐	mei tsia
+梅姐個	mei tsia goq
+黴污	mei u
+每份	mei ven
+每逢	mei von
+每夜	mei ya
+每樣	mei yan
+抹大拉個	meq da laq goq
+抹大拉	meq da laq
+末代	meq de
+末代個	meq de goq
+末個	meq goq
+末極	meq jiq
+抹利	meq li
+沒煞	meq saq
+沒煞個	meq saq goq
+末等	meq ten
+沒有	meq yeu
+默示	meq zy
+默示錄	meq zy loq
+沒上了	meq zaon lei
+問出來個	men chyuq le goq
+問出來	men chyuq le
+門頭	men deu
+門徒	men du
+門徒個	men du goq
+門個	men goq
+問起個	men chi goq
+問勒	men leq
+門外	men nga
+門外個	men nga goq
+門份	men ven
+門份個	men ven goq
+門上	men zaon
+門下	men gho
+母平	meu bin
+母個	meu goq
+母老	meu lau
+茂茂	meu meu
+茂茂盛盛	meu meu zin zin
+謀殺	meu saq
+謀皇	meu waon
+母示	meu zy
+茂盛個	meu zin goq
+謀害	meu ghe
+味道個	mi dau goq
+米甸	mi dien
+米甸個	mi dien goq
+迷住	mi jyu
+米但	mi daen
+米希大別	mi shi da biq
+米迦勒	mi cio leq
+米拉利	mi laq li
+米拉利個	mi laq li goq
+米利大	mi li da
+米利暗	mi li ein
+米利巴	mi li po
+米利都	mi li tu
+米利亞	mi li io
+眯攏去	mi lon chi
+迷路	mi lu
+迷路個	mi lu goq
+未來	mi le
+米蘭	mi laen
+尾巴裏	mi po li
+米撒	mi saq
+米色合個	mi seq gheq goq
+米色合	mi seq gheq
+米設	mi shyuq
+彌賽亞	mi se io
+米沙	mi so
+米沙利	mi so li
+米所波大米	mi so pou da mi
+未點	mi tien
+米太	mi tha
+米推利尼	mi thei li gni
+米替大底	mi thi da ti
+米戶雅利	mi wu yo li
+迷惑	mi ghoq
+迷惑個	mi ghoq goq
+廟頭	miau deu
+廟裏	miau li
+廟裏個	miau li goq
+廟門	miau men
+廟宇	miau yu
+廟宇裏	miau yu li
+藐視	miau zy
+密奪個	miq deq goq
+密奪	miq deq
+滅掉	miq diau
+蜜糖個	miq daon goq
+蜜蜂窠	miq fon khou
+密迦	miq cio
+密迦個	miq cio goq
+密挪	miq no
+蜜薩	miq saq
+密衫	miq saen
+蜜煎	miq tsien
+滅進	miq tsin
+滅亡	miq vaon
+滅亡個	miq vaon goq
+蜜是巴	miq zy po
+面皮	mien bi
+麪盤	mien bun
+免掉	mien diau
+免掉仔	mien diau tsy
+免弗過	mien feq kou
+麪粉個	mien fen goq
+免過	mien kou
+面孔個	mien khon goq
+勉勵	mien li
+面色	mien seq
+面子	mien tsy
+面前了	mien zien lei
+面前個	mien zien goq
+面上	mien zaon
+眠牀了	mien zaon lei
+眠牀裏	mien zaon li
+明白	min baq
+明白個	min baq goq
+名頭個	min deu goq
+明堂裏	min daon li
+明堂後	min daon gheu
+明亮	min lian
+明亮個	min lian goq
+明明	min min
+明瞞	min mun
+名聲	min sin
+名聲個	min sin goq
+名數	min su
+明帝	min ti
+明朝個	min tsiau goq
+明當當個	min taon taon goq
+名字	min zy
+名字個	min zy goq
+名號	min ghau
+名下	min gho
+名下個	min gho goq
+磨坊裏	mou faon li
+摩押	mou iaq
+摩押個	mou iaq goq
+魔鬼個	mou kuei goq
+磨勒	mou leq
+摩利	mou li
+魔利	mou li
+摩利個	mou li goq
+摩陸	mou loq
+摩陸菩薩	mou loq bu saq
+摩洛	mou loq
+摩納哥	mou neq kou
+磨難	mou naen
+摩西	mou si
+摩西個	mou si goq
+摩德拿	mou teq no
+磨上層	mou zaon zen
+摸着	moq joq
+摸個	moq goq
+摸過	moq kou
+摸來摸去	moq le moq chi
+摸摸	moq moq
+牧伯	moq paq
+牧師	moq sy
+牧師個	moq sy goq
+墨西哥	moq si kou
+木雕	moq tiau
+墨漆地暗個	moq tsheq di ein goq
+目睹	moq tu
+夢裏	mon li
+滿出	mun chyuq
+滿道	mun dau
+饅頭茶	mun deu dzo
+饅頭個	mun deu goq
+瞞弗住	mun feq jyu
+瞞弗過	mun feq kou
+滿間	mun kaen
+滿口	mun kheu
+滿滿	mun mun
+滿網	mun maon
+滿眼	mun ngaen
+滿心	mun sin
+滿身	mun sin
+滿山	mun saen
+瞞三	mun saen
+幔帳	mun tsian
+幔帳個	mun tsian goq
+滿足	mun tsoq
+滿足個	mun tsoq goq
+滿盈	mun yin
+買南	me nein
+慢法	maen faq
+幔利	maen li
+幔利個	maen li goq
+慢慢	maen maen
+慢慢個	maen maen goq
+慢點	maen tien
+晚上	maen zaon
+瑪大提亞	mo da di io
+馬大個	mo da goq
+瑪達他	mo daq tha
+瑪特列	mo deq liq
+馬提亞	mo di io
+瑪代	mo de
+馬伕	mo fu
+馬個	mo goq
+馬其頓	mo ji ten
+馬其頓個	mo ji ten goq
+瑪哈拉	mo ha laq
+瑪哈念	mo ha gniaen
+瑪押	mo iaq
+瑪實	mo zhyuq
+瑪葛	mo keq
+馬基頓	mo ci ten
+馬腳	mo ciaq
+馬繮繩	mo cian zin
+瑪吉	mo ciq
+瑪迦	mo cio
+瑪各	mo koq
+馬可	mo khou
+瑪拉	mo laq
+瑪拉個	mo laq goq
+馬勒古	mo leq ku
+瑪勒列	mo leq liq
+馬利涅	mo li gniaq
+馬利亞	mo li io
+馬利亞個	mo li io goq
+馬略	mo liaq
+馬略個	mo liaq goq
+馬籠頭	mo lon deu
+瑪瑙	mo nau
+馬念	mo gniaen
+嗎嗱	mo no
+瑪拿西個	mo no si goq
+瑪拿轄	mo no gheq
+馬兵	mo pin
+馬兵個	mo pin goq
+麻布	mo pu
+麻布個	mo pu goq
+麻絲	mo sy
+瑪撒	mo saq
+馬鐙	mo ten
+馬担	mo taen
+馬太	mo tha
+馬太傳	mo tha joen
+瑪塔	mo thaq
+瑪土撒拉	mo thu saq laq
+瑪土撒利	mo thu saq li
+馬太傳	mo the joen
+麻惶	mo waon
+瑪士利加	mo zy li cio
+馬槽裏	mo zau li
+馬嚼刺	mo ziaq tshy
+馬上	mo zaon
+夢個	maon goq
+網個	maon goq
+望過去	maon kou chi
+忘記個	maon ci goq
+忙勒緊	maon leq cin
+夢裏	maon li
+夢立來	maon liq le
+忙忙	maon maon
+茫無頭緒	maon vu deu zhyu
+嘸得個	mh teq goq
+嘸底坑裏	mh ti khan li
+蠻省力個	mhaen san liq goq
+蠻省力	mhaen san liq
+奶個	na goq
+奶花個	na hun goq
+奶裏	na li
+爛泥個	na gni goq
+那不勒斯	na peq leq sy
+哪怕	na pho
+踔掉	nau diau
+踔來踔去	nau le nau chi
+鬧鬧熱熱	nau nau gniq gniq
+鬧熱彭生	nau gniq ban san
+鬧熱個	nau gniq goq
+踔糊	nau wu
+鬧事	nau zy
+納大利	neq da li
+納大利個	neq da li goq
+納土	neq thu
+南地	nein di
+南風	nein fon
+男風	nein fon
+男個	nein goq
+男男	nein nein
+男男女女	nein nein gniu gniu
+男人個	nein gnin goq
+男女	nein gniu
+男女個	nein gniu goq
+男𡢿個	nein gniun goq
+南邊	nein pien
+南邊個	nein pien goq
+男娃	nein uaen
+嫩個	nen goq
+能幹個	nen kien goq
+能夠	nen keu
+能夠辨別	nen keu bien piq
+能夠個	nen keu goq
+能夠走進	nen keu tseu tsin
+嫩起來	nen chi le
+爾道	ng dau
+爾了	ng lei
+五頭	ng deu
+五條	ng diau
+五臟六腑	ng dzaon loq fu
+五幅	ng foq
+魚個	ng goq
+五十個	ng zhyuq goq
+五十簍	ng zhyuq leu
+五根	ng ken
+爾過	ng kou
+五個月	ng kou yuq
+五股	ng ku
+五塊	ng khuei
+爾拉	ng laq
+爾拉個	ng laq goq
+爾拉德氣	ng laq teq chi
+五六十萬	ng loq zhyuq vaen
+爾我	ng ngo
+爾我個	ng ngo goq
+五年	ng gnien
+兒囡了	ng no lei
+兒囡個	ng no goq
+五百	ng paq
+五百多	ng paq tou
+五牲	ng san
+耳朵裏個	ng tou li goq
+兒子了	ng tsy lei
+兒子個	ng tsy goq
+五隻	ng tsaq
+五遭	ng tsau
+五千兩	ng tshien lian
+五套	ng thau
+爾自	ng zi
+爾自個	ng zi goq
+爾候我弗齊	ng gheu ngo feq zi
+外頭個	nga deu goq
+外堂裏	nga daon li
+外鄉	nga shian
+外國	nga koq
+外國人個	nga koq gnin goq
+外國王	nga koq waon
+外光面	nga kuaon mien
+外教人	nga ciau gnin
+外貌	nga mau
+外面	nga mien
+外面個	nga mien goq
+捱捱	nga nga
+捱捱棲棲	nga nga tshi tshi
+外撥	nga peq
+外邊	nga pien
+外套	nga thau
+扤過仔	ngaq kou tsy
+額角	ngaq koq
+額角上	ngaq koq zaon
+額角裏	ngaq koq li
+額外	ngaq nga
+扤扤	ngaq ngaq
+額子	ngaq tsy
+硬要	ngan iau
+硬抲	ngan kho
+硬留	ngan lieu
+硬弄	ngan lon
+硬心	ngan sin
+咬着	ngau joq
+咬勒牙齒	ngau leq ngo tshy
+咬來咬去	ngau le ngau chi
+咬煞了	ngau saq lei
+咬碎	ngau sei
+咬傷	ngau saon
+咬傷個	ngau saon goq
+岸上	ngein zaon
+牛個	ngeu goq
+牛圈裏	ngeu jien li
+偶然	ngeu zhoen
+牛奶	ngeu na
+牛膝	ngeu siq
+牛膝草	ngeu siq tshau
+牛羊	ngeu yan
+偶像	ngeu zian
+偶像個	ngeu zian goq
+訛頭	ngou deu
+俄羅斯	ngou lou sy
+蛾摩拉個	ngou mou laq goq
+危險	nguei shien
+危險個	nguei shien goq
+互相	ngu sian
+悟到	ngu tau
+呆大大	nge dou dou
+捱打	nge tan
+捱凍	nge ton
+銜頭	ngaen deu
+眼見個	ngaen cien goq
+眼見	ngaen cien
+眼裏	ngaen li
+眼淚出了	ngaen li chyuq lei
+眼睛個	ngaen tsin goq
+眼睛裏	ngaen tsin li
+眼睛裏個	ngaen tsin li goq
+眼藥	ngaen yaq
+眼前	ngaen zien
+眼前花	ngaen zien huo
+我中央	ngo con gnian
+芽頭	ngo dein
+瓦貨	ngo hou
+衙門裏	ngo men li
+我心裏	ngo sin li
+我等	ngo ten
+砑礁	ngo tsiau
+衙役	ngo yoq
+我榮華	ngo yon wo
+我自	ngo zi
+我自個	ngo zi goq
+懦弱	nou ziaq
+懦弱個	nou ziaq goq
+農夫個	non fu goq
+農夫	non fu
+奴僕	nu boq
+奴僕個	nu boq goq
+努馬	nu mo
+怒心	nu sin
+尼徘約個	gni be iaq goq
+尼徘約	gni be iaq
+尼徘藥	gni be yaq
+尼徘藥個	gni be yaq goq
+泥豬個	gni cyu goq
+泥潭	gni dein
+二鈿	gni dien
+疑定	gni din
+泥塗頂	gni du ten
+尼弗	gni feq
+二分	gni fen
+二個	gni goq
+泥好	gni hau
+尼哥拉	gni kou laq
+尼哥波立	gni kou pou liq
+尼哥底母	gni kou ti meu
+尼結	gni ciq
+尼迦挪	gni cio no
+議論	gni len
+議論紛紛	gni len fen fen
+議論起來	gni len chi le
+尼利	gni li
+尼利亞	gni li io
+尼羅	gni lou
+尼尼微	gni gni vi
+泥浴裏	gni gnioq li
+尼西	gni si
+泥塑	gni su
+泥塑木雕	gni su moq tiau
+泥塑木雕個	gni su moq tiau goq
+二三百	gni saen paq
+二三萬	gni saen vaen
+二千	gni tshien
+二萬	gni vaen
+二萬萬	gni vaen vaen
+泥糊漿	gni wu tsian
+議事部裏	gni zy bu li
+議事部裏個	gni zy bu li goq
+尼亞波利	gni io pou li
+疑惑	gni ghoq
+疑惑個	gni ghoq goq
+疑惑不決	gni ghoq peq ciuq
+疑惑之	gni ghoq tsy
+捏定	gniaq din
+捏定個	gniaq din goq
+瘧疾	gniaq dziq
+捏弗實個	gniaq feq zhyuq goq
+捏弗實	gniaq feq zhyuq
+捏個	gniaq goq
+捏實	gniaq zhyuq
+捏勒牢	gniaq leq lau
+捏手個	gniaq sieu goq
+捏手	gniaq sieu
+捏造	gniaq zau
+捏造個	gniaq zau goq
+讓出	gnian chyuq
+娘子頭	gnian tsy dein
+娘子個	gnian tsy goq
+孃胎	gnian the
+仰望個	gnian vaon goq
+讓位	gnian wei
+繞轉	gniau coen
+饒掉	gniau diau
+饒放	gniau faon
+饒饒	gniau gniau
+饒赦	gniau so
+饒赦個	gniau so goq
+業主	gniq cyu
+熱了	gniq lei
+日了	gniq lei
+日頭個	gniq deu goq
+日頭裏	gniq deu li
+日個	gniq goq
+熱個	gniq goq
+日過日	gniq kou gniq
+日久之長	gniq cieu tsy dzian
+日裏個	gniq li goq
+熱熱個	gniq gniq goq
+熱熱	gniq gniq
+熱熱心心	gniq gniq sin sin
+熱心	gniq sin
+熱心個	gniq sin goq
+日子個	gniq tsy goq
+日夜	gniq ya
+年終	gnien con
+年了	gnien lei
+年成個	gnien dzin goq
+年代	gnien de
+嚴個	gnien goq
+染血個	gnien shiuq goq
+染血	gnien shiuq
+儼然	gnien zhoen
+年庚個	gnien kan goq
+碾穀個	gnien koq goq
+碾穀	gnien koq
+嚴禁	gnien cin
+嚴緊	gnien cin
+染勒	gnien leq
+嚴厲	gnien li
+碾來	gnien le
+嚴嚴	gnien gnien
+年多星	gnien tou sin
+扭帶轉	gnien taen coen
+染紅	gnien ghon
+染紅個	gnien ghon goq
+認着	gnin joq
+迎着	gnin joq
+認着個	gnin joq goq
+人陣	gnin dzin
+寧法	gnin faq
+銀個	gnin goq
+人個兒子	gnin goq ng tsy
+人過	gnin kou
+銀庫裏	gnin khu li
+人家個	gnin ko goq
+認勒出	gnin leq chyuq
+寧錄	gnin loq
+認攏	gnin lon
+凝攏了	gnin lon liau
+銀包	gnin pau
+銀師父	gnin sy vu
+人勢	gnin shyu
+人聲	gnin sin
+認得個	gnin teq goq
+人之	gnin tsy
+銀子個	gnin tsy goq
+迎接	gnin tsiq
+人只會	gnin tsiq wei
+迎進	gnin tsin
+鄞縣	gnin yoen
+鈕釦	gnieu kheu
+唸頭	gniaen deu
+唸頭盤	gniaen deu bun
+廿個	gniaen goq
+廿仞	gniaen zhyun
+廿根	gniaen ken
+廿塊	gniaen khuei
+廿兩	gniaen lian
+廿六個	gniaen loq goq
+廿年	gniaen gnien
+廿把	gniaen po
+廿四個	gniaen sy goq
+廿只	gniaen tsaq
+愚笨	gniu ben
+愚笨個	gniu ben goq
+愚蠢	gniu chyun
+愚蠢個	gniu chyun goq
+女個	gniu goq
+女客	gniu khaq
+女人隊	gniu gnin dei
+女人個	gniu gnin goq
+女女	gniu gniu
+女𡢿	gniu gniun
+女色	gniu seq
+女皇	gniu waon
+女王	gniu waon
+源頭	gnioen deu
+願頭	gnioen deu
+願個	gnioen goq
+軟局	gnioen jioq
+原諒	gnioen lian
+軟軟	gnioen gnioen
+芫荽子	gnioen sei tsy
+願心	gnioen sin
+願心個	gnioen sin goq
+元帥	gnioen se
+原是	gnioen zy
+軟弱	gnioen ziaq
+軟弱個	gnioen ziaq goq
+𢫭粉個	gnioq fen goq
+𢫭粉	gnioq fen
+玉個	gnioq goq
+肉個	gnioq goq
+𢫭好了	gnioq hau liau
+𢫭好了個	gnioq hau liau goq
+肉鉤	gnioq keu
+肉桂	gnioq kuei
+玉裏	gnioq li
+肉碑牌	gnioq pei ba
+肉身	gnioq sin
+肉身個	gnioq sin goq
+肉身裏	gnioq sin li
+肉身裏個	gnioq sin li goq
+肉身上	gnioq sin zaon
+肉叉	gnioq tsho
+𢫭帶好	gnioq taen hau
+肉碗	gnioq un
+玉石個	gnioq zaq goq
+濃雲	gnion yun
+乃幔	ne maen
+耐心	ne sin
+難處	naen chyu
+難道	naen dau
+難頭	naen deu
+難頭個	naen deu goq
+難法	naen faq
+難個	naen goq
+難過起來	naen kou chi le
+難過間	naen kou kaen
+難勒緊	naen leq cin
+難民	naen min
+難保	naen pau
+難生個	naen san goq
+難生	naen san
+難得	naen teq
+難得個	naen teq goq
+難挑個	naen thiau goq
+難挑	naen thiau
+難以	naen yi
+難事	naen zy
+拿達	no daq
+拿但業	no daen gniq
+拿非實	no fi zhyuq
+拿其數	no ji su
+拿因	no in
+拿順	no zhyun
+拿順個	no zhyun goq
+拿該	no ke
+拿瑪	no mo
+拿鶴	no ngoq
+拿鶴個	no ngoq goq
+拿翁	no on
+拿撒勒個	no saq leq goq
+拿孫	no sen
+拿答	no taq
+拿搭	no taq
+挪得	no teq
+拿單	no taen
+挪亞	no io
+挪亞個	no io goq
+拿轄	no gheq
+囡個	noen goq
+暖暖	noen noen
+倭非	ou fi
+捼勒	ou leq
+阿林巴	ou lin po
+阿抹	ou meq
+阿米加	ou mi cio
+阿南	ou nein
+阿尼色弗	ou gni seq feq
+阿尼西母	ou gni si meu
+倭柏	ou paq
+阿轄	ou gheq
+屋大維	oq da vi
+屋大就	oq da zieu
+屋個	oq goq
+屋角落頭	oq koq loq dein
+屋裏頭	oq li deu
+屋裏邊	oq li pien
+屋落個	oq lo goq
+屋腦尖	oq nau tsien
+屋瓦頂	oq ngo ten
+屋貰鈿	oq shyu dien
+屋宇	oq yu
+惡像	oq zian
+拜別	pa biq
+拜菩薩個	pa bu saq goq
+拜菩薩	pa bu saq
+擺出	pa chyuq
+擺出東	pa chyuq ton
+拜個	pa goq
+擺好	pa hau
+擺過去	pa kou chi
+擺過來個	pa kou le goq
+擺過來	pa kou le
+擺起來	pa chi le
+擺間	pa kaen
+擺間個	pa kaen goq
+擺開	pa khe
+擺開的	pa khe tiq
+擺勒	pa leq
+擺來	pa le
+拜拜	pa pa
+擺拼	pa phin
+擺設好了	pa shyuq hau liau
+拜倒	pa tau
+擺東	pa ton
+擺帶開	pa taen khe
+擺帶攏	pa taen lon
+拜服	pa voq
+擺藥	pa yaq
+百病	paq bin
+伯大尼	paq da gni
+伯大巴喇	paq da po laq
+伯特利	paq deq li
+伯特利個	paq deq li goq
+伯法基	paq faq ci
+八十六	paq zhyuq loq
+八十二	paq zhyuq gni
+八十三	paq zhyuq saen
+八十七	paq zhyuq tshiq
+八十石	paq zhyuq zaq
+百穀	paq koq
+百官	paq kun
+八塊	paq khuei
+百基拉	paq ci laq
+八眷	paq cioen
+伯拉	paq laq
+伯拉士都	paq laq zy tu
+伯利恆	paq li ghen
+伯羅哥羅	paq lou kou lou
+八羅巴	paq lou po
+伯魯	paq lu
+百木粉碎	paq moq fen sei
+百尼基	paq gni ci
+八日個	paq gniq goq
+八百	paq paq
+百姓	paq sin
+百姓個	paq sin goq
+百姓拉	paq sin laq
+伯賽大	paq se da
+八點	paq tien
+百總	paq tson
+百總個	paq tson goq
+百作	paq tsoq
+百體	paq thi
+百萬	paq vaen
+百樣	paq yan
+百樣個	paq yan goq
+百合	paq gheq
+綳碎	pan sei
+包出	pau chyuq
+爆出來	pau chyuq le
+爆出來個	pau chyuq le goq
+保全	pau joen
+保全許多	pau joen shiu tou
+報盡	pau dzin
+報仇	pau dzieu
+報恩	pau en
+報弗盡	pau feq dzin
+報弗還個	pau feq waen goq
+報弗還	pau feq waen
+報其個	pau ji goq
+報其	pau ji
+包好	pau hau
+寶血	pau shiuq
+報應	pau in
+包括進	pau kuaq tsin
+包括進	pau kueq tsin
+寶劍	pau cien
+包金	pau cin
+包金個	pau cin goq
+爆開	pau khe
+爆開來個	pau khe le goq
+爆開來	pau khe le
+保牢	pau lau
+包勒	pau leq
+報勒盡	pau leq dzin
+保勒牢	pau leq lau
+保羅	pau lou
+保羅個	pau lou goq
+包來	pau le
+寶藍	pau laen
+飽飽	pau pau
+保保	pau pau
+寶貝	pau pei
+寶貝個	pau pei goq
+保守	pau sieu
+保守個	pau sieu goq
+保守仔	pau sieu tsy
+報答	pau teq
+包的	pau tiq
+寶物	pau veq
+包袱	pau voq
+保惠師	pau wei sy
+保護	pau wu
+保護個	pau wu goq
+報還	pau waen
+保養	pau yan
+保佑	pau yeu
+寶石	pau zaq
+報冤	pau ioen
+寶行	pau ghaon
+碑牌	pei ba
+碑牌裏	pei ba li
+碑牌裏個	pei ba li goq
+碑牌上	pei ba zaon
+揹弗動個	pei feq don goq
+揹個	pei goq
+卑躬屈節	pei kon chiuq tsiq
+揹勒	pei leq
+背勒	pei leq
+揹勒動個	pei leq don goq
+揹勒動	pei leq don
+碑裏	pei li
+彼列	pei liq
+揹落	pei loq
+悲傷	pei shaon
+悲傷個	pei shaon goq
+悲傷起來	pei shaon chi le
+彼西底	pei si ti
+彼西底個	pei si ti goq
+彼息	pei siq
+悲傷	pei saon
+彼得堂	pei teq daon
+彼得個	pei teq goq
+杯子	pei tsy
+揹仔	pei tsy
+杯子裏	pei tsy li
+彼此	pei tshy
+悲慼勒緊個	pei tshiq leq cin goq
+悲慼勒緊	pei tshiq leq cin
+彼土利	pei thu li
+彼土利個	pei thu li goq
+卑賤	pei zien
+卑賤個	pei zien goq
+背後個	pei gheu goq
+不常	peq jaon
+不同個	peq don goq
+不同	peq don
+不在	peq dze
+不法	peq faq
+不妨	peq faon
+不懼	peq jiu
+不孝	peq shiau
+不一	peq iq
+不憂	peq ieu
+不忍相	peq zhyun sian
+不過	peq kou
+不決個	peq ciuq goq
+不決	peq ciuq
+不加	peq ko
+不堪	peq khaen
+不堪個	peq khaen goq
+不老	peq lau
+不魯多	peq lu tou
+不明	peq min
+不能	peq nen
+不必	peq piq
+不變	peq pien
+不信	peq sin
+不蒂捺士	peq ti naq zy
+不義	peq yi
+奔轉	pen coen
+奔出	pen chyuq
+奔出去	pen chyuq chi
+本地	pen di
+本城	pen dzin
+奔法	pen faq
+奔競	pen jin
+本鄉	pen shian
+本意	pen i
+本國	pen koq
+本國人個	pen koq gnin goq
+奔起	pen chi
+奔去	pen chi
+奔勒	pen leq
+奔勒去	pen leq chi
+奔攏	pen lon
+奔攏去	pen lon chi
+奔攏來	pen lon le
+本來	pen le
+本來個	pen le goq
+奔落	pen loq
+奔波	pen pou
+本性	pen sin
+本數	pen su
+奔到	pen tau
+本底子	pen ti tsy
+本丟	pen tieu
+奔進	pen tsin
+奔進去	pen tsin chi
+本都	pen tu
+本土	pen thu
+本份	pen ven
+本城	pen zin
+奔上	pen zaon
+奔上去	pen zaon chi
+奔上前	pen zaon zien
+本於	pen iu
+比衆	pi con
+比衆不同	pi con peq don
+閉住	pi jyu
+比弗來	pi feq le
+比弗來個	pi feq le goq
+比弗得	pi feq teq
+比方	pi faon
+比方個	pi faon goq
+比哈希錄	pi ha shi loq
+比如	pi zhyu
+比較	pi ciau
+比結	pi ciq
+比加	pi cio
+比起來	pi chi le
+閉口	pi kheu
+比拉	pi laq
+比勒	pi leq
+比利洗	pi li si
+庇哩亞	pi li io
+比利亞	pi li io
+庇哩亞個	pi li io goq
+比利亞個	pi li io goq
+比列	pi liq
+閉攏	pi lon
+閉攏仔	pi lon tsy
+比來	pi le
+祕密	pi miq
+秘密	pi miq
+比嫩	pi nen
+比珥個	pi er goq
+比珥	pi er
+比撒列	pi saq liq
+比遜	pi sen
+比沙	pi so
+比東	pi ton
+比撻個	pi thaq goq
+比撻	pi thaq
+庇推尼	pi thei gni
+比武	pi vu
+比武個	pi vu goq
+比喻	pi yu
+滮出	piau chyuq
+表出來	piau chyuq le
+標頭	piau deu
+表明	piau min
+婊子個	piau tsy goq
+表揚	piau yan
+逼出來	piq chyuq le
+必達	piq daq
+必定	piq din
+辟罕	piq hein
+必要	piq iau
+必然	piq zhoen
+必巧勒	piq chiau leq
+辟拉	piq laq
+辟拉個	piq laq goq
+𤎨勒	piq leq
+壁裏	piq li
+碧綠個	piq loq goq
+逼攏來	piq lon le
+碧玉	piq gnioq
+逼難個	piq naen goq
+必賽大	piq se da
+筆跡	piq tsiq
+畢土大	piq thu da
+必有	piq yeu
+壁淨清	piq zin tshin
+逼害	piq ghe
+編出	pien chyuq
+變出	pien chyuq
+編出個	pien chyuq goq
+遍地	pien di
+遍地個	pien di goq
+變掉	pien diau
+變動	pien don
+變弗來	pien feq le
+變化	pien huo
+變化弗來個	pien huo feq le goq
+變化弗來	pien huo feq le
+變化個	pien huo goq
+變勒	pien leq
+扁餅	pien pin
+變色	pien seq
+鞭子	pien tsy
+邊走	pien tseu
+變做	pien tsou
+遍天	pien thien
+遍天下	pien thien gho
+遍天下個	pien thien gho goq
+變換	pien wun
+變壞了	pien we lei
+變環	pien waen
+變移	pien yi
+邊沿個	pien yen goq
+兵隊	pin dei
+兵法	pin faq
+餅個	pin goq
+併攏	pin lon
+兵馬	pin mo
+兵將	pin tsian
+併吞	pin then
+波提非拉個	pou di fi laq goq
+波提非拉	pou di fi laq
+波提乏	pou di veq
+波求	pou jieu
+玻璃	pou li
+簸攏	pou lon
+波浪	pou laon
+波斯	pou sy
+波斯個	pou sy goq
+波士	pou zy
+剝皮個	poq bi goq
+剝皮	poq bi
+北頭	poq deu
+剝掉	poq diau
+博老	poq lau
+剝勒去	poq leq chi
+北邊	poq pien
+北邊個	poq pien goq
+北首	poq sieu
+駁倒	poq tau
+崩開	pon khe
+布田	pu dien
+補好	pu hau
+補補湊	pu pu tsheu
+布斯	pu sy
+補的	pu tiq
+補的個	pu tiq goq
+補足	pu tsoq
+補足個	pu tsoq goq
+搬嘴	pun cyu
+半途而廢	pun du er fi
+半幅	pun foq
+半橛裏	pun jiuq li
+搬過	pun kou
+搬過去	pun kou chi
+半句	pun ciu
+半空	pun khon
+半路裏	pun lu li
+半路上	pun lu zaon
+搬來搬去個	pun le pun chi goq
+搬來搬去	pun le pun chi
+半尼其	pun gni ji
+半年	pun gnien
+半邊	pun pien
+半半十日	pun pun zhyuq gniq
+半死半活	pun si pun weq
+搬到	pun tau
+搬鬥是非	pun teu zy fi
+半點鐘	pun tien con
+半多	pun tou
+搬進	pun tsin
+半天裏	pun thien li
+頒落來	paen loq le
+𢲔馬索	paen mo soq
+扳駁個	paen poq goq
+瘢疤個	paen po goq
+板數	paen su
+𢲔跌個	paen tiq goq
+板子	paen tsy
+班次	paen tshy
+班房裏	paen vaon li
+巴別	po biq
+巴掌	po caon
+巴弗能	po feq nen
+巴約拿	po iaq no
+巴實抹	po zhyuq meq
+巴實抹個	po zhyuq meq goq
+巴拉迦	po laq cio
+巴拉巴	po laq po
+巴勒	po leq
+巴勒哈南	po leq ha nein
+巴力洗分	po liq si fen
+巴力洗分個	po liq si fen goq
+巴蘭	po laen
+巴蘭個	po laen goq
+巴米拿	po mi no
+巴拿巴	po no po
+巴拿巴個	po no po goq
+把握	po oq
+巴巴結結	po po ciq ciq
+巴爾馬	po er mo
+巴撒巴	po saq po
+把勢	po shyu
+把守	po sieu
+把守個	po sieu goq
+把帥	po se
+把打把	po tan po
+巴得那	po teq na
+巴底買	po ti me
+巴多羅買	po tou lou me
+把賬	po tsian
+把賬個	po tsian goq
+芭蕉	po tsiau
+霸佔	po tsien
+巴坦	po thaen
+巴坦亞蘭	po thaen io laen
+巴耶穌	po ye su
+巴是抹	po zy meq
+謗瀆	paon doq
+幫助	paon dzu
+謗毀	paon huei
+謗毀個	paon huei goq
+幫幫	paon paon
+幫手	paon sieu
+幫襯記	paon tshen ci
+榜樣	paon yan
+派起來	pha chi le
+拍去個	phaq chi goq
+𤖼喫	phaq chioq
+𤖼開個	phaq khe goq
+𤖼開仔	phaq khe tsy
+𤖼勒	phaq leq
+拍來	phaq le
+拍進	phaq tsin
+𤖼帶開	phaq taen khe
+烹個	phan goq
+烹仔	phan tsy
+拋間	phau kaen
+拋落	phau loq
+披掛	phei kuo
+配攏個	phei lon goq
+配攏	phei lon
+配攏的	phei lon tiq
+配撥	phei peq
+配搭	phei taq
+噴出	phen chyuq
+噴出個	phen chyuq goq
+噴香了	phen shian lei
+噴香個	phen shian goq
+批評	phi bin
+批評記	phi bin ci
+批評相	phi bin sian
+披肩	phi cien
+披勒	phi leq
+批落來	phi loq le
+披落來	phi loq le
+披仔	phi tsy
+飄動	phiau don
+撇掉	phiq diau
+劈勒	phiq leq
+偏待	phien de
+騙弗來	phien feq le
+偏曲	phien chioq
+偏曲心	phien chioq sin
+騙人個	phien gnin goq
+騙騙	phien phien
+騙賊	phien zeq
+聘定	phin din
+拼夥計	phin hou ci
+拼夥計個	phin hou ci goq
+拼空	phin khon
+拼命	phin min
+拼湊	phin tsheu
+聘請	phin tshin
+拼字個	phin zy goq
+拼字	phin zy
+破敗	phou ba
+破掉	phou diau
+破綻	phou dzaen
+破綻個	phou dzaen goq
+破費	phou fi
+破開	phou khe
+破勒	phou leq
+破漏	phou leu
+破破個	phou phou goq
+破破	phou phou
+破斯拉	phou sy laq
+破朔個	phou shoq goq
+破朔	phou shoq
+破進	phou tsin
+樸實	phoq zhyuq
+撲滅	phoq miq
+樸樸實實	phoq phoq zhyuq zhyuq
+撲屍	phoq sy
+撲倒	phoq tau
+撲帶倒	phoq taen tau
+碰着個	phon joq goq
+碰着勒	phon joq leq
+碰着了	phon joq lei
+碰着仔	phon joq tsy
+碰弗着	phon feq joq
+碰見	phon cien
+碰見過	phon cien kou
+捧勒	phon leq
+鋪直	phu dziq
+鋪好仔	phu hau tsy
+鋪來	phu le
+鋪板裏	phu paen li
+鋪的個	phu tiq goq
+普天地下	phu thien di gho
+普天下	phu thien gho
+鋪華石	phu wo zaq
+潘沛	phun phei
+潘沛以	phun phei yi
+拚死命個	phun si min goq
+拚死命	phun si min
+判斷了	phun toen lei
+判斷個	phun toen goq
+判斷官	phun toen kun
+攀談	phaen daen
+襻裏	phaen li
+帕大喇	pho da laq
+怕頭	pho deu
+帕提亞	pho di io
+怕法個	pho faq goq
+怕法	pho faq
+帕弗	pho feq
+怕弗	pho feq
+怕個	pho goq
+怕懼個	pho jiu goq
+怕起來	pho chi le
+怕怕	pho pho
+怕怕個	pho pho goq
+怕勢勢個	pho shyu shyu goq
+怕心	pho sin
+珥個	er goq
+而並且	er pin tshia
+珥巴蘭	er po laen
+耳巴奴	er po nu
+四倍	sy bei
+始終如一	sy con zhyu iq
+試出	sy chyuq
+試出過	sy chyuq kou
+駛出去	sy chyuq chi
+試出了	sy chyuq liau
+試出了個	sy chyuq liau goq
+四埭	sy da
+四凸亂圈個	sy deq loen chioen goq
+使徒	sy du
+使徒個	sy du goq
+賜恩	sy en
+試法	sy faq
+駛弗定	sy feq din
+駛弗來	sy feq le
+使弗得	sy feq teq
+使弗得個	sy feq teq goq
+賜福	sy foq
+賜福個	sy foq goq
+四方	sy faon
+四方個	sy faon goq
+四近	sy jin
+四近四遠	sy jin sy yoen
+使喚	sy hun
+四鄉	sy shian
+四海之	sy he tsy
+四十個	sy zhyuq goq
+四十九	sy zhyuq cieu
+四十六	sy zhyuq loq
+四十五個	sy zhyuq ng goq
+四十五	sy zhyuq ng
+四十二個	sy zhyuq gni kou
+四十四	sy zhyuq sy
+四十多	sy zhyuq tou
+四十七	sy zhyuq tshiq
+四根	sy ken
+駛過	sy kou
+試過	sy kou
+駛過勒	sy kou leq
+四角	sy koq
+四角個	sy koq goq
+四股	sy ku
+四股得一	sy ku teq iq
+四塊	sy khuei
+四季	sy ci
+詩句	sy ciu
+駛勒	sy leq
+試煉	sy lien
+試煉個	sy lien goq
+賜落	sy loq
+駛攏	sy lon
+駛攏來	sy lon le
+賜落個	sy loq goq
+賜落來	sy loq le
+賜落來個	sy loq le goq
+四門	sy men
+師母個	sy meu goq
+四面	sy mien
+四五十	sy ng zhyuq
+四五句	sy ng ciu
+四年	sy gnien
+思念	sy gniaen
+使女	sy gniu
+使女個	sy gniu goq
+司獄司	sy gnioq sy
+司獄司個	sy gnioq sy goq
+四百	sy paq
+賜撥	sy peq
+四邊	sy pien
+詩篇	sy phien
+試試	sy sy
+梳梳	sy sy
+試試個	sy sy goq
+試試過	sy sy kou
+思想	sy sian
+絲線	sy sien
+私心	sy sin
+屍首	sy sieu
+駛到	sy tau
+使得	sy teq
+使得個	sy teq goq
+獅子個	sy tsy goq
+四肢百體	sy tsy paq thi
+四隻	sy tsaq
+四隻腳個	sy tsaq ciaq goq
+四隻腳	sy tsaq ciaq
+駛進	sy tsin
+始祖	sy tsu
+使差	sy tsha
+思忖	sy tshen
+四千	sy tshien
+四親	sy tshin
+四岔路口	sy tsho lu kheu
+四汊生	sy tsho san
+斯當婆里	sy taon bou li
+師父個	sy vu goq
+四萬兩	sy vaen lian
+死亡之	sy vaon tsy
+試完	sy wun
+使鹽	sy yen
+四遠	sy yoen
+私慾	sy yoq
+私慾心	sy yoq sin
+私慾個	sy yoq goq
+私下	sy gho
+曬着	sa joq
+曬場裏個	sa dzian li goq
+曬場裏	sa dzian li
+曬癟	sa piq
+曬煞	sa saq
+殺敗	saq ba
+殺敗了	saq ba leq
+撒白大尼	saq baq da gni
+撒大	saq da
+撒提迦	saq di cio
+殺掉	saq diau
+殺掉個	saq diau goq
+殺掉仔	saq diau tsy
+撒狄	saq diq
+撒鐸	saq doq
+撒但	saq daen
+撒但個	saq daen goq
+撒非喇	saq fi laq
+撒番	saq faen
+殺個	saq goq
+殺其掉	saq ji diau
+殺好	saq hau
+煞覺	saq kau
+殺過了	saq kou liau
+殺過了個	saq kou liau goq
+煞腳個	saq ciaq goq
+煞腳	saq ciaq
+撒迦利亞	saq cio li io
+撒迦利亞個	saq cio li io goq
+撒該	saq ke
+撒拉個	saq laq goq
+撒拉米	saq laq mi
+殺勒	saq leq
+撒勒大	saq leq da
+撒冷	saq len
+撒冷個	saq len goq
+撒羅米	saq lou mi
+撒鹿	saq loq
+殺戮	saq loq
+撒萊	saq le
+撒萊個	saq le goq
+殺來殺去	saq le saq chi
+撒門	saq men
+撒母耳	saq meu er
+撒摩	saq mou
+撒摩尼	saq mou gni
+撒馬特喇	saq mo deq laq
+撒瑪利亞	saq mo li io
+撒瑪利亞個	saq mo li io goq
+殺人個	saq gnin goq
+撒爾的尼亞	saq er tiq gni io
+殺殺	saq saq
+殺殺掉	saq saq diau
+殺牲	saq san
+殺仔	saq tsy
+撒土該	saq thu ke
+生佩個	san bei goq
+生佩	san bei
+生病個	san bin goq
+生病間	san bin kaen
+生出了	san chyuq lei
+生出個	san chyuq goq
+生出來了	san chyuq le lei
+生出來個	san chyuq le goq
+生出東	san chyuq ton
+省掉	san diau
+省城	san dzin
+生成個	san dzin goq
+生間	san kaen
+牲口	san kheu
+牲口個	san kheu goq
+牲口裏	san kheu li
+生落	san loq
+生落來個	san loq le goq
+生來	san le
+生姆	san m
+生滿	san mun
+生撥	san peq
+生東個	san ton goq
+生東	san ton
+生活個	san weq goq
+燥了	sau lei
+燥地	sau di
+燥地裏	sau di li
+燥掉	sau diau
+掃羅	sau lou
+燥路	sau lu
+掃掃	sau sau
+稅鈿	sei dien
+雖然	sei zhoen
+雖拉	sei laq
+雖拉個	sei laq goq
+水師裏	sei sy li
+水晶	sei tsin
+雖有	sei yeu
+雖是	sei zy
+塞住	seq jyu
+色利	seq li
+塞滿了個	seq mun liau goq
+塞滿了	seq mun liau
+瑟納巴尼	seq neq po gni
+塞塞	seq seq
+塞塞個	seq seq goq
+生氣個	sen chi goq
+孫女	sen gniu
+生殺之權	sen saq tsy jioen
+孫孫	sen sen
+損傷	sen saon
+生產個	sen tshaen goq
+滲透仔	sen theu tsy
+瘦瘦	seu seu
+瘦瘦個	seu seu goq
+雪白個	shyuq baq goq
+說出	shyuq chyuq
+刷出個	shyuq chyuq goq
+刷出	shyuq chyuq
+失掉	shyuq diau
+失掉間	shyuq diau kaen
+失掉間個	shyuq diau kaen goq
+設法	shyuq faq
+設個	shyuq goq
+說謊	shyuq huaon
+說謊個	shyuq huaon goq
+設許多	shyuq shiu tou
+適意	shyuq i
+失約	shyuq iaq
+失約個	shyuq iaq goq
+雪刮	shyuq kuaq
+雪刮亮	shyuq kuaq lian
+雪刮亮個	shyuq kuaq lian goq
+設立	shyuq liq
+設立個	shyuq liq goq
+設立東	shyuq liq ton
+失落	shyuq loq
+說八	shyuq paq
+說八個	shyuq paq goq
+失色	shyuq seq
+雪消	shyuq siau
+雪山	shyuq saen
+失魂憐氣	shyuq wen lien chi
+說話了	shyuq wo lei
+說話個	shyuq wo goq
+說話的	shyuq wo tiq
+雪淨	shyuq zin
+徇情	shyun dzin
+郇個	shyun goq
+郇山	shyun saen
+郇山上	shyun saen zaon
+束稻	shoq dau
+束個	shoq goq
+束脩鈿	shoq sieu dien
+奢華	she wo
+奢華個	she wo goq
+耍貨	sho hou
+雙倍	shaon bei
+雙全	shaon joen
+雙眼	shaon ngaen
+雙生個	shaon san goq
+雙雙	shaon shaon
+傷心	shaon sin
+雙身	shaon sin
+雙身個	shaon sin goq
+雙套	shaon thau
+雙層個	shaon zen goq
+雙層	shaon zen
+勢道	shyu dau
+势道	shyu dau
+歲了	shyu lei
+水了	shyu lei
+輸掉	shyu diau
+貰鈿	shyu dien
+輸鈿	shyu dien
+世傳個	shyu joen goq
+水桶裏	shyu don li
+世俗個	shyu dzoq goq
+水個	shyu goq
+書個	shyu goq
+數好了	shyu hau liau
+水溝裏	shyu keu li
+世間上	shyu kaen zaon
+世間上個	shyu kaen zaon goq
+書架裏	shyu ko li
+世口	shyu kheu
+輸勒	shyu leq
+書裏	shyu li
+水裏個	shyu li goq
+書裏個	shyu li goq
+水路	shyu lu
+貰來個	shyu le goq
+貰來	shyu le
+書面	shyu mien
+水源	shyu gnioen
+水源裏	shyu gnioen li
+書珥	shyu er
+書珥個	shyu er goq
+恕恕	shyu shyu
+世世代代個	shyu shyu de de goq
+書信	shyu sin
+書信個	shyu sin goq
+書信裏	shyu sin li
+水手	shyu sieu
+世之	shyu tsy
+水土	shyu thu
+勢微	shyu vi
+書房裏	shyu vaon li
+書房裏個	shyu vaon li goq
+輸贏	shyu yin
+水槽	shyu zau
+水槽裏	shyu zau li
+書籍	shyu ziq
+書亞	shyu io
+書亞個	shyu io goq
+細阿	si aq
+西定	si din
+死法	si faq
+西發	si faq
+洗非翁	si fi on
+西風	si fon
+死期	si ji
+死過	si kou
+死過了	si kou liau
+死過之	si kou tsy
+死過之後	si kou tsy gheu
+西公都	si kon tu
+西基里	si ci li
+嘶起來	si chi le
+死間	si kaen
+死江	si kaon
+死江個	si kaon goq
+西拉	si laq
+洗拉	si laq
+西拉個	si laq goq
+西拉冰	si laq pin
+洗禮	si li
+洗禮個	si li goq
+西烈	si liq
+西流基	si lieu ci
+西羅亞	si lou io
+死來	si le
+西美	si mei
+西門	si men
+西門個	si men goq
+西緬	si mien
+西緬個	si mien goq
+西瑪利	si mo li
+細麻布	si mo pu
+細麻布個	si mo pu goq
+西納	si neq
+西南	si nein
+西尼	si gni
+死日	si gniq
+死人個	si gnin goq
+西乃	si ne
+西庇太	si pi tha
+西庇太個	si pi tha goq
+西庇楊	si pi yan
+西庇楊個	si pi yan goq
+西邊	si pien
+洗扁	si pien
+西邊個	si pien goq
+洗玻	si pou
+西北	si poq
+西布倫	si pu len
+西布倫個	si pu len goq
+西班牙	si paen yo
+西巴	si po
+西巴士督	si po zy toq
+西坡拉	si phou laq
+西珥	si er
+西珥個	si er goq
+細細	si si
+細細個	si si goq
+西頓	si ten
+西頓個	si ten goq
+死仔	si tsy
+死之	si tsy
+死之中個	si tsy con goq
+死之中	si tsy con
+死仔再活	si tsy tse weq
+死仔再活個	si tsy tse weq goq
+西伏剌	si vou la
+死罪	si zei
+死後個	si gheu goq
+寫出	sia chyuq
+寫出來	sia chyuq le
+卸掉	sia diau
+寫法	sia faq
+㕐個	sia goq
+㕐過	sia kou
+寫間	sia kaen
+寫落	sia loq
+寫來	sia le
+寫落個	sia loq goq
+寫落的	sia loq tiq
+㕐撥	sia peq
+寫撥	sia peq
+寫信	sia sin
+寫的了	sia tiq lei
+寫的個	sia tiq goq
+寫仔	sia tsy
+卸載	sia ze
+削落	siaq loq
+削削好	siaq siaq hau
+削完	siaq wun
+相別	sian biq
+想頭	sian deu
+相同	sian don
+相同個	sian don goq
+相助	sian dzu
+相待	sian de
+想弗到	sian feq tau
+想弗到個	sian feq tau goq
+相近	sian jin
+相近個	sian jin goq
+相熟個	sian zhoq goq
+相熟	sian zhoq
+相見	sian cien
+相敬	sian cin
+相勸	sian chioen
+相懇	sian khen
+商量好	sian lian hau
+商量過	sian lian kou
+商量仔	sian lian tsy
+相連	sian lien
+相連個	sian lien goq
+相宜	sian gni
+相宜個	sian gni goq
+相配	sian phei
+想想	sian sian
+相相個	sian sian goq
+相相	sian sian
+相信了	sian sin lei
+相信弗來	sian sin feq le
+相信個	sian sin goq
+相信之	sian sin tsy
+相打	sian tan
+想到	sian tau
+相對	sian tei
+相對個	sian tei goq
+相鬥	sian teu
+相請	sian tshin
+想請	sian tshin
+相當	sian taon
+相通	sian thon
+相通個	sian thon goq
+相符	sian vu
+想望個	sian vaon goq
+相會	sian wei
+相像	sian zian
+相像個	sian zian goq
+相愛	sian e
+相愛個	sian e goq
+相合	sian gheq
+相和	sian ghou
+相害	sian ghe
+燒出來個	siau chyuq le goq
+燒出來	siau chyuq le
+小了	siau lei
+小弟	siau di
+燒掉	siau diau
+燒化	siau huo
+燒化個	siau huo goq
+燒香個	siau shian goq
+小意	siau i
+小船	siau zhoen
+小船裏	siau zhoen li
+笑過	siau kou
+小國	siau koq
+小卷	siau cioen
+小驢	siau li
+少羅	siau lou
+小攏去	siau lon chi
+消滅	siau miq
+小牛	siau ngeu
+小牛個	siau ngeu goq
+少年	siau gnien
+小人隊	siau gnin dei
+小人個	siau gnin goq
+小囡個	siau noen goq
+小書個	siau shyu goq
+小小	siau siau
+少少	siau siau
+笑笑	siau siau
+小小個	siau siau goq
+小小管	siau siau kun
+小心	siau sin
+小刀	siau tau
+小點	siau tien
+小點個	siau tien goq
+燒湯	siau thaon
+小羊個	siau yan goq
+小羊之	siau yan tsy
+燒窯	siau yau
+息了	siq lei
+褻瀆	siq doq
+褻瀆個	siq doq goq
+釋放	siq faon
+釋放個	siq faon goq
+釋放了	siq faon liau
+釋放了個	siq faon liau goq
+泄來	siq le
+錫蘭	siq laen
+薛拿	siq no
+悉帕	siq pho
+悉帕個	siq pho goq
+式勢	siq shyu
+識水性個	siq shyu sin goq
+識水性	siq shyu sin
+識得	siq teq
+識得個	siq teq goq
+識之	siq tsy
+識字個	siq zy goq
+先知	sien cyu
+先知個	sien cyu goq
+先知人	sien cyu gnin
+先知人個	sien cyu gnin goq
+閃電	sien dien
+先鋒	sien fon
+閃個	sien goq
+鮮健起來	sien jien chi le
+先如	sien zhyu
+先見之明	sien cien tsy min
+閃去	sien chi
+閃來	sien le
+先生個	sien san goq
+鮮索了	sien soq lei
+深奧個	sin au goq
+深奧	sin au
+心中	sin con
+醒轉來	sin coen le
+伸出	sin chyuq
+伸出來	sin chyuq le
+伸出東	sin chyuq ton
+醒頭到	sin deu tau
+伸頭到	sin deu tau
+心頭禱	sin deu tau
+聖殿	sin dien
+聖殿個	sin dien goq
+聖殿裏	sin dien li
+聖殿裏個	sin dien li goq
+聖殿外個	sin dien nga goq
+聖殿外	sin dien nga
+聖徒	sin du
+聖徒個	sin du goq
+心腸	sin dzian
+性情	sin dzin
+聖城	sin dzin
+聖城裏	sin dzin li
+聖查察官	sin dzo tshaq kun
+新個	sin goq
+星個	sin goq
+汛個	sin goq
+心灰	sin huei
+心虛突顫	sin shiu deq tsien
+心意	sin i
+信約	sin iaq
+新約	sin iaq
+新約個	sin iaq goq
+聲音	sin in
+信實	sin zhyuq
+信實個	sin zhyuq goq
+深如	sin zhyu
+聖善	sin zhoen
+聖善個	sin zhoen goq
+性格	sin kaq
+心高	sin kau
+心高氣傲	sin kau chi ngau
+性格	sin keq
+審過	sin kou
+心掛	sin kuo
+心掛兩腸	sin kuo lian dzian
+辛苦	sin khu
+審結	sin ciq
+聖潔個	sin ciq goq
+聖潔	sin ciq
+新建個	sin cien goq
+新建	sin cien
+聖經	sin cin
+信經	sin cin
+紳衿	sin cin
+聖經個	sin cin goq
+升降	sin ciaon
+信靠	sin khau
+心口	sin kheu
+聖口	sin kheu
+伸開	sin khe
+新開	sin khe
+伸崙	sin len
+心裏	sin li
+信裏	sin li
+信裏頭	sin li deu
+心裏頭	sin li deu
+心裏頭個	sin li deu goq
+心裏個	sin li goq
+信裏個	sin li goq
+聖靈	sin lin
+聖靈個	sin lin goq
+新來個	sin le goq
+新來	sin le
+新來新婦	sin le sin vu
+心蘭	sin laen
+新郎個	sin laon goq
+審問仔	sin men tsy
+性命	sin min
+性命個	sin min goq
+心滿	sin mun
+聖馬利涅	sin mo li gniaq
+聖日	sin gniq
+聖人個	sin gnin goq
+心願	sin gnioen
+身邊	sin pien
+審判	sin phun
+審判個	sin phun goq
+審判官	sin phun kun
+聖詩	sin sy
+聖詩裏	sin sy li
+新生個	sin san goq
+新生	sin san
+聖書	sin shyu
+聲勢	sin shyu
+聖書個	sin shyu goq
+聖書裏	sin shyu li
+聖書裏個	sin shyu li goq
+心想	sin sian
+信息	sin siq
+新鮮	sin sien
+深深	sin sin
+心心	sin sin
+辛辛	sin sin
+深深個	sin sin goq
+星宿個	sin sieu goq
+聖所	sin so
+聖所個	sin so goq
+聖所裏	sin so li
+升到	sin tau
+信德	sin teq
+信德個	sin teq goq
+身底個	sin ti goq
+身底	sin ti
+深點	sin tien
+聖子	sin tsy
+聖旨	sin tsy
+心焦了	sin tsiau lei
+心焦煞了	sin tsiau saq lei
+新酒	sin tsieu
+新作出	sin tsoq chyuq
+深淺	sin tshien
+伸帶出來	sin taen chyuq le
+身體個	sin thi goq
+新聞	sin ven
+聖父	sin vu
+新婦個	sin vu goq
+聖會	sin wei
+身會	sin wei
+新葉	sin yiq
+聖賢	sin yen
+身孕	sin yun
+身孕個	sin yun goq
+心事	sin zy
+心是	sin zy
+聖字	sin zy
+新造	sin zau
+身上	sin zaon
+升上	sin zaon
+升上個	sin zaon goq
+身上個	sin zaon goq
+升上去	sin zaon chi
+伸冤	sin ioen
+申冤	sin ioen
+信行	sin ghan
+手掌	sieu caon
+秀緻	sieu cyu
+繡出	sieu chyuq
+繡出個	sieu chyuq goq
+修殿	sieu dien
+守住	sieu jyu
+手段	sieu doen
+收其攏	sieu ji lon
+繡花	sieu huo
+繡花個	sieu huo goq
+收拾	sieu zhyuq
+收拾過	sieu zhyuq kou
+收拾攏	sieu zhyuq lon
+收割	sieu keq
+收割個	sieu keq goq
+手梗	sieu kuan
+守己	sieu ci
+手巾裏	sieu cin li
+收歸	sieu ciu
+收去	sieu chi
+收起	sieu chi
+守間	sieu kaen
+守攔進的	sieu laq tsin tiq
+收勒住	sieu leq jyu
+收勒去	sieu leq chi
+收勒牢	sieu leq lau
+守勒牢	sieu leq lau
+手裏	sieu li
+手裏個	sieu li goq
+收留	sieu lieu
+收留個	sieu lieu goq
+收羅	sieu lou
+收攏	sieu lon
+收攏個	sieu lon goq
+收攏來	sieu lon le
+手藝	sieu gni
+收生個	sieu san goq
+收束	sieu soq
+收到	sieu tau
+收點	sieu tien
+守東	sieu ton
+收進	sieu tsin
+收進個	sieu tsin goq
+收服	sieu voq
+收錢糧	sieu zien lian
+收錢糧個	sieu zien lian goq
+收上	sieu zaon
+收上仔	sieu zaon tsy
+手下	sieu gho
+手下個	sieu gho goq
+手下人	sieu gho gnin
+鎖住	sou jyu
+鎖住個	sou jyu goq
+鎖住間個	sou jyu kaen goq
+鎖住間	sou jyu kaen
+鎖住東	sou jyu ton
+鎖好	sou hau
+鎖勒	sou leq
+梭倫	sou len
+瑣珥	sou er
+鎖東個	sou ton goq
+鎖東	sou ton
+鎖仔	sou tsy
+瑣轄	sou gheq
+瑣轄個	sou gheq goq
+啥弗是	soq feq zy
+啥個	soq goq
+宿過	soq kou
+啥個	soq kou
+宿過夜	soq kou ya
+索性	soq sin
+速速	soq soq
+速即	soq tsiq
+索詐	soq tso
+送掉	son diau
+送過來	son kou le
+送去	son chi
+送來	son le
+送來個	son le goq
+送來送去	son le son chi
+送撥	son peq
+送送	son son
+送載	son ze
+送上	son zaon
+送上來	son zaon le
+塑出	su chyuq
+素常	su jaon
+素常	su dzaon
+數弗	su feq
+數弗遍	su feq pien
+數弗遍個	su feq pien goq
+疏割	su keq
+疏開	su khe
+數勒出	su leq chyuq
+數勒遍	su leq pien
+數目個	su moq goq
+蘇耳底	su er ti
+蘇撒拿	su saq no
+疏失個	su shyuq goq
+疏失	su shyuq
+蘇西	su si
+甦醒	su sin
+甦醒轉來	su sin coen le
+疏散開	su saen khe
+素祭	su tsi
+蔬菜	su tshe
+蔬菜個	su tshe goq
+數都	su tu
+數都數弗遍	su tu su feq pien
+蘇以天	su yi thien
+疏遠	su yoen
+訴冤	su ioen
+衰敗	se ba
+衰敗落去	se ba loq chi
+賽過如	se kou zhyu
+衰落去	se loq chi
+山嶴裏	saen au li
+三隊	saen dei
+散掉	saen diau
+山洞	saen don
+三個	saen goq
+山個	saen goq
+散其開	saen ji khe
+三橛	saen jiuq
+三兄弟	saen shion di
+山海	saen he
+三十塊	saen zhyuq khuei
+三十五	saen zhyuq ng
+三十四	saen zhyuq sy
+三十多	saen zhyuq tou
+三十七	saen zhyuq tshiq
+三根	saen ken
+三個	saen kou
+三股得一	saen ku teq iq
+三股之一	saen ku tsy iq
+三館	saen kun
+三光	saen kuaon
+三刻	saen kheq
+散開	saen khe
+散開去	saen khe chi
+散開間	saen khe kaen
+散開間個	saen khe kaen goq
+散開了	saen khe leq
+散開仔	saen khe tsy
+三拉	saen laq
+山裏了	saen li lei
+山裏個	saen li goq
+山嶺	saen lin
+散亂	saen loen
+山面前	saen mien zien
+山巖	saen ngaen
+山巖裏	saen ngaen li
+三日個	saen gniq goq
+三年	saen gnien
+三年個	saen gnien goq
+三百	saen paq
+三杯	saen pei
+山邊沿	saen pien yen
+舢板個	saen paen goq
+三乓	saen phan
+三四百年	saen sy paq gnien
+山水	saen sei
+三升	saen sin
+散手	saen sieu
+山頂	saen ten
+三斗	saen teu
+三頂	saen tin
+山頂	saen tin
+山頂頭	saen tin dein
+三枝	saen tsy
+三隻	saen tsaq
+三遭	saen tsau
+三𡍲	saen thaq
+三位	saen wei
+三位一	saen wei iq
+三位一神	saen wei iq zhyun
+三位一體	saen wei iq thi
+三位合一	saen wei gheq iq
+珊瑚	saen wu
+三樣	saen yan
+山羊個	saen yan goq
+山羊毛	saen yan mau
+三月	saen yuq
+三層	saen zen
+三層樓	saen zen leu
+山上	saen zaon
+山下	saen gho
+捨出	so chyuq
+所出	so chyuq
+捨出個	so chyuq goq
+所提尼	so di gni
+赦掉	so diau
+所定個	so din goq
+所定	so din
+沙塗	so du
+赦弗掉	so feq diau
+赦弗掉個	so feq diau goq
+所要	so iau
+所講個	so kaon goq
+所講	so kaon
+沙列	so liq
+所立失道	so liq shyuq dau
+所羅門	so lou men
+所羅門個	so lou men goq
+赦免	so mien
+沙漠	so moq
+沙瑪	so mo
+沙泥裏	so gni li
+沙泥上	so gni zaon
+舍邊	so pien
+所巴德	so po teq
+所西巴德	so si po teq
+捨得	so teq
+所得	so teq
+所多瑪	so tou mo
+所多瑪個	so tou mo goq
+所做	so tsou
+所做個	so tsou goq
+沙灘裏	so thaen li
+沙微	so vi
+沙微基列亭	so vi ci liq din
+所望	so vaon
+赦回	so wei
+所話	so wo
+所話個	so wo goq
+所話的	so wo tiq
+所以	so yi
+所有	so yeu
+所有個	so yeu goq
+所欲	so yoq
+赦罪	so zei
+赦罪個	so zei goq
+所害	so ghe
+索詐個	soq tso goq
+舂出個	saon chyuq goq
+舂出	saon chyuq
+喪掉	saon diau
+賞善	saon zhoen
+賞善罰惡	saon zhoen vaq oq
+傷勒	saon leq
+舂勒	saon leq
+喪命	saon min
+賞滿	saon mun
+賞賜	saon sy
+傷損了個	saon sen liau goq
+傷損了	saon sen liau
+傷心	saon sin
+傷心個	saon sin goq
+傷心起來	saon sin chi le
+傷心相	saon sin sian
+傷傷掉個	saon saon diau goq
+傷傷掉	saon saon diau
+賞罰	saon vaq
+喪事個	saon zy goq
+傷痕	saon ghen
+傷害	saon ghe
+傷害個	saon ghe goq
+算法	soen faq
+算弗得	soen feq teq
+算起	soen chi
+算起來	soen chi le
+算勒	soen leq
+算來	soen le
+算撥	soen peq
+算數弗來	soen su feq le
+算數個	soen su goq
+算賬個	soen tsian goq
+算進	soen tsin
+酸酒	soen tsieu
+算是	soen zy
+帶出去	ta chyuq chi
+帶出來個	ta chyuq le goq
+帶出來	ta chyuq le
+帶出東	ta chyuq ton
+帶掉	ta diau
+帶着	ta joq
+帶其出	ta ji chyuq
+帶其進	ta ji tsin
+帶過來個	ta kou le goq
+帶過來	ta kou le
+帶歸個	ta ciu goq
+帶歸	ta ciu
+帶歸來個	ta ciu le goq
+帶歸來	ta ciu le
+帶去	ta chi
+帶累	ta lei
+帶勒去	ta leq chi
+帶勒來	ta leq le
+帶累	ta li
+帶領	ta lin
+帶領官	ta lin kun
+帶來	ta le
+帶來個	ta le goq
+帶落來	ta loq le
+帶撥	ta peq
+帶到	ta tau
+帶進	ta tsin
+帶進去	ta tsin chi
+帶進來	ta tsin le
+帶上	ta zaon
+戴上	ta zaon
+帶上來	ta zaon le
+搭棚	taq ban
+搭地	taq di
+搭來	taq le
+打敗	tan ba
+打敗仔	tan ba tsy
+打出	tan chyuq
+打掉	tan diau
+打着	tan joq
+打法	tan faq
+打弗贏	tan feq yin
+打其贏	tan ji yin
+打件	tan jien
+打夥	tan hou
+打印個	tan in goq
+打印	tan in
+打印過	tan in kou
+打印了	tan in liau
+打過仔	tan kou tsy
+打了	tan leq
+打獵個	tan liaq goq
+打獵	tan liaq
+打落	tan loq
+打來	tan le
+打慕	tan mou
+打摹	tan mou
+打磨	tan mou
+打磨熟	tan mou zhoq
+打滿仔	tan mun tsy
+打破	tan phou
+打水	tan shyu
+打輸	tan shyu
+打水個	tan shyu goq
+打傷	tan saon
+打算	tan soen
+打算弗出	tan soen feq chyuq
+打算弗來	tan soen feq le
+打算個	tan soen goq
+打算記	tan soen ci
+打打傷	tan tan saon
+打的	tan tiq
+打仗了	tan tsian lei
+打仗個	tan tsian goq
+打仗個	tan tsian kou
+打進	tan tsin
+打笡	tan tshia
+打退	tan thei
+打聽	tan thin
+打聽着	tan thin joq
+打痛	tan thon
+打通	tan thon
+打樣	tan yan
+打贏	tan yin
+打贏仔	tan yin tsy
+打上	tan zaon
+到主	tau cyu
+倒出個	tau chyuq goq
+倒出	tau chyuq
+到處	tau chyu
+到處個	tau chyu goq
+到了	tau lei
+倒桶	tau don
+倒弗如	tau feq zhyu
+到弗來	tau feq le
+到個	tau goq
+到其	tau ji
+到極頭	tau jiq deu
+禱告	tau kau
+禱告個	tau kau goq
+禱告好	tau kau hau
+禱告好仔	tau kau hau tsy
+禱告記	tau kau ci
+禱告仔	tau kau tsy
+禱告文	tau kau ven
+刀口	tau kheu
+刀口裏	tau kheu li
+刀殼裏	tau khoq li
+到老	tau lau
+到了	tau leq
+倒勒	tau leq
+到勒	tau leq
+倒了霉	tau leq mei
+到羅馬國	tau lou mo koq
+倒落	tau loq
+倒來	tau le
+倒霉	tau mei
+倒霉個	tau mei goq
+倒沒了	tau meq lei
+倒奔轉來	tau pen coen le
+倒崩	tau pon
+倒想	tau sian
+到手	tau sieu
+倒倒	tau tau
+到東	tau ton
+倒走轉	tau tseu coen
+倒走轉來	tau tseu coen le
+刀槍	tau tshian
+倒塌	tau thaq
+倒退	tau thei
+倒退步	tau thei bu
+倒退出	tau thei chyuq
+倒退個	tau thei goq
+倒有	tau yeu
+倒是	tau zy
+𠡒出	tei chyuq
+對頭個	tei deu goq
+對敵	tei diq
+對着	tei joq
+對個	tei goq
+對間個	tei kaen goq
+對間	tei kaen
+對口	tei kheu
+對開	tei khe
+對勒	tei leq
+對勒住	tei leq jyu
+對勒住個	tei leq jyu goq
+𠡒裂開	tei liq khe
+對面	tei mien
+對岸	tei ngein
+對打對	tei tan tei
+堆打堆	tei tan tei
+𠡒𠡒	tei tei
+對照	tei tsiau
+對證	tei tsin
+對證個	tei tsin goq
+對證過	tei tsin kou
+堆上	tei zaon
+對於	tei iu
+得知了	teq cyu lei
+得知個	teq cyu goq
+得着	teq joq
+得着個	teq joq goq
+得着仔	teq joq tsy
+得着過	teq joq kou
+得着過個	teq joq kou goq
+得弗着	teq feq joq
+得個	teq goq
+得意	teq i
+得意個	teq i goq
+得一	teq iq
+答應	teq in
+答應個	teq in goq
+得救	teq cieu
+得救個	teq cieu goq
+德氣	teq chi
+德氣個	teq chi goq
+得利	teq li
+得利個	teq li goq
+德利士底	teq li zy ti
+得來個	teq le goq
+得來	teq le
+得勝	teq sin
+得勝個	teq sin goq
+得勝仔	teq sin tsy
+得到手	teq tau sieu
+德丟	teq tieu
+得之	teq tsy
+得用個	teq yon goq
+得用	teq yon
+得罪	teq zei
+燈臺	ten de
+等待	ten de
+燈臺個	ten de goq
+燈檯上	ten de zaon
+等弗到	ten feq tau
+等弗到知	ten feq tau cyu
+敦枋裏	ten faon li
+敦枋沿	ten faon yen
+等其間	ten ji kaen
+敦起	ten chi
+敦起個	ten chi goq
+敦起了個	ten chi liau goq
+敦起了	ten chi liau
+燈亮	ten lian
+等門徒	ten men du
+等到	ten tau
+燉燉	ten ten
+等東	ten ton
+燈盞個	ten tsaen goq
+燈盞下	ten tsaen gho
+等塔	ten thaq
+登位	ten wei
+登時	ten zy
+登時裏	ten zy li
+等候	ten gheu
+等候記	ten gheu ci
+等候間	ten gheu kaen
+兜頭	teu deu
+鬥頭	teu deu
+斗桶	teu don
+斗桶下	teu don gho
+鬥風個	teu fon goq
+鬥過	teu kou
+鬥勒	teu leq
+兜裏	teu li
+兜攏	teu lon
+兜進	teu tsin
+鬥上來	teu zaon le
+底地方	ti di faon
+抵敵	ti diq
+抵敵個	ti diq goq
+底但	ti daen
+底但個	ti daen goq
+底順	ti zhyun
+底順個	ti zhyun goq
+渧落	ti loq
+底米丟	ti mi tieu
+底米丟個	ti mi tieu goq
+底買個	ti me goq
+底買	ti me
+底馬	ti mo
+底拿	ti no
+底拿個	ti no goq
+底破拉	ti phou laq
+低聲	ti sin
+低聲小意	ti sin siau i
+底珊	ti saen
+底珊個	ti saen goq
+低低	ti ti
+底底	ti ti
+底子	ti tsy
+抵擋	ti taon
+抵擋弗住	ti taon feq jyu
+抵擋勒住	ti taon leq jyu
+低土馬	ti thu mo
+低微個	ti vi goq
+低微心個	ti vi sin goq
+低微心	ti vi sin
+抵還	ti waen
+帝王	ti waon
+低下	ti gho
+爹爹	tia tia
+鳥個	tiau goq
+雕刻	tiau kheq
+雕刻個	tiau kheq goq
+吊落	tiau loq
+吊落來	tiau loq le
+釣魚鈎	tiau ng keu
+吊煞了	tiau saq lei
+釣上來個	tiau zaon le goq
+釣上來	tiau zaon le
+跌落個	tiq loq goq
+跌倒	tiq tau
+跌到	tiq tau
+跌倒個	tiq tau goq
+跌糊	tiq wu
+癲病	tien bin
+點鐘	tien con
+顛癡癡	tien chyu chyu
+點好東	tien hau ton
+點向	tien shian
+點香個	tien shian goq
+點香	tien shian
+點間	tien kaen
+點勒	tien leq
+點勒着	tien leq joq
+店裏	tien li
+點亮個	tien lian goq
+點打點	tien tan tien
+點點	tien tien
+點仔	tien tsy
+點子	tien tsy
+點子個	tien tsy goq
+踮帶起	tien taen chi
+玷污	tien u
+殿上	tien zaon
+叮囑	tin coq
+叮囑個	tin coq goq
+頂頭	tin dein
+頂高	tin kau
+頂高個	tin kau goq
+頂苦個	tin khu goq
+頂苦	tin khu
+釘間	tin kaen
+釘間個	tin kaen goq
+頂勒去	tin leq chi
+頂勒去個	tin leq chi goq
+釘來	tin le
+頂怕個	tin pho goq
+釘煞了	tin saq lei
+釘煞了	tin saq liau
+頂細	tin si
+頂深	tin sin
+釘上	tin zaon
+丟大	tieu da
+丟特腓	tieu deq fi
+丟掉	tieu diau
+丟掉個	tieu diau goq
+丟掉仔	tieu diau tsy
+丟過	tieu kou
+丟棄	tieu chi
+丟去	tieu chi
+丟勒	tieu leq
+丟了去	tieu leq chi
+丟落	tieu loq
+丟來	tieu le
+丟來丟去	tieu le tieu chi
+丟落間個	tieu loq kaen goq
+丟落間	tieu loq kaen
+丟尼修	tieu gni sieu
+丟的個	tieu tiq goq
+丟的	tieu tiq
+丟點的	tieu tien tiq
+丟進的	tieu tsin tiq
+丟士	tieu zy
+躲避	tou bi
+多承	tou dzin
+朵化	tou huo
+多如	tou zhyu
+躲過	tou kou
+多基臉	tou ci lien
+多起	tou chi
+多起來	tou chi le
+多勒緊	tou leq cin
+多里	tou li
+多利買	tou li me
+躲來	tou le
+多馬	tou mo
+多斯加納	tou sy cio neq
+多點	tou tien
+多則	tou tseq
+多單	tou taen
+多餘個	tou yu goq
+多餘	tou yu
+多謝	tou zia
+篤出	toq chyuq
+篤出個	toq chyuq goq
+篤發之頭	toq faq tsy deu
+篤實	toq zhyuq
+篤實個	toq zhyuq goq
+督工	toq kon
+督工個	toq kon goq
+東風	ton fon
+東方	ton faon
+東個	ton goq
+東家個	ton ko goq
+東南西北	ton nein si poq
+東奔西走	ton pen si tseu
+東邊	ton pien
+東邊個	ton pien goq
+凍煞	ton saq
+東西個	ton si goq
+冬天裏	ton thien li
+之中	tsy con
+指頭	tsy deu
+指頭尖	tsy deu tsien
+之地	tsy di
+止住	tsy jyu
+籽個	tsy goq
+至極	tsy jiq
+紫花	tsy huo
+志向	tsy shian
+指向	tsy shian
+旨意	tsy i
+之一	tsy iq
+滋潤	tsy zhyun
+址界	tsy ka
+址界個	tsy ka goq
+至公	tsy kon
+之類	tsy lei
+之內	tsy nein
+之外	tsy nga
+支人待客	tsy gnin de khaq
+紫玉	tsy gnioq
+煮撥	tsy peq
+支派	tsy pha
+支派個	tsy pha goq
+子孫個	tsy sen goq
+仔細	tsy si
+至聖所	tsy sin so
+指點	tsy tien
+指點個	tsy tien goq
+指點過	tsy tien kou
+子子	tsy tsy
+煮煮	tsy tsy
+致致誠誠	tsy tsy dzin dzin
+滋滋潤潤	tsy tsy zhyun zhyun
+仔仔細細	tsy tsy si si
+資質	tsy tsiq
+肢體	tsy thi
+指引	tsy yin
+之上	tsy zaon
+至於	tsy iu
+紫紅	tsy ghon
+債主	tsa cyu
+債戶	tsa wu
+責備	tsaq bei
+扎壯個	tsaq caon goq
+扎個	tsaq goq
+扎血個	tsaq shiuq goq
+扎血	tsaq shiuq
+扎間	tsaq kaen
+扎間個	tsaq kaen goq
+扎開	tsaq khe
+扎開去	tsaq khe chi
+扎牢仔	tsaq lau tsy
+摘勒	tsaq leq
+扎來	tsaq le
+扎落東	tsaq loq ton
+扎落仔	tsaq loq tsy
+摘奶了	tsaq na lei
+摘奶個	tsaq na goq
+隻數	tsaq su
+隻打隻	tsaq tan tsaq
+紮的	tsaq tiq
+扎的個	tsaq tiq goq
+扎的	tsaq tiq
+摘點	tsaq tien
+扎扎	tsaq tsaq
+扎扎硬硬	tsaq tsaq ngan ngan
+責罰	tsaq vaq
+責罰個	tsaq vaq goq
+紮營	tsaq yin
+爭起來	tsan chi le
+爭鬥個	tsan teu goq
+爭鬥囉唕	tsan teu lou zau
+爭差	tsan tsho
+爭造	tsan zau
+遭着	tsau joq
+遭着個	tsau joq goq
+罩住	tsau jyu
+罩衣	tsau i
+棗樹個	tsau zhyu goq
+棗樹	tsau zhyu
+竈跟裏	tsau ken li
+遭劫	tsau ciq
+遭勒	tsau leq
+遭難	tsau naen
+遭難個	tsau naen goq
+嘲笑	tsau siau
+嘲笑個	tsau siau goq
+遭數	tsau su
+遭的個	tsau tiq goq
+遭的	tsau tiq
+罩東	tsau ton
+棗子	tsau tsy
+早早	tsau tsau
+罩進	tsau tsin
+遭進	tsau tsin
+糟蹋	tsau thaq
+遭蹋	tsau thaq
+糟蹋掉	tsau thaq diau
+早天亮	tsau thien gnian
+早已	tsau yi
+早已之	tsau yi tsy
+早已仔	tsau yi tsy
+罩上	tsau zaon
+追着	tsei joq
+追着仔	tsei joq tsy
+追求	tsei jieu
+追求個	tsei jieu goq
+醉漢	tsei hein
+追趕	tsei kien
+追究	tsei cieu
+追落來	tsei loq le
+追逼	tsei piq
+追溯上去	tsei su zaon chi
+醉醉	tsei tsei
+追上	tsei zaon
+追上去	tsei zaon chi
+追上來	tsei zaon le
+尊重	tsen jon
+尊重個	tsen jon goq
+尊如	tsen zhyu
+增廣	tsen kuaon
+尊敬	tsen cin
+尊起	tsen chi
+尊起個	tsen chi goq
+尊起禮	tsen chi li
+尊起了	tsen chi liau
+尊起了個	tsen chi liau goq
+尊駕	tsen ko
+走轉	tseu coen
+走轉來	tseu coen le
+走出	tseu chyuq
+走出個	tseu chyuq goq
+走出去	tseu chyuq chi
+走出來	tseu chyuq le
+走出來個	tseu chyuq le goq
+走出仔	tseu chyuq tsy
+走弗開	tseu feq khe
+走弗攏	tseu feq lon
+走弗進	tseu feq tsin
+走個	tseu goq
+走過	tseu kou
+走過個	tseu kou goq
+走過去	tseu kou chi
+走過仔	tseu kou tsy
+走記過	tseu ci kou
+走歸	tseu ciu
+走歸去	tseu ciu chi
+走歸來	tseu ciu le
+走去	tseu chi
+走起	tseu chi
+走江湖	tseu kaon wu
+走開	tseu khe
+走開去	tseu khe chi
+走勒去	tseu leq chi
+走了去	tseu leq chi
+走勒來	tseu leq le
+走勒到	tseu leq tau
+走落	tseu loq
+走攏	tseu lon
+走攏個	tseu lon goq
+走攏去	tseu lon chi
+走攏來	tseu lon le
+走攏來個	tseu lon le goq
+走路個	tseu lu goq
+走來	tseu le
+走來走去	tseu le tseu chi
+走來走去個	tseu le tseu chi goq
+走落來	tseu loq le
+奏明	tseu min
+走遍	tseu pien
+走獸	tseu sieu
+走獸個	tseu sieu goq
+走散	tseu saen
+走到	tseu tau
+走倒	tseu tau
+走到仔	tseu tau tsy
+走進	tseu tsin
+走進個	tseu tsin goq
+走進去	tseu tsin chi
+走進去個	tseu tsin chi goq
+走進來	tseu tsin le
+走進仔	tseu tsin tsy
+走錯	tseu tshou
+走帶進來	tseu taen tsin le
+走帶上來	tseu taen zaon le
+奏文	tseu ven
+皺紋	tseu ven
+走完	tseu wun
+走遠	tseu yoen
+走上	tseu zaon
+走上個	tseu zaon goq
+走上去	tseu zaon chi
+走上來	tseu zaon le
+祭便	tsi bien
+祭便個	tsi bien goq
+祭壇	tsi daen
+祭壇個	tsi daen goq
+祭壇裏	tsi daen li
+祭壇前	tsi daen zien
+祭壇上	tsi daen zaon
+祭壇上個	tsi daen zaon goq
+祭壇下	tsi daen gho
+祭個	tsi goq
+𣥼灰個	tsi huei goq
+𣥼灰	tsi huei
+𣥼來	tsi le
+姊妹個	tsi mei goq
+𣥼滿	tsi mun
+𣥼滿了	tsi mun leq
+𣥼滿勒	tsi mun leq
+𣥼滿了個	tsi mun liau goq
+𣥼滿了	tsi mun liau
+𣥼滿仔	tsi mun tsy
+祭司	tsi sy
+祭司頭	tsi sy deu
+祭司頭個	tsi sy deu goq
+祭司個	tsi sy goq
+祭司長	tsi sy tsian
+𣥼的個	tsi tiq goq
+𣥼仔	tsi tsy
+祭祭	tsi tsi
+祭物	tsi veq
+祭物個	tsi veq goq
+祭祀	tsi zy
+藉印	tsia in
+借過來	tsia kou le
+借過來個	tsia kou le goq
+借來個	tsia le goq
+借來	tsia le
+借手邊	tsia sieu pien
+借手邊個	tsia sieu pien goq
+借隻	tsia tsaq
+爵杯	tsiaq pei
+爵杯個	tsiaq pei goq
+爵位	tsiaq wei
+帳篷	tsian bon
+帳篷個	tsian bon goq
+帳篷裏	tsian bon li
+賬簿	tsian bu
+將軍	tsian ciun
+將軍個	tsian ciun goq
+漲起	tsian chi
+張間	tsian kaen
+長老個	tsian lau goq
+張勒	tsian leq
+將來	tsian le
+將來個	tsian le goq
+將來要	tsian le iau
+賬目	tsian moq
+將息了	tsian siq lei
+將等	tsian ten
+張東	tsian ton
+仗東	tsian ton
+長子個	tsian tsy goq
+張張	tsian tsian
+賬房個	tsian vaon goq
+賬房裏	tsian vaon li
+將以	tsian yi
+張揚	tsian yan
+漲上	tsian zaon
+招出	tsiau chyuq
+招出來	tsiau chyuq le
+照着	tsiau joq
+照常	tsiau jaon
+照咋	tsiau dza
+照直	tsiau dziq
+礁個	tsiau goq
+照應	tsiau in
+招認	tsiau zhyun
+招認個	tsiau zhyun goq
+照顧	tsiau ku
+照管	tsiau kun
+照見	tsiau cien
+照來	tsiau le
+昭明	tsiau min
+招募	tsiau mou
+照遍	tsiau pien
+詔書	tsiau shyu
+詔書個	tsiau shyu goq
+詔書裏	tsiau shyu li
+照數	tsiau su
+照到	tsiau tau
+照東	tsiau ton
+招接	tsiau tsiq
+照耀	tsiau yau
+執掌	tsiq caon
+節制	tsiq cyu
+節制個	tsiq cyu goq
+織出	tsiq chyuq
+織出個	tsiq chyuq goq
+接着	tsiq joq
+接着個	tsiq joq goq
+接着過	tsiq joq kou
+接着仔	tsiq joq tsy
+接代	tsiq de
+接待	tsiq de
+接代個	tsiq de goq
+只好	tsiq hau
+積蓄	tsiq shioq
+積蓄間	tsiq shioq kaen
+積蓄間個	tsiq shioq kaen goq
+執意	tsiq i
+只要	tsiq iau
+執一	tsiq iq
+接應	tsiq in
+炙熟了個	tsiq zhoq liau goq
+炙熟了	tsiq zhoq liau
+積聚	tsiq zhyu
+即如	tsiq zhyu
+積聚個	tsiq zhyu goq
+積聚間	tsiq zhyu kaen
+積聚東個	tsiq zhyu ton goq
+積聚東	tsiq zhyu ton
+只顧	tsiq ku
+只管	tsiq kun
+織機	tsiq ci
+只舉	tsiq ciu
+接歸	tsiq ciu
+節肯個	tsiq khen goq
+漬洡	tsiq lei
+節裏	tsiq li
+積落個	tsiq loq goq
+接攏	tsiq lon
+摺攏間	tsiq lon kaen
+積落來	tsiq loq le
+即使	tsiq sy
+只消	tsiq siau
+只得	tsiq teq
+質照	tsiq tsiau
+接接	tsiq tsiq
+職份	tsiq ven
+職份個	tsiq ven goq
+只會	tsiq wei
+接位	tsiq wei
+即位	tsiq wei
+只有	tsiq yeu
+只有比利時	tsiq yeu pi li zy
+只是	tsiq zy
+執事	tsiq zy
+只是介	tsiq zy ka
+接受	tsiq zieu
+接受個	tsiq zieu goq
+接受過個	tsiq zieu kou goq
+接受過	tsiq zieu kou
+接受了	tsiq zieu leq
+接受勒	tsiq zieu leq
+接受仔	tsiq zieu tsy
+接上	tsiq zaon
+剪掉	tsien diau
+氈條毛毯	tsien diau mau thaen
+佔着	tsien joq
+佔住間	tsien jyu kaen
+佔住勒	tsien jyu leq
+戰場	tsien dzian
+展開	tsien khe
+展開來	tsien khe le
+沾邊	tsien pien
+薦書	tsien shyu
+剪刀個	tsien tau goq
+精緻	tsin cyu
+整出	tsin chyuq
+真道理	tsin dau li
+枕頭個	tsin deu goq
+珍重	tsin jon
+正直	tsin dziq
+正直個	tsin dziq goq
+正直無私	tsin dziq vu sy
+井個	tsin goq
+正個	tsin goq
+正好	tsin hau
+整好	tsin hau
+正好像	tsin hau zian
+進益	tsin iq
+真神	tsin zhyun
+精神	tsin zhyun
+真神個	tsin zhyun goq
+進貢	tsin kon
+進貢個	tsin kon goq
+整塊	tsin khuei
+真教	tsin ciau
+正經	tsin cin
+正經個	tsin cin goq
+進去	tsin chi
+進起	tsin chi
+進去個	tsin chi goq
+井蓋	tsin ke
+井口	tsin kheu
+井口個	tsin kheu goq
+井口裏個	tsin kheu li goq
+井口裏	tsin kheu li
+浸勒	tsin leq
+進勒	tsin leq
+井裏	tsin li
+真理	tsin li
+正路	tsin lu
+進路	tsin lu
+進來	tsin le
+針眼	tsin ngaen
+進業	tsin gniq
+珍寶	tsin pau
+井邊	tsin pien
+浸煞了	tsin saq lei
+井水個	tsin shyu goq
+井水	tsin shyu
+真心	tsin sin
+真心個	tsin sin goq
+真刀	tsin tau
+整頓	tsin ten
+整頓個	tsin ten goq
+貞節	tsin tsiq
+真正	tsin tsin
+進進出出	tsin tsin chyuq chyuq
+真槍	tsin tshian
+征伐	tsin vaq
+征服	tsin voq
+征服個	tsin voq goq
+真活	tsin weq
+真話	tsin wo
+正是	tsin zy
+正是介	tsin zy ka
+正像	tsin zian
+症候	tsin gheu
+酒桶	tsieu don
+酒桶裏	tsieu don li
+周割	tsieu keq
+周割禮	tsieu keq li
+周割禮個	tsieu keq li goq
+酒館店裏	tsieu kun tien li
+咒罵	tsieu mo
+咒罵個	tsieu mo goq
+酒肉	tsieu gnioq
+酒杯裏	tsieu pei li
+酒醉	tsieu tsei
+酒醉糊塗	tsieu tsei wu du
+周濟	tsieu tsi
+酒政	tsieu tsin
+酒政個	tsieu tsin goq
+周作	tsieu tsoq
+酒榨	tsieu tso
+酒榨窞	tsieu tso dein
+酒榨裏	tsieu tso li
+酒飯	tsieu vaen
+晝夜	tsieu ya
+酒筵	tsieu yen
+酒筵個	tsieu yen goq
+酒筵上	tsieu yen zaon
+做桌	tsou coq
+做主	tsou cyu
+做主個	tsou cyu goq
+做出	tsou chyuq
+做出個	tsou chyuq goq
+做出來	tsou chyuq le
+做出來個	tsou chyuq le goq
+做隊個	tsou dei goq
+做掉	tsou diau
+做成	tsou dzin
+做盡	tsou dzin
+做成個	tsou dzin goq
+做成功	tsou dzin kon
+做賺	tsou dzaen
+做代個	tsou de goq
+做代	tsou de
+做團	tsou doen
+做法	tsou faq
+做法個	tsou faq goq
+做弗來了	tsou feq le lei
+做弗來個	tsou feq le goq
+做弗到	tsou feq tau
+做弗到個	tsou feq tau goq
+做其	tsou ji
+做好	tsou hau
+做香個	tsou shian goq
+做香	tsou shian
+做根脈個	tsou ken maq goq
+做根脈	tsou ken maq
+做過	tsou kou
+做過個	tsou kou goq
+做工個	tsou kon goq
+做工	tsou kon
+做官	tsou kun
+做塊	tsou khuei
+做間	tsou kaen
+做家生	tsou ko san
+做勒	tsou leq
+做勒到個	tsou leq tau goq
+做勒到	tsou leq tau
+做裏通外國	tsou li thon nga koq
+做來	tsou le
+做滿	tsou mun
+做夢	tsou maon
+做人個	tsou gnin goq
+做詩個	tsou sy goq
+做詩	tsou sy
+做說	tsou shyuq
+做啥個	tsou soq goq
+做到	tsou tau
+做到個	tsou tau goq
+做到手	tsou tau sieu
+做的個	tsou tiq goq
+做的	tsou tiq
+做做	tsou tsou
+做墳個	tsou ven goq
+做墳	tsou ven
+做夜	tsou ya
+做樣個	tsou yan goq
+摘掉	tsoq diau
+足值	tsoq dziq
+足個	tsoq goq
+作揖	tsoq iq
+摘落	tsoq loq
+摘落仔	tsoq loq tsy
+作對個	tsoq tei goq
+作對	tsoq tei
+足足	tsoq tsoq
+作作	tsoq tsoq
+足足個	tsoq tsoq goq
+作歹	tsoq te
+作爲	tsoq wei
+作惡	tsoq oq
+作惡個	tsoq oq goq
+宗族	tson joq
+總要	tson iau
+總管個	tson kun goq
+總究	tson cieu
+棕櫚	tson li
+宗伯	tson paq
+總而言之	tson er yen tsy
+總數	tson su
+總打總	tson tan tson
+總督	tson toq
+總督個	tson toq goq
+總總	tson tson
+總會	tson wei
+租出	tsu chyuq
+阻住	tsu jyu
+阻住個	tsu jyu goq
+阻弗住	tsu feq jyu
+阻隔	tsu kaq
+阻隔心	tsu kaq sin
+阻勒住	tsu leq jyu
+租的個	tsu tiq goq
+租的	tsu tiq
+祖宗	tsu tson
+祖宗頭	tsu tson deu
+祖宗個	tsu tson goq
+阻擋	tsu taon
+再弗	tse feq
+載去	tse chi
+載落	tse loq
+載來	tse le
+再來個	tse le goq
+再來	tse le
+災難	tse naen
+災難個	tse naen goq
+再三	tse saen
+再𣍐	tse vei
+再活	tse weq
+再活個	tse weq goq
+災患	tse waen
+再話	tse wo
+再是	tse zy
+斬頭	tsaen deu
+斬掉	tsaen diau
+斬個	tsaen goq
+趲過	tsaen kou
+趲過去	tsaen kou chi
+斬落	tsaen loq
+讚美	tsaen mei
+讚美個	tsaen mei goq
+讚美詩	tsaen mei sy
+讚美之	tsaen mei tsy
+斬煞	tsaen saq
+遮住	tso jyu
+遮暗	tso ein
+遮掩	tso ien
+遮蔭	tso in
+詐計	tso ci
+遮蓋	tso ke
+遮蓋個	tso ke goq
+遮勒	tso leq
+遮庇	tso pi
+遮庇個	tso pi goq
+遮的	tso tiq
+遮仔	tso tsy
+作出來	tsoq chyuq le
+斫掉	tsoq diau
+作興個	tsoq shin goq
+作工個	tsoq kon goq
+作工	tsoq kon
+摘了	tsoq leq
+斫勒	tsoq leq
+斫落仔	tsoq loq tsy
+作浪	tsoq laon
+作亂	tsoq loen
+作聲	tsoq sin
+斫倒	tsoq tau
+作用	tsoq yon
+葬法	tsaon faq
+葬個	tsaon goq
+葬好	tsaon hau
+葬好仔	tsaon hau tsy
+裝好仔	tsaon hau tsy
+葬過	tsaon kou
+葬間	tsaon kaen
+葬間個	tsaon kaen goq
+葬勒	tsaon leq
+裝勒	tsaon leq
+章裏	tsaon li
+葬來	tsaon le
+裝滿	tsaon mun
+妝扮	tsaon paen
+裝扮	tsaon paen
+裝飾	tsaon siq
+裝飾個	tsaon siq goq
+裝飾好	tsaon siq hau
+裝飾東	tsaon siq ton
+裝摺好	tsaon tsiq hau
+裝裝	tsaon tsaon
+裝潢	tsaon waon
+刺棚樹	tshy ban zhyu
+刺棚裏	tshy ban li
+此地	tshy di
+此地個	tshy di goq
+雌個	tshy goq
+刺虎	tshy hu
+次序	tshy zhyu
+此句	tshy ciu
+雌驢子	tshy li tsy
+雌鹿	tshy loq
+雌牛	tshy ngeu
+雌牛個	tshy ngeu goq
+雌山羊	tshy saen yan
+此等	tshy ten
+雌湖羊	tshy wu yan
+雌羊	tshy yan
+雌雄	tshy yon
+差個	tsha goq
+差去	tsha chi
+差去個	tsha chi goq
+差來	tsha le
+差來個	tsha le goq
+拆掉	tshaq diau
+拆掉間個	tshaq diau kaen goq
+拆掉間	tshaq diau kaen
+拆掉仔	tshaq diau tsy
+拆弗掉個	tshaq feq diau goq
+拆弗掉	tshaq feq diau
+察訪	tshaq faon
+拆毀	tshaq huei
+拆毀個	tshaq huei goq
+拆開	tshaq khe
+冊子	tshaq tsy
+冊子裏	tshaq tsy li
+尺寸	tshaq tshen
+撐好仔	tshan hau tsy
+撐過	tshan kou
+撐攏	tshan lon
+撐攏去	tshan lon chi
+撐進	tshan tsin
+撐進去	tshan tsin chi
+撐帶起	tshan taen chi
+操就	tshau dzieu
+抄個	tshau goq
+草寇	tshau kheu
+草裏	tshau li
+草裏個	tshau li goq
+草料	tshau liau
+吵亂	tshau loen
+抄滅	tshau miq
+抄滅個	tshau miq goq
+草木	tshau moq
+吵鬧	tshau nau
+抄本	tshau pen
+草子花	tshau tsy huo
+吵擾	tshau ziau
+測度弗到	tsheq doq feq tau
+測度弗到個	tsheq doq feq tau goq
+惻隱之	tsheq in tsy
+惻隱之心	tsheq in tsy sin
+拆了對	tsheq leq tei
+撮攏	tsheq lon
+撮煞個	tsheq saq goq
+忖停當	tshen din taon
+忖着過	tshen joq kou
+忖賺	tshen dzaen
+忖弗到個	tshen feq tau goq
+忖說	tshen shyuq
+忖到	tshen tau
+忖到個	tshen tau goq
+忖的個	tshen tiq goq
+忖當個	tshen taon goq
+村上	tshen zaon
+湊隊個	tsheu dei goq
+砌勒牢	tshi leq lau
+妻子	tshi tsy
+妻子個	tshi tsy goq
+妻子等	tshi tsy ten
+悽悽	tshi tshi
+棲棲	tshi tshi
+且聽	tshia thin
+綽綽	tshiaq tshiaq
+搶奪	tshian deq
+搶劫	tshian ciq
+搶去	tshian chi
+搶去間	tshian chi kaen
+槍笆沿	tshian po yen
+搶搶	tshian tshian
+俏麗	tshiau li
+七倍	tshiq bei
+七情	tshiq dzin
+七族個	tshiq dzoq goq
+七族	tshiq dzoq
+七十個	tshiq zhyuq goq
+七十五	tshiq zhyuq ng
+七十七	tshiq zhyuq tshiq
+尺工	tshiq kon
+赤金	tshiq cin
+赤金個	tshiq cin goq
+七顆	tshiq khou
+七粒	tshiq liq
+七日個	tshiq gniq goq
+七年	tshiq gnien
+七年個	tshiq gnien goq
+赤玉	tshiq gnioq
+七百	tshiq paq
+七八十	tshiq paq zhyuq
+七歲了	tshiq shyu lei
+切身	tshiq sin
+切心	tshiq sin
+七對	tshiq tei
+七頂	tshiq tin
+七丁八倒	tshiq tin paq tau
+赤子	tshiq tsy
+七隻	tshiq tsaq
+七遭	tshiq tsau
+七盞	tshiq tsaen
+切齒	tshiq tshy
+切齒切恨	tshiq tshy tshiq ghen
+切齒痛恨	tshiq tshy thon ghen
+切切	tshiq tshiq
+切切在心	tshiq tshiq dze sin
+切切在心個	tshiq tshiq dze sin goq
+七七個	tshiq tshiq goq
+七千	tshiq tshien
+切貼	tshiq thiaq
+切貼個	tshiq thiaq goq
+七樣	tshiq yan
+七月	tshiq yuq
+七座	tshiq zou
+切恨	tshiq ghen
+千定	tshien din
+千窮個	tshien jion goq
+千窮	tshien jion
+千斤	tshien cin
+千變萬化個	tshien pien vaen huo goq
+淺沙	tshien so
+千總	tshien tson
+千千	tshien tshien
+千秋	tshien tshieu
+遷都	tshien tu
+千萬	tshien vaen
+千萬個	tshien vaen goq
+千萬句	tshien vaen ciu
+千萬兩	tshien vaen lian
+親嘴	tshin cyu
+清大白日	tshin dou baq gniq
+親族	tshin dzoq
+親族個	tshin dzoq goq
+清福	tshin foq
+親近	tshin jin
+稱呼	tshin hu
+稱呼個	tshin hu goq
+清香	tshin shian
+親腳沿	tshin ciaq yen
+清潔	tshin ciq
+清潔個	tshin ciq goq
+親眷個	tshin cioen goq
+請去個	tshin chi goq
+請去	tshin chi
+請去間	tshin chi kaen
+請間個	tshin kaen goq
+請間	tshin kaen
+親口	tshin kheu
+請攏	tshin lon
+請來	tshin le
+親兒	tshin ng
+親眼	tshin ngaen
+青玉	tshin gnioq
+親囡	tshin no
+親筆	tshin piq
+請遍	tshin pien
+親身	tshin sin
+清醒	tshin sin
+請聖	tshin sin
+親手	tshin sieu
+清爽點	tshin saon tien
+請到	tshin tau
+清低沉	tshin ti dzin
+清盯盯	tshin tin tin
+稱讚	tshin tsaen
+稱讚弗來	tshin tsaen feq le
+稱讚個	tshin tsaen goq
+趁此	tshin tshy
+趁此機會	tshin tshy ci wei
+青草	tshin tshau
+請請	tshin tshin
+親親	tshin tshin
+清清	tshin tshin
+青青個	tshin tshin goq
+青青	tshin tshin
+清楚	tshin tshu
+青天	tshin thien
+清通了	tshin thon lei
+清通個	tshin thon goq
+青蛙	tshin uo
+請上	tshin zaon
+親愛	tshin e
+親愛個	tshin e goq
+抽出	tshieu chyuq
+抽出來	tshieu chyuq le
+臭掉	tshieu diau
+抽着	tshieu joq
+抽苗	tshieu miau
+抽芽	tshieu ngo
+抽芽出來	tshieu ngo chyuq le
+抽芽個	tshieu ngo goq
+抽點出	tshieu tien chyuq
+抽籤	tshieu tshien
+臭臭	tshieu tshieu
+愀睬	tshieu tshe
+秋天	tshieu thien
+醜態	tshieu the
+醜話	tshieu wo
+錯處	tshou chyu
+錯過	tshou kou
+錯落了	tshou loq lei
+錯落個	tshou loq goq
+搓搓	tshou tshou
+錯誤	tshoq ngu
+簇新個	tshoq sin goq
+簇嶄新	tshoq tsaen sin
+簇嶄新個	tshoq tsaen sin goq
+簇斬新個	tshoq tsaen sin goq
+簇斬新	tshoq tsaen sin
+聰明	tshon min
+聰明智慧	tshon min cyu wei
+聰明個	tshon min goq
+聰明勒緊	tshon min leq cin
+蔥玉	tshon gnioq
+初一	tshu iq
+初一個	tshu iq goq
+初日	tshu zhyuq
+粗魯	tshu lu
+粗麥	tshu maq
+粗蠻	tshu maen
+初初	tshu tshu
+初學	tshu ghoq
+睬其	tshe ji
+菜花	tshe huo
+菜花銅	tshe huo don
+揣摩	tshe mou
+菜蔬	tshe su
+慘酷個	tshaen khoq goq
+慘酷	tshaen khoq
+產業	tshaen gniq
+產業個	tshaen gniq goq
+懺唸個	tshaen gniaen goq
+懺唸記	tshaen gniaen ci
+摻進	tshaen tsin
+岔出	tsho chyuq
+車出	tsho chyuq
+車出個	tsho chyuq goq
+瘥了	tsho lei
+瘥個	tsho goq
+岔開	tsho khe
+扯開	tsho khe
+岔路個	tsho lu goq
+差落	tsho loq
+岔打岔	tsho tan tsho
+瘥點	tsho tien
+車子個	tsho tsy goq
+叉進	tsho tsin
+差朵	tsho to
+錯配	tshoq phei
+唱出	tshaon chyuq
+唱出來	tshaon chyuq le
+瘡毒	tshaon doq
+瘡個	tshaon goq
+唱好	tshaon hau
+倉庫	tshaon khu
+唱起	tshaon chi
+唱起來	tshaon chi le
+倉裏	tshaon li
+蒼玉	tshaon gnioq
+唱詩	tshaon sy
+唱唱	tshaon tshaon
+創造	tshaon zau
+創造個	tshaon zau goq
+創造一男	tshaon zau iq nein
+竄出去	tshoen chyuq chi
+竄出來	tshoen chyuq le
+竄落	tshoen loq
+攛掇	tshoen teq
+篡位	tshoen wei
+賭場裏	tu dzian li
+妒忌	tu ji
+妒忌個	tu ji goq
+妒忌心	tu ji sin
+都神殿	tu zhyun dien
+都計	tu ci
+賭輸個	tu shyu goq
+賭輸	tu shyu
+都是	tu zy
+戴住	te jyu
+歹歹	te te
+擔頭	taen deu
+撣掉	taen diau
+黵着	taen joq
+耽擱	taen koq
+耽擱個	taen koq goq
+耽擱東個	taen koq ton goq
+耽擱東	taen koq ton
+膽怯個	taen chiaq goq
+膽怯	taen chiaq
+耽擱記	taen koq ci
+耽擱間	taen koq kaen
+擔綱	taen kaon
+單講	taen kaon
+膽量	taen lian
+撣落	taen loq
+耽誤	taen ngu
+單身	taen sin
+單等	taen ten
+膽子	taen tsy
+擔子	taen tsy
+單只	taen tsiq
+單只消	taen tsiq siau
+丹青	taen tshin
+擔當	taen taon
+單當	taen taon
+朵化	to huo
+朵化個	to huo goq
+篤石頭案	toq zaq deu ein
+當頭	taon deu
+當着	taon joq
+當值個	taon dziq goq
+當弗住	taon feq jyu
+擋弗起	taon feq chi
+當弗起	taon feq chi
+擋勒住	taon leq jyu
+當勒起	taon leq chi
+當面前	taon mien zien
+當年	taon gnien
+當年個	taon gnien goq
+當兵	taon pin
+當兵個	taon pin goq
+當使當用	taon sy taon yon
+當初	taon tshu
+當初子	taon tshu tsy
+當夜	taon ya
+當時	taon zy
+當是	taon zy
+擋上	taon zaon
+斷法	toen faq
+短個	toen goq
+鍛過了	toen kou liau
+鍛過了個	toen kou liau goq
+鍛鍊	toen lien
+短點	toen tien
+端正	toen tsin
+端正個	toen tsin goq
+端莊	toen tsaon
+端端正正	toen toen tsin tsin
+太平	tha bin
+太平個	tha bin goq
+太平之	tha bin tsy
+他大尼里	tha da gni li
+太陰	tha in
+拖喫	tha chioq
+太監	tha kaen
+他拉	tha laq
+拖來個	tha le goq
+拖來	tha le
+泰山	tha saen
+太子	tha tsy
+太太平平	tha tha bin bin
+太陽裏	tha yan li
+塔裏個	thaq li goq
+塔裏	thaq li
+撻馬太	thaq mo tha
+塔打塔	thaq tan thaq
+塔燈	thaq ten
+榻上	thaq zaon
+套衣	thau i
+套衣個	thau i goq
+討過	thau kou
+討力	thau liq
+套進	thau tsin
+討還了	thau waen lei
+討是	thau zy
+退轉去	thei coen chi
+推出	thei chyuq
+推出來	thei chyuq le
+退了	thei lei
+推辭	thei dzy
+退婚	thei huen
+推基古	thei ci ku
+推開	thei khe
+推喇奴個	thei laq nu goq
+推喇奴	thei laq nu
+退了	thei leq
+推羅	thei lou
+退落	thei loq
+退路	thei lu
+推讓	thei gnian
+推撥	thei peq
+推扳點	thei paen tien
+推倒	thei tau
+推尊	thei tsen
+推尊個	thei tsen goq
+推託	thei thoq
+退位	thei wei
+推雅推喇	thei yo thei laq
+脫出了	theq chyuq lei
+脫掉	theq diau
+脫盡	theq dzin
+脫勒	theq leq
+脫落	theq loq
+貪圖	thein du
+貪財	thein dze
+貪財個	thein dze goq
+貪利個	thein li goq
+貪利	thein li
+貪私	thein sy
+貪色	thein seq
+貪心	thein sin
+探子	thein tsy
+貪酒	thein tsieu
+貪酒個	thein tsieu goq
+貪贓個	thein tsaon goq
+貪贓	thein tsaon
+探探	thein thein
+探聽	thein thin
+貪食	thein ziq
+吞掉	then diau
+褪掉	then diau
+褪掉了	then diau leq
+吞其掉	then ji diau
+氽去	then chi
+吞喫	then chioq
+氽勒去	then leq chi
+吞落	then loq
+氽來	then le
+褪落了	then loq lei
+透出	theu chyuq
+透出個	theu chyuq goq
+㪗出來	theu chyuq le
+透出來	theu chyuq le
+偷盜	theu dau
+偷個	theu goq
+透光	theu kuaon
+透光個	theu kuaon goq
+偷去	theu chi
+偷去個	theu chi goq
+㪗起來	theu chi le
+偷看	theu khien
+偷勒去	theu leq chi
+透亮個	theu lian goq
+透亮	theu lian
+偷來個	theu le goq
+偷來	theu le
+偷怕	theu pho
+偷的	theu tiq
+偷點	theu tien
+透多	theu tou
+㪗㪗	theu theu
+剃掉	thi diau
+替代	thi de
+體諒	thi lian
+體面	thi mien
+體面個	thi mien goq
+體面相	thi mien sian
+體質	thi tsiq
+貼金個	thiaq cin goq
+貼金	thiaq cin
+貼間	thiaq kaen
+帖撒	thiaq saq
+帖撒羅尼迦	thiaq saq lou gni cio
+帖撒羅尼迦個	thiaq saq lou gni cio goq
+帖土羅	thiaq thu lou
+跳出	thiau chyuq
+挑出	thiau chyuq
+挑動	thiau don
+挑弗動	thiau feq don
+跳過	thiau kou
+跳過去	thiau kou chi
+挑起	thiau chi
+跳起來	thiau chi le
+挑勒動	thiau leq don
+挑勒去	thiau leq chi
+跳落個	thiau loq goq
+糶撥	thiau peq
+挑選	thiau shoen
+挑選個	thiau shoen goq
+挑唆	thiau sou
+跳進去	thiau tsin chi
+跳跳	thiau thiau
+跳舞個	thiau vu goq
+踢出	thiq chyuq
+踢着	thiq joq
+鐵個	thiq goq
+鐵隔壁	thiq kaq piq
+鐵棍	thiq kuen
+鐵鏈	thiq lien
+鐵帽	thiq mau
+鐵門	thiq men
+鐵色無二個	thiq seq vu er goq
+鐵色無二	thiq seq vu er
+天竺	thien coq
+天主教個	thien cyu ciau goq
+天地	thien di
+天地個	thien di goq
+天地下	thien di gho
+天堂	thien daon
+天堂個	thien daon goq
+天堂裏	thien daon li
+天個	thien goq
+天國	thien koq
+天國個	thien koq goq
+天國裏	thien koq li
+天機	thien ci
+天氣	thien chi
+天空	thien khon
+天空裏	thien khon li
+天空裏個	thien khon li goq
+天牢	thien lau
+天理	thien li
+天裏個	thien li goq
+天來	thien le
+天來個	thien le goq
+天外	thien nga
+天亮個	thien gnian goq
+天兵	thien pin
+天兵天將	thien pin thien tsian
+天兵天將個	thien pin thien tsian goq
+天使	thien sy
+天使個	thien sy goq
+天四邊個	thien sy pien goq
+天四邊	thien sy pien
+天使長	thien sy tsian
+天使長個	thien sy tsian goq
+天生成個	thien san dzin goq
+天生成	thien san dzin
+天生個	thien san goq
+天將	thien tsian
+舔舔	thien thien
+天父	thien vu
+天父個	thien vu goq
+天凡百	thien vaen paq
+天話	thien wo
+天搖	thien yau
+天搖地動	thien yau di don
+天上	thien zaon
+天上個	thien zaon goq
+天下	thien gho
+天下個	thien gho goq
+天下人	thien gho gnin
+聽出	thin chyuq
+聽從	thin dzon
+聽法	thin faq
+聽弗出	thin feq chyuq
+聽個	thin goq
+聽過	thin kou
+聽見	thin cien
+聽勒出	thin leq chyuq
+聽勒出個	thin leq chyuq goq
+廳裏	thin li
+聽來個	thin le goq
+聽來	thin le
+聽聞了	thin men lei
+聽聞個	thin men goq
+聽聞其	thin men ji
+聽聞過	thin men kou
+聽聞仔	thin men tsy
+聽信	thin sin
+聽信個	thin sin goq
+聽東	thin ton
+聽懂個	thin ton goq
+聽懂	thin ton
+聽東個	thin ton goq
+聽仔	thin tsy
+聽聽	thin thin
+聽還	thin waen
+聽呀	thin ya
+拖出	thou chyuq
+拖出去	thou chyuq chi
+拖弗動	thou feq don
+拖腳面個	thou ciaq mien goq
+拖腳面	thou ciaq mien
+拖勒去	thou leq chi
+拖勒來	thou leq le
+拖上	thou zaon
+託付	thoq fu
+託託	thoq thoq
+通達	thon daq
+統共	thon gon
+痛苦	thon khu
+痛苦個	thon khu goq
+痛起來	thon chi le
+痛哭	thon khoq
+痛勒	thon leq
+痛勒厲害	thon leq li ghe
+通來通去	thon le thon chi
+通報	thon pau
+痛煞	thon saq
+統性	thon sin
+痛傷	thon saon
+統總	thon tson
+通透	thon theu
+通事	thon zy
+通行錢	thon ghan dzien
+通行個	thon ghan goq
+痛恨	thon ghen
+吐出	thu chyuq
+吐出個	thu chyuq goq
+土非拿	thu fi no
+土富撒	thu fu saq
+土音	thu in
+土姆	thu m
+土名	thu min
+土明	thu min
+土八	thu paq
+土八該隱	thu paq ke in
+土耳基	thu er ci
+土西拉	thu si laq
+土產	thu tshaen
+土話	thu wo
+胎裏	the li
+胎裏個	the li goq
+炭火	thaen hou
+嘆氣	thaen chi
+嘆氣個	thaen chi goq
+攤開	thaen khe
+攤開間個	thaen khe kaen goq
+攤開間	thaen khe kaen
+攤開的	thaen khe tiq
+灘裏	thaen li
+嘆息	thaen siq
+跺空	tho khon
+倘然	thaon zhoen
+湯流	thaon lieu
+烏篷	u bon
+熓了	u lei
+烏風	u fon
+熓個	u goq
+烏利個	u li goq
+烏利	u li
+烏利亞個	u li io goq
+烏利亞	u li io
+烏陵	u lin
+烏薩	u saq
+烏西亞	u si io
+烏薛	u siq
+烏薛個	u siq goq
+惡愫個	u su goq
+污壞	u we
+污環	u waen
+污穢	u uei
+烏娃	u uaen
+烏士	u zy
+婉轉	un coen
+碗裏個	un li goq
+碗裏	un li
+罰出	vaq chyuq
+罰過個	vaq kou goq
+罰過	vaq kou
+罰過咒	vaq kou tsieu
+罰落	vaq loq
+罰進	vaq tsin
+罰咒個	vaq tsieu goq
+罰咒過了	vaq tsieu kou liau
+罰咒過了個	vaq tsieu kou liau goq
+罰惡	vaq oq
+𣍐個	vei goq
+佛個	veq goq
+佛羅倫斯	veq lou len sy
+佛蘭西	veq laen si
+問道個	ven dau goq
+墳頭頂	ven deu ten
+墳地	ven di
+墳地個	ven di goq
+墳田	ven dien
+文法	ven faq
+墳個	ven goq
+墳窠裏	ven khou li
+文理	ven li
+墳裏	ven li
+墳裏頭	ven li deu
+紋路	ven lu
+紋路個	ven lu goq
+聞名	ven min
+墳墓個	ven mou goq
+墳墓裏	ven mou li
+文書	ven shyu
+份子	ven tsy
+份份	ven ven
+文雅	ven yo
+文字	ven zy
+文字個	ven zy goq
+焚自	ven zi
+份齊	ven zi
+復活	veu weq
+復活之	veu weq tsy
+負義	veu yi
+浮言	veu yen
+未可知	vi khou cyu
+未來	vi le
+未來個	vi le goq
+未免	vi mien
+未必	vi piq
+維蘇維	vi su vi
+復轉	voq coen
+復轉來	voq coen le
+服個	voq goq
+服其	voq ji
+服拉	voq laq
+伏來	voq le
+服役	voq yoq
+服役個	voq yoq goq
+服侍	voq zy
+服侍個	voq zy goq
+服罪	voq zei
+縫出	von chyuq
+甮了	von lei
+奉承	von dzin
+奉承個	von dzin goq
+逢凶	von shion
+縫裏	von li
+奉之	von tsy
+奉旨	von tsy
+奉差	von tsha
+縫烏	von u
+奉侍	von zy
+奉侍個	von zy goq
+無終	vu con
+無處	vu chyu
+附着	vu joq
+無盡	vu dzin
+無從	vu dzon
+扶助	vu dzu
+無法	vu faq
+無弗	vu feq
+無弗安穩	vu feq ein uen
+無非	vu fi
+無窮	vu jion
+無窮盡	vu jion dzin
+無花果	vu huo kou
+無益	vu iq
+無益個	vu iq goq
+無益之舉	vu iq tsy ciu
+無影	vu in
+無酵	vu kau
+無酵餅	vu kau pin
+無酵餅個	vu kau pin goq
+無酵節	vu kau tsiq
+無酵節個	vu kau tsiq goq
+無故	vu ku
+武官	vu kun
+無稽之	vu ci tsy
+浮起	vu chi
+無價之	vu ko tsy
+父老	vu lau
+附勒	vu leq
+無力量	vu liq lian
+父母	vu meu
+無謀	vu meu
+無岸	vu ngein
+無礙	vu nge
+武藝子	vu gniq tsy
+無不知	vu peq cyu
+無不能	vu peq nen
+無比	vu pi
+務必子	vu piq tsy
+無邊	vu pien
+無二言	vu er yen
+無始	vu sy
+無私	vu sy
+無始無終	vu sy vu con
+無心個	vu sin goq
+無心	vu sin
+無所	vu so
+無所不知	vu so peq cyu
+無所不在	vu so peq dze
+無所不能	vu so peq nen
+無所不能個	vu so peq nen goq
+無所不爲	vu so peq wei
+無對	vu tei
+無底	vu ti
+附的	vu tiq
+附的個	vu tiq goq
+無蹤	vu tson
+無千	vu tshien
+無天	vu thien
+無萬	vu vaen
+無妄	vu vaon
+無言	vu yen
+無有	vu yeu
+無緣	vu yoen
+無用	vu yon
+無用個	vu yon goq
+無用之物	vu yon tsy veq
+無冤	vu ioen
+無害	vu ghe
+萬倍	vaen bei
+萬衆人	vaen con gnin
+萬主之	vaen cyu tsy
+飯鈿	vaen dien
+犯着過	vaen joq kou
+犯着了	vaen joq lei
+萬代	vaen de
+犯法個	vaen faq goq
+萬福	vaen foq
+萬福之	vaen foq tsy
+犯個	vaen goq
+萬羣	vaen jiun
+萬權	vaen jioen
+萬神之	vaen zhyun tsy
+萬善	vaen zhoen
+犯過	vaen kou
+犯過個	vaen kou goq
+萬國	vaen koq
+萬國個	vaen koq goq
+萬國九州	vaen koq cieu tsieu
+萬國人	vaen koq gnin
+萬國人個	vaen koq gnin goq
+犯勒	vaen leq
+飯糧	vaen lian
+萬民	vaen min
+煩惱	vaen nau
+犯難	vaen naen
+凡百個	vaen paq goq
+萬數	vaen su
+犯得	vaen teq
+犯的	vaen tiq
+燔祭	vaen tsi
+燔祭個	vaen tsi goq
+晚餐	vaen tshaen
+萬物	vaen veq
+萬物個	vaen veq goq
+萬物之	vaen veq tsy
+萬物之上	vaen veq tsy zaon
+萬萬	vaen vaen
+繁華	vaen wo
+萬華之	vaen wo tsy
+藩王	vaen waon
+萬王	vaen waon
+藩王個	vaen waon goq
+萬王之	vaen waon tsy
+萬王之王	vaen waon tsy waon
+萬樣	vaen yan
+萬有之	vaen yeu tsy
+犯罪個	vaen zei goq
+犯罪個	vaen zei kou
+飯食	vaen ziq
+妄動	vaon don
+忘恩個	vaon en goq
+妄喫	vaon chioq
+妄喫妄用	vaon chioq vaon yon
+房裏	vaon li
+房裏個	vaon li goq
+房子裏	vaon tsy li
+妄作妄爲個	vaon tsoq vaon wei goq
+妄作妄爲	vaon tsoq vaon wei
+房份	vaon ven
+房分	vaon ven
+妄用	vaon yon
+還有星	wa yeu sin
+還有得	wa yeu teq
+橫財	wan dze
+橫閂	wan shoen
+橫死	wan si
+橫檔	wan taon
+橫行不法個	wan yin peq faq goq
+橫行不法	wan yin peq faq
+回轉	wei coen
+圍轉	wei coen
+爲頭爲腦	wei deu wei nau
+會着	wei joq
+會着個	wei joq goq
+會堂裏	wei daon li
+爲非	wei fi
+回覆	wei foq
+爲一	wei iq
+爲一個	wei iq goq
+迴角裏	wei koq li
+圍困了	wei khuen lei
+會見	wei cien
+會講會話個	wei kaon wei wo goq
+會攏	wei lon
+會面	wei mien
+韋內瑟	wei nei seq
+韋內色	wei nei seq
+違逆	wei gniq
+爲業	wei gniq
+爲人	wei gnin
+回報	wei pau
+回心轉意	wei sin coen i
+回心轉意個	wei sin coen i goq
+回數	wei su
+回答	wei teq
+回答個	wei teq goq
+回答勒	wei teq leq
+回子	wei tsy
+爲止	wei tsy
+會做	wei tsou
+回回	wei wei
+會會	wei wei
+爲爲	wei wei
+回回教	wei wei ciau
+匯齊	wei zi
+活轉	weq coen
+活轉來	weq coen le
+活轉來個	weq coen le goq
+活突個	weq deq goq
+活突	weq deq
+活動	weq don
+活動個	weq don goq
+活個	weq goq
+𣝗個	weq goq
+活其	weq ji
+活過	weq kou
+活起來	weq chi le
+活間	weq kaen
+活靈個	weq lin goq
+活路	weq lu
+活命	weq min
+活命個	weq min goq
+活人個	weq gnin goq
+活潑潑地	weq phaq phaq di
+活水	weq shyu
+活水個	weq shyu goq
+活東	weq ton
+活東個	weq ton goq
+活祭	weq tsi
+活脫過個	weq theq kou goq
+活脫過	weq theq kou
+活物	weq veq
+活活	weq weq
+活前	weq zien
+活前個	weq zien goq
+活上	weq zaon
+魂靈	wen lin
+渾身個	wen sin goq
+混帳	wen tsian
+混進來個	wen tsin le goq
+混進來	wen tsin le
+戶平	wu bin
+糊塗	wu du
+糊塗個	wu du goq
+戶口	wu kheu
+戶勒	wu leq
+湖裏	wu li
+戶糧房	wu lian vaon
+胡嚨響亮	wu lon shian lian
+湖邊	wu pien
+戶珥	wu er
+戶珥個	wu er goq
+戶斯	wu sy
+五旬節	wu shyun tsiq
+五旬節個	wu shyun tsiq goq
+戶伸	wu sin
+護心鏡	wu sin cin
+護送	wu son
+戶珊	wu saen
+湖羊	wu yan
+完全	wun joen
+完全個	wun joen goq
+完個	wun goq
+換過	wun kou
+完工	wun kon
+完工弗來	wun kon feq le
+換新	wun sin
+緩緩	wun wun
+完完	wun wun
+緩緩勒	wun wun leq
+壞掉個	we diau goq
+懷起	we chi
+懷起來	we chi le
+懷聲	we sin
+懷懷響	we we shian
+還轉來	waen coen le
+還弗來	waen feq le
+還弗完	waen feq wun
+還個	waen goq
+患難	waen naen
+患難個	waen naen goq
+患難之	waen naen tsy
+還報個	waen pau goq
+還完	waen wun
+話出	wo chyuq
+話出來	wo chyuq le
+話了	wo lei
+話着	wo joq
+話法	wo faq
+話弗來	wo feq le
+話個	wo goq
+話好	wo hau
+話向	wo shian
+話向爾道	wo shian ng dau
+話過	wo kou
+話過個	wo kou goq
+話過了	wo kou liau
+話起	wo chi
+話起來	wo chi le
+話開去	wo khe chi
+話勒	wo leq
+華麗	wo li
+話爾拉	wo ng laq
+話啥	wo soq
+話的	wo tiq
+話的個	wo tiq goq
+話仔	wo tsy
+話帶來	wo taen le
+話話	wo wo
+華華	wo wo
+蝗蟲	waon jon
+王法	waon faq
+王個	waon goq
+王宮	waon kon
+皇宮	waon kon
+王宮裏	waon kon li
+惶恐了	waon khon lei
+惶恐個	waon khon goq
+惶恐勒緊	waon khon leq cin
+惶恐相	waon khon sian
+黃梅	waon mei
+黃玉	waon gnioq
+王孫	waon sen
+皇帝	waon ti
+皇帝個	waon ti goq
+皇帝個權柄	waon ti goq jioen pin
+王位	waon wei
+黃黃	waon waon
+皇上	waon zaon
+王后	waon gheu
+壞處	ua chyu
+壞法	ua faq
+壞鄉方	ua shian faon
+壞起來	ua chi le
+壞勒	ua leq
+壞壞	ua ua
+壞樣	ua yan
+壞是	ua zy
+橫纏	uan dzien
+橫禮	uan li
+橫綳勛流	uan pan shiun lieu
+橫綳勛流個	uan pan shiun lieu goq
+橫七纏八個	uan tshiq dzien paq goq
+橫七纏八	uan tshiq dzien paq
+威風	uei fon
+威光	uei kuaon
+委曲	uei chioq
+威嚴	uei gnien
+威勢	uei shyu
+穢污	uei u
+穢污個	uei u goq
+穢污八剌	uei u paq la
+痿痿碎碎	uei uei sei sei
+挖開仔	ueq khe tsy
+𩑦𩑦	ueq ueq
+瘟人	uen gnin
+搵點	uen tien
+穩當	uen taon
+穩當個	uen taon goq
+穩穩	uen uen
+瘟疫	uen yoq
+溫柔	uen zieu
+溫柔個	uen zieu goq
+彎曲	uaen chioq
+彎曲個	uaen chioq goq
+挽回	uaen wei
+挽回轉	uaen wei coen
+挽回之	uaen wei tsy
+彎彎	uaen uaen
+往往	uaon uaon
+往前	uaon zien
+遺囑個	yi coq goq
+遺囑	yi coq
+以大利	yi da li
+以大瑪	yi da mo
+以大拿	yi da no
+以特	yi deq
+以藤	yi den
+移動	yi don
+以法	yi faq
+以法大	yi faq da
+以法個	yi faq goq
+以法蓮	yi faq lien
+以法蓮個	yi faq lien goq
+以弗	yi feq
+移弗動	yi feq don
+以弗個	yi feq goq
+以弗崙	yi feq len
+以弗崙個	yi feq len goq
+以希	yi shi
+又虛	yi shiu
+又實個	yi zhyuq goq
+又實	yi zhyuq
+以實各	yi zhyuq koq
+以實瑪利	yi zhyuq mo li
+以實瑪利個	yi zhyuq mo li goq
+移過	yi kou
+移過個	yi kou goq
+移過去	yi kou chi
+以哥念	yi kou gniaen
+以哥念個	yi kou gniaen goq
+已經	yi cin
+已經興旺	yi cin shin waon
+以拉	yi laq
+以拉大	yi laq da
+以拉撒	yi laq saq
+以拉都	yi laq tu
+以倫	yi len
+以倫個	yi len goq
+以利	yi li
+以利法	yi li faq
+以利法個	yi li faq goq
+以利加拿	yi li cio no
+以利哩古	yi li li ku
+以利羅熙	yi li lou shi
+以呂馬	yi li mo
+以利撒反	yi li saq faen
+以利沙	yi li so
+以利沙伯	yi li so paq
+以利沙巴	yi li so po
+以利亞	yi li io
+以利亞敬	yi li io cin
+以利亞撒	yi li io saq
+以律	yi liq
+以力	yi liq
+以列撒	yi liq saq
+以琳	yi lin
+遺落	yi loq
+遺落個	yi loq goq
+以來	yi le
+以攔	yi laen
+以蘭	yi laen
+以攔個	yi laen goq
+遺落東	yi loq ton
+以米	yi mi
+以摩堂	yi mou daon
+以馬內列	yi mo nei liq
+以馬忤	yi mo ngu
+以馬努力	yi mo nu liq
+以挪士	yi nou zy
+以諾	yi noq
+以諾個	yi noq goq
+以尼雅	yi gni yo
+以八	yi paq
+以彼古羅	yi pei ku lou
+以拜尼土	yi pe gni thu
+以巴弗	yi po feq
+以巴弗提	yi po feq di
+以斯哈	yi sy ha
+以斯哈個	yi sy ha goq
+以撒	yi saq
+以撒個	yi saq goq
+以薩迦	yi saq cio
+以薩迦個	yi saq cio goq
+以掃	yi sau
+以掃個	yi sau goq
+以色列	yi seq liq
+以色列個	yi seq liq goq
+以書以	yi shyu yi
+以書亞	yi shyu io
+又死	yi si
+以賽亞	yi se io
+以賽亞個	yi se io goq
+以東	yi ton
+以東個	yi ton goq
+以察	yi tshaq
+以察個	yi tshaq goq
+遺產個	yi tshaen goq
+遺產	yi tshaen
+異端	yi toen
+以土利亞	yi thu li io
+以土買	yi thu me
+又會	yi wei
+又是	yi zy
+以士迦	yi zy cio
+以士崙	yi zy len
+以士里	yi zy li
+以士本	yi zy pen
+又像	yi zian
+以前個	yi zien goq
+以下個	yi gho goq
+野種	ya con
+夜了	ya lei
+野氣個	ya chi goq
+夜裏	ya li
+夜裏個	ya li goq
+野獸個	ya sieu goq
+野鳥	ya tiau
+野草	ya tshau
+也會	ya wei
+夜夜	ya ya
+爺爺	ya ya
+也有	ya yeu
+也是	ya zy
+夜學	ya ghoq
+藥方	yaq faon
+協力	yaq liq
+藥店裏	yaq tien li
+羊皮	yan bi
+羊隊	yan dei
+羊隊個	yan dei goq
+羊隊裏	yan dei li
+羊隊裏個	yan dei li goq
+煬掉	yan diau
+羊個	yan goq
+樣個	yan goq
+羊圈裏	yan jien li
+揚起	yan chi
+揚起來	yan chi le
+揚開	yan khe
+揚開去	yan khe chi
+煬開了	yan khe liau
+煬開了個	yan khe liau goq
+洋里	yan li
+楊柳	yan lieu
+羊毛	yan mau
+羊門	yan men
+羊牧	yan moq
+羊奶	yan na
+佯庇	yan pi
+樣式	yan shyuq
+樣式個	yan shyuq goq
+養性修德	yan sin sieu teq
+樣打樣	yan tan yan
+養足	yan tsoq
+樣樣	yan yan
+羊油	yan yeu
+搖動	yau don
+搖攏	yau lon
+效驗	yau gniaen
+搖頓鼓	yau ten ku
+搖祭	yau tsi
+搖祭個	yau tsi goq
+搖搖	yau yau
+謠言	yau yen
+搖惑	yau ghoq
+亦甲撒哈土大	yiq ciaq saq ha thu da
+葉羅	yiq lou
+葉羅個	yiq lou goq
+葉徠	yiq le
+翼梢個	yiq sau goq
+葉子	yiq tsy
+現出	yen chyuq
+現出個	yen chyuq goq
+現出來	yen chyuq le
+現出來個	yen chyuq le goq
+現出東	yen chyuq ton
+焰頭	yen deu
+現在	yen dze
+現在個	yen dze goq
+現在呢	yen dze ni
+沿個	yen goq
+鹽個	yen goq
+現化	yen huo
+延開	yen khe
+延開去	yen khe chi
+沿裏	yen li
+豔麗	yen li
+豔麗個	yen li goq
+言語	yen gniu
+言語個	yen gniu goq
+延燒	yen siau
+引導	yin dau
+引導個	yin dau goq
+引動	yin don
+營寨裏	yin dza li
+刑具	yin jiu
+贏喜得	yin shi teq
+贏過	yin kou
+贏了點	yin leq tien
+營裏	yin li
+營裏個	yin li goq
+淫亂	yin loen
+淫亂個	yin loen goq
+營門口	yin men kheu
+贏面	yin mien
+營兵	yin pin
+淫心	yin sin
+贏仔	yin tsy
+形跡	yin tsiq
+刑罰	yin vaq
+刑罰個	yin vaq goq
+刑罰裏	yin vaq li
+淫婦	yin vu
+淫婦個	yin vu goq
+引誘	yin yeu
+淫事	yin zy
+營寨	yin za
+營寨個	yin za goq
+營寨裏	yin za li
+營寨裏個	yin za li goq
+營寨外	yin za nga
+形象	yin zian
+有病個	yeu bin goq
+有病	yeu bin
+有趣	yeu chyu
+猶大個	yeu da goq
+有福	yeu foq
+油坊裏	yeu faon li
+遊戲個	yeu shi goq
+遊戲	yeu shi
+遊戲浪蕩	yeu shi laon daon
+誘押	yeu iaq
+有益	yeu iq
+有一個	yeu iq goq
+有一	yeu iq
+有如	yeu zhyu
+游過去	yeu kou chi
+油罐裏	yeu kun li
+有講	yeu kaon
+有口	yeu kheu
+有佬了	yeu lau lei
+有佬個	yeu lau goq
+猶利亞	yeu li io
+猶流	yeu lieu
+友羅革騰	yeu lou keq den
+遊路	yeu lu
+有名頭	yeu min deu
+有名頭個	yeu min deu goq
+有名個	yeu min goq
+有名	yeu min
+友尼基個	yeu gni ci goq
+友尼基	yeu gni ci
+猶尼亞	yeu gni io
+友阿爹	yeu ou tia
+猶八	yeu paq
+油餅	yeu pin
+友布羅	yeu pu lou
+有雪個	yeu shyuq goq
+有雪	yeu shyuq
+有得	yeu teq
+有得個	yeu teq goq
+猶滴	yeu tiq
+有的個	yeu tiq goq
+有的	yeu tiq
+有點	yeu tien
+猶之乎	yeu tsy wu
+猶太	yeu tha
+猶太個	yeu tha goq
+猶推古	yeu thei ku
+猶太國	yeu the koq
+有份	yeu ven
+有份個	yeu ven goq
+有餘	yeu yu
+有餘不剩	yeu yu peq dzin
+有勇	yeu yon
+猶士都	yeu zy tu
+有罪	yeu zei
+有罪個	yeu zei goq
+有壽	yeu zieu
+誘惑	yeu ghoq
+有害個	yeu ghe goq
+有害	yeu ghe
+有限	yeu ghaen
+有限個	yeu ghaen goq
+誘惑個	yeu ghoq goq
+埃田	ye dien
+懈怠	ye de
+耶弗大	ye feq da
+埃及個	ye jiq goq
+耶哥尼亞	ye kou gni io
+耶拉	ye laq
+耶利哥	ye li kou
+耶利米	ye li mi
+睚魯	ye lu
+耶路撒冷	ye lu saq len
+耶路撒冷個	ye lu saq len goq
+耶母利	ye meu li
+耶布西	ye pu si
+耶布士	ye pu zy
+埃色	ye seq
+耶色	ye seq
+耶孫	ye sen
+耶西	ye si
+耶洗別	ye si biq
+耶西個	ye si goq
+耶穌	ye su
+耶穌個	ye su goq
+耶穌教個	ye su ciau goq
+耶穌以前	ye su yi zien
+耶帖	ye thiaq
+耶是	ye zy
+耶和華個	ye ghou wo goq
+預備	yu bei
+預備好間個	yu bei hau kaen goq
+預備好間	yu bei hau kaen
+預備日	yu bei gniq
+預備日個	yu bei gniq goq
+圍轉	yu coen
+宇宙	yu dzieu
+愈加	yu ko
+圍勒	yu leq
+羽林兵	yu lin pin
+圍攏間	yu lon kaen
+圍攏來	yu lon le
+預先	yu sien
+餘多個	yu tou goq
+餘黨	yu taon
+預言	yu yen
+逾越	yu yuq
+逾越節	yu yuq tsiq
+逾越節個	yu yuq tsiq goq
+圍牆個	yu zian goq
+月頭	yuq deu
+越發	yuq faq
+越弗是	yuq feq zy
+越近	yuq jin
+越兇	yuq shion
+月經	yuq cin
+抈去	yuq chi
+越講	yuq kaon
+月裏	yuq li
+月亮個	yuq lian goq
+越弄	yuq lon
+抈來	yuq le
+悅色	yuq seq
+越多	yuq tou
+抈帶攏	yuq taen lon
+月份個	yuq ven goq
+越會	yuq wei
+抈抈	yuq yuq
+雲柱	yun jyu
+運動	yun don
+運動個	yun don goq
+雲個	yun goq
+芸香	yun shian
+雲集	yun zhyuq
+運氣	yun chi
+雲裏	yun li
+雲頂	yun ten
+園主	yoen cyu
+遠處	yoen chyu
+遠處個	yoen chyu goq
+園頭	yoen deu
+懸掉	yoen diau
+園個	yoen goq
+圓個	yoen goq
+遠個	yoen goq
+遠近	yoen jin
+遠如	yoen zhyu
+緣故	yoen ku
+縣官	yoen kun
+遠開	yoen khe
+園裏	yoen li
+園裏個	yoen li goq
+縣裏個	yoen li goq
+縣裏	yoen li
+園外	yoen nga
+懸勢地	yoen shyu di
+遠點	yoen tien
+縣份	yoen ven
+緣份	yoen ven
+遠遠	yoen yoen
+遠遠個	yoen yoen goq
+浴盆	yoq ben
+疫病	yoq bin
+慾心	yoq sin
+用着	yon joq
+用剩個	yon dzin goq
+用剩	yon dzin
+用弗着個	yon feq joq goq
+用弗完	yon feq wun
+用弗完個	yon feq wun goq
+用個	yon goq
+用強	yon jian
+用工個	yon kon goq
+用工	yon kon
+用勒	yon leq
+用拉	yon lha
+雄牛個	yon ngeu goq
+用心	yon sin
+雄山羊	yon saen yan
+雄山羊個	yon saen yan goq
+雄湖羊	yon wu yan
+用完	yon wun
+榮華	yon wo
+榮華個	yon wo goq
+容易個	yon yi goq
+雄羊	yon yan
+雄羊皮	yon yan bi
+雄羊皮個	yon yan bi goq
+雄羊個	yon yan goq
+容受	yon zieu
+雅泊	yo boq
+雅弗	yo feq
+雅弗個	yo feq goq
+雅番	yo faen
+雅番個	yo faen goq
+雅各	yo koq
+雅各仍舊	yo koq dzin jieu
+雅各個	yo koq goq
+夏甲	yo ciaq
+雅斤	yo cin
+雅利	yo li
+雅列	yo liq
+雅蘭	yo laen
+雅憫	yo min
+雅尼	yo gni
+雅拿	yo no
+雅八	yo paq
+雅薛	yo siq
+雅典	yo tien
+瑕點	yo tien
+㗇㗇嘶	yo yo si
+慾火	yoq hou
+士大古	zy da ku
+時道個	zy dau goq
+是了	zy lei
+字頭	zy dein
+士提反	zy di faen
+時常	zy jaon
+侍值	zy dziq
+市值估價	zy dziq ku ko
+事成	zy dzin
+是非心	zy fi sin
+士求	zy jieu
+是應該	zy in ke
+時介	zy ka
+是介個	zy ka goq
+是箇頭	zy keq deu
+事幹個	zy kien goq
+事幹過	zy kien kou
+士基華	zy ci wo
+示劍	zy cien
+示劍個	zy cien goq
+㖷喀	zy khaq
+㖷喀	zy kheq
+時刻	zy kheq
+示拉	zy laq
+市裏個	zy li goq
+市裏	zy li
+示臉	zy lien
+示每	zy mei
+士每拿	zy mei no
+字母	zy meu
+士米別	zy mi biq
+市面上	zy mien zaon
+士納	zy neq
+字眼	zy ngaen
+事業	zy gniq
+士拿	zy no
+示玻	zy pou
+士班雅	zy paen yo
+示巴	zy po
+士師	zy sy
+時世個	zy shyu goq
+士多亞個	zy tou io goq
+士多亞	zy tou io
+士子	zy tsy
+時節	zy tsi
+時節	zy tsiq
+時節	zy tsien
+侍衛	zy wei
+侍衛頭個	zy wei deu goq
+侍衛頭	zy wei deu
+侍衛個	zy wei goq
+似乎一景	zy wu iq cin
+氏奚勒	zy yi leq
+寺院	zy yoen
+寺院裏	zy yoen li
+時疫	zy yoq
+時時	zy zy
+時候	zy gheu
+侍候	zy gheu
+時候個	zy gheu goq
+侍候東	zy gheu ton
+豺狼	za laon
+𧼰出來	zaq chyuq le
+𧼰出來個	zaq chyuq le goq
+石頭個	zaq deu goq
+石頭上	zaq deu zaon
+石洞	zaq don
+石碑	zaq pei
+石碑牌	zaq pei ba
+石碑牌裏	zaq pei ba li
+石碑上	zaq pei zaon
+石水缸	zaq shyu kaon
+賊贓	zaq tsaon
+賊臭了	zaq tshieu lei
+賊臭個	zaq tshieu goq
+石油	zaq yeu
+石油個	zaq yeu goq
+造出	zau chyuq
+造出來	zau chyuq le
+造出來個	zau chyuq le goq
+造成	zau dzin
+造成了	zau dzin liau
+造個	zau goq
+造好	zau hau
+造化	zau huo
+造化之	zau huo tsy
+皂莢木	zau ciaq moq
+造起	zau chi
+造開	zau khe
+造勒	zau leq
+皂吏	zau li
+槽裏	zau li
+造進	zau tsin
+造物	zau veq
+造造	zau zau
+隨便	zei bien
+罪中	zei con
+隨從	zei dzon
+罪個	zei goq
+隨其	zei ji
+隨意	zei i
+罪辱	zei zhoq
+罪魁	zei khuei
+銳氣	zei chi
+罪愆	zei chien
+罪愆個	zei chien goq
+罪裏	zei li
+銳羅底	zei lou ti
+罪名	zei min
+罪名個	zei min goq
+罪孽個	zei gniq goq
+罪人個	zei gnin goq
+罪祭	zei tsi
+隨時	zei zy
+罪惡	zei oq
+罪惡個	zei oq goq
+罪惡之	zei oq tsy
+隨後	zei gheu
+雜箇愣敦	zeq keq len ten
+賊窠	zeq khou
+賊人	zeq gnin
+雜七不剌	zeq tshiq peq la
+鏨出	zein chyuq
+鏨子	zein tsy
+愁悶	zeu men
+齊備了	zi bei lei
+齊動	zi don
+自立爲王	zi liq wei waon
+自尊自大	zi tsen zi dou
+自由自在了	zi yeu zi dze lei
+自由自在個	zi yeu zi dze goq
+邪病	zia bin
+謝恩	zia en
+謝恩祭	zia en tsi
+邪法	zia faq
+謝好仔	zia hau tsy
+邪術	zia zhyuq
+邪術個	zia zhyuq goq
+邪開去	zia khe chi
+邪靈	zia lin
+邪靈個	zia lin goq
+邪路	zia lu
+邪僻個	zia phiq goq
+邪僻	zia phiq
+謝謝	zia zia
+弱病	ziaq bin
+若講	ziaq kaon
+若能夠	ziaq nen keu
+若瑟	ziaq seq
+若話	ziaq wo
+若有	ziaq yeu
+若是	ziaq zy
+牆洞	zian don
+像意	zian i
+橡樹	zian zhyu
+像腳	zian ciaq
+牆腳個	zian ciaq goq
+牆腳上	zian ciaq zaon
+像兩國	zian lian koq
+象牙	zian ngo
+兆頭	ziau deu
+兆頭現出	ziau deu yen chyuq
+舌辯	ziq bien
+舌頭個	ziq deu goq
+蝕掉	ziq diau
+蝕煞	ziq saq
+射箭	ziq tsien
+射箭個	ziq tsien goq
+食言	ziq yen
+食言個	ziq yen goq
+前頭個	zien deu goq
+前代個	zien de goq
+前代	zien de
+錢糧	zien lian
+前明堂	zien min daon
+前半橛	zien pun jiuq
+前書	zien shyu
+前前後後個	zien zien gheu gheu goq
+前前後後	zien zien gheu gheu
+前後	zien gheu
+靜辦	zin baen
+盡頭	zin deu
+盡頭個	zin deu goq
+尋着了	zin joq lei
+尋着個	zin joq goq
+尋着仔	zin joq tsy
+甚大咒	zin dou tsieu
+尋弗來	zin feq le
+淨個	zin goq
+盡個	zin goq
+甚許多	zin shiu tou
+尋去	zin chi
+尋勒到	zin leq tau
+城裏	zin li
+城裏個	zin li goq
+城裏向個	zin li shian goq
+城裏向	zin li shian
+靜落	zin loq
+城外	zin nga
+淨日	zin gniq
+繩索	zin soq
+尋到	zin tau
+盛多少	zin tou siau
+甚至於	zin tsy iu
+靜帶落	zin taen loq
+尋事	zin zy
+尋事吵鬧	zin zy tshau nau
+靜靜	zin zin
+盛盛	zin zin
+乘乘	zin zin
+受個	zieu goq
+受過	zieu kou
+受過仔	zieu kou tsy
+受苦	zieu khu
+受苦個	zieu khu goq
+受苦受難	zieu khu zieu naen
+受驚	zieu cin
+受難	zieu naen
+受難個	zieu naen goq
+受傷	zieu saon
+就到	zieu tau
+就將	zieu tsian
+受胎	zieu the
+受胎個	zieu the goq
+壽墳	zieu ven
+壽墳裏	zieu ven li
+就話	zieu wo
+受用	zieu yon
+受用個	zieu yon goq
+就是	zieu zy
+就是個	zieu zy goq
+就是介	zieu zy ka
+受罪	zieu zei
+受害	zieu ghe
+坐頭	zou deu
+座頭	zou deu
+坐個	zou goq
+坐一坐	zou iq zou
+坐起	zou chi
+坐起來	zou chi le
+坐間	zou kaen
+坐間個	zou kaen goq
+坐客	zou khaq
+坐勒	zou leq
+坐落	zou loq
+坐攏	zou lon
+坐來	zou le
+坐落仔	zou loq tsy
+坐滿	zou mun
+坐的個	zou tiq goq
+坐東	zou ton
+坐東個	zou ton goq
+座子	zou tsy
+坐仔	zou tsy
+座子裏	zou tsy li
+坐帶落	zou taen loq
+坐帶攏	zou taen lon
+座位	zou wei
+坐位	zou wei
+座位個	zou wei goq
+座位裏	zou wei li
+座位前	zou wei zien
+座位上	zou wei zaon
+坐罪	zou zei
+坐罪了個	zou zei liau goq
+坐罪了	zou zei liau
+坐席	zou ziq
+坐席個	zou ziq goq
+坐坐	zou zou
+鑿過個	zoq kou goq
+鑿過	zoq kou
+𧮙罵	zoq mo
+𧮙還	zoq waen
+財主	ze cyu
+昨日子個	zo gni tsy goq
+鑿出來	zoq chyuq le
+鑿出來個	zoq chyuq le goq
+𧮙罵個	zoq mo goq
+𧮙人罵倒個	zoq gnin mo tau goq
+𧮙人罵倒	zoq gnin mo tau
+上軛了	zaon aq liau
+上主	zaon cyu
+上主個	zaon cyu goq
+上頭個	zaon deu goq
+嚐着	zaon joq
+嚐着過	zaon joq kou
+上法	zaon faq
+上好斯樣個	zaon hau sy gnian goq
+上過	zaon kou
+嚐過	zaon kou
+上工個	zaon kon goq
+上古之世	zaon ku tsy shyu
+上去	zaon chi
+尚恐怕	zaon khon pho
+上勒	zaon leq
+上落水	zaon loq shyu
+上來	zaon le
+上來個	zaon le goq
+上落水旺	zaon loq shyu waon
+上岸	zaon ngein
+上輩個	zaon pei goq
+上輩	zaon pei
+嘗新	zaon sin
+嘗新個	zaon sin goq
+上頂個	zaon ten goq
+上的個	zaon tiq goq
+上的	zaon tiq
+上賬	zaon tsian
+上湊	zaon tsheu
+尚且	zaon tshia
+上倉	zaon tshaon
+上倉個	zaon tshaon goq
+上天	zaon thien
+上文	zaon ven
+上位	zaon wei
+上諭	zaon yu
+上前	zaon zien
+上前個	zaon zien goq
+嚐嚐看	zaon zaon khien
+上下	zaon gho
+哀杖	e dzian
+愛個	e goq
+哀求	e jieu
+愛敬	e cin
+愛敬個	e cin goq
+哀憐	e lien
+哀憐個	e lien goq
+哀憐心	e lien sin
+愛來愛去	e le e chi
+哀嫩	e nen
+愛惜個	e siq goq
+愛惜爾個	e siq ng goq
+愛惜爾	e siq ng
+愛惜心	e siq sin
+愛心	e sin
+愛心個	e sin goq
+愛子	e tsy
+哀痛	e thon
+丫頭個	o deu goq
+啞口個	o kheu goq
+啞口	o kheu
+啞口無言	o kheu vu yen
+椏枝	o tsy
+椏枝個	o tsy goq
+椏枝裏	o tsy li
+𢛟惶	o waon
+𢛟惶個	o waon goq
+𢛟惶相	o waon sian
+哦㗇	o yo
+哦㗇	o io
+惡嘴	oq cyu
+惡毒	oq doq
+惡毒個	oq doq goq
+惡個	oq goq
+惡好看	oq hau khien
+惡好看個	oq hau khien goq
+惡歡喜	oq hun shi
+惡意	oq i
+惡要	oq iau
+惡要想	oq iau sian
+惡要相	oq iau sian
+惡狗	oq keu
+惡角落頭個	oq koq loq dein goq
+惡角落頭	oq koq loq dein
+惡貫	oq kun
+惡貫滿盈	oq kun mun yin
+惡計	oq ci
+惡鬼個	oq ciu goq
+惡名	oq min
+惡孽	oq gniq
+惡逆	oq gniq
+惡業個	oq gniq goq
+惡業	oq gniq
+惡人個	oq gnin goq
+惡念	oq gniaen
+惡報	oq pau
+惡想	oq sian
+惡心個	oq sin goq
+惡心	oq sin
+惡手	oq sieu
+惡多	oq tou
+惡話	oq wo
+惡事	oq zy
+惡惡個	oq oq goq
+怏了	aon lei
+怏起來	aon chi le
+怏勒	aon leq
+怏煞	aon saq
+怏糟糟	aon tsau tsau
+椅子裏	iu tsy li
+於是	iu zy
+於是乎	iu zy wu
+餵餵	iu iu
+冤仇	ioen dzieu
+怨仇	ioen dzieu
+怨氣	ioen chi
+冤氣	ioen chi
+怨氣個	ioen chi goq
+冤家個	ioen ko goq
+怨聲	ioen sin
+怨天	ioen thien
+怨恨	ioen ghen
+冤恨	ioen ghen
+怨恨個	ioen ghen goq
+湧出	ion chyuq
+永弗	ion feq
+永弗死	ion feq si
+永福	ion foq
+永福個	ion foq goq
+勇個	ion goq
+永古	ion ku
+永古千秋	ion ku tshien tshieu
+永古以來	ion ku yi le
+湧起	ion chi
+擁勒去	ion leq chi
+永生之	ion sen tsy
+永世個	ion si goq
+擁擠	ion tsi
+勇將	ion tsian
+擁進	ion tsin
+永活	ion weq
+永活個	ion weq goq
+永遠	ion yoen
+永遠個	ion yoen goq
+擁上去	ion zaon chi
+擁上來	ion zaon le
+雍雍	ion ion
+勇勇	ion ion
+壅壅	ion ion
+勇勇個	ion ion goq
+永禍	ion ghou
+亞大	io da
+亞大個	io da goq
+亞大利	io da li
+亞大米田	io da mi dien
+亞達	io daq
+亞達個	io daq goq
+亞提律迦	io di liq cio
+亞提馬	io di mo
+亞法撒	io faq saq
+亞腓亞	io fi io
+亞伽多奇利	io go tou ji li
+亞哈士	io ha zy
+亞希撒抹	io shi saq meq
+亞希撒抹個	io shi saq meq goq
+亞述	io zhyuq
+亞實別	io zhyuq biq
+亞述個	io zhyuq goq
+亞實基拿	io zhyuq ci no
+亞如	io zhyu
+亞革大馬	io keq da mo
+亞革破個	io keq phou goq
+亞革破	io keq phou
+亞干	io kien
+亞古士督	io ku zy toq
+亞基	io ci
+亞基薄	io ci boq
+亞基老	io ci lau
+亞基布	io ci pu
+亞基帕	io ci pho
+亞甲	io ciaq
+亞金	io cin
+亞居	io ciu
+亞居拉	io ciu laq
+亞迦布	io cio pu
+亞該古	io ke ku
+亞該亞個	io ke io goq
+亞拉臘	io laq laq
+亞拉伯	io laq paq
+亞拉伯個	io laq paq goq
+亞勒	io leq
+亞勒腓個	io leq fi goq
+亞勒腓	io leq fi
+亞勒巴	io leq po
+亞勒文	io leq ven
+亞勒華	io leq wo
+亞倫	io len
+亞倫個	io len goq
+亞倫巴哭	io len po khoq
+亞哩達	io li daq
+亞里達古	io li daq ku
+亞利利	io li li
+亞利馬太	io li mo tha
+亞利馬太個	io li mo tha goq
+亞利多布	io li tou pu
+亞略	io liaq
+亞略巴古	io liaq po ku
+亞力山大	io liq saen da
+亞力山太	io liq saen tha
+亞力山太個	io liq saen tha goq
+亞羅底	io lou ti
+亞蘭	io laen
+亞蘭個	io laen goq
+亞們	io men
+亞門	io men
+亞捫	io men
+亞米拿達個	io mi no daq goq
+亞摩利	io mou li
+亞摩塔	io mou thaq
+亞麼士	io mou zy
+亞瑪勒	io mo leq
+亞瑪力	io mo liq
+亞瑪力個	io mo liq goq
+亞馬額頓	io mo ngaq ten
+亞乃	io ne
+亞乃個	io ne goq
+亞拿	io no
+亞拿個	io no goq
+亞拿尼亞	io no gni io
+亞伯	io paq
+亞伯個	io paq goq
+亞伯拉罕個	io paq laq hein goq
+亞伯蘭	io paq laen
+亞伯蘭個	io paq laen goq
+亞伯麥西	io paq maq si
+亞比大	io pi da
+亞比利	io pi li
+亞比利尼個	io pi li gni goq
+亞比利尼	io pi li gni
+亞比米力	io pi mi liq
+亞比米力個	io pi mi liq goq
+亞比瑪利	io pi mo li
+亞比烏市	io pi u zy
+亞比戶	io pi wu
+亞比鬰	io pi ioq
+亞比亞	io pi io
+亞比亞撒	io pi io saq
+亞庇亞塔	io pi io thaq
+亞筆	io piq
+亞玻倫	io pou len
+亞波羅	io pou lou
+亞波羅個	io pou lou goq
+亞波羅尼亞	io pou lou gni io
+亞爸	io po
+亞巴	io po
+亞巴頓	io po ten
+亞斯陸	io sy loq
+亞撒	io saq
+亞遜其土	io sen ji thu
+亞設	io shyuq
+亞設個	io shyuq goq
+亞朔	io shoq
+亞書利	io shyu li
+亞西納	io si neq
+亞西亞	io si io
+亞細亞	io si io
+亞西亞個	io si io goq
+亞惜	io siq
+亞設	io siq
+亞鎖都	io sou tu
+亞所	io so
+亞底	io ti
+亞底米	io ti mi
+亞底米個	io ti mi goq
+亞底亞	io ti io
+雅典	io tien
+亞當	io taon
+亞當個	io taon goq
+亞土蘭	io thu laen
+亞未得	io vi teq
+亞戶撒	io wu saq
+亞華底	io wo ti
+亞雅	io yo
+亞何利巴	io ghou li po
+亞何利巴瑪	io ghou li po mo
+亞何利巴瑪個	io ghou li po mo goq
+鞋子	gha tsy
+合國	ghaq koq
+何裏來	ghaq li le
+合攏	ghaq lon
+狹窄	ghaq tsaq
+狹窄個	ghaq tsaq goq
+狹狹個	ghaq ghaq goq
+狹狹	ghaq ghaq
+行個	ghan goq
+行意	ghan i
+行意動靜	ghan i don dzin
+行意動靜	ghan i don zin
+行意動靜個	ghan i don zin goq
+行實	ghan zhyuq
+杏樹個	ghan zhyu goq
+杏樹	ghan zhyu
+行善個	ghan zhoen goq
+行教	ghan ciau
+行開	ghan khe
+行開去	ghan khe chi
+行勒	ghan leq
+行落	ghan loq
+行遍	ghan pien
+行洗禮	ghan si li
+行洗禮個	ghan si li goq
+行洗礼個	ghan si li goq
+行洗礼	ghan si li
+行爲個	ghan wei goq
+行爲果然	ghan wei kou zhoen
+號筒	ghau don
+號筒個	ghau don goq
+號個	ghau goq
+號淚	ghau li
+號淚大哭	ghau li da khoq
+號令	ghau lin
+號令個	ghau lin goq
+豪𢜶了	ghau sau lei
+號數	ghau su
+號數個	ghau su goq
+毫無	ghau vu
+毫無更改	ghau vu ken ke
+合頭	gheq deu
+合族個	gheq joq goq
+合族	gheq joq
+合族	gheq dzoq
+合個	gheq goq
+合羣	gheq jiun
+合意	gheq i
+合國	gheq koq
+合公會	gheq kon wei
+合教會	gheq ciau wei
+合家	gheq ko
+合家個	gheq ko goq
+合口	gheq kheu
+合口齊動	gheq kheu zi don
+合勒	gheq leq
+合理	gheq li
+合理個	gheq li goq
+合例個	gheq li goq
+合例	gheq li
+合攏	gheq lon
+合攏來	gheq lon le
+合而	gheq er
+合而爲一	gheq er wei iq
+合而爲一個	gheq er wei iq goq
+合心合意	gheq sin gheq i
+盒子	gheq tsy
+合帶攏	gheq taen lon
+嗑呀	gheq ya
+合營個	gheq yin goq
+合營	gheq yin
+合用	gheq yon
+合城裏	gheq zin li
+寒了	ghein lei
+咸地	ghein di
+含個	ghein goq
+咸肌身	ghein ci sin
+咸間	ghein kaen
+含勒	ghein leq
+旱勒	ghein leq
+旱路	ghein lu
+咸到處	ghein tau chyu
+咸天下個	ghein thien gho goq
+咸城裏	ghein zin li
+恨地	ghen di
+恨心	ghen sin
+恆沙	ghen so
+恆沙河	ghen so ghou
+厚道	gheu dau
+後頭個	gheu deu goq
+後代個	gheu de goq
+後個	gheu goq
+後裔	gheu i
+厚實個	gheu zhyuq goq
+後如	gheu zhyu
+候氣力	gheu chi liq
+候勒	gheu leq
+後來	gheu le
+後來個	gheu le goq
+後母	gheu meu
+後輩	gheu pei
+後半橛	gheu pun jiuq
+後生個	gheu san goq
+後梢	gheu sau
+後艄	gheu sau
+後首	gheu sieu
+候數	gheu su
+候沿	gheu yen
+厚厚	gheu gheu
+和平	ghou bin
+和平個	ghou bin goq
+和衆	ghou con
+和潮	ghou dziau
+和團	ghou doen
+何弗	ghou feq
+禍弗	ghou feq
+和弗攏個	ghou feq lon goq
+和弗攏	ghou feq lon
+禍福	ghou foq
+河個	ghou goq
+和好	ghou hau
+何況	ghou huaon
+和香個	ghou shian goq
+和香	ghou shian
+和十個	ghou zhyuq goq
+和十	ghou zhyuq
+何如	ghou zhyu
+何如呀	ghou zhyu ya
+和然	ghou zhoen
+和氣	ghou chi
+和氣個	ghou chi goq
+和家計	ghou ko ci
+和勒	ghou leq
+何利	ghou li
+河裏個	ghou li goq
+何烈	ghou liq
+和攏了	ghou lon lei
+和攏個	ghou lon goq
+和攏的個	ghou lon tiq goq
+和攏的	ghou lon tiq
+荷蘭	ghou laen
+和睦	ghou moq
+和睦個	ghou moq goq
+河外	ghou nga
+禍難	ghou naen
+和暖	ghou noen
+何必	ghou piq
+河邊	ghou pien
+河邊沿	ghou pien yen
+何把	ghou po
+禍祟	ghou sei
+何西個	ghou si goq
+何西	ghou si
+和三	ghou saen
+和散𠺶	ghou saen naq
+何等	ghou ten
+和的個	ghou tiq goq
+和的	ghou tiq
+和止	ghou tsy
+和隻	ghou tsaq
+禍災	ghou tse
+和七個	ghou tshiq goq
+和七	ghou tshiq
+和帶攏	ghou taen lon
+和顏	ghou yen
+河沿	ghou yen
+和油個	ghou yeu goq
+和油	ghou yeu
+何用	ghou yon
+和事人	ghou zy gnin
+和和氣氣	ghou ghou chi chi
+和和睦睦	ghou ghou moq moq
+獲罪	ghoq zei
+紅袍	ghon bau
+紅簿面	ghon bu mien
+紅豆羹	ghon deu kan
+鴻恩	ghon en
+鴻福	ghon foq
+紅個	ghon goq
+紅海	ghon he
+紅海裏	ghon he li
+紅起來	ghon chi le
+洪水	ghon shyu
+洪水氾漲	ghon shyu faen tsian
+洪水裏	ghon shyu li
+紅線	ghon sien
+紅紅個	ghon ghon goq
+紅紅	ghon ghon
+亥個	ghe goq
+害累	ghe li
+嗐聲嘆氣	ghe sin thaen chi
+限定	ghaen din
+限定個	ghaen din goq
+閒常	ghaen jaon
+鹹個	ghaen goq
+限期	ghaen ji
+陷落	ghaen loq
+下處	gho chyu
+下處裏	gho chyu li
+下頭個	gho deu goq
+下風岸	gho fon ngein
+下秧個	gho ian goq
+下落個	gho loq goq
+下落去	gho loq chi
+下世個	gho si goq
+下身個	gho sin goq
+下手個	gho sieu goq
+下三	gho saen
+下的個	gho tiq goq
+下的	gho tiq
+下作不堪	gho tsoq peq khaen
+夏天	gho thien
+下伐	gho vaq
+下文	gho ven
+下飯個	gho vaen goq
+下沿	gho yen
+下賤	gho zien
+嗄㗇	gho io
+或富	ghoq fu
+學習個	ghoq zhyuq goq
+學習過	ghoq zhyuq kou
+學過了	ghoq kou lei
+學過個	ghoq kou goq
+或貴	ghoq kuei
+學到了	ghoq tau lei
+學會了	ghoq wei lei
+行口	ghaon kheu
+行裏	ghaon li
+行裏個	ghaon li goq
+行裏來	ghaon li le
+降書	ghaon shyu

@@ -1,0 +1,254 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: wugniu_gninpou_old_roman
+  name: 吳語（晚清寧波、傳教士羅馬字）
+  version: "0.1.0"
+  author:
+    - Shin Zoqchiuq <shinzoqchiuq@outlook.com>
+  description: |
+    採用學堂式吳語拼音
+    顯示爲傳教士羅馬字
+    https://github.com/shinzoqchiuq/rime-wugniu_gninpou_old/
+  dependencies:
+    - luna_pinyin
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: wugniu_gninpou_old_roman_simp
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin # 自定義tag luna_pinyin
+    - affix_segmentor@stroke      # 自定義tag stroke
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator              # 主翻譯器
+    - script_translator@luna_pinyin  # 用於反查的luna_pinyin翻譯器
+    - table_translator@stroke        # 用於反查的stroke翻譯器
+    - table_translator@custom_phrase # 用戶短語
+  filters:
+    - simplifier
+    - uniquifier
+    - reverse_lookup_filter@reverse_lookup # 反查濾鏡
+
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: " '"
+  algebra:
+    - xform/^([bcdfghjklpqstvwxyz])$/$1_/
+
+    # 平舌 ≈ 翹舌
+    - derive/^c(h?)([aoey])/ts$1$2/
+    - derive/^j([aoey])/dz$1/
+    - derive/^(s|z)h([aoey])/$1$2/
+    # 不 ≈ 八
+    - derive/eq$/aq/
+    # 菊 ≈ 橘
+    - derive/(i|y)oq$/$1uq/
+    # aoq => oq
+    - derive/oq$/aoq/
+    # hei/he
+    - derive/^hei$/he/
+    # ki/ke
+    - derive/^kien$/ke/
+    # 亂裂化
+    - derive/^l(h?)oen$/l$1eun/
+    # 容錯 aen => ae oen => oe
+    - derive/(a|o)en$/$1e/
+    # 容錯 k(h)ien => k(h)i (h|ng)ein => een
+    - derive/(k|kh)ien$/$1i/
+    - derive/^(h|ng)ein$/$1een/
+
+    # 清鼻邊音
+    - derive/([mnl])h/$1/
+    - derive/kn/gn/
+    - derive/nk/ng/
+    # 容錯 gn(ny) => n kn => nh
+    - derive/(gn|ny)i/ni/
+    - derive/kni/nhi/
+    # 簡拼
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([pmtnlszckg]h|[kg]n|n[kg]|tsh?|dz).+$/$1/
+    # c組聲母後部分韵母自動加i
+    - derive/^(c|j|[csz]h)i(a[uenq]?|e[nu]|u[nq]?)$/$1$2/
+    - derive/^(gn|kn)i(?=[aoue])/$1/
+    # 容錯 au => ao
+    - derive/au/ao/
+    # 容錯 介音、主元音順序調換
+    - derive/^(.+)([iu])([aou])([euonqh])$/$1$3$2$4/
+    # 容錯 oe => eo
+    - derive/oe/eo/
+    # 容錯 ao => oa
+    - derive/ao/oa/
+    # 容錯 ae => ea
+    - derive/ae/ea/
+    # 容錯 eq => q
+    - derive/^([pbmfvtdnlkghx]h?|tsh?|d?z|s|w|u)eq/$1q/
+    # 容錯 iq => q
+    - derive/^(c|j|[kg]n|[csz]h|y)iq/$1q/
+
+# 主翻譯器 寧波吳拼
+translator:
+  dictionary: wugniu_gninpou_old # 調取詞典wugniu_gninpou_old
+  prism: wugniu_gninpou_old      # 根據拼寫運算生成棱鏡文件wugniu_gninpou_old
+  spelling_hints: 5          # 標註拼音
+  preedit_format:
+    __include: tophin
+  comment_format:
+    __include: tophin
+
+# 副翻譯器1 朙月拼音
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin # 調取詞典luna_pinyin
+  enable_user_dict: false # 關閉用戶詞典
+  prefix: '`'             # 引導鍵「`」
+  suffix: "'"             # 結束鍵「'」
+  tips: 〔反查〕          # 輸入前提示〔反查〕
+  closing_tips: 〔吳語（晚清寧波）〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+# 副翻譯器2 五筆畫
+stroke:
+  tag: stroke
+  dictionary: stroke      # 調取詞典stroke
+  enable_user_dict: false # 關閉用戶詞典
+  prefix: '`'             # 引導鍵「`」
+  suffix: "'"             # 結束鍵「'」
+  tips: 〔反查〕          # 輸入前提示〔反查〕
+  closing_tips: 〔吳語（晚清寧波）〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+# 副翻譯器3 用戶短語
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase # 用戶詞典名
+  db_class: stabledb       # 詞典類型爲只讀格式
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+# 反查濾鏡
+reverse_lookup:
+  tags: [luna_pinyin, stroke] # 掛在翻譯器luna_pinyin和stroke上
+  overwrite_comment: true     # 覆蓋其他提示
+  dictionary: wugniu_gninpou_old  # 反查所得爲傳教士羅馬字
+  comment_format:
+    __include: tophin
+
+simplifier:
+  option_name: wugniu_gninpou_old_simp
+
+punctuator:
+  import_preset: symbols # 句讀處理器，統一從外部導入
+
+key_binder:
+  import_preset: default # 快捷鍵，統一從外部導入
+
+recognizer:
+  import_preset: default # 特殊規則輸入碼，統一從外部導入
+  patterns:
+    punct: "^/([0-9]|10|[A-Za-z]+)$" # 按 / 輸入符號
+    luna_pinyin: "`[hspnz]*[aeiouv][a-z]*'?$|`[a-gi-moqrt-y][a-z]*'?$"
+    stroke: "`[hspnz]+'?$"
+
+tophin:
+  - xform/'/ /
+
+  - xform/\bni/gni/
+  - xform/\bnhi/kni/
+  - xform/\b(mh?)u\b/$1/
+  - xform/\b(ng|nk)y\b/$1/
+  - xform/x/gh/
+  - xform/\br\b/er/
+  - xform/oa/ao/
+  - xform/ao(?!n|q)/au/
+  - xform/eo/oe/
+  - xform/ea/ae/
+  - xform/\bts(h?)yu([nqh]?)\b/c$1yu$2/
+  - xform/\bdzyu([nqh]?)\b/jyu$1/
+  - xform/\b(s|z)yu([nqh]?)\b/$1hyu$2/
+  - xform/\bl(h?)eun\b/l$1oen/
+  - xform/(a|o)e\b/$1en/
+  - xform/\b(h|ng)een\b/$1ein/
+  - xform/\b(.+)([aou])([iu])([euonqh])\b/$1$3$2$4/
+  - xform/\b(c|j|[csz]h)(a[uenq]?|e[nu]|u[nq]?)\b/$1i$2/
+  - xform/\b(gn|kn)(?=[aoue])/$1i/
+  - xform/\b([pbmfvtdnlkgh]h?|tsh?|d?z|s|w|u|)q/$1eq/
+  - xform/\b(c|j|[kg]n|[csz]h|y)q/$1iq/
+
+  # to missionary romanization
+  - xform/q\b/h/
+  - xform/gh/x/
+  - xform/\b(p|t|k|ts|c)h/$1x/
+  - xform/\b(m|n|l)h/$1̆/
+  - xform/\bnk/n̆g/
+  - xform/\bkn/n̆y/
+  - xform/\b(k|h|g)u/$1w/
+  - xform/kxu/kwx/
+  - xform/\b(k|h|g)w\b/$1wu/
+  - xform/kwx\b/kwxu/
+  - xform/\bu(?=a|e|o)/w̆/
+  - xform/\b([mn]|ng|ts|tsx|dz|s|z)y/$1/
+  - xform/iu/ü/
+  - xform/\byu/yü/
+  - xform/(?<![aeioy])([üieoa]|ao)n\b/$1ng/
+  - xform/(i|y)(a|ao|o|i|ü|u)n\b/$1$2ng/
+  - xform/o\b/ô/
+  - xform/(a|e)u\b/$1o/
+  - xform/ou\b/o/
+  - xform/\bc(x)?(i|ü)/ky$1$2/
+  - xform/\bj(i|ü)/gy$1/
+  - xform/\bsh(i|ü)/hy$1/
+  - xform/\bgn(i|ü)/ny$1/
+  - xform/\b(c|cx|j|sh|zh)yu\b/$1ü/
+  - xform/\b(c|cx|j|sh|zh)oen\b/$1ün/
+  - xform/y(a|ô|æ|eo|e|o)/yi$1/
+  - xform/ieo\b/iu/
+  - xform/ioen\b/$1ün/
+  - xform/ü(ng|h)\b/üi$1/
+  - xform/yu(ng|h)\b/i$1/
+  - xform/i(o|ao)(ng|h)\b/ü$1$2/
+  - xform/ao(ng|h)\b/ô$1/
+  - xform/\bj/dj/
+  - xform/\bzh/j/
+  - xform/\b(k|kx)ien\b/$1en/
+  - xform/ien\b/in/
+  - xform/ein\b/en/
+  - xform/oen\b/ön/
+  - xform/i(o|ô)/ü$1/
+  - xform/e\b/æ/
+  - xform/aen\b/æn/
+  - xform/w(x)?n\b/w$1un/
+  - xform/ei\b/e/
+  - xform/er\b/r/
+  - xform/x/ʽ/
+  - xform/ /-/
