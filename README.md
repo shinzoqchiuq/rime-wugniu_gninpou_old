@@ -19,7 +19,7 @@
 
 2. 現代寧波話語音較晚清多有簡化，候選詞中常有讀音不合的詞語。
 
-例如看到羅馬字 *kyi-sing*（後文傳教士羅馬字均用斜體，吳拼用正體），需要首先推導至現代寧波話讀音 ci shin。但現代寧波話的 ci shin 可能對應晚清寧波話 {*tsi-sing*, *kyi-sing*, *tsin-sing*, *kyin-sing*, *tsi-hying*, *kyi-hying*, *tsin-hying*, *kyin-hying*} 這 8 種不同的讀音。因此鍵入 ci shin，候選詞中可能出現「堅信 *kyin-sing*」「戰勝 *tsin-sing*」等讀音與 *kyi-sing* 讀音不合的詞，干擾判斷。
+例如看到羅馬字 *kyi-sing*（後文傳教士羅馬字均用斜體，吳拼用正體），需要首先推導至現代寧波話讀音 ci shin。但現代寧波話的 ci shin 可能對應晚清寧波話 {*tsi-sing*, *kyi-sing*, *tsin-sing*, *kyin-sing*, *tsi-hying*, *kyi-hying*, *tsin-hying*, *kyin-hying*} 這 8 種不同的讀音。因此鍵入 ci shin，候選詞中可能出現「堅信 *kyin-sing*」「戰勝 *tsin-sing*」等讀音與 *kyi-sing* 不合的詞，干擾判斷。
 
 因此需要一種輸入方案，既能保留 [現代寧波話輸入方案](https://github.com/NGLI/rime-wugniu_gninpou) 收字、收詞全的優點，又能按照晚清寧波話的音系輸入。所幸，在製作 [現代寧波話輸入方案](https://github.com/NGLI/rime-wugniu_gninpou) 所用到的 [字表](https://github.com/ionkaon/dictionary#字表) 項目中，已經對此做了預留。該字表的排序，依照現代寧波話的讀音，將同音字排在一起，而同音字組內部，又按照晚清寧波話的理論讀音做了排序。例如音節 ci1 的內部，按照 *tsi*、*kyi*、*tsin*、*kyin* 的順序排序，並且在每一組的末尾留有一行註釋。如此一來，就能通過 [字表](https://github.com/ionkaon/dictionary#字表) 項目分開現代寧波話的同音字，生成符合晚清寧波話音系的字表了。對於詞彙，[現代寧波話輸入方案](https://github.com/NGLI/rime-wugniu_gninpou) 所收部分詞彙標註了現代寧波話讀音，利用每個漢字現代音與晚清音的對照關係，也能輕鬆將詞表推導至清末音系。這樣就生成了本倉庫的輸入方案碼表。
 
