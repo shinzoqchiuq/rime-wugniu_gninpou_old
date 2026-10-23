@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou_old.old_book
-version: "2026.10.01
+version: "2026.10.23
 "
 sort: by_weight
 ...
@@ -51,6 +51,7 @@ sort: by_weight
 阿孃個	aq gnian goq
 壓煞個	aq saq goq
 壓勢	aq shyu
+阿書亞	aq shyu io
 阿爹個	aq tia goq
 阿多	aq tou
 壓服	aq voq
@@ -113,6 +114,8 @@ sort: by_weight
 備好東個	bei hau ton goq
 備好仔	bei hau tsy
 備勒	bei leq
+悖逆	bei gniq
+悖逆個	bei gniq goq
 倍數	bei su
 備足	bei tsoq
 賠還	bei waen
@@ -129,6 +132,7 @@ sort: by_weight
 皮膚個	bi fu goq
 皮個	bi goq
 疲倦	bi jioen
+皮貨	bi hou
 避過	bi kou
 避開	bi khe
 避勒過	bi leq kou
@@ -190,6 +194,7 @@ sort: by_weight
 平頭	bin deu
 平地裏	bin di li
 平常	bin jaon
+平常個	bin jaon goq
 平直了	bin dziq lei
 平直個	bin dziq goq
 貧賤	bin dzien
@@ -256,6 +261,7 @@ sort: by_weight
 葡萄園裏	bu dau yoen li
 葡萄園裏個	bu dau yoen li goq
 葡萄牙	bu dau yo
+部嫩	bu nen
 部百流	bu paq lieu
 部百流個	bu paq lieu goq
 步兵	bu pin
@@ -272,6 +278,7 @@ sort: by_weight
 盤問	bun men
 叛逆	bun gniq
 磐石	bun zaq
+磐石上	bun zaq zaon
 辦法	baen faq
 辦過仔	baen kou tsy
 辦了	baen leq
@@ -521,6 +528,7 @@ sort: by_weight
 吹號筒	chyu ghau don
 穿穿	choen choen
 穿城	choen dzin
+穿在	choen dze
 穿個	choen goq
 穿好	choen hau
 穿厭	choen ien
@@ -540,11 +548,13 @@ sort: by_weight
 大殿個	da dien goq
 大慈	da dzy
 大才	da dze
+大哈	da ha
 大英國	da in koq
 大熟	da zhoq
 大熟個	da zhoq goq
 大概個	da ke goq
 大哭	da khoq
+大剌	da laq
 大拉象	da laq zian
 大裏	da li
 大利大	da li da
@@ -561,6 +571,7 @@ sort: by_weight
 大數	da su
 大將	da tsian
 大作用	da tsoq yon
+大丹	da taen
 大萬個	da vaen goq
 大萬	da vaen
 大轄	da gheq
@@ -568,6 +579,8 @@ sort: by_weight
 踏掉仔	daq diau tsy
 踏着	daq joq
 踏腳凳	daq ciaq ten
+特拉他音	daq laq tha in
+達買	daq me
 踏煞	daq saq
 踏煞個	daq saq goq
 達太	daq tha
@@ -589,7 +602,10 @@ sort: by_weight
 道理	dau li
 道理個	dau li goq
 逃門	dau men
+逃命	dau min
+逃命城	dau min dzin
 逃難	dau naen
+逃散	dau saen
 逃到	dau tau
 逃走	dau tseu
 逃走個	dau tseu goq
@@ -601,6 +617,7 @@ sort: by_weight
 逃上去	dau zaon chi
 兌勒	dei leq
 隊裏	dei li
+隊兵	dei pin
 隊數	dei su
 隊打隊	dei tan dei
 奪轉	deq coen
@@ -629,6 +646,7 @@ sort: by_weight
 庉了	den lei
 庉庉	den den
 庉住	den jyu
+庉在	den dze
 庉弗住	den feq jyu
 庉弗過	den feq kou
 庉弗得	den feq teq
@@ -704,6 +722,7 @@ sort: by_weight
 提達	di daq
 啼了	di lei
 地動	di don
+地段	di doen
 地方了	di faon lei
 地方個	di faon goq
 地個	di goq
@@ -723,6 +742,7 @@ sort: by_weight
 第十日	di zhyuq gniq
 第十四	di zhyuq sy
 地界	di ka
+地界個	di ka goq
 地基	di ci
 地基上	di ci zaon
 第九	di cieu
@@ -742,7 +762,9 @@ sort: by_weight
 第六	di loq
 第六顆	di loq khou
 第六日	di loq gniq
+地嗎	di ma
 提門	di men
+地面	di mien
 地面頂	di mien ten
 地名	di min
 提摩太	di mou tha
@@ -759,6 +781,7 @@ sort: by_weight
 第二年	di gni gnien
 第二遍	di gni pien
 第二首	di gni sieu
+第二隻	di gni tsaq
 第二遭	di gni tsau
 第二伐	di gni vaq
 第二樣	di gni yan
@@ -873,6 +896,7 @@ sort: by_weight
 定間個	din kaen goq
 定間	din kaen
 定例	din li
+定例個	din li goq
 停來	din le
 定落	din loq
 亭那巴	din na po
@@ -880,6 +904,7 @@ sort: by_weight
 亭訥個	din neq goq
 亭拿	din no
 定撥	din peq
+定爲	din wei
 定罪	din zei
 定罪個	din zei goq
 定罪過	din zei kou
@@ -921,6 +946,8 @@ sort: by_weight
 治壓	jyu aq
 除掉	jyu diau
 除掉個	jyu diau goq
+住在	jyu dze
+除其	jyu ji
 住居	jyu ciu
 住間個	jyu kaen goq
 住間	jyu kaen
@@ -943,12 +970,14 @@ sort: by_weight
 全地	joen di
 全全	joen joen
 全全備備	joen joen bei bei
+全族	joen dzoq
 全副	joen fu
 傳向	joen shian
 全然	joen zhoen
 傳過個	joen kou goq
 傳廣	joen kuaon
 傳教個	joen ciau goq
+全軍	joen ciun
 全家個	joen ko goq
 全家	joen ko
 傳開個	joen khe goq
@@ -996,12 +1025,15 @@ sort: by_weight
 大劫	dou ciq
 馱歸	dou ciu
 馱歸個	dou ciu goq
+馱軍器個	dou ciun chi goq
+馱軍器	dou ciun chi
 陀迦瑪	dou cio mo
 馱起	dou chi
 馱去了	dou chi lei
 大起來個	dou chi le goq
 馱間	dou kaen
 陀拉	dou laq
+陀拉個	dou laq goq
 馱了	dou leq
 大勒緊	dou leq cin
 馱勒去	dou leq chi
@@ -1009,10 +1041,12 @@ sort: by_weight
 馱勒來	dou leq le
 舵裏個	dou li goq
 舵裏	dou li
+大力量	dou liq lian
 馱攏	dou lon
 大籠	dou lon
 大路上	dou lu zaon
 馱來個	dou le goq
+墮落	dou loq
 大麥粉	dou maq fen
 陀密相	dou miq sian
 大碼頭	dou mo deu
@@ -1112,6 +1146,7 @@ sort: by_weight
 動作	don tsoq
 動作起來	don tsoq chi le
 同當	don taon
+同黨	don taon
 同房	don vaon
 同事個	don zy goq
 同事	don zy
@@ -1120,6 +1155,7 @@ sort: by_weight
 同席個	don ziq goq
 同牀	don zaon
 同牀個	don zaon goq
+同牀過	don zaon kou
 同行同坐	don ghan don zou
 肚皮裏	du bi li
 塗掉	du diau
@@ -1178,6 +1214,7 @@ sort: by_weight
 着遍	dziaq pien
 長備	dzian bei
 長頭	dzian deu
+長大個	dzian dou goq
 詳詳	dzian dzian
 丈夫	dzian fu
 長久了	dzian cieu lei
@@ -1206,6 +1243,7 @@ sort: by_weight
 潮熱	dziau gniq
 朝西個	dziau si goq
 潮數	dziau su
+朝東個	dziau ton goq
 直衝	dziq chon
 直頭	dziq deu
 值鈿個	dziq dien goq
@@ -1219,6 +1257,8 @@ sort: by_weight
 直等	dziq ten
 直等到	dziq ten tau
 姪子	dziq tsy
+嫉妒	dziq tu
+嫉妒之心	dziq tu tsy sin
 值夜	dziq ya
 嫉邪	dziq zia
 嫉邪個	dziq zia goq
@@ -1242,8 +1282,10 @@ sort: by_weight
 誠誠實實	dzin dzin zhyuq zhyuq
 成就	dzin dzieu
 成就個	dzin dzieu goq
+城個	dzin goq
 盡其	dzin ji
 仍舊	dzin jieu
+沉香	dzin shian
 誠實	dzin zhyuq
 誠實個	dzin zhyuq goq
 誠實無僞	dzin zhyuq vu nguei
@@ -1253,6 +1295,7 @@ sort: by_weight
 成功了	dzin kon liau
 成管個	dzin kun goq
 成管	dzin kun
+城腳	dzin ciaq
 城腳沿	dzin ciaq yen
 成見	dzin cien
 成家個	dzin ko goq
@@ -1280,6 +1323,7 @@ sort: by_weight
 情面	dzin mien
 承爾情	dzin ng dzin
 城外	dzin nga
+城外個	dzin nga goq
 成人長大	dzin gnin tsian da
 成人長大個	dzin gnin tsian da goq
 情願	dzin gnioen
@@ -1309,6 +1353,7 @@ sort: by_weight
 族種個	dzoq con goq
 族個	dzoq goq
 族裏	dzoq li
+族長個	dzoq tsian goq
 族份	dzoq ven
 族份個	dzoq ven goq
 俗話	dzoq wo
@@ -1326,6 +1371,7 @@ sort: by_weight
 從前	dzon zien
 助攏來個	dzu lon le goq
 助攏來	dzu lon le
+在平常	dze bin jaon
 才全德備	dze joen teq bei
 才情	dze dzin
 纔方	dze faon
@@ -1383,6 +1429,7 @@ sort: by_weight
 代贖	de zhoq
 抬過	de kou
 代管	de kun
+抬舉	de ciu
 抬起	de chi
 抬起來	de chi le
 袋口裏	de kheu li
@@ -1399,6 +1446,8 @@ sort: by_weight
 代替	de thi
 代受	de zieu
 臺上	de zaon
+淡薄個	daen boq goq
+淡薄	daen boq
 彈出	daen chyuq
 但個	daen goq
 壇個	daen goq
@@ -1437,6 +1486,7 @@ sort: by_weight
 安提帕底	ein di pho ti
 暗洞	ein don
 暗洞洞個	ein don don goq
+按杖	ein dzian
 安在	ein dze
 暗藏	ein dzaon
 暗藏個	ein dzaon goq
@@ -1556,6 +1606,7 @@ sort: by_weight
 發光	faq kuaon
 發起	faq chi
 發起來	faq chi le
+法勒斯	faq laq sy
 法老	faq lau
 法老個	faq lau goq
 法勒	faq leq
@@ -1566,10 +1617,13 @@ sort: by_weight
 法路	faq lu
 法幕	faq mou
 法幕個	faq mou goq
+法幕裏	faq mou li
 法內力個	faq nei liq goq
 法內力	faq nei liq
 發怒	faq nu
+發怒個	faq nu goq
 發兵	faq pin
+發生起來	faq sen chi le
 法箱	faq sian
 法箱裏	faq sian li
 發笑	faq siau
@@ -1602,8 +1656,8 @@ sort: by_weight
 怫然	feq zhoen
 弗過去個	feq kou chi goq
 弗公義	feq kon yi
-弗潔淨個	feq ciq zin goq
 弗潔淨	feq ciq zin
+弗潔淨個	feq ciq zin goq
 弗見	feq cien
 弗見個	feq cien goq
 弗見仔	feq cien tsy
@@ -1763,6 +1817,8 @@ sort: by_weight
 敷敷	fu fu
 傅個	fu goq
 敷好	fu hau
+傅過	fu kou
+傅過個	fu kou goq
 富貴個	fu kuei goq
 傅來	fu le
 夫子	fu tsy
@@ -1794,7 +1850,9 @@ sort: by_weight
 放出來	faon chyuq le
 放出仔	faon chyuq tsy
 放掉	faon diau
+放大	faon dou
 方纔	faon dze
+放在	faon dze
 方法	faon faq
 放放	faon faon
 放好	faon hau
@@ -1822,6 +1880,7 @@ sort: by_weight
 放膽開	faon taen khe
 放膽點	faon taen tien
 方言	faon yen
+軋住	gaq jyu
 軋住的	gaq jyu tiq
 絞股裏個	gau ku li goq
 絞股裏	gau ku li
@@ -1844,8 +1903,10 @@ sort: by_weight
 其田尼	ji dien gni
 其田尼個	ji dien gni goq
 忌憚	ji daen
+騎個	ji goq
 奇奇怪怪	ji ji kua kua
 其訓	ji shiun
+旗杆	ji kien
 騎過	ji kou
 奇怪	ji kua
 其該管	ji ke kun
@@ -1855,7 +1916,10 @@ sort: by_weight
 其命	ji min
 騎馬	ji mo
 騎馬個	ji mo goq
+其馬利	ji mo li
 妓女	ji gniu
+其斯林個	ji sy lin goq
+其斯林	ji sy lin
 祈禱	ji tau
 其底瑪	ji ti mo
 騎的個	ji tiq goq
@@ -1874,6 +1938,8 @@ sort: by_weight
 強辯個	jian bien goq
 強奪	jian deq
 犟頭倔腦個	jian deu jiuq nau goq
+弶着個	jian joq goq
+弶着	jian joq
 滰弗	jian feq
 強個	jian goq
 強如	jian zhyu
@@ -1893,6 +1959,7 @@ sort: by_weight
 極好	jiq hau
 及如	jiq zhyu
 竭力	jiq liq
+極力	jiq liq
 嫉妒	jiq tu
 鉗住	jien jyu
 虔誠	jien dzin
@@ -1940,6 +2007,7 @@ sort: by_weight
 求過	jieu kou
 舊起來	jieu chi le
 求懇	jieu khen
+臼利	jieu li
 舊人	jieu gnin
 求拜	jieu pa
 球打球	jieu tan jieu
@@ -1969,6 +2037,7 @@ sort: by_weight
 倦去	jioen chi
 權能	jioen nen
 權柄	jioen pin
+權柄個	jioen pin goq
 權勢	jioen shyu
 窮盡	jion dzin
 窮個	jion goq
@@ -1982,15 +2051,22 @@ sort: by_weight
 擱牢	goq lau
 哈腓拉	ha fi laq
 哈基	ha ci
+哈拉大	ha laq da
 哈蘭	ha laen
 哈蘭個	ha laen goq
+哈末	ha maq
 哈麥	ha maq
 哈抹	ha meq
 哈默	ha meq
 哈抹個	ha meq goq
+哈母勒	ha meu laq
 哈母勒	ha meu leq
+哈摩拿	ha mou no
+哈馬	ha mo
 哈諾	ha noq
+哈薩	ha saq
 哈薩瑪非	ha saq mo fi
+哈薩以難	ha saq yi naen
 哈洗錄	ha si loq
 哈洗遜大瑪個	ha si sen da mo goq
 哈洗遜大瑪	ha si sen da mo
@@ -2036,6 +2112,7 @@ sort: by_weight
 好詩	hau sy
 好使得	hau sy teq
 好使得個	hau sy teq goq
+好水	hau shyu
 好心	hau sin
 好算	hau soen
 好點	hau tien
@@ -2068,10 +2145,12 @@ sort: by_weight
 漢利	hein li
 漢利個	hein li goq
 漢尼巴	hein gni po
+漢聶	hein gniq
 狠呵	hen ho
 火頭	hou deu
 火柱	hou jyu
 火着個	hou dziaq goq
+火蛇	hou dzo
 火個	hou goq
 火煙	hou ien
 火光	hou kuaon
@@ -2092,6 +2171,8 @@ sort: by_weight
 火星	hou sin
 火速	hou soq
 火山	hou saen
+火祭	hou tsi
+火祭個	hou tsi goq
 火箭	hou tsien
 貨物	hou veq
 貨物個	hou veq goq
@@ -2107,8 +2188,10 @@ sort: by_weight
 歪斜	hua zia
 甩掉仔	huaq diau tsy
 毀掉	huei diau
+灰個	huei goq
 悔改	huei ke
 賄賂	huei lu
+毀滅	huei miq
 灰色個	huei seq goq
 灰色	huei seq
 毀壞	huei we
@@ -2121,6 +2204,7 @@ sort: by_weight
 婚配個	huen phei goq
 虎豹	hu pau
 呼粻	hu tsian
+呼和	hu ghou
 歡歡	hun hun
 歡歡喜喜	hun hun shi shi
 歡喜了	hun shi lei
@@ -2155,6 +2239,7 @@ sort: by_weight
 荒旱	huaon ghein
 嬉頭	shi deu
 喜地	shi di
+希弗	shi faq
 稀奇	shi ji
 稀奇個	shi ji goq
 稀奇古怪	shi ji ku kue
@@ -2163,7 +2248,10 @@ sort: by_weight
 喜喜	shi shi
 嬉嬉	shi shi
 嬉戲個	shi shi goq
+希實本	shi zhyuq pen
+希實本個	shi zhyuq pen goq
 希臘	shi laq
+希勒	shi laq
 希拉	shi laq
 希臘個	shi laq goq
 希臘國	shi laq koq
@@ -2181,6 +2269,7 @@ sort: by_weight
 希羅天	shi lou thien
 戲弄	shi lon
 希幔	shi maen
+禧年	shi gnien
 希伯	shi paq
 希百	shi paq
 希伯崙	shi paq len
@@ -2203,8 +2292,8 @@ sort: by_weight
 香壇個	shian daen goq
 享福	shian foq
 響個	shian goq
-鄉個	shian goq
 香個	shian goq
+鄉個	shian goq
 響其	shian ji
 響響	shian shian
 響響個	shian shian goq
@@ -2251,6 +2340,7 @@ sort: by_weight
 險險	shien shien
 險險個	shien shien goq
 顯然	shien zhoen
+獻過	shien kou
 顯理	shien li
 顯理個	shien li goq
 顯靈	shien lin
@@ -2276,8 +2366,8 @@ sort: by_weight
 興起來個	shin chi le goq
 興旺	shin waon
 興旺起來	shin waon chi le
-虛個	shiu goq
 許個	shiu goq
+虛個	shiu goq
 虛花	shiu huo
 虛花個	shiu huo goq
 虛花事	shiu huo zy
@@ -2291,8 +2381,8 @@ sort: by_weight
 許願	shiu gnioen
 許願個	shiu gnioen goq
 許撥	shiu peq
-許配個	shiu phei goq
 許配	shiu phei
+許配個	shiu phei goq
 許多	shiu tou
 许多	shiu tou
 許多個	shiu tou goq
@@ -2302,6 +2392,7 @@ sort: by_weight
 虛話	shiu wo
 血出	shiuq chyuq
 血田	shiuq dien
+血個	shiuq goq
 血氣	shiuq chi
 血氣個	shiuq chi goq
 血漏	shiuq leu
@@ -2325,12 +2416,12 @@ sort: by_weight
 胸脘頭裏	shion kun deu li
 兇器	shion chi
 兇起來	shion chi le
+兇惡	shion oq
 兇殺	shion saq
 兇色色	shion seq seq
 兇手	shion sieu
 兇手個	shion sieu goq
 胸懷	shion we
-兇惡	shion oq
 兇惡個	shion oq goq
 海塗個	he du goq
 海塗	he du
@@ -2372,6 +2463,7 @@ sort: by_weight
 倚重其	i jon ji
 依從	i dzon
 醫弗好	i feq hau
+依個	i goq
 醫好	i hau
 醫好個	i hau goq
 依順	i zhyun
@@ -2403,9 +2495,12 @@ sort: by_weight
 約個	iaq goq
 約好	iaq hau
 約基別	iaq ci biq
+約利	iaq li
+押律	iaq liq
 約令	iaq lin
 約來	iaq le
 約蘭	iaq laen
+押們	iaq men
 押瑪	iaq mo
 約南	iaq nein
 約拿	iaq no
@@ -2413,10 +2508,13 @@ sort: by_weight
 約伯	iaq paq
 約八	iaq paq
 約伯個	iaq paq goq
+約比哈	iaq pi ha
+約巴大	iaq po da
 約帕	iaq pho
 約帕個	iaq pho goq
 約珥	iaq er
 約瑟	iaq seq
+約色	iaq seq
 約瑟個	iaq seq goq
 約書	iaq shyu
 約書亞	iaq shyu io
@@ -2429,6 +2527,7 @@ sort: by_weight
 約箱裏	iaq sian li
 約束	iaq soq
 約珊	iaq saen
+押散	iaq saen
 約沙法	iaq so faq
 約丹	iaq taen
 約担	iaq taen
@@ -2499,9 +2598,11 @@ sort: by_weight
 一個半	iq goq pun
 一件	iq jien
 一件生	iq jien san
+一球	iq jieu
 一掘	iq jiuq
 一向	iq shian
 一響	iq shian
+一欣	iq shin
 一一	iq iq
 𥣘𥣘個	iq iq goq
 𥣘𥣘	iq iq
@@ -2640,9 +2741,11 @@ sort: by_weight
 一千七百	iq tshien tshiq paq
 一餐	iq tshaen
 一朵	iq to
+一黨	iq taon
 一𡍲	iq thaq
 一體	iq thi
 一體生	iq thi san
+一聽聞	iq thin men
 一庹	iq thoq
 一胎	iq the
 一胎個	iq the goq
@@ -2654,6 +2757,7 @@ sort: by_weight
 一夜	iq ya
 一樣個	iq yan goq
 一營	iq yin
+一月	iq yuq
 一穴	iq yuq
 一園	iq yoen
 一雄	iq yon
@@ -2750,7 +2854,9 @@ sort: by_weight
 十條	zhyuq diau
 實情	zhyuq dzin
 實在	zhyuq dze
+拾但	zhyuq daen
 十幅	zhyuq foq
+十一頭	zhyuq iq deu
 十一幅	zhyuq iq foq
 十一粒	zhyuq iq liq
 十根	zhyuq ken
@@ -2759,6 +2865,9 @@ sort: by_weight
 十股	zhyuq ku
 十股得一	zhyuq ku teq iq
 十股之一	zhyuq ku tsy iq
+十股之二	zhyuq ku tsy gni
+十股之二	zhyuq ku tsy er
+十股之三	zhyuq ku tsy saen
 十塊	zhyuq khuei
 十九	zhyuq cieu
 實拉	zhyuq laq
@@ -2794,9 +2903,12 @@ sort: by_weight
 十八	zhyuq paq
 十四	zhyuq sy
 十四五萬	zhyuq sy ng vaen
+十四隻	zhyuq sy tsaq
 十四萬	zhyuq sy vaen
 十聲	zhyuq sin
 十三	zhyuq saen
+十三頭	zhyuq saen deu
+十三隻	zhyuq saen tsaq
 十多	zhyuq tou
 十隻	zhyuq tsaq
 十遭	zhyuq tsau
@@ -2840,6 +2952,7 @@ sort: by_weight
 順手邊	zhyun sieu pien
 神子	zhyun tsy
 順隻	zhyun tsaq
+順隻腿	zhyun tsaq thei
 神蹟	zhyun tsiq
 循都基	zhyun tu ci
 神體	zhyun thi
@@ -2853,9 +2966,11 @@ sort: by_weight
 仁愛個	zhyun e goq
 神啊	zhyun gha
 熟個	zhoq goq
+屬個	zhoq goq
 熟熟管	zhoq zhoq kun
 贖過	zhoq kou
 屬國	zhoq koq
+贖愆	zhoq chien
 熟了點	zhoq leq tien
 熟悉個	zhoq siq goq
 熟悉	zhoq siq
@@ -2942,6 +3057,8 @@ sort: by_weight
 解個	ka goq
 街街弄弄	ka ka lon lon
 解去	ka chi
+介去	ka chi
+介講	ka kaon
 解開仔	ka khe tsy
 解勒	ka leq
 介呢	ka ni
@@ -2950,6 +3067,7 @@ sort: by_weight
 介相貌	ka sian mau
 介星	ka sin
 解仔	ka tsy
+介走	ka tseu
 介做	ka tsou
 芥菜子	ka tshe tsy
 介時候	ka zy gheu
@@ -2980,6 +3098,9 @@ sort: by_weight
 溢上來	kaq zaon le
 耕種個	kan con goq
 告了	kau lei
+高地	kau di
+高地上個	kau di zaon goq
+高地上	kau di zaon
 高大個	kau dou goq
 校場裏	kau dzian li
 教方	kau faon
@@ -3025,6 +3146,8 @@ sort: by_weight
 箇隊	keq dei
 箇頭	keq deu
 箇頭個	keq deu goq
+箇地個	keq di goq
+箇地	keq di
 箇條	keq diau
 割掉	keq diau
 箇大潮	keq dou dziau
@@ -3202,6 +3325,8 @@ sort: by_weight
 夠用	keu yon
 過頭了	kou deu lei
 過頭仔	kou deu tsy
+歌詞	kou dzy
+過弗	kou feq
 過弗過	kou feq kou
 過弗過去	kou feq kou chi
 歌賦	kou fu
@@ -3216,8 +3341,8 @@ sort: by_weight
 過去點	kou chi tien
 過愆	kou chien
 過愆個	kou chien goq
-哥拉個	kou laq goq
 哥拉	kou laq
+哥拉個	kou laq goq
 哥拉汛	kou laq sin
 哥裏倭蘭	kou li ou laen
 過了個	kou liau goq
@@ -3230,6 +3355,7 @@ sort: by_weight
 歌篾	kou miq
 歌篾個	kou miq goq
 哥尼流	kou gni lieu
+哥斯比	kou sy pi
 過失	kou shyuq
 過心	kou sin
 過心弗去	kou sin feq chi
@@ -3250,6 +3376,7 @@ sort: by_weight
 歌唱個	kou tshaon goq
 裹帶攏	kou taen lon
 過短	kou toen
+過份	kou ven
 過分了	kou ven lei
 過犯	kou vaen
 過犯個	kou vaen goq
@@ -3311,6 +3438,7 @@ sort: by_weight
 拱勒頭	kon leq deu
 供撥	kon peq
 攻打	kon tan
+攻打個	kon tan goq
 公子	kon tsy
 供祭	kon tsi
 供祭個	kon tsi goq
@@ -3361,10 +3489,12 @@ sort: by_weight
 歸於	kuei iu
 骨頭個	kueq deu goq
 骨肉	kueq zhoq
+括括	kueq kueq
 骨髓	kueq si
 昆蟲	kuen jon
 棍子	kuen tsy
 顧着個	ku joq goq
+估個	ku goq
 故意	ku i
 古實	ku zhyuq
 古實個	ku zhyuq goq
@@ -3386,6 +3516,7 @@ sort: by_weight
 臌脹	ku tsian
 古蹟	ku tsiq
 固執不通	ku tsiq peq thon
+故此	ku tshy
 孤清	ku tshin
 故事	ku zy
 古時	ku zy
@@ -3439,8 +3570,8 @@ sort: by_weight
 掛念	kuo gniaen
 寡婦	kuo vu
 寡婦個	kuo vu goq
-光光個	kuaon kuaon goq
 光光	kuaon kuaon
+光光個	kuaon kuaon goq
 廣闊	kuaon khueq
 廣闊勒緊	kuaon khueq leq cin
 光景	kuaon cin
@@ -3480,6 +3611,8 @@ sort: by_weight
 盔甲個	khuei kaq goq
 塊數	khuei su
 塊打塊	khuei tan khuei
+窺探	khuei thein
+窺探個	khuei thein goq
 闊個	khueq goq
 闊闊個	khueq khueq goq
 闊闊	khueq khueq
@@ -3492,12 +3625,14 @@ sort: by_weight
 困苦	khuen khu
 睏間	khuen kaen
 睏間個	khuen kaen goq
+睏倒	khuen tau
 睏的個	khuen tiq goq
 睏東	khuen ton
 睏仔	khuen tsy
 枯了	khu lei
 苦弗過	khu feq kou
 苦個	khu goq
+苦工	khu kon
 苦苦	khu khu
 枯勒	khu leq
 骷髏	khu leu
@@ -3536,6 +3671,7 @@ sort: by_weight
 寬限其	khun ghaen ji
 誇口	khuo kheu
 誇口個	khuo kheu goq
+曠野個	khuaon ie goq
 曠野裏	khuaon ie li
 基阿個	ci aq goq
 基阿	ci aq
@@ -3543,11 +3679,15 @@ sort: by_weight
 基大老瑪	ci da lau mo
 基達	ci daq
 幾條	ci diau
+繼續	ci joq
 磯法	ci faq
+基弗個	ci faq goq
+基弗	ci faq
 記弗起	ci feq chi
 幾分個	ci fen goq
 繫好東	ci hau ton
 饑荒	ci huaon
+基希拉大	ci shi laq da
 幾十	ci zhyuq
 既然	ci zhoen
 幾根	ci ken
@@ -3562,17 +3702,25 @@ sort: by_weight
 基利家個	ci li cio goq
 幾兩	ci lian
 基列	ci liq
+基列亭	ci liq din
+基列個	ci liq goq
+基列胡朔	ci liq wu soq
 基列亞巴	ci liq io po
+記錄	ci loq
 記落個	ci loq goq
 記落	ci loq
 基路冰	ci lu pin
 基路冰個	ci lu pin goq
 繫來	ci le
 基蘭	ci laen
+基抹	ci maq
 計謀	ci meu
 基母利	ci meu li
+基納	ci naq
+基納個	ci naq goq
 基納	ci neq
 基尼	ci gni
+基尼烈	ci gni liq
 基尼洗	ci gni si
 基業	ci gniq
 基業個	ci gniq goq
@@ -3595,6 +3743,7 @@ sort: by_weight
 記得牢	ci teq lau
 記得到	ci teq tau
 基帝	ci ti
+基底	ci ti
 繫的	ci tiq
 基督	ci toq
 基督徒	ci toq du
@@ -3655,6 +3804,7 @@ sort: by_weight
 潔白	ciq baq
 潔白個	ciq baq goq
 結佩	ciq bei
+結出	ciq chyuq
 結了黨	ciq deq taon
 激動	ciq don
 激動個	ciq don goq
@@ -3678,6 +3828,7 @@ sort: by_weight
 結勒	ciq leq
 汲淪	ciq len
 吉利	ciq li
+吉律亞大法	ciq liq io da faq
 結攏	ciq lon
 結攏了個	ciq lon liau goq
 結攏了	ciq lon liau
@@ -3690,6 +3841,7 @@ sort: by_weight
 擊散	ciq saen
 結算	ciq soen
 結的	ciq tiq
+結的個	ciq tiq goq
 結黨	ciq taon
 結黨個	ciq taon goq
 潔淨	ciq zin
@@ -3731,6 +3883,7 @@ sort: by_weight
 境地	cin di
 敬重	cin jon
 禁住	cin jyu
+禁住個	cin jyu goq
 京城	cin dzin
 金壇	cin daen
 金壇個	cin daen goq
@@ -3740,6 +3893,7 @@ sort: by_weight
 驚𢞕	cin hoq
 驚駭	cin shie
 謹慎	cin zhyun
+境界	cin ka
 鏡乾	cin kien
 金鈎	cin keu
 經過	cin kou
@@ -3765,6 +3919,7 @@ sort: by_weight
 今難間	cin naen kaen
 今世個	cin si goq
 警醒	cin sin
+敬心	cin sin
 經手	cin sieu
 謹守	cin sieu
 經手個	cin sieu goq
@@ -3785,6 +3940,7 @@ sort: by_weight
 救出個	cieu chyuq goq
 救道	cieu dau
 久了	cieu lei
+九頭	cieu deu
 救恩	cieu en
 救法	cieu faq
 救弗來	cieu feq le
@@ -3807,10 +3963,12 @@ sort: by_weight
 九州	cieu tsieu
 九千	cieu tshien
 救復	cieu voq
+救活	cieu weq
 救完	cieu wun
 救罪個	cieu zei goq
 救罪	cieu zei
 救上	cieu zaon
+戒個	cie goq
 誡命	cie min
 歸了	ciu lei
 居住	ciu jyu
@@ -3851,9 +4009,11 @@ sort: by_weight
 加大拉	cio da laq
 迦但	cio daen
 嘉慶	cio chin
+迦勒	cio laq
 迦拉	cio laq
 加拉太	cio laq tha
 加拉太個	cio laq tha goq
+迦勒	cio leq
 加勒葛	cio leq keq
 加勒葛搭	cio leq keq taq
 迦勒底	cio leq ti
@@ -3876,9 +4036,12 @@ sort: by_weight
 迦薩	cio saq
 迦得	cio teq
 迦得個	cio teq goq
+迦底	cio ti
 迦鐵	cio thiq
+迦鐵巴尼亞	cio thiq po gni io
 迦猶	cio yeu
 迦含	cio ghein
+降災	ciaon tse
 起頭了	chi deu lei
 起頭個	chi deu goq
 棄掉	chi diau
@@ -3888,8 +4051,10 @@ sort: by_weight
 欺待	chi de
 豈弗	chi feq
 去弗來個	chi feq le goq
+豈弗能夠	chi feq nen keu
 去弗得個	chi feq teq goq
 去弗得	chi feq teq
+豈弗會	chi feq wei
 豈弗是	chi feq zy
 起個	chi goq
 去其	chi ji
@@ -3906,8 +4071,9 @@ sort: by_weight
 起血心	chi shiuq sin
 起因個	chi in goq
 起因	chi in
-起過	chi kou
 去過	chi kou
+起過	chi kou
+去過個	chi kou goq
 蹊蹺個	chi chiau goq
 去看	chi khien
 起課個	chi khou goq
@@ -3918,6 +4084,7 @@ sort: by_weight
 氣味個	chi mi goq
 器皿	chi min
 器皿個	chi min goq
+器皿上	chi min zaon
 企慕	chi mou
 去慕	chi mou
 企慕個	chi mou goq
@@ -3972,6 +4139,7 @@ sort: by_weight
 牽來	chien le
 牽磨個	chien mou goq
 欠少	chien siau
+牽到	chien tau
 欠到	chien tau
 欠早	chien tsau
 輕嘴薄舌	chin cyu boq ziq
@@ -4065,6 +4233,7 @@ sort: by_weight
 居主	ke cyu
 改掉	ke diau
 蓋住	ke jyu
+蓋個	ke goq
 蓋好	ke hau
 改悔	ke huei
 改過	ke kou
@@ -4083,6 +4252,7 @@ sort: by_weight
 該撒利亞	ke saq li io
 該撒利亞個	ke saq li io goq
 蓋煞仔	ke saq tsy
+蓋的個	ke tiq goq
 改樣	ke yan
 該像	ke zian
 蓋上	ke zaon
@@ -4103,6 +4273,7 @@ sort: by_weight
 監裏	kaen li
 監裏個	kaen li goq
 減落	kaen loq
+減落個	kaen loq goq
 揀選	kaen shoen
 揀選出來	kaen shoen chyuq le
 揀選出來個	kaen shoen chyuq le goq
@@ -4143,6 +4314,8 @@ sort: by_weight
 各處	koq chyu
 各隊	koq dei
 各隊兵	koq dei pin
+各族個	koq dzoq goq
+各族	koq dzoq
 擱腳凳下	koq ciaq ten gho
 角角	koq koq
 各路	koq lu
@@ -4151,6 +4324,7 @@ sort: by_weight
 各樣個	koq yan goq
 各樣如	koq yan zhyu
 講出	kaon chyuq
+講出個	kaon chyuq goq
 講出來	kaon chyuq le
 講出來個	kaon chyuq le goq
 講了來	kaon deq le
@@ -4193,6 +4367,7 @@ sort: by_weight
 江邊	kaon pien
 江水	kaon shyu
 講到	kaon tau
+槓子	kaon tsy
 講錯	kaon tshou
 講完	kaon wun
 講和	kaon ghou
@@ -4219,11 +4394,13 @@ sort: by_weight
 敲斷	khau doen
 靠弗住	khau feq jyu
 靠弗實	khau feq zhyuq
+靠近	khau jin
 靠實	khau zhyuq
 考實	khau zhyuq
 靠實個	khau zhyuq goq
 靠實過個	khau zhyuq kou goq
 靠實過	khau zhyuq kou
+敲掐	khau khaq
 敲敲	khau khau
 敲開了	khau khe leq
 靠勒	khau leq
@@ -4369,6 +4546,7 @@ sort: by_weight
 開墾	khe khen
 開開	khe khe
 開開來	khe khe le
+開的個	khe tiq goq
 開東	khe ton
 開仔	khe tsy
 開天闢地	khe thien phiq di
@@ -4410,6 +4588,7 @@ sort: by_weight
 蠟燭芯	laq coq sin
 攔轉	laq coen
 拉住了	laq jyu leq
+拉孚	laq fu
 拉苟	laq keu
 拉戈尼亞	laq kou gni io
 拉結	laq ciq
@@ -4424,6 +4603,7 @@ sort: by_weight
 拉波尼	laq pou gni
 拉班	laq paen
 拉班個	laq paen goq
+勒撒	laq seq
 拉西亞	laq si io
 拉沙	laq so
 攔進	laq tsin
@@ -4487,6 +4667,9 @@ sort: by_weight
 屢次	lei tshy
 屢次個	lei tshy goq
 勒拜	leq pe
+倫理	len li
+論到	len tau
+輪到	len tau
 論千	len tshien
 論千論萬個	len tshien len vaen goq
 論千論萬	len tshien len vaen
@@ -4505,12 +4688,14 @@ sort: by_weight
 痢疾	li dziq
 利法	li faq
 哩非定	li fi din
+利非停	li fi din
 利哈	li ha
 裏向個	li shian goq
 裏衣	li i
 呂高尼	li kau gni
 呂高尼個	li kau gni goq
 利基翁	li ci on
+利金	li cin
 呂家個	li cio goq
 呂家	li cio
 離開	li khe
@@ -4535,6 +4720,7 @@ sort: by_weight
 呂彼亞	li pei io
 裏邊	li pien
 裏半邊	li pun pien
+利巴	li po
 利撒	li saq
 呂撒聶	li saq gniq
 犁梢	li sau
@@ -4547,6 +4733,7 @@ sort: by_weight
 呂底亞	li ti io
 呂底亞個	li ti io goq
 驢子	li tsy
+驢子個	li tsy goq
 禮節	li tsiq
 利都是	li tu zy
 利烏米	li u mi
@@ -4585,6 +4772,7 @@ sort: by_weight
 兩管	lian kun
 亮光	lian kuaon
 亮光個	lian kuaon goq
+兩記	lian ci
 亮起	lian chi
 兩兩	lian lian
 量量	lian lian
@@ -4636,6 +4824,7 @@ sort: by_weight
 立定個	liq din goq
 立住	liq jyu
 歷朝個	liq dziau goq
+立在	liq dze
 歷代個	liq de goq
 歷代	liq de
 律法	liq faq
@@ -4653,6 +4842,7 @@ sort: by_weight
 立間個	liq kaen goq
 立刻	liq kheq
 裂開	liq khe
+立拉	liq laq
 立牢東	liq lau ton
 立勒住	liq leq jyu
 立勒牢	liq leq lau
@@ -4664,6 +4854,7 @@ sort: by_weight
 立落	liq loq
 立落來	liq loq le
 立尼	liq gni
+立拿	liq no
 立不里	liq peq li
 列邦	liq paon
 粒數	liq su
@@ -4671,8 +4862,8 @@ sort: by_weight
 立東	liq ton
 立東個	liq ton goq
 立仔	liq tsy
-列祖個	liq tsu goq
 列祖	liq tsu
+列祖個	liq tsu goq
 立帶起	liq taen chi
 列位	liq wei
 列王	liq waon
@@ -4703,6 +4894,7 @@ sort: by_weight
 連只	lien tsiq
 連帶攏	lien taen lon
 連夜	lien ya
+聯合	lien gheq
 臨終	lin con
 臨終個	lin con goq
 領轉	lin coen
@@ -4725,6 +4917,7 @@ sort: by_weight
 領路	lin lu
 領路個	lin lu goq
 令郎	lin laon
+臨門帕烈	lin men pho liq
 靈妙	lin miau
 靈妙個	lin miau goq
 臨滿	lin mun
@@ -4767,10 +4960,12 @@ sort: by_weight
 流開	lieu khe
 留落	lieu loq
 流落	lieu loq
+流落來	lieu loq le
 留落星	lieu loq sin
 留落東	lieu loq ton
 流落他鄉	lieu loq tha shian
 流瑪	lieu mo
+流奶	lieu na
 流珥	lieu er
 流珥個	lieu er goq
 留心	lieu sin
@@ -4790,6 +4985,8 @@ sort: by_weight
 擄掠仔	lou liaq tsy
 擄擄	lou lou
 擄擄落	lou lou loq
+擄來	lou le
+擄來個	lou le goq
 羅馬	lou mo
 羅馬城	lou mo dzin
 羅馬個	lou mo goq
@@ -4811,10 +5008,12 @@ sort: by_weight
 六乘	loq dzin
 六幅	loq foq
 鹿個	loq goq
+樂意祭	loq i tsi
 六十九	loq zhyuq cieu
 六十六個	loq zhyuq loq goq
 六十五	loq zhyuq ng
 六十二	loq zhyuq gni
+六十七萬	loq zhyuq tshiq vaen
 六十萬	loq zhyuq vaen
 落個	loq kou
 六塊	loq khuei
@@ -4837,9 +5036,10 @@ sort: by_weight
 六章	loq tsaon
 六七個	loq tshiq goq
 六千	loq tshien
-落凡	loq vaen
 六萬	loq vaen
+落凡	loq vaen
 六慾	loq yoq
+六座	loq zou
 聾𦗭個	lon ban goq
 弄出	lon chyuq
 弄出來	lon chyuq le
@@ -4883,6 +5083,7 @@ sort: by_weight
 路德	lu teq
 爐底	lu ti
 路丁	lu tin
+驢子	lu tsy
 路梯之下	lu the tsy gho
 蘆薈	lu wei
 路士得	lu zy teq
@@ -5001,6 +5202,7 @@ sort: by_weight
 嘸力量	m liq lian
 嘸力量個	m liq lian goq
 嘸靈氣	m lin chi
+嘸路	m lu
 嘸毛病	m mau bin
 嘸毛病個	m mau bin goq
 嘸得了	m neq lei
@@ -5079,6 +5281,8 @@ sort: by_weight
 買點	ma tien
 買進	ma tsin
 買進個	ma tsin goq
+埋伏個	ma voq goq
+埋伏間	ma voq kaen
 麥田裏	maq dien li
 麥粉	maq fen
 末個	maq goq
@@ -5086,6 +5290,7 @@ sort: by_weight
 麥基	maq ci
 麥基洗德	maq ci si teq
 麥基洗德個	maq ci si teq goq
+抹結	maq ciq
 麥結	maq ciq
 抹利	maq li
 麥裏	maq li
@@ -5094,6 +5299,7 @@ sort: by_weight
 麥西	maq si
 麥鐵	maq thiq
 默示錄	maq zy loq
+麥食	maq ziq
 沒上的	maq zaon tiq
 猛風	man fon
 猛火	man hou
@@ -5102,6 +5308,7 @@ sort: by_weight
 猛暴	man pau
 猛心	man sin
 猛洋洋	man yan yan
+毛病個	mau bin goq
 冒充	mau chon
 冒充個	mau chon goq
 冒險	mau shien
@@ -5111,10 +5318,15 @@ sort: by_weight
 冒寫	mau sia
 媢怨	mau ioen
 每常	mei jaon
+𤈦成個	mei dzin goq
+𤈦成	mei dzin
+每族	mei dzoq
 糜費掉	mei fi diau
 每幅	mei foq
 每封	mei fon
 𤈦其掉	mei ji diau
+每件	mei jien
+𤈦過	mei kou
 𤈦起來	mei chi le
 美缺	mei chiuq
 每口	mei kheu
@@ -5125,8 +5337,11 @@ sort: by_weight
 每每	mei mei
 美門	mei men
 美門口	mei men kheu
+𤈦牛個	mei ngeu goq
+𤈦牛	mei ngeu
 美玉	mei gnioq
 𤈦煞了	mei saq lei
+𤈦煞個	mei saq goq
 每西亞	mei si io
 每隻	mei tsaq
 梅姐	mei tsia
@@ -5137,6 +5352,7 @@ sort: by_weight
 每夜	mei ya
 每樣	mei yan
 每月	mei yuq
+每座	mei zou
 抹大拉個	meq da laq goq
 抹大拉	meq da laq
 末代	meq de
@@ -5190,6 +5406,7 @@ sort: by_weight
 米利大	mi li da
 米利暗	mi li ein
 米利巴	mi li po
+米利巴個	mi li po goq
 米利都	mi li tu
 米利亞	mi li io
 眯攏去	mi lon chi
@@ -5206,6 +5423,7 @@ sort: by_weight
 米沙	mi so
 米沙利	mi so li
 米所波大米	mi so pou da mi
+米底巴	mi ti po
 未點	mi tien
 米太	mi tha
 米推利尼	mi thei li gni
@@ -5220,6 +5438,7 @@ sort: by_weight
 廟宇	miau yu
 廟宇裏	miau yu li
 藐視	miau zy
+密奪	miq daq
 密奪個	miq deq goq
 密奪	miq deq
 滅掉	miq diau
@@ -5290,11 +5509,14 @@ sort: by_weight
 磨難	mou naen
 摩西	mou si
 摩西個	mou si goq
+摩西錄	mou si loq
 摩德拿	mou teq no
 磨上層	mou zaon zen
 摸着	moq joq
+摸着個	moq joq goq
 摸個	moq goq
 摸過	moq kou
+木器	moq chi
 摸來摸去	moq le moq chi
 摸摸	moq moq
 牧伯	moq paq
@@ -5307,6 +5529,8 @@ sort: by_weight
 目睹	moq tu
 夢裏	mon li
 滿出	mun chyuq
+滿出來個	mun chyuq le goq
+滿出來	mun chyuq le
 滿道	mun dau
 饅頭茶	mun deu dzo
 饅頭個	mun deu goq
@@ -5337,16 +5561,19 @@ sort: by_weight
 晚上	maen zaon
 瑪大提亞	mo da di io
 馬大個	mo da goq
+瑪大拿	mo da no
 瑪達他	mo daq tha
 瑪特列	mo deq liq
 馬提亞	mo di io
 瑪代	mo de
 馬伕	mo fu
 馬個	mo goq
+瑪其	mo ji
 馬其頓	mo ji ten
 馬其頓個	mo ji ten goq
 瑪哈拉	mo ha laq
 瑪哈念	mo ha gniaen
+瑪希錄	mo shi loq
 瑪押	mo iaq
 瑪實	mo zhyuq
 瑪葛	mo keq
@@ -5354,6 +5581,7 @@ sort: by_weight
 馬腳	mo ciaq
 馬繮繩	mo cian zin
 瑪吉	mo ciq
+瑪吉個	mo ciq goq
 瑪迦	mo cio
 瑪各	mo koq
 馬可	mo khou
@@ -5361,6 +5589,7 @@ sort: by_weight
 瑪拉個	mo laq goq
 馬勒古	mo leq ku
 瑪勒列	mo leq liq
+瑪利	mo li
 馬利涅	mo li gniaq
 馬利亞	mo li io
 馬利亞個	mo li io goq
@@ -5420,6 +5649,7 @@ sort: by_weight
 鬧事	nau zy
 納大利	neq da li
 納大利個	neq da li goq
+衲非蓮	neq fi lien
 納土	neq thu
 南地	nein di
 南風	nein fon
@@ -5434,6 +5664,7 @@ sort: by_weight
 南邊	nein pien
 南邊個	nein pien goq
 男丁	nein tin
+男子	nein tsy
 男娃	nein uaen
 嫩個	nen goq
 能幹個	nen kien goq
@@ -5478,12 +5709,13 @@ sort: by_weight
 五千兩	ng tshien lian
 五套	ng thau
 五萬	ng vaen
+五月	ng yuq
 爾自	ng zi
 爾自個	ng zi goq
 爾候我弗齊	ng gheu ngo feq zi
 外頭個	nga deu goq
-外族個	nga dzoq goq
 外族	nga dzoq
+外族個	nga dzoq goq
 外堂裏	nga daon li
 外鄉	nga shian
 外國	nga koq
@@ -5491,6 +5723,7 @@ sort: by_weight
 外國王	nga koq waon
 外光面	nga kuaon mien
 外教人	nga ciau gnin
+外來	nga le
 外貌	nga mau
 外面	nga mien
 外面個	nga mien goq
@@ -5512,6 +5745,7 @@ sort: by_weight
 硬弄	ngan lon
 硬心	ngan sin
 咬着	ngau joq
+咬個	ngau goq
 咬勒牙齒	ngau leq ngo tshy
 咬來咬去	ngau le ngau chi
 咬煞了	ngau saq lei
@@ -5519,6 +5753,7 @@ sort: by_weight
 咬傷	ngau saon
 咬傷個	ngau saon goq
 岸上	ngein zaon
+牛隊	ngeu dei
 牛個	ngeu goq
 牛圈裏	ngeu jien li
 偶然	ngeu zhoen
@@ -5531,6 +5766,7 @@ sort: by_weight
 訛頭	ngou deu
 俄羅斯	ngou lou sy
 蛾摩拉個	ngou mou laq goq
+噩個	ngoq goq
 危險	nguei shien
 危險個	nguei shien goq
 互相	ngu sian
@@ -5553,6 +5789,7 @@ sort: by_weight
 我中央	ngo con gnian
 芽頭	ngo dein
 瓦貨	ngo hou
+我要	ngo iau
 瓦器皿	ngo chi min
 衙門裏	ngo men li
 我心裏	ngo sin li
@@ -5584,6 +5821,7 @@ sort: by_weight
 二分	gni fen
 二個	gni goq
 泥好	gni hau
+二十個	gni zhyuq goq
 尼哥拉	gni kou laq
 尼哥波立	gni kou pou liq
 尼哥底母	gni kou ti meu
@@ -5595,8 +5833,12 @@ sort: by_weight
 尼利	gni li
 尼利亞	gni li io
 尼羅	gni lou
+尼母利	gni meu li
+尼母利個	gni meu li goq
 尼尼微	gni gni vi
 泥浴裏	gni gnioq li
+二百五十	gni paq ng zhyuq
+尼破	gni phou
 尼西	gni si
 泥塑	gni su
 泥塑木雕	gni su moq tiau
@@ -5688,6 +5930,7 @@ sort: by_weight
 人過	gnin kou
 銀庫裏	gnin khu li
 人家個	gnin ko goq
+寧拉	gnin laq
 認勒出	gnin leq chyuq
 寧錄	gnin loq
 認攏	gnin lon
@@ -5728,7 +5971,9 @@ sort: by_weight
 女人個	gniu gnin goq
 女女	gniu gniu
 女𡢿	gniu gniun
+女兒個	gniu er goq
 女色	gniu seq
+女子	gniu tsy
 女皇	gniu waon
 女王	gniu waon
 源頭	gnioen deu
@@ -5788,8 +6033,10 @@ sort: by_weight
 難事	naen zy
 拿達	no daq
 拿但業	no daen gniq
+挪法	no faq
 拿非實	no fi zhyuq
 拿其數	no ji su
+拿哈列	no haq liq
 拿因	no in
 拿順	no zhyun
 拿順個	no zhyun goq
@@ -5798,6 +6045,8 @@ sort: by_weight
 拿鶴	no ngoq
 拿鶴個	no ngoq goq
 拿翁	no on
+拿比	no pi
+挪巴	no po
 拿撒勒個	no saq leq goq
 拿孫	no sen
 拿答	no taq
@@ -5810,6 +6059,7 @@ sort: by_weight
 拿轄	no gheq
 囡個	noen goq
 暖暖	noen noen
+阿泊	ou boq
 倭非	ou fi
 捼勒	ou leq
 阿林巴	ou lin po
@@ -5819,6 +6069,7 @@ sort: by_weight
 阿尼色弗	ou gni seq feq
 阿尼西母	ou gni si meu
 倭柏	ou paq
+阿斯尼	ou sy gni
 阿轄	ou gheq
 屋大維	oq da vi
 屋大就	oq da zieu
@@ -5868,6 +6119,9 @@ sort: by_weight
 伯特利個	paq deq li goq
 八頭	paq deu
 伯法基	paq faq ci
+百夫長個	paq fu tsian goq
+伯哈蘭	paq ha laen
+柏香	paq shian
 八十六	paq zhyuq loq
 八十二	paq zhyuq gni
 八十三	paq zhyuq saen
@@ -5887,11 +6141,13 @@ sort: by_weight
 百木粉碎	paq moq fen sei
 百尼基	paq gni ci
 八日個	paq gniq goq
+伯寧拉	paq gnin laq
 八百	paq paq
 百姓	paq sin
 百姓個	paq sin goq
 百姓拉	paq sin laq
 伯賽大	paq se da
+八氐	paq ti
 八點	paq tien
 百總	paq tson
 百總個	paq tson goq
@@ -5900,6 +6156,7 @@ sort: by_weight
 百萬	paq vaen
 百樣	paq yan
 百樣個	paq yan goq
+伯耶西末	paq ye si maq
 百合	paq gheq
 綳碎	pan sei
 包出	pau chyuq
@@ -5909,6 +6166,7 @@ sort: by_weight
 保全許多	pau joen shiu tou
 報盡	pau dzin
 報仇	pau dzieu
+報仇個	pau dzieu goq
 報恩	pau en
 報弗盡	pau feq dzin
 報弗還個	pau feq waen goq
@@ -5943,6 +6201,7 @@ sort: by_weight
 保守仔	pau sieu tsy
 報答	pau teq
 包的	pau tiq
+寶劍	pau tsien
 寶物	pau veq
 包袱	pau voq
 保惠師	pau wei sy
@@ -5954,6 +6213,7 @@ sort: by_weight
 寶石	pau zaq
 報冤	pau ioen
 寶行	pau ghaon
+揹軛個	pei aq kou
 碑牌	pei ba
 碑牌裏	pei ba li
 碑牌裏個	pei ba li goq
@@ -6000,7 +6260,6 @@ sort: by_weight
 不憂	peq ieu
 不忍相	peq zhyun sian
 不過	peq kou
-撥個	peq kou
 不決個	peq ciuq goq
 不決	peq ciuq
 不加	peq ko
@@ -6021,6 +6280,7 @@ sort: by_weight
 本地	pen di
 本城	pen dzin
 本族	pen dzoq
+本族個	pen dzoq goq
 奔法	pen faq
 奔競	pen jin
 本鄉	pen shian
@@ -6057,8 +6317,10 @@ sort: by_weight
 本於	pen iu
 比衆	pi con
 比衆不同	pi con peq don
+比大黑	pi da haq
 比大蓿	pi da soq
 比大蓿個	pi da soq goq
+比奪	pi deq
 閉住	pi jyu
 比弗來	pi feq le
 比弗來個	pi feq le goq
@@ -6073,10 +6335,11 @@ sort: by_weight
 比起來	pi chi le
 閉口	pi kheu
 比拉	pi laq
+比拉個	pi laq goq
 比勒	pi leq
 比利洗	pi li si
-庇哩亞	pi li io
 比利亞	pi li io
+庇哩亞	pi li io
 庇哩亞個	pi li io goq
 比利亞個	pi li io goq
 比列	pi liq
@@ -6086,18 +6349,22 @@ sort: by_weight
 祕密	pi miq
 秘密	pi miq
 比嫩	pi nen
-比珥個	pi er goq
+比尼雅干	pi gni yo kien
 比珥	pi er
+比珥個	pi er goq
 比撒列	pi saq liq
 比遜	pi sen
 比沙	pi so
+閉的個	pi tiq goq
 比東	pi ton
 比撻個	pi thaq goq
 比撻	pi thaq
 庇推尼	pi thei gni
 比武	pi vu
 比武個	pi vu goq
+比穩	pi uen
 比喻	pi yu
+比士迦	pi zy cio
 滮出	piau chyuq
 表出來	piau chyuq le
 標頭	piau deu
@@ -6134,10 +6401,12 @@ sort: by_weight
 變掉	pien diau
 變動	pien don
 變弗來	pien feq le
+邊個	pien goq
 變化	pien huo
 變化弗來個	pien huo feq le goq
 變化弗來	pien huo feq le
 變化個	pien huo goq
+邊界	pien ka
 變勒	pien leq
 扁餅	pien pin
 變色	pien seq
@@ -6159,6 +6428,7 @@ sort: by_weight
 兵馬	pin mo
 兵丁	pin tin
 兵將	pin tsian
+兵將個	pin tsian goq
 併吞	pin then
 波提非拉個	pou di fi laq goq
 波提非拉	pou di fi laq
@@ -6178,11 +6448,14 @@ sort: by_weight
 剝勒去	poq leq chi
 北邊	poq pien
 北邊個	poq pien goq
+博西	poq si
 北首	poq sieu
 駁倒	poq tau
 崩開	pon khe
 布田	pu dien
 補好	pu hau
+布基	pu ci
+佈開	pu khe
 補補湊	pu pu tsheu
 布斯	pu sy
 補的	pu tiq
@@ -6193,6 +6466,7 @@ sort: by_weight
 半途而廢	pun du er fi
 半幅	pun foq
 半橛裏	pun jiuq li
+半欣	pun shin
 搬過	pun kou
 搬過去	pun kou chi
 半句	pun ciu
@@ -6229,15 +6503,25 @@ sort: by_weight
 巴約拿	po iaq no
 巴實抹	po zhyuq meq
 巴實抹個	po zhyuq meq goq
+巴勒	po laq
+巴勒個	po laq goq
 巴拉迦	po laq cio
 巴拉巴	po laq po
 巴勒	po leq
 巴勒哈南	po leq ha nein
+巴力個	po liq goq
+巴力免	po liq mien
 巴力洗分	po liq si fen
 巴力洗分個	po liq si fen goq
+巴路	po lu
+巴路個	po lu goq
 巴蘭	po laen
 巴蘭個	po laen goq
+巴末	po maq
+巴末個	po maq goq
 巴米拿	po mi no
+巴納	po neq
+巴尼亞	po gni io
 巴拿巴	po no po
 巴拿巴個	po no po goq
 把握	po oq
@@ -6248,6 +6532,7 @@ sort: by_weight
 把守	po sieu
 把守個	po sieu goq
 把帥	po se
+巴珊	po saen
 把打把	po tan po
 巴得那	po teq na
 巴底買	po ti me
@@ -6256,6 +6541,7 @@ sort: by_weight
 把賬個	po tsian goq
 芭蕉	po tsiau
 霸佔	po tsien
+巴鐵	po thiq
 巴坦	po thaen
 巴坦亞蘭	po thaen io laen
 巴耶穌	po ye su
@@ -6268,10 +6554,12 @@ sort: by_weight
 幫手	paon sieu
 幫襯記	paon tshen ci
 榜樣	paon yan
+派定	pha din
+派定個	pha din goq
 派個	pha goq
 派好	pha hau
-派過個	pha kou goq
 派過	pha kou
+派過個	pha kou goq
 派起來	pha chi le
 派進	pha tsin
 拍去個	phaq chi goq
@@ -6287,8 +6575,8 @@ sort: by_weight
 拋間	phau kaen
 拋落	phau loq
 披掛	phei kuo
-配攏個	phei lon goq
 配攏	phei lon
+配攏個	phei lon goq
 配攏的	phei lon tiq
 配撥	phei peq
 配搭	phei taq
@@ -6306,6 +6594,7 @@ sort: by_weight
 披落來	phi loq le
 披仔	phi tsy
 飄動	phiau don
+飄流	phiau lieu
 撇掉	phiq diau
 劈勒	phiq leq
 偏待	phien de
@@ -6338,6 +6627,7 @@ sort: by_weight
 破朔個	phou shoq goq
 破朔	phou shoq
 破進	phou tsin
+撲在	phoq dze
 樸實	phoq zhyuq
 撲滅	phoq miq
 樸樸實實	phoq phoq zhyuq zhyuq
@@ -6422,7 +6712,10 @@ sort: by_weight
 四十六	sy zhyuq loq
 四十五個	sy zhyuq ng goq
 四十五	sy zhyuq ng
+四十二	sy zhyuq gni
 四十二個	sy zhyuq gni kou
+四十年	sy zhyuq gnien
+四十八	sy zhyuq paq
 四十四	sy zhyuq sy
 四十多	sy zhyuq tou
 四十七	sy zhyuq tshiq
@@ -6434,6 +6727,7 @@ sort: by_weight
 四角個	sy koq goq
 四股	sy ku
 四股得一	sy ku teq iq
+四股之一	sy ku tsy iq
 四塊	sy khuei
 四季	sy ci
 詩句	sy ciu
@@ -6462,6 +6756,7 @@ sort: by_weight
 賜撥	sy peq
 四邊	sy pien
 詩篇	sy phien
+絲珥	sy er
 試試	sy sy
 梳梳	sy sy
 試試個	sy sy goq
@@ -6488,6 +6783,7 @@ sort: by_weight
 四岔路口	sy tsho lu kheu
 四汊生	sy tsho san
 斯當婆里	sy taon bou li
+試探	sy thein
 師父個	sy vu goq
 四萬	sy vaen
 四萬兩	sy vaen lian
@@ -6500,6 +6796,7 @@ sort: by_weight
 私慾個	sy yoq goq
 私下	sy gho
 曬着	sa joq
+曬場個	sa dzian goq
 曬場裏個	sa dzian li goq
 曬場裏	sa dzian li
 曬癟	sa piq
@@ -6511,6 +6808,8 @@ sort: by_weight
 撒提迦	saq di cio
 殺掉	saq diau
 殺掉個	saq diau goq
+殺掉過個	saq diau kou goq
+殺掉過	saq diau kou
 殺掉仔	saq diau tsy
 撒狄	saq diq
 撒鐸	saq doq
@@ -6521,6 +6820,8 @@ sort: by_weight
 殺個	saq goq
 殺其掉	saq ji diau
 殺好	saq hau
+撒格個	saq kaq goq
+撒格	saq kaq
 煞覺	saq kau
 殺過了	saq kou liau
 殺過了個	saq kou liau goq
@@ -6535,9 +6836,11 @@ sort: by_weight
 撒勒大	saq leq da
 撒冷	saq len
 撒冷個	saq len goq
+撒烈	saq liq
 撒羅米	saq lou mi
 撒鹿	saq loq
 殺戮	saq loq
+撒路	saq lu
 撒萊	saq le
 撒萊個	saq le goq
 殺來殺去	saq le saq chi
@@ -6545,6 +6848,7 @@ sort: by_weight
 撒母耳	saq meu er
 撒摩	saq mou
 撒摩尼	saq mou gni
+撒摩拿	saq mou no
 撒馬特喇	saq mo deq laq
 撒瑪利亞	saq mo li io
 撒瑪利亞個	saq mo li io goq
@@ -6618,7 +6922,9 @@ sort: by_weight
 失掉	shyuq diau
 失掉間	shyuq diau kaen
 失掉間個	shyuq diau kaen goq
+失亭	shyuq din
 設法	shyuq faq
+說反	shyuq faen
 設個	shyuq goq
 說謊	shyuq huaon
 說謊個	shyuq huaon goq
@@ -6645,6 +6951,7 @@ sort: by_weight
 雪淨	shyuq zin
 徇情	shyun dzin
 郇個	shyun goq
+伸崙	shyun len
 郇山	shyun saen
 郇山上	shyun saen zaon
 束稻	shoq dau
@@ -6668,16 +6975,19 @@ sort: by_weight
 势道	shyu dau
 歲了	shyu lei
 水了	shyu lei
+書提拉	shyu di laq
 輸掉	shyu diau
 貰鈿	shyu dien
 輸鈿	shyu dien
 世傳個	shyu joen goq
 水桶裏	shyu don li
 世俗個	shyu dzoq goq
+書反	shyu faen
 水個	shyu goq
 書個	shyu goq
 數好了	shyu hau liau
 水溝裏	shyu keu li
+數過	shyu kou
 世間上	shyu kaen zaon
 世間上個	shyu kaen zaon goq
 書架裏	shyu ko li
@@ -6690,6 +7000,7 @@ sort: by_weight
 貰來個	shyu le goq
 貰來	shyu le
 書面	shyu mien
+書尼	shyu gni
 水源	shyu gnioen
 水源裏	shyu gnioen li
 書珥	shyu er
@@ -6706,15 +7017,21 @@ sort: by_weight
 書房裏	shyu vaon li
 書房裏個	shyu vaon li goq
 輸贏	shyu yin
+書有	shyu yeu
 水槽	shyu zau
 水槽裏	shyu zau li
 書籍	shyu ziq
 書亞	shyu io
 書亞個	shyu io goq
+書含	shyu ghein
+書含個	shyu ghein goq
 細阿	si aq
+西達	si deq
 西定	si din
+死在	si dze
 死法	si faq
 西發	si faq
+洗分	si fen
 洗非翁	si fi on
 西風	si fon
 死期	si ji
@@ -6730,12 +7047,17 @@ sort: by_weight
 死江個	si kaon goq
 西拉	si laq
 洗拉	si laq
+西剌	si laq
 西拉個	si laq goq
+西剌個	si laq goq
 西拉冰	si laq pin
 洗禮	si li
 洗禮個	si li goq
 西烈	si liq
+西烈個	si liq goq
 西流基	si lieu ci
+西羅非哈	si lou fi ha
+西羅非哈個	si lou fi ha goq
 西羅亞	si lou io
 死來	si le
 西美	si mei
@@ -6756,6 +7078,8 @@ sort: by_weight
 西乃	si ne
 西難	si naen
 西難個	si naen goq
+西撥	si paq
+西撥個	si paq goq
 西庇太	si pi tha
 西庇太個	si pi tha goq
 西庇楊	si pi yan
@@ -6783,9 +7107,13 @@ sort: by_weight
 死之中	si tsy con
 死仔再活	si tsy tse weq
 死仔再活個	si tsy tse weq goq
+西帖	si thiaq
 西伏剌	si vou la
 死罪	si zei
+死罪個	si zei goq
 死後個	si gheu goq
+西宏	si ghon
+西宏個	si ghon goq
 寫出	sia chyuq
 寫出來	sia chyuq le
 卸掉	sia diau
@@ -6851,6 +7179,7 @@ sort: by_weight
 相符	sian vu
 想望個	sian vaon goq
 相會	sian wei
+相會個	sian wei goq
 相像	sian zian
 相像個	sian zian goq
 相愛	sian e
@@ -6863,6 +7192,7 @@ sort: by_weight
 小了	siau lei
 小弟	siau di
 燒掉	siau diau
+燒個	siau goq
 燒化	siau huo
 燒化個	siau huo goq
 燒化祭	siau huo tsi
@@ -6878,9 +7208,11 @@ sort: by_weight
 少羅	siau lou
 小攏去	siau lon chi
 消滅	siau miq
+燒滅	siau miq
 小牛	siau ngeu
 小牛個	siau ngeu goq
 少年	siau gnien
+少年女	siau gnien gniu
 小人隊	siau gnin dei
 小人個	siau gnin goq
 小囡個	siau noen goq
@@ -6898,15 +7230,19 @@ sort: by_weight
 小羊個	siau yan goq
 小羊之	siau yan tsy
 燒窯	siau yau
+小事	siau zy
 息了	siq lei
 褻瀆	siq doq
 褻瀆個	siq doq goq
+錫分	siq fen
 釋放	siq faon
 釋放個	siq faon goq
 釋放了	siq faon liau
 釋放了個	siq faon liau goq
 泄來	siq le
 錫蘭	siq laen
+悉瑪	siq mo
+息怒	siq nu
 薛拿	siq no
 悉帕	siq pho
 悉帕個	siq pho goq
@@ -6955,10 +7291,10 @@ sort: by_weight
 聖城	sin dzin
 聖城裏	sin dzin li
 聖查察官	sin dzo tshaq kun
+汛個	sin goq
 新個	sin goq
 心個	sin goq
 星個	sin goq
-汛個	sin goq
 心灰	sin huei
 心虛突顫	sin shiu deq tsien
 心意	sin i
@@ -6971,6 +7307,7 @@ sort: by_weight
 深如	sin zhyu
 聖善	sin zhoen
 聖善個	sin zhoen goq
+聖善來	sin zhoen le
 性格	sin kaq
 心高	sin kau
 心高氣傲	sin kau chi ngau
@@ -6997,6 +7334,7 @@ sort: by_weight
 伸崙	sin len
 心裏	sin li
 信裏	sin li
+心利	sin li
 信裏頭	sin li deu
 心裏頭	sin li deu
 心裏頭個	sin li deu goq
@@ -7113,6 +7451,8 @@ sort: by_weight
 收攏	sieu lon
 收攏個	sieu lon goq
 收攏來	sieu lon le
+收來個	sieu le goq
+收來	sieu le
 手藝	sieu gni
 收生個	sieu san goq
 收束	sieu soq
@@ -7136,20 +7476,25 @@ sort: by_weight
 鎖住間個	sou jyu kaen goq
 鎖住間	sou jyu kaen
 鎖住東	sou jyu ton
+瑣安	sou ein
+瑣腓	sou fi
 鎖好	sou hau
 鎖勒	sou leq
 梭倫	sou len
 瑣珥	sou er
+鎖底	sou ti
 鎖東個	sou ton goq
 鎖東	sou ton
 鎖仔	sou tsy
 瑣轄	sou gheq
 瑣轄個	sou gheq goq
+宿在	soq dze
 啥弗是	soq feq zy
 啥個	soq goq
 宿過	soq kou
 啥個	soq kou
 宿過夜	soq kou ya
+叔伯個	soq paq goq
 索性	soq sin
 速速	soq soq
 速即	soq tsiq
@@ -7168,6 +7513,8 @@ sort: by_weight
 塑出	su chyuq
 素常	su jaon
 素常	su dzaon
+蘇法個	su faq goq
+蘇法	su faq
 數弗	su feq
 數弗遍	su feq pien
 數弗遍個	su feq pien goq
@@ -7184,6 +7531,8 @@ sort: by_weight
 蘇利沙太個	su li so tha goq
 蘇列	su liq
 數目個	su moq goq
+蘇珥	su er
+蘇珥個	su er goq
 蘇耳底	su er ti
 蘇撒拿	su saq no
 疏失個	su shyuq goq
@@ -7193,6 +7542,7 @@ sort: by_weight
 甦醒轉來	su sin coen le
 疏散開	su saen khe
 素祭	su tsi
+素祭個	su tsi goq
 蔬菜	su tshe
 蔬菜個	su tshe goq
 數都	su tu
@@ -7236,6 +7586,7 @@ sort: by_weight
 山裏了	saen li lei
 山裏個	saen li goq
 山嶺	saen lin
+山路	saen lu
 散亂	saen loen
 山面前	saen mien zien
 山巖	saen ngaen
@@ -7254,9 +7605,10 @@ sort: by_weight
 散手	saen sieu
 山頂	saen ten
 三斗	saen teu
-三頂	saen tin
 山頂	saen tin
+三頂	saen tin
 山頂頭	saen tin dein
+山頂上	saen tin zaon
 三枝	saen tsy
 三隻	saen tsaq
 三遭	saen tsau
@@ -7274,6 +7626,7 @@ sort: by_weight
 三月	saen yuq
 三層	saen zen
 三層樓	saen zen leu
+三座	saen zou
 山上	saen zaon
 山下	saen gho
 捨出	so chyuq
@@ -7284,6 +7637,7 @@ sort: by_weight
 所定個	so din goq
 所定	so din
 沙塗	so du
+沙法	so faq
 赦弗掉	so feq diau
 赦弗掉個	so feq diau goq
 所吩咐	so fen fu
@@ -7292,13 +7646,17 @@ sort: by_weight
 所講	so kaon
 沙列	so liq
 所立失道	so liq shyuq dau
+沙羅	so lou
+沙羅個	so lou goq
 所羅門	so lou men
 所羅門個	so lou men goq
+沙母亞	so meu io
 赦免	so mien
 沙漠	so moq
 沙瑪	so mo
 沙泥裏	so gni li
 沙泥上	so gni zaon
+沙百	so paq
 舍邊	so pien
 所巴德	so po teq
 所西巴德	so si po teq
@@ -7332,6 +7690,7 @@ sort: by_weight
 傷勒	saon leq
 舂勒	saon leq
 喪命	saon min
+喪命個	saon min goq
 賞滿	saon mun
 賞賜	saon sy
 傷損了個	saon sen liau goq
@@ -7349,6 +7708,7 @@ sort: by_weight
 傷害個	saon ghe goq
 算法	soen faq
 算弗得	soen feq teq
+算過	soen kou
 算起	soen chi
 算起來	soen chi le
 算勒	soen leq
@@ -7396,13 +7756,16 @@ sort: by_weight
 搭地	taq di
 搭好	taq hau
 搭來	taq le
+得撒	taq saq
 搭營	taq yin
+搭營寨	taq yin dza
 搭營個	taq yin goq
 打敗	tan ba
 打敗仔	tan ba tsy
 打出	tan chyuq
 打掉	tan diau
 打着	tan joq
+打成	tan dzin
 打法	tan faq
 打弗贏	tan feq yin
 打其贏	tan ji yin
@@ -7412,6 +7775,7 @@ sort: by_weight
 打印	tan in
 打印過	tan in kou
 打印了	tan in liau
+打過	tan kou
 打過仔	tan kou tsy
 打了	tan leq
 打獵個	tan liaq goq
@@ -7426,6 +7790,7 @@ sort: by_weight
 打磨熟	tan mou zhoq
 打滿仔	tan mun tsy
 打破	tan phou
+打煞個	tan saq goq
 打水	tan shyu
 打輸	tan shyu
 打水個	tan shyu goq
@@ -7457,6 +7822,7 @@ sort: by_weight
 到處	tau chyu
 到處個	tau chyu goq
 到了	tau lei
+到頭	tau deu
 倒桶	tau don
 倒弗如	tau feq zhyu
 到弗來	tau feq le
@@ -7477,6 +7843,7 @@ sort: by_weight
 到了	tau leq
 倒勒	tau leq
 倒了霉	tau leq mei
+到了	tau liau
 到羅馬國	tau lou mo koq
 倒落	tau loq
 倒來	tau le
@@ -7499,6 +7866,7 @@ sort: by_weight
 倒退個	tau thei goq
 倒有	tau yeu
 倒是	tau zy
+倒銳氣	tau zei chi
 𠡒出	tei chyuq
 對頭個	tei deu goq
 對敵	tei diq
@@ -7546,6 +7914,7 @@ sort: by_weight
 德利士底	teq li zy ti
 得來個	teq le goq
 得來	teq le
+得撒	teq saq
 得勝	teq sin
 得勝個	teq sin goq
 得勝仔	teq sin tsy
@@ -7580,6 +7949,7 @@ sort: by_weight
 等塔	ten thaq
 登位	ten wei
 登時	ten zy
+等事	ten zy
 登時裏	ten zy li
 等候	ten gheu
 等候記	ten gheu ci
@@ -7610,6 +7980,8 @@ sort: by_weight
 底馬	ti mo
 底拿	ti no
 底拿個	ti no goq
+底本	ti pen
+底本迦得	ti pen cio taq
 底破拉	ti phou laq
 低聲	ti sin
 低聲小意	ti sin siau i
@@ -7667,6 +8039,7 @@ sort: by_weight
 叮囑	tin coq
 叮囑個	tin coq goq
 頂頭	tin dein
+頂兇	tin shion
 頂高	tin kau
 頂高個	tin kau goq
 頂苦個	tin khu goq
@@ -7706,6 +8079,8 @@ sort: by_weight
 丟進的	tieu tsin tiq
 丟士	tieu zy
 躲避	tou bi
+躲避過個	tou bi kou goq
+躲避過	tou bi kou
 多承	tou dzin
 朵化	tou huo
 多如	tou zhyu
@@ -7713,6 +8088,7 @@ sort: by_weight
 多基臉	tou ci lien
 多起	tou chi
 多起來	tou chi le
+多起來個	tou chi le goq
 多勒緊	tou leq cin
 多里	tou li
 多利買	tou li me
@@ -7763,6 +8139,7 @@ sort: by_weight
 之類	tsy lei
 之內	tsy nein
 之外	tsy nga
+之外個	tsy nga goq
 支人待客	tsy gnin de khaq
 紫玉	tsy gnioq
 煮撥	tsy peq
@@ -7793,9 +8170,11 @@ sort: by_weight
 債戶	tsa wu
 責備	tsaq bei
 扎壯個	tsaq caon goq
+扎在	tsaq dze
 扎個	tsaq goq
 扎血個	tsaq shiuq goq
 扎血	tsaq shiuq
+扎過	tsaq kou
 扎間	tsaq kaen
 扎間個	tsaq kaen goq
 扎開	tsaq khe
@@ -7807,6 +8186,7 @@ sort: by_weight
 扎落仔	tsaq loq tsy
 摘奶了	tsaq na lei
 摘奶個	tsaq na goq
+扎水	tsaq shyu
 隻數	tsaq su
 隻打隻	tsaq tan tsaq
 紮的	tsaq tiq
@@ -7819,6 +8199,7 @@ sort: by_weight
 責罰個	tsaq vaq goq
 紮營	tsaq yin
 爭起來	tsan chi le
+爭論個	tsan len goq
 爭鬥個	tsan teu goq
 爭鬥囉唕	tsan teu lou zau
 爭差	tsan tsho
@@ -7827,8 +8208,9 @@ sort: by_weight
 遭着個	tsau joq goq
 罩住	tsau jyu
 罩衣	tsau i
-棗樹個	tsau zhyu goq
+早晨	tsau zhyun
 棗樹	tsau zhyu
+棗樹個	tsau zhyu goq
 竈跟裏	tsau ken li
 遭劫	tsau ciq
 遭勒	tsau leq
@@ -7851,7 +8233,9 @@ sort: by_weight
 早已	tsau yi
 早已之	tsau yi tsy
 早已仔	tsau yi tsy
+早上	tsau zaon
 罩上	tsau zaon
+早上個	tsau zaon goq
 追着	tsei joq
 追着仔	tsei joq tsy
 追求	tsei jieu
@@ -7870,6 +8254,7 @@ sort: by_weight
 尊重個	tsen jon goq
 遵依	tsen i
 尊如	tsen zhyu
+尊貴個	tsen kuei goq
 增廣	tsen kuaon
 尊敬	tsen cin
 尊起	tsen chi
@@ -7893,6 +8278,7 @@ sort: by_weight
 走過	tseu kou
 走過個	tseu kou goq
 走過去	tseu kou chi
+走過去點	tseu kou chi tien
 走過仔	tseu kou tsy
 走記過	tseu ci kou
 走歸	tseu ciu
@@ -7992,6 +8378,7 @@ sort: by_weight
 帳篷前	tsian bon zien
 帳篷上	tsian bon zaon
 賬簿	tsian bu
+將要	tsian iau
 將軍	tsian ciun
 將軍個	tsian ciun goq
 漲起	tsian chi
@@ -8090,6 +8477,7 @@ sort: by_weight
 即位	tsiq wei
 只有	tsiq yeu
 只有比利時	tsiq yeu pi li zy
+只用	tsiq yon
 只是	tsiq zy
 執事	tsiq zy
 只是介	tsiq zy ka
@@ -8114,6 +8502,7 @@ sort: by_weight
 剪刀個	tsien tau goq
 精緻	tsin cyu
 整出	tsin chyuq
+進出	tsin chyuq
 真道理	tsin dau li
 枕頭個	tsin deu goq
 珍重	tsin jon
@@ -8147,6 +8536,7 @@ sort: by_weight
 進勒	tsin leq
 井裏	tsin li
 真理	tsin li
+井裏個	tsin li goq
 精力	tsin liq
 正路	tsin lu
 進路	tsin lu
@@ -8247,6 +8637,7 @@ sort: by_weight
 做滿	tsou mun
 做夢	tsou maon
 做人個	tsou gnin goq
+左邊	tsou pien
 做詩個	tsou sy goq
 做詩	tsou sy
 做說	tsou shyuq
@@ -8259,12 +8650,15 @@ sort: by_weight
 做做	tsou tsou
 做墳個	tsou ven goq
 做墳	tsou ven
+做犯罪祭	tsou vaen zei tsi
 做夜	tsou ya
 做樣個	tsou yan goq
 摘掉	tsoq diau
 足值	tsoq dziq
 足個	tsoq goq
 作揖	tsoq iq
+作過個	tsoq kou goq
+作過	tsoq kou
 作工	tsoq kon
 作工個	tsoq kon goq
 摘落	tsoq loq
@@ -8307,6 +8701,7 @@ sort: by_weight
 祖宗個	tsu tson goq
 阻擋	tsu taon
 再弗	tse feq
+齋戒	tse cie
 載去	tse chi
 載落	tse loq
 載來	tse le
@@ -8315,6 +8710,8 @@ sort: by_weight
 災難	tse naen
 災難個	tse naen goq
 再三	tse saen
+載的個	tse tiq goq
+載的	tse tiq
 再𣍐	tse vei
 再活	tse weq
 再活個	tse weq goq
@@ -8332,6 +8729,8 @@ sort: by_weight
 讚美詩	tsaen mei sy
 讚美之	tsaen mei tsy
 斬煞	tsaen saq
+榨出個	tso chyuq goq
+榨出	tso chyuq
 遮住	tso jyu
 遮暗	tso ein
 遮個	tso goq
@@ -8403,6 +8802,7 @@ sort: by_weight
 差來	tsha le
 差來個	tsha le goq
 差使個	tsha sy goq
+撮出	tshaq chyuq
 拆掉	tshaq diau
 拆掉間個	tshaq diau kaen goq
 拆掉間	tshaq diau kaen
@@ -8410,6 +8810,7 @@ sort: by_weight
 拆弗掉個	tshaq feq diau goq
 拆弗掉	tshaq feq diau
 察訪	tshaq faon
+撮個	tshaq goq
 拆毀	tshaq huei
 拆毀個	tshaq huei goq
 拆開	tshaq khe
@@ -8436,6 +8837,7 @@ sort: by_weight
 草裏個	tshau li goq
 草料	tshau liau
 吵亂	tshau loen
+吵亂個	tshau loen goq
 抄滅	tshau miq
 抄滅個	tshau miq goq
 草木	tshau moq
@@ -8481,6 +8883,7 @@ sort: by_weight
 戚族	tshiq dzoq
 七族個	tshiq dzoq goq
 七族	tshiq dzoq
+切弗可	tshiq feq khou
 七十個	tshiq zhyuq goq
 七十五	tshiq zhyuq ng
 七十三	tshiq zhyuq saen
@@ -8586,6 +8989,7 @@ sort: by_weight
 青天	tshin thien
 清通了	tshin thon lei
 清通個	tshin thon goq
+親房	tshin vaon
 青蛙	tshin uo
 請上	tshin zaon
 親愛	tshin e
@@ -8610,7 +9014,10 @@ sort: by_weight
 錯落了	tshou loq lei
 錯落個	tshou loq goq
 搓搓	tshou tshou
+錯犯	tshou vaen
+錯犯個	tshou vaen goq
 錯誤	tshoq ngu
+戳煞	tshoq saq
 簇新個	tshoq sin goq
 簇嶄新	tshoq tsaen sin
 簇嶄新個	tshoq tsaen sin goq
@@ -8624,7 +9031,10 @@ sort: by_weight
 醋個	tshu goq
 初一	tshu iq
 初一個	tshu iq goq
+初十	tshu zhyuq
 初日	tshu zhyuq
+初熟個	tshu zhoq goq
+初熟	tshu zhoq
 粗魯	tshu lu
 粗麥	tshu maq
 粗蠻	tshu maen
@@ -8647,14 +9057,17 @@ sort: by_weight
 車出個	tsho chyuq goq
 瘥了	tsho lei
 瘥個	tsho goq
+岔過	tsho kou
 岔開	tsho khe
 扯開	tsho khe
 岔路個	tsho lu goq
 差落	tsho loq
 岔打岔	tsho tan tsho
+岔到	tsho tau
 瘥點	tsho tien
 車子個	tsho tsy goq
 叉進	tsho tsin
+岔進	tsho tsin
 差朵	tsho to
 錯配	tshoq phei
 唱出	tshaon chyuq
@@ -8662,6 +9075,7 @@ sort: by_weight
 瘡毒	tshaon doq
 瘡個	tshaon goq
 唱好	tshaon hau
+唱歌	tshaon kou
 倉庫	tshaon khu
 唱起	tshaon chi
 唱起來	tshaon chi le
@@ -8685,6 +9099,8 @@ sort: by_weight
 都計	tu ci
 賭輸個	tu shyu goq
 賭輸	tu shyu
+都會	tu wei
+都有	tu yeu
 都是	tu zy
 戴住	te jyu
 歹歹	te te
@@ -8750,6 +9166,8 @@ sort: by_weight
 太平個	tha bin goq
 太平之	tha bin tsy
 他大尼里	tha da gni li
+太長聲個	tha dzian sin goq
+太長聲	tha dzian sin
 太陰	tha in
 拖喫	tha chioq
 太監	tha kaen
@@ -8760,6 +9178,7 @@ sort: by_weight
 太子	tha tsy
 太太平平	tha tha bin bin
 太陽裏	tha yan li
+脫加	thaq cio
 塔裏個	thaq li goq
 塔裏	thaq li
 撻馬太	thaq mo tha
@@ -8778,6 +9197,7 @@ sort: by_weight
 推出來	thei chyuq le
 退了	thei lei
 推辭	thei dzy
+推其	thei ji
 退婚	thei huen
 推基古	thei ci ku
 推開	thei khe
@@ -8860,6 +9280,7 @@ sort: by_weight
 體面個	thi mien goq
 體面相	thi mien sian
 體質	thi tsiq
+貼着	thiaq joq
 貼金個	thiaq cin goq
 貼金	thiaq cin
 貼間	thiaq kaen
@@ -9031,6 +9452,7 @@ sort: by_weight
 跺空	tho khon
 倘然	thaon zhoen
 湯流	thaon lieu
+倘若	thaon ziaq
 烏篷	u bon
 熓了	u lei
 烏風	u fon
@@ -9100,8 +9522,10 @@ sort: by_weight
 未可知	vi khou cyu
 未來	vi le
 未來個	vi le goq
+肥美	vi mei
 未免	vi mien
 未必	vi piq
+未死	vi si
 維蘇維	vi su vi
 未到	vi tau
 復轉	voq coen
@@ -9137,9 +9561,11 @@ sort: by_weight
 無弗	vu feq
 無弗安穩	vu feq ein uen
 無非	vu fi
+父個	vu goq
 無窮	vu jion
 無窮盡	vu jion dzin
 無花果	vu huo kou
+無意	vu i
 無益	vu iq
 無益個	vu iq goq
 無益之舉	vu iq tsy ciu
@@ -9152,6 +9578,7 @@ sort: by_weight
 無故	vu ku
 武官	vu kun
 無稽之	vu ci tsy
+舞腳	vu ciaq
 浮起	vu chi
 無價之	vu ko tsy
 父老	vu lau
@@ -9187,6 +9614,7 @@ sort: by_weight
 無蹤	vu tson
 無千	vu tshien
 父親	vu tshin
+父親個	vu tshin goq
 無天	vu thien
 無萬	vu vaen
 無妄	vu vaon
@@ -9248,6 +9676,7 @@ sort: by_weight
 萬有之	vaen yeu tsy
 犯罪個	vaen zei goq
 犯罪個	vaen zei kou
+犯罪祭	vaen zei tsi
 飯食	vaen ziq
 妄動	vaon don
 忘恩個	vaon en goq
@@ -9267,8 +9696,8 @@ sort: by_weight
 橫閂	wan shoen
 橫死	wan si
 橫檔	wan taon
-橫行不法個	wan yin peq faq goq
 橫行不法	wan yin peq faq
+橫行不法個	wan yin peq faq goq
 回轉	wei coen
 圍轉	wei coen
 爲頭爲腦	wei deu wei nau
@@ -9285,11 +9714,11 @@ sort: by_weight
 會講會話個	wei kaon wei wo goq
 會攏	wei lon
 會面	wei mien
-帷幕	wei mou
-帷幕個	wei mou goq
-帷幕裏	wei mou li
-帷幕裏個	wei mou li goq
-帷幕前	wei mou zien
+會幕	wei mou
+會幕個	wei mou goq
+會幕裏	wei mou li
+會幕裏個	wei mou li goq
+會幕前	wei mou zien
 韋內瑟	wei nei seq
 韋內色	wei nei seq
 違逆	wei gniq
@@ -9350,6 +9779,7 @@ sort: by_weight
 戶平	wu bin
 糊塗	wu du
 糊塗個	wu du goq
+戶反	wu faen
 戶口	wu kheu
 戶勒	wu leq
 湖裏	wu li
@@ -9409,6 +9839,7 @@ sort: by_weight
 話開去	wo khe chi
 話勒	wo leq
 華麗	wo li
+華美	wo mei
 話爾拉	wo ng laq
 話啥	wo soq
 話的	wo tiq
@@ -9499,9 +9930,11 @@ sort: by_weight
 以法蓮	yi feq lien
 以希	yi shi
 又虛	yi shiu
+又要	yi iau
 又實個	yi zhyuq goq
 又實	yi zhyuq
 以實各	yi zhyuq koq
+以實各個	yi zhyuq koq goq
 以實瑪利	yi zhyuq mo li
 以實瑪利個	yi zhyuq mo li goq
 移過	yi kou
@@ -9509,6 +9942,7 @@ sort: by_weight
 移過去	yi kou chi
 以哥念	yi kou gniaen
 以哥念個	yi kou gniaen goq
+以甲	yi ciaq
 已經	yi cin
 已經興旺	yi cin shin waon
 以拉	yi laq
@@ -9518,6 +9952,7 @@ sort: by_weight
 以倫	yi len
 以倫個	yi len goq
 以利	yi li
+以利達	yi li deq
 以利法	yi li faq
 以利法個	yi li faq goq
 以利押	yi li iaq
@@ -9533,8 +9968,10 @@ sort: by_weight
 以利沙巴	yi li so po
 以利亞	yi li io
 以利亞敬	yi li io cin
+以利亞利	yi li io li
 以利亞撒	yi li io saq
 以利雅薩	yi li io saq
+以利亞撒個	yi li io saq goq
 以利雅薩	yi li io seq
 以律	yi liq
 以力	yi liq
@@ -9563,6 +10000,7 @@ sort: by_weight
 以拜尼土	yi pe gni thu
 以巴弗	yi po feq
 以巴弗提	yi po feq di
+以破拿	yi phou no
 以斯哈	yi sy ha
 以斯哈個	yi sy ha goq
 以撒	yi saq
@@ -9574,12 +10012,15 @@ sort: by_weight
 以薩迦	yi seq cio
 以色列	yi seq liq
 以色列個	yi seq liq goq
+以旬迦別	yi shyun cio biq
 以書以	yi shyu yi
 以書亞	yi shyu io
 又死	yi si
 以賽亞	yi se io
 以賽亞個	yi se io goq
+以得來	yi teq le
 以東	yi ton
+以東地	yi ton di
 以東個	yi ton goq
 以察	yi tshaq
 以察個	yi tshaq goq
@@ -9588,14 +10029,21 @@ sort: by_weight
 異端	yi toen
 以土利亞	yi thu li io
 以土買	yi thu me
+以佛	yi vaq
+以未	yi vi
 又會	yi wei
+以雅巴林	yi yo po lin
+以雅亞巴林	yi yo io po lin
 又是	yi zy
+以士哈個	yi zy haq goq
+以士哈	yi zy haq
 以士迦	yi zy cio
 以士崙	yi zy len
 以士里	yi zy li
 以士本	yi zy pen
-又像	yi zian
 異像	yi zian
+又像	yi zian
+異像個	yi zian goq
 以前個	yi zien goq
 以上個	yi zaon goq
 以下個	yi gho goq
@@ -9604,6 +10052,7 @@ sort: by_weight
 野氣個	ya chi goq
 夜裏	ya li
 夜裏個	ya li goq
+野牛	ya ngeu
 野獸個	ya sieu goq
 野鳥	ya tiau
 野草	ya tshau
@@ -9636,6 +10085,7 @@ sort: by_weight
 羊毛	yan mau
 羊門	yan men
 羊牧	yan moq
+羊牧個	yan moq goq
 羊奶	yan na
 佯庇	yan pi
 樣式	yan shyuq
@@ -9674,6 +10124,9 @@ sort: by_weight
 沿個	yen goq
 鹽個	yen goq
 現化	yen huo
+鹽海	yen he
+鹽海個	yen he goq
+鹽約	yen iaq
 延開	yen khe
 延開去	yen khe chi
 沿裏	yen li
@@ -9682,6 +10135,7 @@ sort: by_weight
 言語	yen gniu
 言語個	yen gniu goq
 延燒	yen siau
+延到	yen tau
 營盤	yin bun
 營盤個	yin bun goq
 引導	yin dau
@@ -9690,6 +10144,7 @@ sort: by_weight
 營寨	yin dza
 營寨個	yin dza goq
 營寨裏	yin dza li
+營寨外	yin dza nga
 營個	yin goq
 刑具	yin jiu
 贏喜得	yin shi teq
@@ -9727,6 +10182,7 @@ sort: by_weight
 遊戲個	yeu shi goq
 遊戲	yeu shi
 遊戲浪蕩	yeu shi laon daon
+有意	yeu i
 誘押	yeu iaq
 有益	yeu iq
 有一個	yeu iq goq
@@ -9752,6 +10208,7 @@ sort: by_weight
 猶尼亞	yeu gni io
 友阿爹	yeu ou tia
 猶八	yeu paq
+右邊	yeu pien
 油餅	yeu pin
 友布羅	yeu pu lou
 有雪個	yeu shyuq goq
@@ -9785,10 +10242,13 @@ sort: by_weight
 埃田	ye dien
 懈怠	ye de
 耶弗大	ye feq da
+耶孚尼	ye fu gni
+耶孚尼個	ye fu gni goq
 埃及個	ye jiq goq
 耶哥尼亞	ye kou gni io
 耶拉	ye laq
 耶利哥	ye li kou
+耶利哥個	ye li kou goq
 耶利米	ye li mi
 睚魯	ye lu
 耶路撒冷	ye lu saq len
@@ -9796,9 +10256,13 @@ sort: by_weight
 耶母利	ye meu li
 耶布西	ye pu si
 耶布士	ye pu zy
-埃色	ye seq
+睚珥	ye er
+睚珥個	ye er goq
+耶斯	ye sy
 耶色	ye seq
+埃色	ye seq
 耶孫	ye sen
+耶遜	ye sen
 耶西	ye si
 耶洗別	ye si biq
 耶西個	ye si goq
@@ -9832,6 +10296,7 @@ sort: by_weight
 月頭	yuq deu
 越發	yuq faq
 越弗是	yuq feq zy
+月個	yuq goq
 越近	yuq jin
 越兇	yuq shion
 月經	yuq cin
@@ -9916,19 +10381,24 @@ sort: by_weight
 雅弗個	yo feq goq
 雅番	yo faen
 雅番個	yo faen goq
+雅述	yo zhyuq
 雅各	yo koq
 雅各仍舊	yo koq dzin jieu
 雅各個	yo koq goq
 夏甲	yo ciaq
 雅斤	yo cin
+雅斤個	yo cin goq
 雅利	yo li
 雅列	yo liq
 雅蘭	yo laen
 雅憫	yo min
+雅憫個	yo min goq
 雅尼	yo gni
 雅拿	yo no
 雅八	yo paq
 雅薛	yo siq
+雅設	yo siq
+雅設地	yo siq di
 雅典	yo tien
 瑕點	yo tien
 㗇㗇嘶	yo yo si
@@ -9942,7 +10412,9 @@ sort: by_weight
 侍值	zy dziq
 市值估價	zy dziq ku ko
 事成	zy dzin
+是從	zy dzon
 是非心	zy fi sin
+示番	zy faen
 士求	zy jieu
 是應該	zy in ke
 時介	zy ka
@@ -9960,20 +10432,28 @@ sort: by_weight
 市裏個	zy li goq
 市裏	zy li
 示臉	zy lien
+示流	zy lieu
+示羅米個	zy lou mi goq
+示羅米	zy lou mi
 示路蔑	zy lu miq
 示每	zy mei
 士每拿	zy mei no
 字母	zy meu
+示母利	zy meu li
 士米別	zy mi biq
+示米大	zy mi da
+示米大個	zy mi da goq
 市面上	zy mien zaon
 士納	zy neq
 字眼	zy ngaen
 事業	zy gniq
 士拿	zy no
 示玻	zy pou
+示班	zy paen
 士班雅	zy paen yo
 示巴	zy po
 士師	zy sy
+示篩	zy sy
 時世個	zy shyu goq
 示丟珥	zy tieu er
 示丟珥個	zy tieu er goq
@@ -9997,6 +10477,7 @@ sort: by_weight
 侍候	zy gheu
 時候個	zy gheu goq
 侍候東	zy gheu ton
+柴個	za goq
 豺狼	za laon
 𧼰出來	zaq chyuq le
 𧼰出來個	zaq chyuq le goq
@@ -10019,6 +10500,7 @@ sort: by_weight
 造成	zau dzin
 造成了	zau dzin liau
 造個	zau goq
+造圈	zau jien
 造好	zau hau
 造化	zau huo
 造化之	zau huo tsy
@@ -10050,6 +10532,7 @@ sort: by_weight
 罪人個	zei gnin goq
 罪祭	zei tsi
 隨時	zei zy
+隨自	zei zi
 罪惡	zei oq
 罪惡個	zei oq goq
 罪惡之	zei oq tsy
@@ -10083,6 +10566,7 @@ sort: by_weight
 謝謝	zia zia
 弱病	ziaq bin
 若講	ziaq kaon
+若來	ziaq le
 若能夠	ziaq nen keu
 若瑟	ziaq seq
 嚼糊	ziaq wu
@@ -10138,6 +10622,8 @@ sort: by_weight
 靜落	zin loq
 城外	zin nga
 淨日	zin gniq
+淨水	zin shyu
+淨水個	zin shyu goq
 繩索	zin soq
 尋到	zin tau
 盛多少	zin tou siau
@@ -10155,6 +10641,7 @@ sort: by_weight
 受苦個	zieu khu goq
 受苦受難	zieu khu zieu naen
 受驚	zieu cin
+受戒	zieu cie
 受難	zieu naen
 受難個	zieu naen goq
 受傷	zieu saon
@@ -10176,6 +10663,7 @@ sort: by_weight
 座盤	zou bun
 坐頭	zou deu
 座頭	zou deu
+坐在	zou dze
 坐個	zou goq
 坐一坐	zou iq zou
 坐起	zou chi
@@ -10337,8 +10825,8 @@ sort: by_weight
 於是	iu zy
 於是乎	iu zy wu
 餵餵	iu iu
-冤仇	ioen dzieu
 怨仇	ioen dzieu
+冤仇	ioen dzieu
 怨氣	ioen chi
 冤氣	ioen chi
 怨氣個	ioen chi goq
@@ -10375,9 +10863,12 @@ sort: by_weight
 壅壅	ion ion
 勇勇個	ion ion goq
 永禍	ion ghou
+亞泊	io boq
 亞大	io da
 亞大個	io da goq
 亞大利	io da li
+亞大林	io da lin
+亞大錄	io da loq
 亞大米田	io da mi dien
 亞達	io daq
 亞達個	io daq goq
@@ -10387,7 +10878,10 @@ sort: by_weight
 亞腓亞	io fi io
 亞伽多奇利	io go tou ji li
 亞哈士	io ha zy
+亞希忽	io shi hueq
 亞希拉	io shi laq
+亞希蘭	io shi laen
+亞希幔	io shi maen
 亞希撒抹	io shi saq meq
 亞希撒抹個	io shi saq meq goq
 亞希薩	io shi seq
@@ -10414,6 +10908,10 @@ sort: by_weight
 亞迦布	io cio pu
 亞該古	io ke ku
 亞該亞個	io ke io goq
+亞克拉濱個	io khaq laq pin goq
+亞克拉濱	io khaq laq pin
+亞勒	io laq
+亞臘	io laq
 亞拉臘	io laq laq
 亞拉伯	io laq paq
 亞拉伯個	io laq paq goq
@@ -10428,16 +10926,20 @@ sort: by_weight
 亞倫巴哭	io len po khoq
 亞哩達	io li daq
 亞里達古	io li daq ku
+亞哩利	io li li
 亞利利	io li li
 亞利馬太	io li mo tha
 亞利馬太個	io li mo tha goq
 亞利多布	io li tou pu
 亞略	io liaq
 亞略巴古	io liaq po ku
+亞律	io liq
 亞力山大	io liq saen da
 亞力山太	io liq saen tha
 亞力山太個	io liq saen tha goq
+亞羅珥	io lou er
 亞羅底	io lou ti
+亞綠	io loq
 亞蘭	io laen
 亞蘭個	io laen goq
 亞們	io men
@@ -10446,17 +10948,23 @@ sort: by_weight
 亞米忽	io mi huaq
 亞米忽個	io mi huaq goq
 亞米忽	io mi hueq
+亞米忽個	io mi hueq goq
+亞米利	io mi li
 亞米拿達個	io mi no daq goq
 亞米拿達個	io mi no deq goq
 亞米沙太	io mi so tha
 亞米沙太個	io mi so tha goq
 亞摩利	io mou li
+亞摩利個	io mou li goq
 亞摩塔	io mou thaq
 亞麼士	io mou zy
 亞瑪勒	io mo leq
 亞瑪力	io mo liq
 亞瑪力個	io mo liq goq
 亞馬額頓	io mo ngaq ten
+亞衲	io neq
+亞衲個	io neq goq
+亞嫩	io nen
 亞乃	io ne
 亞乃個	io ne goq
 亞拿	io no
@@ -10468,11 +10976,13 @@ sort: by_weight
 亞伯蘭	io paq laen
 亞伯蘭個	io paq laen goq
 亞伯麥西	io paq maq si
+亞伯士亭	io paq zy din
 亞比大	io pi da
 亞比但	io pi daen
 亞比利	io pi li
 亞比利尼個	io pi li gni goq
 亞比利尼	io pi li gni
+亞比蘭	io pi laen
 亞比米力	io pi mi liq
 亞比米力個	io pi mi liq goq
 亞比瑪利	io pi mo li
@@ -10491,7 +11001,9 @@ sort: by_weight
 亞波羅尼亞	io pou lou gni io
 亞爸	io po
 亞巴	io po
+亞巴琳	io po lin
 亞巴頓	io po ten
+亞珥	io er
 亞斯陸	io sy loq
 亞撒	io saq
 亞遜其土	io sen ji thu
@@ -10520,7 +11032,11 @@ sort: by_weight
 亞未得	io vi teq
 亞戶撒	io wu saq
 亞華底	io wo ti
+亞協	io yaq
+亞延個	io yen goq
+亞延	io yen
 亞雅	io yo
+亞士烈	io zy liq
 亞何利巴	io ghou li po
 亞何利巴瑪	io ghou li po mo
 亞何利巴瑪個	io ghou li po mo goq
@@ -10556,6 +11072,7 @@ sort: by_weight
 號筒	ghau don
 號筒個	ghau don goq
 號個	ghau goq
+號哭	ghau khoq
 號淚	ghau li
 號淚大哭	ghau li da khoq
 號令	ghau lin
@@ -10571,6 +11088,7 @@ sort: by_weight
 合族	gheq dzoq
 合個	gheq goq
 合羣	gheq jiun
+曷哈直甲	gheq ha dziq ciaq
 合意	gheq i
 合國	gheq koq
 合公會	gheq kon wei
@@ -10579,6 +11097,7 @@ sort: by_weight
 合家個	gheq ko goq
 合口	gheq kheu
 合口齊動	gheq kheu zi don
+曷拉	gheq laq
 合勒	gheq leq
 合理	gheq li
 合理個	gheq li goq
@@ -10586,6 +11105,7 @@ sort: by_weight
 合例	gheq li
 合攏	gheq lon
 合攏來	gheq lon le
+盍馬	gheq mo
 合而	gheq er
 合而爲一	gheq er wei iq
 合而爲一個	gheq er wei iq goq
@@ -10635,6 +11155,7 @@ sort: by_weight
 厚厚	gheu gheu
 和平	ghou bin
 和平個	ghou bin goq
+何泊	ghou boq
 和衆	ghou con
 和潮	ghou dziau
 和團	ghou doen
@@ -10659,6 +11180,7 @@ sort: by_weight
 和勒	ghou leq
 何利	ghou li
 河裏個	ghou li goq
+何利個	ghou li goq
 何烈	ghou liq
 和攏了	ghou lon lei
 和攏個	ghou lon goq
@@ -10673,8 +11195,10 @@ sort: by_weight
 和暖	ghou noen
 何必	ghou piq
 河邊	ghou pien
+河邊個	ghou pien goq
 河邊沿	ghou pien yen
 何把	ghou po
+何珥	ghou er
 禍祟	ghou sei
 何西個	ghou si goq
 何西	ghou si
@@ -10708,7 +11232,9 @@ sort: by_weight
 紅海	ghon he
 紅海裏	ghon he li
 紅起來	ghon chi le
+紅絨	ghon gnion
 紅布	ghon pu
+紅色	ghon seq
 洪水	ghon shyu
 洪水氾漲	ghon shyu faen tsian
 洪水裏	ghon shyu li

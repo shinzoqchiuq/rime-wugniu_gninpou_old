@@ -20,7 +20,7 @@
 
 ---
 name: wugniu_gninpou_old.phrase
-version: "2026.10.16"
+version: "2026.10.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
