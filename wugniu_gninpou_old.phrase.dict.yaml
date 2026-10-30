@@ -20,7 +20,7 @@
 
 ---
 name: wugniu_gninpou_old.phrase
-version: "2026.10.23"
+version: "2026.10.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2077,6 +2077,8 @@ use_preset_vocabulary: true
 深度求索
 通義千問
 千問
+智譜清言
+智譜
 滬蘇浙
 和諧號
 和諧號列車
