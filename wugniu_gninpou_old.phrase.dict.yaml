@@ -20,7 +20,7 @@
 
 ---
 name: wugniu_gninpou_old.phrase
-version: "2026.10.30"
+version: "2026.11.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2114,6 +2114,7 @@ use_preset_vocabulary: true
 陽光玫瑰
 基孔肯雅熱
 具身智能
+離身智能
 縣城婆羅門
 延遲享樂
 邪修
@@ -2161,6 +2162,8 @@ use_preset_vocabulary: true
 快遞點
 外賣櫃
 外賣架
+兔喜
+豐巢
 四通一達
 申通
 申通快遞
@@ -2196,8 +2199,10 @@ use_preset_vocabulary: true
 智能駕駛
 智駕
 輔助駕駛
+車道保持
 提示詞
 提示詞工程師
+知識庫
 短劇
 美伊以衝突
 美伊以戰爭
@@ -2208,6 +2213,15 @@ use_preset_vocabulary: true
 燒心
 弗燒心	veq siau sin
 勿燒心
+肥嘟嘟
+牛來
+奶龍
+奶蛙
+石墨烯
+單贏
+能工智人
+專項附加扣除
+個人養老金
 
 # 西北太平洋和南中國海熱帶氣旋命名表
 
